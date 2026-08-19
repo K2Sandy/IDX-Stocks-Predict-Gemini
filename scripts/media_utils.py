@@ -79,17 +79,59 @@ def deteksi_tanggal_dari_url(url: str) -> Optional[str]:
     return None
 
 
+# --------------------------------------------------------------------------
+# emitennews.com dan snips.stockbit.com TIDAK menaruh tanggal terbit di meta
+# tag <head> sama sekali (beda dari 5 situs lain) -- tanggalnya cuma ada
+# sebagai teks biasa di body halaman. Dua fungsi ini dipakai bareng-bareng
+# oleh deteksi_tanggal_via_request() (cek cepat di cari_url.py) DAN
+# _parse_emitennews/_parse_snips() (ekstraksi penuh di extract_berita.py),
+# supaya pola regexnya cuma didefinisikan sekali.
+# --------------------------------------------------------------------------
+
+def _cari_tanggal_emitennews(teks: str) -> Optional[str]:
+    # Formatnya "19/08/2026, 09:33 WIB" -- muncul pertama kali persis di
+    # bawah nama penulis, sebelum isi artikel.
+    m = re.search(r"(\d{2})/(\d{2})/(\d{4}),\s*\d{2}:\d{2}\s*WIB", teks)
+    return f"{m.group(3)}-{m.group(2)}-{m.group(1)}" if m else None
+
+
+def _cari_tanggal_snips(teks: str) -> Optional[str]:
+    # Formatnya "August 18, 2026" -- muncul pertama kali persis di bawah judul.
+    m = re.search(
+        r"(January|February|March|April|May|June|July|August|September"
+        r"|October|November|December)\s+\d{1,2},\s+\d{4}",
+        teks,
+    )
+    if not m:
+        return None
+    try:
+        return datetime.strptime(m.group(0), "%B %d, %Y").strftime("%Y-%m-%d")
+    except ValueError:
+        return None
+
+
 def deteksi_tanggal_via_request(url: str, session: Optional[requests.Session] = None) -> Optional[str]:
     """
-    Fallback untuk media yang URL-nya TIDAK mengandung tanggal (Detik, Tempo).
-    Melakukan 1x request tapi hanya mem-parsing bagian <head> (meta tag).
-    Dipakai khusus di tahap PENCARIAN URL (cari_url.py), bukan tahap ekstraksi.
+    Fallback untuk media yang URL-nya TIDAK mengandung tanggal (Detik, Tempo,
+    dan sekarang juga Emitennews, Snips). Dipakai khusus di tahap PENCARIAN
+    URL (cari_url.py), bukan tahap ekstraksi.
     """
     getter = session.get if session else requests.get
     try:
         res = getter(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
         res.raise_for_status()
         res.encoding = "utf-8"
+
+        # Emitennews & Snips: tanggalnya cuma ada di teks body, bukan meta
+        # tag -- jadi keduanya butuh parsing HALAMAN PENUH, bukan cuma
+        # <head> seperti situs lain (lebih berat, tapi cuma untuk 2 situs ini).
+        if "emitennews.com" in url:
+            soup = BeautifulSoup(res.text, "html.parser")
+            return _cari_tanggal_emitennews(soup.get_text(separator="\n"))
+        if "snips.stockbit.com" in url:
+            soup = BeautifulSoup(res.text, "html.parser")
+            return _cari_tanggal_snips(soup.get_text(separator="\n"))
+
         soup = BeautifulSoup(res.text, "html.parser", parse_only=SoupStrainer("head"))
         meta_date = (
             soup.find("meta", itemprop="datePublished")
@@ -181,12 +223,75 @@ def _parse_kompas(soup: BeautifulSoup):
     return judul, tanggal, isi
 
 
+def _parse_emitennews(soup: BeautifulSoup):
+    judul_el = soup.find("h1")
+    judul = judul_el.text.strip() if judul_el else ""
+
+    teks_penuh = soup.get_text(separator="\n")
+    tanggal = _cari_tanggal_emitennews(teks_penuh) or ""
+
+    # Situs ini tidak punya nama class artikel yang bisa dipastikan dari
+    # sini (lihat catatan di kepala file) -- ambil semua <p> yang cukup
+    # panjang sebagai isi. Paragraf UI/nav biasanya pendek, jadi ambang
+    # 60 karakter cukup buat menyaringnya.
+    kandidat = [p.text.strip() for p in soup.find_all("p")]
+    isi = " ".join(t for t in kandidat if len(t) > 60)
+    return judul, tanggal, isi
+
+
+def _parse_snips(soup: BeautifulSoup):
+    judul_el = soup.find("h1")
+    judul = judul_el.text.strip() if judul_el else ""
+
+    teks_penuh = soup.get_text(separator="\n")
+    tanggal = _cari_tanggal_snips(teks_penuh) or ""
+
+    # Snips formatnya kaya (tabel performa harian, bullet list per saham,
+    # beberapa sub-judul) -- BUKAN cuma <p> biasa seperti situs lain, jadi
+    # ambil dari teks mentah antara tanggal dan penanda "Tags:"/"Disclaimer:"
+    # di akhir, bukan cuma tag <p> (yang akan melewatkan isi tabel/list).
+    m_tanggal = re.search(
+        r"(January|February|March|April|May|June|July|August|September"
+        r"|October|November|December)\s+\d{1,2},\s+\d{4}",
+        teks_penuh,
+    )
+    awal = teks_penuh.find(m_tanggal.group(0)) + len(m_tanggal.group(0)) if m_tanggal else 0
+    akhir = teks_penuh.find("Tags:")
+    if akhir == -1:
+        akhir = teks_penuh.find("Disclaimer:")
+    potongan = teks_penuh[awal:akhir] if akhir != -1 else teks_penuh[awal:awal + 6000]
+    isi = re.sub(r"\n{2,}", "\n", potongan).strip()
+    return judul, tanggal, isi
+
+
+def _parse_indopremier(soup: BeautifulSoup):
+    judul_el = soup.find("h1")
+    judul = judul_el.text.strip() if judul_el else ""
+
+    # Situs ini beruntung punya meta tag standar, sama seperti CNBC/CNN/dll.
+    meta_date = soup.find("meta", property="article:published_time")
+    tanggal = meta_date["content"][:10] if meta_date and meta_date.get("content") else ""
+
+    teks_penuh = soup.get_text(separator="\n")
+    m_wib = re.search(r"\b\d{1,2}:\d{2}\s*WIB\b", teks_penuh)
+    awal = teks_penuh.find(m_wib.group(0)) + len(m_wib.group(0)) if m_wib else 0
+    akhir = teks_penuh.find("Sumber :")
+    if akhir == -1:
+        akhir = teks_penuh.find("BUKA AKUN")
+    potongan = teks_penuh[awal:akhir] if akhir != -1 else teks_penuh[awal:awal + 4000]
+    isi = re.sub(r"\n{2,}", "\n", potongan).strip()
+    return judul, tanggal, isi
+
+
 _PARSER_PER_DOMAIN = [
     ("tempo.co", _parse_tempo),
     ("cnbcindonesia.com", _parse_cnbc),
     ("cnnindonesia.com", _parse_cnn),
     ("detik.com", _parse_detik),
     ("kompas.com", _parse_kompas),
+    ("emitennews.com", _parse_emitennews),
+    ("snips.stockbit.com", _parse_snips),
+    ("indopremier.com", _parse_indopremier),
 ]
 
 

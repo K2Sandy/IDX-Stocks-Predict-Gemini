@@ -65,6 +65,16 @@ def _ekstrak_saham(teks):
     return kode_list
 
 
+def _ekstrak_rating(teks):
+    """Ambil angka rating 1-7 dari field PREDIKSI. Toleran kalau Gemini
+    menambahkan teks lain di sekitar angkanya (mis. "6 (cenderung naik)")."""
+    mentah = _ekstrak_field(teks, "PREDIKSI")
+    if not mentah:
+        return None
+    m = re.search(r"\b([1-7])\b", mentah)
+    return int(m.group(1)) if m else None
+
+
 # ==========================================================
 # OUTPUT UNTUK WEBSITE (docs/data/*.json)
 # ==========================================================
@@ -73,14 +83,16 @@ def _ekstrak_saham(teks):
 # Nambah field baru di sini otomatis bisa dipakai di index.html tanpa
 # perlu ubah skrip Python lain.
 
-def simpan_hasil_json(tanggal, saham_ke_sektor, hasil_terstruktur):
+def simpan_hasil_json(tanggal, saham_ke_sektor, hasil_terstruktur, jumlah_artikel, daftar_artikel):
     os.makedirs(DOCS_DATA_DIR, exist_ok=True)
 
     data_hari_ini = {
         "tanggal": tanggal,
         "dibuat_pada": sekarang_wib().strftime("%Y-%m-%d %H:%M WIB"),
+        "jumlah_artikel": jumlah_artikel,
         "saham_disebut": saham_ke_sektor,
         "sektor": hasil_terstruktur,
+        "artikel": daftar_artikel,
     }
     path_hari_ini = os.path.join(DOCS_DATA_DIR, f"{tanggal}.json")
     with open(path_hari_ini, "w", encoding="utf-8") as f:
@@ -130,6 +142,12 @@ def jalankan_analisis_ai():
     df["Tanggal"] = df["Tanggal"].astype(str)
     df_hari_ini = df[df["Tanggal"] == hari_ini].copy()
 
+    jumlah_artikel = len(df_hari_ini)
+    daftar_artikel = [
+        {"judul": row["Judul"], "url": row["URL"], "sektor": row["Sektor"]}
+        for _, row in df_hari_ini.iterrows()
+    ]
+
     print("\n=============================================")
     print(f"   GEMINI PASSIVE MARKET ANALYST (HARI INI: {hari_ini})")
     print("=============================================\n")
@@ -171,13 +189,20 @@ def jalankan_analisis_ai():
         Kumpulan Berita Hari Ini:
         {teks_berita}
 
-        Berikan keputusan final apakah indeks Sektor {sektor} kemungkinan besar akan NAIK, TURUN, atau SIDEWAYS/NETRAL pada keesokan hari perdagangan berdasarkan sentimen berita tersebut.
+        Berikan penilaian dalam SKALA ANGKA 1 sampai 7 tentang arah pergerakan indeks Sektor {sektor} pada keesokan hari perdagangan berdasarkan sentimen berita tersebut, dengan arti sebagai berikut:
+        1 = pasti/sangat kuat akan TURUN
+        2 = akan turun
+        3 = cenderung turun
+        4 = netral, tidak ada arah yang jelas
+        5 = cenderung naik
+        6 = akan naik
+        7 = pasti/sangat kuat akan NAIK
 
         PENTING: Periksa apakah di dalam kumpulan berita tersebut menyebutkan nama perusahaan atau kode saham spesifik yang tercatat di bursa (contoh: BBCA, TLKM, GOTO, BBNI, dll). Jika ada, berikan analisis khusus mengenai dampak sentimen berita terhadap pergerakan harga saham perusahaan tersebut secara individual.
 
         Berikan output dengan format persis seperti ini (jangan memberikan teks pembuka atau penutup lain):
         SEKTOR: {sektor}
-        PREDIKSI: [NAIK / TURUN / NETRAL]
+        PREDIKSI: [SATU ANGKA BULAT dari 1 sampai 7 sesuai skala di atas -- JANGAN tulis kata NAIK/TURUN/NETRAL, cukup angkanya saja]
         KEY SENTIMENT: [1 kalimat ringkas poin utama berita hari ini]
         ALASAN LOGIS SEKTOR: [Penjelasan singkat 2-3 kalimat mengapa berita menggerakkan sektor secara keseluruhan]
         ANALISIS SAHAM KHUSUS: [Jika tidak ada nama saham spesifik disebut, tulis "Tidak ada saham spesifik yang disebutkan". Jika ada, sebutkan nama/kode sahamnya dan jelaskan dampak sentimen terhadap saham tersebut dalam 2-3 kalimat.]
@@ -188,14 +213,15 @@ def jalankan_analisis_ai():
             hasil = panggil_gemini_dengan_retry(client, prompt)
             hasil_per_sektor.append(hasil)
 
-            prediksi = _ekstrak_field(hasil, "PREDIKSI") or None
+            rating = _ekstrak_rating(hasil)
+            konteks_rating = f"{sektor} (rating {rating}/7)" if rating else f"{sektor} (rating tidak diketahui)"
             for kode in _ekstrak_saham(hasil):
-                saham_ke_sektor.setdefault(kode, []).append(f"{sektor} ({prediksi})")
+                saham_ke_sektor.setdefault(kode, []).append(konteks_rating)
 
             hasil_terstruktur.append({
                 "nama": sektor,
                 "status": "ok",
-                "prediksi": prediksi,
+                "prediksi": rating,
                 "key_sentiment": _ekstrak_field(hasil, "KEY SENTIMENT"),
                 "alasan": _ekstrak_field(hasil, "ALASAN LOGIS SEKTOR"),
                 "analisis_saham": _ekstrak_field(hasil, "ANALISIS SAHAM KHUSUS"),
@@ -224,7 +250,7 @@ def jalankan_analisis_ai():
         print("\n" + "=" * 45 + "\n")
 
     # 5. SIMPAN VERSI TERSTRUKTUR UNTUK WEBSITE
-    simpan_hasil_json(hari_ini, saham_ke_sektor, hasil_terstruktur)
+    simpan_hasil_json(hari_ini, saham_ke_sektor, hasil_terstruktur, jumlah_artikel, daftar_artikel)
 
 
 if __name__ == "__main__":

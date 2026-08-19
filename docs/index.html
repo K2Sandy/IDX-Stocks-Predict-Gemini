@@ -18,8 +18,12 @@
     background: var(--bg); color: var(--text); margin: 0; padding: 24px 16px 60px;
   }
   .wrap { max-width: 880px; margin: 0 auto; }
-  h1 { font-size: 22px; margin: 0 0 4px; }
+  header { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; flex-wrap: wrap; margin-bottom: 4px; }
+  h1 { font-size: 22px; margin: 0; }
+  .link-artikel { font-size: 13px; color: var(--muted); text-decoration: none; white-space: nowrap; }
+  .link-artikel:hover { text-decoration: underline; }
   .updated { color: var(--muted); font-size: 13px; margin-bottom: 18px; }
+  .updated .titik { margin: 0 6px; opacity: .5; }
 
   /* -- tombol tanggal (riwayat), klik buat lihat hari-hari sebelumnya -- */
   .tanggal-scroll { overflow-x: auto; padding-bottom: 4px; margin-bottom: 20px; }
@@ -49,7 +53,10 @@
 </head>
 <body>
 <div class="wrap">
-  <h1>Prediksi Sektor Saham Harian</h1>
+  <header>
+    <h1>Prediksi Sektor Saham Harian</h1>
+    <a class="link-artikel" href="artikel.html">Lihat semua artikel &rarr;</a>
+  </header>
   <div class="updated" id="info-update">Memuat...</div>
 
   <div class="tanggal-scroll">
@@ -65,13 +72,40 @@
 </div>
 
 <script>
-const WARNA = {
-  NAIK:   { border: "var(--naik-border)",   bg: "var(--naik-bg)",   text: "var(--naik-text)" },
-  TURUN:  { border: "var(--turun-border)",  bg: "var(--turun-bg)",  text: "var(--turun-text)" },
-  NETRAL: { border: "var(--netral-border)", bg: "var(--netral-bg)", text: "var(--netral-text)" },
+// --------------------------------------------------------------------
+// Rating 1-7: 1 = pasti turun, 4 = netral, 7 = pasti naik. Warna dihitung
+// dengan interpolasi antara tiga warna dasar (bukan tabel warna per
+// sektor "NAIK/TURUN/NETRAL" seperti sebelumnya), supaya tiap angka di
+// antaranya juga dapat warna yang masuk akal.
+// --------------------------------------------------------------------
+const LABEL_RATING = {
+  1: "Pasti Turun", 2: "Turun", 3: "Cenderung Turun", 4: "Netral",
+  5: "Cenderung Naik", 6: "Naik", 7: "Pasti Naik",
 };
-function warnaUntuk(prediksi) {
-  return WARNA[(prediksi || "").toUpperCase()] || { border: "var(--none-border)", bg: "var(--none-bg)", text: "var(--none-text)" };
+const WARNA_DASAR = {
+  turun:  { border: "#cf222e", bg: "#fdeeee", text: "#cf222e" },
+  netral: { border: "#6e7781", bg: "#f3f4f6", text: "#6e7781" },
+  naik:   { border: "#1a7f37", bg: "#eafbf0", text: "#1a7f37" },
+};
+function hexKeRgb(hex) {
+  hex = hex.replace("#", "");
+  return [parseInt(hex.slice(0, 2), 16), parseInt(hex.slice(2, 4), 16), parseInt(hex.slice(4, 6), 16)];
+}
+function interpolasi(hexA, hexB, t) {
+  const a = hexKeRgb(hexA), b = hexKeRgb(hexB);
+  const c = a.map((v, i) => Math.round(v + (b[i] - v) * t));
+  return `rgb(${c[0]},${c[1]},${c[2]})`;
+}
+function warnaUntukRating(rating) {
+  if (!rating) return { border: "var(--none-border)", bg: "var(--none-bg)", text: "var(--none-text)" };
+  const [dari, ke, t] = rating <= 4
+    ? [WARNA_DASAR.turun, WARNA_DASAR.netral, (rating - 1) / 3]
+    : [WARNA_DASAR.netral, WARNA_DASAR.naik, (rating - 4) / 3];
+  return {
+    border: interpolasi(dari.border, ke.border, t),
+    bg: interpolasi(dari.bg, ke.bg, t),
+    text: interpolasi(dari.text, ke.text, t),
+  };
 }
 
 async function ambilJSON(path) {
@@ -81,8 +115,11 @@ async function ambilJSON(path) {
 }
 
 function render(data) {
-  document.getElementById("info-update").textContent =
-    "Tanggal " + data.tanggal + (data.dibuat_pada ? " -- dibuat " + data.dibuat_pada : "");
+  const jumlah = data.jumlah_artikel != null ? data.jumlah_artikel : (data.artikel || []).length;
+  document.getElementById("info-update").innerHTML =
+    "Tanggal " + data.tanggal +
+    '<span class="titik">&middot;</span>' + jumlah + " artikel dianalisis" +
+    (data.dibuat_pada ? '<span class="titik">&middot;</span>dibuat ' + data.dibuat_pada : "");
 
   const daftarSaham = document.getElementById("daftar-saham");
   const kodeSaham = Object.keys(data.saham_disebut || {});
@@ -107,14 +144,18 @@ function render(data) {
     return;
   }
   daftarSektor.forEach(s => {
-    const warna = warnaUntuk(s.prediksi);
+    const warna = warnaUntukRating(s.prediksi);
     const card = document.createElement("div");
     card.className = "card";
     card.style.borderLeftColor = warna.border;
 
+    const labelBadge = s.prediksi
+      ? s.prediksi + "/7 &middot; " + (LABEL_RATING[s.prediksi] || "")
+      : "TIDAK ADA DATA";
+
     let isi = "<h3>" + s.nama + "</h3>";
     isi += '<span class="badge" style="background:' + warna.bg + ";color:" + warna.text + '">' +
-           (s.prediksi || "TIDAK ADA DATA") + "</span>";
+           labelBadge + "</span>";
     if (s.status === "ok") {
       if (s.key_sentiment) isi += "<p><b>Sentimen:</b> " + s.key_sentiment + "</p>";
       if (s.alasan) isi += "<p><b>Alasan:</b> " + s.alasan + "</p>";

@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daftar Artikel — Prediksi Sektor Saham Harian</title>
+<style>
+  :root { --bg: #f6f8fa; --card: #ffffff; --border: #d0d7de; --text: #1f2328; --muted: #656d76; }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg); color: var(--text); margin: 0; padding: 24px 16px 60px;
+  }
+  .wrap { max-width: 760px; margin: 0 auto; }
+  .kembali { display: inline-block; font-size: 13px; color: var(--muted); text-decoration: none; margin-bottom: 12px; }
+  .kembali:hover { text-decoration: underline; }
+  h1 { font-size: 20px; margin: 0 0 4px; }
+  .updated { color: var(--muted); font-size: 13px; margin-bottom: 18px; }
+
+  .tanggal-scroll { overflow-x: auto; padding-bottom: 4px; margin-bottom: 20px; }
+  .tanggal-row { display: flex; gap: 8px; width: max-content; }
+  .btn-tanggal {
+    padding: 7px 14px; border-radius: 999px; border: 1px solid var(--border);
+    background: var(--card); color: var(--text); font-size: 13px; font-weight: 600;
+    cursor: pointer; white-space: nowrap; transition: background .1s, color .1s;
+  }
+  .btn-tanggal:hover { background: #eef1f4; }
+  .btn-tanggal.aktif { background: var(--text); color: #fff; border-color: var(--text); }
+
+  .daftar { background: var(--card); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; }
+  .item { display: block; padding: 12px 16px; text-decoration: none; color: var(--text); border-bottom: 1px solid var(--border); }
+  .item:last-child { border-bottom: none; }
+  .item:hover { background: #f6f8fa; }
+  .item .judul { font-size: 14px; font-weight: 600; margin-bottom: 4px; }
+  .item .meta { font-size: 12px; color: var(--muted); }
+  .item .meta .sumber { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+  .empty { color: var(--muted); text-align: center; padding: 40px 0; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <a class="kembali" href="index.html">&larr; Kembali ke ringkasan</a>
+  <h1>Daftar Artikel</h1>
+  <div class="updated" id="info-update">Memuat...</div>
+
+  <div class="tanggal-scroll">
+    <div class="tanggal-row" id="daftar-tombol-tanggal"></div>
+  </div>
+
+  <div class="daftar" id="daftar-artikel"></div>
+</div>
+
+<script>
+async function ambilJSON(path) {
+  const res = await fetch(path + "?v=" + Date.now());
+  if (!res.ok) throw new Error("Gagal memuat " + path);
+  return res.json();
+}
+
+function domainDari(url) {
+  try { return new URL(url).hostname.replace(/^www\./, ""); }
+  catch (e) { return url; }
+}
+
+function render(data) {
+  const daftarArtikel = data.artikel || [];
+  const jumlah = data.jumlah_artikel != null ? data.jumlah_artikel : daftarArtikel.length;
+  document.getElementById("info-update").textContent =
+    "Tanggal " + data.tanggal + " -- " + jumlah + " artikel";
+
+  const wadah = document.getElementById("daftar-artikel");
+  wadah.innerHTML = "";
+
+  if (daftarArtikel.length === 0) {
+    wadah.innerHTML = '<p class="empty">Tidak ada artikel untuk tanggal ini.</p>';
+    return;
+  }
+
+  daftarArtikel.forEach(a => {
+    const item = document.createElement("a");
+    item.className = "item";
+    item.href = a.url;
+    item.target = "_blank";
+    item.rel = "noopener";
+    item.innerHTML =
+      '<div class="judul">' + a.judul + "</div>" +
+      '<div class="meta"><span class="sumber">' + domainDari(a.url) + "</span>" +
+      (a.sektor ? " &middot; " + a.sektor : "") + "</div>";
+    wadah.appendChild(item);
+  });
+}
+
+async function muatTanggal(tanggal) {
+  document.querySelectorAll(".btn-tanggal").forEach(btn => {
+    btn.classList.toggle("aktif", btn.dataset.tanggal === tanggal);
+  });
+  try {
+    const data = await ambilJSON("data/" + tanggal + ".json");
+    render(data);
+  } catch (e) {
+    document.getElementById("daftar-artikel").innerHTML = '<p class="empty">Gagal memuat data tanggal ' + tanggal + ".</p>";
+  }
+}
+
+async function mulai() {
+  try {
+    const manifest = await ambilJSON("data/manifest.json");
+    const daftarTanggal = manifest.tanggal_tersedia || [];
+    const wadahTombol = document.getElementById("daftar-tombol-tanggal");
+
+    if (daftarTanggal.length === 0) {
+      document.getElementById("info-update").textContent = "Belum ada data.";
+      return;
+    }
+
+    daftarTanggal.forEach(t => {
+      const btn = document.createElement("button");
+      btn.className = "btn-tanggal";
+      btn.textContent = t;
+      btn.dataset.tanggal = t;
+      btn.addEventListener("click", () => muatTanggal(t));
+      wadahTombol.appendChild(btn);
+    });
+
+    await muatTanggal(daftarTanggal[0]);
+  } catch (e) {
+    document.getElementById("info-update").textContent = "Belum ada data (manifest.json tidak ditemukan).";
+  }
+}
+mulai();
+</script>
+</body>
+</html>

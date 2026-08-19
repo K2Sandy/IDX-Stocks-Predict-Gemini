@@ -70,34 +70,64 @@ SEKTOR_TARGET = list(SEKTOR.keys())
 
 # --------------------------------------------------------------------------
 # SITUS BERITA -- tambah entry baru di sini untuk menambah sumber berita.
+# "urls" = daftar halaman indeks yang dikunjungi Selenium satu-satu (isi
+#   dengan 1 URL kalau situsnya tidak perlu di-paging; isi beberapa untuk
+#   situs yang paginasinya berupa pola URL sederhana seperti emitennews
+#   atau indopremier di bawah).
 # "cocok" = fungsi yang menentukan apakah sebuah URL adalah artikel berita
-# beneran (bukan halaman iklan/index/video/dll).
+#   beneran (bukan halaman iklan/index/video/dll).
 # --------------------------------------------------------------------------
 _TEMPO_KANAL_DIKECUALIKAN = {"subscribe", "sales", "info-tempo", "indeks", "tag", "cekfakta", "newsletter"}
 
 SITUS = {
     "tempo": {
-        "url": "https://www.tempo.co/indeks",
+        "urls": ["https://www.tempo.co/indeks"],
         "cocok": lambda href: bool(
             (m := re.search(r"tempo\.co/([a-z-]+)/[a-z0-9-]+-\d{5,8}/?$", href))
         )
         and m.group(1) not in _TEMPO_KANAL_DIKECUALIKAN,
     },
     "cnbc": {
-        "url": "https://www.cnbcindonesia.com/indeks",
+        "urls": ["https://www.cnbcindonesia.com/indeks"],
         "cocok": lambda href: bool(re.search(r"cnbcindonesia\.com/[a-z]+/\d{14}-\d+-\d+", href)),
     },
     "cnn": {
-        "url": "https://www.cnnindonesia.com/indeks",
+        "urls": ["https://www.cnnindonesia.com/indeks"],
         "cocok": lambda href: "cnnindonesia.com" in href and len(href.split("/")) > 4
         and not any(x in href for x in ["televisi", "video"]),
     },
     "detik": {
-        "url": "https://news.detik.com/indeks",
+        "urls": ["https://news.detik.com/indeks"],
         "cocok": lambda href: "news.detik.com/berita" in href and "/d-" in href,
     },
     "kompas": {
-        "url": "https://indeks.kompas.com/",
+        "urls": ["https://indeks.kompas.com/"],
         "cocok": lambda href: "kompas.com/read/" in href,
+    },
+    # --- 3 situs baru ---
+    "emitennews": {
+        # Paginasi emitennews: /home/updates/, lalu /9, /18, /27 dst (+9 tiap
+        # halaman) -- ini 3 halaman pertama, cukup untuk berita hari ini.
+        "urls": [
+            "https://emitennews.com/home/updates/",
+            "https://emitennews.com/home/updates/9",
+            "https://emitennews.com/home/updates/18",
+        ],
+        "cocok": lambda href: bool(re.search(r"emitennews\.com/news/[a-z0-9-]+$", href)),
+    },
+    "snips": {
+        # Tidak ada pola paginasi sederhana di situs ini (pakai cursor
+        # opaque), 1 halaman saja -- sudah mencakup beberapa minggu terakhir.
+        "urls": ["https://snips.stockbit.com/snips-terbaru/"],
+        "cocok": lambda href: bool(re.search(r"snips\.stockbit\.com/snips-terbaru/-[a-z0-9-]+$", href)),
+    },
+    "indopremier": {
+        # Paginasi indopremier: fragment #1, #2, #3 di URL yang sama.
+        "urls": [
+            "https://www.indopremier.com/ipotnews/newsPages.php?level4=topnews#1",
+            "https://www.indopremier.com/ipotnews/newsPages.php?level4=topnews#2",
+            "https://www.indopremier.com/ipotnews/newsPages.php?level4=topnews#3",
+        ],
+        "cocok": lambda href: "indopremier.com/ipotnews/newsDetail.php" in href and "news_id=" in href,
     },
 }

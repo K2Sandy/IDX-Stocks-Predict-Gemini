@@ -48,33 +48,41 @@ def ambil_feed_terbaru(driver) -> dict:
 
     for nama, cfg in SITUS.items():
         print(f"\n[{nama.upper()}] Menyisir indeks berita terbaru...")
-        try:
-            driver.get(cfg["url"])
+        for i, url_indeks in enumerate(cfg["urls"], start=1):
             try:
-                WebDriverWait(driver, 10).until(
-                    EC.presence_of_element_located((By.TAG_NAME, "a"))
-                )
-            except Exception:
-                pass  # kalau timeout, tetap lanjut baca apa yang sudah termuat
-            _coba_tutup_banner_consent(driver)
-            time.sleep(2)  # beri waktu tambahan untuk elemen yang di-load via JS
-            soup = BeautifulSoup(driver.page_source, "html.parser")
-            for a in soup.find_all("a", href=True):
-                href = urljoin(driver.current_url, a["href"])
-                if cfg["cocok"](href):
-                    hasil[nama].add(href)
-            print(f"  -> {len(hasil[nama])} URL mentah ditemukan.")
+                driver.get(url_indeks)
+                try:
+                    WebDriverWait(driver, 10).until(
+                        EC.presence_of_element_located((By.TAG_NAME, "a"))
+                    )
+                except Exception:
+                    pass  # kalau timeout, tetap lanjut baca apa yang sudah termuat
+                _coba_tutup_banner_consent(driver)
+                time.sleep(2)  # beri waktu tambahan untuk elemen yang di-load via JS
+                soup = BeautifulSoup(driver.page_source, "html.parser")
+                baru = 0
+                for a in soup.find_all("a", href=True):
+                    href = urljoin(driver.current_url, a["href"])
+                    if cfg["cocok"](href) and href not in hasil[nama]:
+                        hasil[nama].add(href)
+                        baru += 1
+                label_halaman = f" (halaman {i}/{len(cfg['urls'])})" if len(cfg["urls"]) > 1 else ""
+                print(f"  -> {baru} URL baru dari{label_halaman} {url_indeks}")
 
-            if len(hasil[nama]) == 0:
-                os.makedirs(DEBUG_DIR, exist_ok=True)
-                debug_path = os.path.join(DEBUG_DIR, f"{nama}.html")
-                with open(debug_path, "w", encoding="utf-8") as f:
-                    f.write(driver.page_source)
-                print(f"  -> [DEBUG] URL saat ini : {driver.current_url}")
-                print(f"  -> [DEBUG] Judul halaman: {driver.title!r}")
-                print(f"  -> [DEBUG] HTML disimpan ke: {debug_path} (buka & cek isinya)")
-        except Exception as e:
-            print(f"  -> Error {nama}: {e}")
+                if baru == 0 and i == 1:
+                    # Kalau HALAMAN PERTAMA sekalipun 0 hasil, kemungkinan
+                    # besar selector "cocok" sudah basi atau situs butuh
+                    # render JS ekstra -- simpan HTML mentahnya buat dicek.
+                    os.makedirs(DEBUG_DIR, exist_ok=True)
+                    debug_path = os.path.join(DEBUG_DIR, f"{nama}.html")
+                    with open(debug_path, "w", encoding="utf-8") as f:
+                        f.write(driver.page_source)
+                    print(f"     [DEBUG] URL saat ini : {driver.current_url}")
+                    print(f"     [DEBUG] Judul halaman: {driver.title!r}")
+                    print(f"     [DEBUG] HTML disimpan ke: {debug_path} (buka & cek isinya)")
+            except Exception as e:
+                print(f"  -> Error {nama} ({url_indeks}): {e}")
+        print(f"  => Total {nama}: {len(hasil[nama])} URL mentah.")
 
     return hasil
 
