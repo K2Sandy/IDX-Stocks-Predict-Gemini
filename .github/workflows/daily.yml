@@ -1,0 +1,51 @@
+name: Analisis Saham Harian
+
+on:
+  schedule:
+    # 08:00 UTC = 15:00 WIB. Jadwal GitHub Actions kadang meleset beberapa
+    # menit saat traffic tinggi -- itu wajar, bukan tanda ada yang salah.
+    - cron: "0 8 * * *"
+  workflow_dispatch: {}   # biar bisa dites manual dari tab "Actions" di GitHub
+
+permissions:
+  contents: write   # workflow perlu ini supaya bisa commit hasil balik ke repo
+
+jobs:
+  jalankan-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Chrome
+        uses: browser-actions/setup-chrome@v2
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Cari URL berita hari ini
+        working-directory: scripts
+        run: python cari_url.py
+
+      - name: Ekstrak isi berita
+        working-directory: scripts
+        run: python extract_berita.py
+
+      - name: Analisis dengan Gemini
+        working-directory: scripts
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python analisis_gemini.py
+
+      - name: Commit & push hasil ke docs/data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          git diff --cached --quiet && echo "Tidak ada data baru hari ini." || git commit -m "Update analisis harian $(date -u +%Y-%m-%d)"
+          git push

@@ -1,0 +1,9 @@
+# Data mentah -- tidak perlu ikut di-commit, cuma dipakai sementara antar
+# langkah pipeline dalam satu run. Yang di-commit cuma hasil akhirnya
+# (docs/data/*.json), bukan seluruh isi artikel.
+dataset/
+debug_output/
+
+__pycache__/
+*.pyc
+.env

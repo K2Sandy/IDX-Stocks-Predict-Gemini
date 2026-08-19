@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prediksi Sektor Saham Harian</title>
+<style>
+  :root {
+    --bg: #f6f8fa; --card: #ffffff; --border: #d0d7de; --text: #1f2328; --muted: #656d76;
+    --naik-border: #1a7f37; --naik-bg: #eafbf0; --naik-text: #1a7f37;
+    --turun-border: #cf222e; --turun-bg: #fdeeee; --turun-text: #cf222e;
+    --netral-border: #6e7781; --netral-bg: #f3f4f6; --netral-text: #6e7781;
+    --none-border: #d0d7de; --none-bg: #f6f8fa; --none-text: #656d76;
+  }
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg); color: var(--text); margin: 0; padding: 24px 16px 60px;
+  }
+  .wrap { max-width: 880px; margin: 0 auto; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .updated { color: var(--muted); font-size: 13px; margin-bottom: 18px; }
+
+  /* -- tombol tanggal (riwayat), klik buat lihat hari-hari sebelumnya -- */
+  .tanggal-scroll { overflow-x: auto; padding-bottom: 4px; margin-bottom: 20px; }
+  .tanggal-row { display: flex; gap: 8px; width: max-content; }
+  .btn-tanggal {
+    padding: 7px 14px; border-radius: 999px; border: 1px solid var(--border);
+    background: var(--card); color: var(--text); font-size: 13px; font-weight: 600;
+    cursor: pointer; white-space: nowrap; transition: background .1s, color .1s;
+  }
+  .btn-tanggal:hover { background: #eef1f4; }
+  .btn-tanggal.aktif { background: var(--text); color: #fff; border-color: var(--text); }
+
+  .highlight { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 16px; margin-bottom: 24px; }
+  .highlight h2 { font-size: 13px; margin: 0 0 10px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+  .chip-row { display: flex; flex-wrap: wrap; gap: 8px; }
+  .chip { border-radius: 999px; padding: 6px 12px; font-size: 13px; font-weight: 600; border: 1px solid var(--border); background: var(--bg); }
+  .chip small { font-weight: 400; margin-left: 6px; opacity: .75; }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 16px; }
+  .card { background: var(--card); border: 1px solid var(--border); border-left-width: 5px; border-radius: 10px; padding: 16px; }
+  .card h3 { margin: 0 0 8px; font-size: 16px; }
+  .badge { display: inline-block; padding: 2px 10px; border-radius: 999px; font-size: 12px; font-weight: 700; margin-bottom: 10px; }
+  .card p { margin: 8px 0 0; font-size: 13px; line-height: 1.5; color: #33383e; }
+  .card p b { color: var(--text); }
+  .empty { color: var(--muted); text-align: center; padding: 40px 0; grid-column: 1 / -1; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Prediksi Sektor Saham Harian</h1>
+  <div class="updated" id="info-update">Memuat...</div>
+
+  <div class="tanggal-scroll">
+    <div class="tanggal-row" id="daftar-tombol-tanggal"></div>
+  </div>
+
+  <div class="highlight">
+    <h2>Saham spesifik yang disebut</h2>
+    <div class="chip-row" id="daftar-saham"><span class="empty">Memuat...</span></div>
+  </div>
+
+  <div class="grid" id="grid-sektor"></div>
+</div>
+
+<script>
+const WARNA = {
+  NAIK:   { border: "var(--naik-border)",   bg: "var(--naik-bg)",   text: "var(--naik-text)" },
+  TURUN:  { border: "var(--turun-border)",  bg: "var(--turun-bg)",  text: "var(--turun-text)" },
+  NETRAL: { border: "var(--netral-border)", bg: "var(--netral-bg)", text: "var(--netral-text)" },
+};
+function warnaUntuk(prediksi) {
+  return WARNA[(prediksi || "").toUpperCase()] || { border: "var(--none-border)", bg: "var(--none-bg)", text: "var(--none-text)" };
+}
+
+async function ambilJSON(path) {
+  const res = await fetch(path + "?v=" + Date.now()); // hindari cache basi di browser
+  if (!res.ok) throw new Error("Gagal memuat " + path);
+  return res.json();
+}
+
+function render(data) {
+  document.getElementById("info-update").textContent =
+    "Tanggal " + data.tanggal + (data.dibuat_pada ? " -- dibuat " + data.dibuat_pada : "");
+
+  const daftarSaham = document.getElementById("daftar-saham");
+  const kodeSaham = Object.keys(data.saham_disebut || {});
+  daftarSaham.innerHTML = "";
+  if (kodeSaham.length === 0) {
+    daftarSaham.innerHTML = '<span class="empty">Tidak ada saham spesifik disebut hari ini.</span>';
+  } else {
+    kodeSaham.forEach(kode => {
+      const konteks = (data.saham_disebut[kode] || []).join(", ");
+      const chip = document.createElement("span");
+      chip.className = "chip";
+      chip.innerHTML = kode + "<small>" + konteks + "</small>";
+      daftarSaham.appendChild(chip);
+    });
+  }
+
+  const grid = document.getElementById("grid-sektor");
+  grid.innerHTML = "";
+  const daftarSektor = data.sektor || [];
+  if (daftarSektor.length === 0) {
+    grid.innerHTML = '<p class="empty">Belum ada data sektor untuk tanggal ini.</p>';
+    return;
+  }
+  daftarSektor.forEach(s => {
+    const warna = warnaUntuk(s.prediksi);
+    const card = document.createElement("div");
+    card.className = "card";
+    card.style.borderLeftColor = warna.border;
+
+    let isi = "<h3>" + s.nama + "</h3>";
+    isi += '<span class="badge" style="background:' + warna.bg + ";color:" + warna.text + '">' +
+           (s.prediksi || "TIDAK ADA DATA") + "</span>";
+    if (s.status === "ok") {
+      if (s.key_sentiment) isi += "<p><b>Sentimen:</b> " + s.key_sentiment + "</p>";
+      if (s.alasan) isi += "<p><b>Alasan:</b> " + s.alasan + "</p>";
+      if (s.analisis_saham) isi += "<p><b>Saham:</b> " + s.analisis_saham + "</p>";
+    } else if (s.status === "error") {
+      isi += "<p>Gagal dianalisis hari ini.</p>";
+    } else {
+      isi += "<p>Tidak ada berita untuk sektor ini hari ini.</p>";
+    }
+    card.innerHTML = isi;
+    grid.appendChild(card);
+  });
+}
+
+async function muatTanggal(tanggal) {
+  document.querySelectorAll(".btn-tanggal").forEach(btn => {
+    btn.classList.toggle("aktif", btn.dataset.tanggal === tanggal);
+  });
+  try {
+    const data = await ambilJSON("data/" + tanggal + ".json");
+    render(data);
+  } catch (e) {
+    document.getElementById("grid-sektor").innerHTML = '<p class="empty">Gagal memuat data tanggal ' + tanggal + ".</p>";
+  }
+}
+
+async function mulai() {
+  try {
+    const manifest = await ambilJSON("data/manifest.json");
+    const daftarTanggal = manifest.tanggal_tersedia || [];
+    const wadahTombol = document.getElementById("daftar-tombol-tanggal");
+
+    if (daftarTanggal.length === 0) {
+      document.getElementById("info-update").textContent = "Belum ada data.";
+      return;
+    }
+
+    daftarTanggal.forEach(t => {
+      const btn = document.createElement("button");
+      btn.className = "btn-tanggal";
+      btn.textContent = t;
+      btn.dataset.tanggal = t;
+      btn.addEventListener("click", () => muatTanggal(t));
+      wadahTombol.appendChild(btn);
+    });
+
+    await muatTanggal(daftarTanggal[0]); // default: tanggal terbaru
+  } catch (e) {
+    document.getElementById("info-update").textContent = "Belum ada data (manifest.json tidak ditemukan).";
+  }
+}
+mulai();
+</script>
+</body>
+</html>
