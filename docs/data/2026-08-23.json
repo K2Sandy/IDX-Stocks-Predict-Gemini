@@ -1,0 +1,210 @@
+{
+  "tanggal": "2026-08-23",
+  "dibuat_pada": "2026-08-23 15:24 WIB",
+  "jumlah_artikel": 29,
+  "saham_disebut": {
+    "TPIA": [
+      "Keuangan (rating 5/7)",
+      "Energi (rating 4/7)",
+      "Infrastruktur (rating 3/7)"
+    ],
+    "ASII": [
+      "Keuangan (rating 5/7)",
+      "Energi (rating 4/7)",
+      "Infrastruktur (rating 3/7)"
+    ],
+    "ANTM": [
+      "Keuangan (rating 5/7)",
+      "Energi (rating 4/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pemerintah dan BEI menunjukkan komitmen kuat terhadap penguatan struktur dan kredibilitas pasar modal Indonesia melalui demutualisasi BEI dan standar saham hijau, meskipun ada catatan risiko fiskal oleh Fitch.",
+      "alasan": "Demutualisasi BEI dan penerapan standar saham hijau WFE akan meningkatkan transparansi, efisiensi, dan daya tarik pasar modal Indonesia, mendorong kepercayaan investor serta potensi pertumbuhan bagi lembaga keuangan. Catatan Fitch tentang risiko APBN 2027 mungkin sedikit menahan antusiasme jangka pendek, namun perbaikan fundamental lebih dominan.",
+      "analisis_saham": "Berita akuisisi bisnis dealer Cycle & Carriage berpotensi positif bagi TPIA karena menandai ekspansi strategis dan diversifikasi bisnis. Bagi ASII, dampak bisa netral hingga sedikit negatif tergantung pada valuasi dan strategi divestasi pengendali. Kenaikan harga emas global memberikan sentimen positif yang kuat untuk ANTM sebagai produsen emas, berpotensi meningkatkan pendapatan dan profitabilitas perusahaan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Inovasi teknologi kaca atap panel surya untuk kendaraan listrik siap diproduksi massal, menandakan potensi pertumbuhan di sektor teknologi ramah lingkungan.",
+      "alasan": "Berita mengenai produksi massal kaca atap panel surya untuk kendaraan listrik menunjukkan adanya dorongan inovasi dan investasi di bidang teknologi berkelanjutan. Meskipun perusahaan yang disebutkan berasal dari luar negeri, tren ini memberikan sentimen positif bagi ekosistem teknologi secara keseluruhan, khususnya bagi perusahaan yang terlibat dalam pengembangan energi terbarukan dan komponen kendaraan listrik. Selain itu, target pertumbuhan ekonomi pemerintah yang ambisius juga dapat mendukung investasi dan ekspansi di sektor teknologi.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Pemerintah menyiapkan regulasi turunan untuk operasionalisasi bursa mineral di Indonesia pada 2027, memberikan kejelasan struktural jangka panjang.",
+      "alasan": "Berita tentang persiapan bursa mineral memberikan indikasi positif mengenai tata kelola dan transparansi pasar di masa depan untuk komoditas mineral, termasuk batu bara yang merupakan bagian dari sektor Energi. Meskipun implementasinya masih di tahun 2027, langkah ini dapat mengurangi ketidakpastian dan membangun fondasi yang lebih kuat. Namun, tidak ada katalis kuat dan langsung untuk sub-sektor energi lainnya seperti minyak, gas, atau energi baru terbarukan (EBT) yang memberikan sentimen kuat untuk pergerakan indeks secara keseluruhan.",
+      "analisis_saham": "TPIA**: Akuisisi bisnis dealer otomotif Cycle & Carriage oleh TPIA menunjukkan strategi diversifikasi dan ekspansi grup Prajogo Pangestu di luar bisnis petrokimia intinya. Ini dapat dinilai positif oleh investor sebagai langkah memperkuat posisi bisnis dan mengurangi ketergantungan pada satu sektor, meskipun dampak pada harga saham akan tergantung pada valuasi akuisisi dan potensi sinergi."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Kekhawatiran Fitch terhadap APBN 2027 yang berpotensi memengaruhi pendanaan proyek infrastruktur menjadi sentimen utama, meskipun ada rencana pengembangan transportasi publik lokal yang positif.",
+      "alasan": "Laporan Fitch Ratings mengenai kerentanan APBN 2027 dapat menimbulkan kekhawatiran terkait pendanaan dan keberlanjutan proyek infrastruktur yang banyak bergantung pada anggaran pemerintah. Meskipun terdapat berita positif tentang pengembangan rute bus listrik di Bogor, dampak kekhawatiran makroekonomi terhadap APBN lebih dominan dalam memengaruhi sentimen sektor secara keseluruhan.",
+      "analisis_saham": "TPIA (PT Chandra Asri Pacific Tbk.):** Akuisisi bisnis dealer otomotif Cycle & Carriage di Singapura dan Malaysia menunjukkan diversifikasi strategis TPIA ke sektor ritel otomotif. Hal ini dapat dilihat positif sebagai upaya TPIA memperluas sumber pendapatan di luar bisnis petrokimia utamanya, meski bukan inti dari sektor infrastruktur."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Sentimen pasar hari ini cenderung netral dengan isu bantuan bencana dan dukungan terhadap program pemerintah, namun sedikit terbebani oleh insiden negatif terkait implementasi program makan bergizi gratis yang krusial.",
+      "alasan": "Meskipun terdapat sentimen positif dari respons bencana dan dukungan publik terhadap Presiden terpilih, insiden keracunan yang diduga terkait program makan bergizi gratis dapat menimbulkan kekhawatiran terhadap efektivitas dan implementasi program pemerintah mendatang, sehingga sedikit menekan sentimen makro. Berita lainnya bersifat lokal atau tidak memiliki dampak signifikan terhadap pergerakan indeks secara keseluruhan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Link Live Streaming Indonesia Vs Thailand di Final Srikandi Merdeka Cup 2026",
+      "url": "https://bola.kompas.com/read/2026/08/23/15000018/link-live-streaming-indonesia-vs-thailand-di-final-srikandi-merdeka-cup-2026",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Warga NTT di Jabar Dukung Langkah Dedi Mulyadi Bantu Korban Gempa",
+      "url": "https://bandung.kompas.com/read/2026/08/23/145506178/warga-ntt-di-jabar-dukung-langkah-dedi-mulyadi-bantu-korban-gempa",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Jadwal Siaran Langsung Torino Vs AC Milan, Tayang di Mana dan Jam Berapa?",
+      "url": "https://bola.kompas.com/read/2026/08/23/14555348/jadwal-siaran-langsung-torino-vs-ac-milan-tayang-di-mana-dan-jam-berapa",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Aturan Turunan Disiapkan Songsong Bursa Mineral 2027",
+      "url": "https://emitennews.com/news/aturan-turunan-disiapkan-songsong-bursa-mineral-2027",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BEI Menjadi Pemegang Saham BEI, Bisakah?",
+      "url": "https://emitennews.com/news/bei-menjadi-pemegang-saham-bei-bisakah",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ambisi Prajogo (TPIA) Merebut Bisnis Dealer Pengendali Astra (ASII)",
+      "url": "https://emitennews.com/news/ambisi-prajogo-tpia-merebut-bisnis-dealer-pengendali-astra-asii",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bidik 6% di 2027, Pemerintah Genjot 6 Mesin Pertumbuhan Baru",
+      "url": "https://emitennews.com/news/bidik-6-di-2027-pemerintah-genjot-6-mesin-pertumbuhan-baru",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Dikhawatirkan Greenwashing, BEI Ungkap Saham Hijau akan Berstandar WFE",
+      "url": "https://emitennews.com/news/dikhawatirkan-greenwashing-bei-ungkap-saham-hijau-akan-berstandar-wfe",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Fitch Soroti APBN 2027: Defisit Aman, Risiko Danantara Membayangi",
+      "url": "https://emitennews.com/news/fitch-soroti-apbn-2027-defisit-aman-risiko-danantara-membayangi",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Harga Emas Tembus USD4.600, Sinyal Positif untuk Antam",
+      "url": "https://emitennews.com/news/harga-emas-tembus-usd4600-sinyal-positif-untuk-antam",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kopi Jabar Tembus Pasar Inggris, Ekspor Capai Rp2,64 Miliar",
+      "url": "https://emitennews.com/news/kopi-jabar-tembus-pasar-inggris-ekspor-capai-rp264-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kuasai 63 Persen Pekerja, Gen-Z Jadi Mesin Ekonomi Kreatif",
+      "url": "https://emitennews.com/news/kuasai-63-persen-pekerja-gen-z-jadi-mesin-ekonomi-kreatif",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Jumat (21/8) Menguat, Asing Borong Bersih 0,97T Incar BBRI–TPIA",
+      "url": "https://emitennews.com/news/ihsg-jumat-218-menguat-asing-borong-bersih-097t-incar-bbritpia",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Pengendali Jual 1,14 Persen Saham INPS di Harga Murah, Senilai Rp3,27M",
+      "url": "https://emitennews.com/news/pengendali-jual-114-persen-saham-inps-di-harga-murah-senilai-rp327m",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Kulit Leher Mulai Kendur di Usia 50-an? Ini 4 Cara Merawatnya",
+      "url": "https://lifestyle.kompas.com/read/2026/08/23/150500220/kulit-leher-mulai-kendur-di-usia-50-an-ini-4-cara-merawatnya",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "Respon Gempa NTT, Pemerintah Gelontor 6,8 Ribu Ton Beras",
+      "url": "https://emitennews.com/news/respon-gempa-ntt-pemerintah-gelontor-68-ribu-ton-beras",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BSI Siap Kembalikan Sebagian Dana SAL, Pastikan Likuiditas Aman",
+      "url": "https://money.kompas.com/read/2026/08/23/145651126/bsi-siap-kembalikan-sebagian-dana-sal-pastikan-likuiditas-aman",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Sekolah Swasta di Pamulang Tangsel 2 Kali Digeruduk, Sempat Disaksikan Siswa",
+      "url": "https://megapolitan.kompas.com/read/2026/08/23/15081671/sekolah-swasta-di-pamulang-tangsel-2-kali-digeruduk-sempat-disaksikan",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Target Pertumbuhan 6%, Realistis Saat Daya Beli & Investasi Tertekan?",
+      "url": "https://emitennews.com/news/target-pertumbuhan-6-realistis-saat-daya-beli-investasi-tertekan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Stok Tembus 5,17 Juta Ton, Optimis Hadapi El Nino Tanpa Impor Beras",
+      "url": "https://emitennews.com/news/stok-tembus-517-juta-ton-optimis-hadapi-el-nino-tanpa-impor-beras",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pemkab Bogor Siapkan Rute Bus Listrik ke Depok dan Puncak",
+      "url": "https://otomotif.kompas.com/read/2026/08/23/152100315/pemkab-bogor-siapkan-rute-bus-listrik-ke-depok-dan-puncak",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kaca Atap Panel Surya Siap Diproduksi Massal",
+      "url": "https://otomotif.kompas.com/read/2026/08/23/150100715/kaca-atap-panel-surya-siap-diproduksi-massal",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kebakaran Way Kambas, Pemprov Lakukan Water Bombing dan Modifikasi Cuaca 23-24 Agustus 2026",
+      "url": "https://regional.kompas.com/read/2026/08/23/151935778/kebakaran-way-kambas-pemprov-lakukan-water-bombing-dan-modifikasi-cuaca-23",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Gubernur NTT Terima Bantuan 6,6 Ton Rendang untuk Korban Gempa Flores",
+      "url": "https://regional.kompas.com/read/2026/08/23/145937578/gubernur-ntt-terima-bantuan-66-ton-rendang-untuk-korban-gempa-flores",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "BMKG Tegaskan Isu \"Retakan Terbesar Flores Megathrust\" adalah Hoaks",
+      "url": "https://regional.kompas.com/read/2026/08/23/151337378/bmkg-tegaskan-isu-retakan-terbesar-flores-megathrust-adalah-hoaks",
+      "sektor": "Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Insta360 Luna Pro Resmi, Bisa Rekam Video Vertikal 4K dan Ikuti Gerakan Kepala",
+      "url": "https://tekno.kompas.com/read/2026/08/23/15160077/insta360-luna-pro-resmi-bisa-rekam-video-vertikal-4k-dan-ikuti-gerakan-kepala",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "MotoGP Mandalika 9-11 Oktober 2026, Hotel Diingatkan Tak Naikkan Harga Aji Mumpung",
+      "url": "https://travel.kompas.com/read/2026/08/23/150300427/motogp-mandalika-9-11-oktober-2026-hotel-diingatkan-tak-naikkan-harga-aji",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Mahasiswa Minta MBG Dihentikan, Warga Bangkalan Siap ke Jakarta Bela Prabowo: Anak Bisa Makan Bergizi",
+      "url": "https://surabaya.kompas.com/read/2026/08/23/145751378/mahasiswa-minta-mbg-dihentikan-warga-bangkalan-siap-ke-jakarta-bela-prabowo",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Dampak Gempa M 7,7 Manggarai NTT Dipetakan dari Udara, 2 Pilot Drone Dikerahkan",
+      "url": "https://regional.kompas.com/read/2026/08/23/144322778/dampak-gempa-m-77-manggarai-ntt-dipetakan-dari-udara-2-pilot-drone",
+      "sektor": "Energi, Infrastruktur"
+    }
+  ]
+}
