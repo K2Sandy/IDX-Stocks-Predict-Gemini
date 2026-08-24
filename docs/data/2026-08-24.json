@@ -1,0 +1,293 @@
+{
+  "tanggal": "2026-08-24",
+  "dibuat_pada": "2026-08-24 15:43 WIB",
+  "jumlah_artikel": 44,
+  "saham_disebut": {
+    "BRIS": [
+      "Keuangan (rating 5/7)"
+    ],
+    "FUJI": [
+      "Keuangan (rating 5/7)"
+    ],
+    "EMTK": [
+      "Teknologi (rating 5/7)",
+      "Infrastruktur (rating 3/7)"
+    ],
+    "ADHI": [
+      "Infrastruktur (rating 3/7)"
+    ],
+    "BDKR": [
+      "Infrastruktur (rating 3/7)"
+    ],
+    "EXCL": [
+      "Infrastruktur (rating 3/7)"
+    ],
+    "HATM": [
+      "Infrastruktur (rating 3/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bank Syariah Indonesia (BRIS) mencatat pertumbuhan laba signifikan, sementara BEI melakukan suspensi dan pemantauan aktivitas tidak wajar pada beberapa saham, termasuk PT Fuji Finance Indonesia Tbk (FUJI).",
+      "alasan": "Kinerja keuangan yang kuat dari bank besar seperti BRIS memberikan sentimen positif bagi prospek profitabilitas sektor keuangan secara keseluruhan. Meskipun ada tindakan regulasi pada saham individu, hal ini lebih mencerminkan pengawasan pasar daripada masalah sistemik di sektor keuangan.",
+      "analisis_saham": "BRIS**: Laporan laba bersih BRIS yang tumbuh 11% YoY menjadi Rp4,16 triliun di Semester I 2026, didorong oleh ekspansi bisnis dan pertumbuhan DPK, mengindikasikan kinerja fundamental yang solid dan berpotensi menarik minat investor untuk kenaikan harga saham."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Peluncuran kendaraan listrik dengan teknologi canggih dan aksi korporasi divestasi bisnis telekomunikasi oleh emiten teknologi mewarnai sentimen sektor.",
+      "alasan": "Inovasi berkelanjutan dalam teknologi kendaraan listrik (EV) secara global, termasuk peningkatan jangkauan dan model baru, menciptakan sentimen positif terhadap kemajuan teknologi secara keseluruhan. Meskipun produsen EV bukan emiten lokal, perkembangan ini berpotensi mendukung ekosistem teknologi yang lebih luas dan adopsi digital.",
+      "analisis_saham": "Emtek Group (EMTK) melakukan divestasi bisnis telekomunikasinya (PT Abhimata Citra Abadi). Aksi korporasi ini dapat diinterpretasikan sebagai langkah strategis untuk fokus pada bisnis inti atau efisiensi, yang berpotensi positif bagi EMTK dalam jangka panjang dengan mengoptimalkan portofolio asetnya."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Tidak ada berita spesifik dalam kumpulan berita hari ini yang secara langsung mempengaruhi sektor Energi.",
+      "alasan": "Kumpulan berita hari ini didominasi oleh isu suspensi saham, laporan keuangan perbankan, dan pergerakan harga emas, yang tidak memiliki korelasi langsung dengan sentimen fundamental atau teknikal sektor Energi. Oleh karena itu, tidak ada pemicu jelas yang dapat menggerakkan indeks sektor Energi secara keseluruhan pada hari perdagangan berikutnya.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Suspensi saham ADHI dan pantauan UMA terhadap BDKR memberikan sentimen negatif pada sektor infrastruktur, meskipun ada kabar positif dari peringkat kredit EXCL.",
+      "alasan": "Suspensi perdagangan PT Adhi Karya (Persero) Tbk (ADHI), salah satu pemain kunci di sektor konstruksi BUMN, menjadi penekan kuat bagi sentimen sektor secara keseluruhan. Ditambah dengan pantauan UMA pada BDKR, hal ini menunjukkan adanya kewaspadaan. Meskipun PT XL Axiata Tbk (EXCL) menerima peringkat positif, dampak negatif dari emiten konstruksi dan pendukung infrastruktur lebih dominan pada penilaian sentimen pasar.",
+      "analisis_saham": "ADHI (PT Adhi Karya (Persero) Tbk):** Suspensi perdagangan oleh BEI merupakan sentimen sangat negatif, mengindikasikan ketidakpastian yang tinggi dan kemungkinan akan menekan harga saat perdagangan dibuka kembali."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Berita hari ini menyoroti respons pemerintah terhadap bencana alam, masalah korupsi dalam pendidikan, serta dampak negatif dari kebakaran hutan dan lahan serta kebakaran di desa adat.",
+      "alasan": "Meskipun ada injeksi dana pemerintah untuk penanggulangan bencana, berita lain menyoroti kejadian negatif seperti kerugian akibat bencana lokal dan isu korupsi. Sentimen negatif dari beberapa peristiwa tersebut, terutama kebakaran hutan yang meluas dan masalah integritas tata kelola, cenderung menciptakan sedikit tekanan atau ketidakpastian di tingkat makro.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Dedi Mulyadi Sebut Sudah Rp 6,09 Miliar Bantuan Bencana Disalurkan ke Sukabumi, Siapkan Rp4,8 Miliar Lagi",
+      "url": "https://bandung.kompas.com/read/2026/08/24/152800178/dedi-mulyadi-sebut-sudah-rp-609-miliar-bantuan-bencana-disalurkan-ke",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "BEI Gembok Saham ADHI, Curigai Indikasi Masalah Kelangsungan Usaha",
+      "url": "https://emitennews.com/news/bei-gembok-saham-adhi-curigai-indikasi-masalah-kelangsungan-usaha",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BEI Gembok 4 Saham Sekaligus, Kapan Dibuka?",
+      "url": "https://emitennews.com/news/bei-gembok-4-saham-sekaligus-kapan-dibuka",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEI Umumkan Pantau Aktivitas 3 Saham Tak Wajar, Ada Milik Grup Isam",
+      "url": "https://emitennews.com/news/bei-umumkan-pantau-aktivitas-3-saham-tak-wajar-ada-milik-grup-isam",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Ancaman Fiskal AS Bawa Emas Dunia dan Antam Kompak Melonjak",
+      "url": "https://emitennews.com/news/ancaman-fiskal-as-bawa-emas-dunia-dan-antam-kompak-melonjak",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Anggota Klub HSC, Habco Trans (HATM) Gaspol PMTHMETD 10 Persen Saham",
+      "url": "https://emitennews.com/news/anggota-klub-hsc-habco-trans-hatm-gaspol-pmthmetd-10-persen-saham",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BSI (BRIS) Kemas Laba Rp4,16 Triliun, Tumbuh 11 Persen Ditopang Ini",
+      "url": "https://emitennews.com/news/bsi-bris-kemas-laba-rp416-triliun-tumbuh-11-persen-ditopang-ini",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Chery Luncurkan Pesaing BYD Atto 3 Rp200 Jutaan",
+      "url": "https://emitennews.com/news/chery-luncurkan-pesaing-byd-atto-3-rp200-jutaan",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "CLEO Gas Ekspansi, Pabrik Baru Palu Beroperasi, 2 Lagi Segera Menyusul",
+      "url": "https://emitennews.com/news/cleo-gas-ekspansi-pabrik-baru-palu-beroperasi-2-lagi-segera-menyusul",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Danantara Expo Beri Promo DP 1% Buat Pencari Rumah Pertama",
+      "url": "https://emitennews.com/news/danantara-expo-beri-promo-dp-1-buat-pencari-rumah-pertama",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Denza Z9S Juara Jangkauan Terjauh EV Rp800 Juta Bisa Dipesan",
+      "url": "https://emitennews.com/news/denza-z9s-juara-jangkauan-terjauh-ev-rp800-juta-bisa-dipesan",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Dolar AS Anjlok ke 98,8, Rupiah Berpeluang Menguat Ikuti Yen dan Euro",
+      "url": "https://emitennews.com/news/dolar-as-anjlok-ke-988-rupiah-berpeluang-menguat-ikuti-yen-dan-euro",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Emtek Group (EMTK) Lepas Bisnis Telekomunikasi ke Mantan Direkturnya",
+      "url": "https://emitennews.com/news/emtek-group-emtk-lepas-bisnis-telekomunikasi-ke-mantan-direkturnya",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Fitch Tetapkan Peringkat AA+ untuk XLSmart, Risiko Gagal Bayar Rendah",
+      "url": "https://emitennews.com/news/fitch-tetapkan-peringkat-aa-untuk-xlsmart-risiko-gagal-bayar-rendah",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Grup Djarum Serok 4,84 Miliar Saham Grup Bakrie (BTEL), Ada Korporasi?",
+      "url": "https://emitennews.com/news/grup-djarum-serok-484-miliar-saham-grup-bakrie-btel-ada-korporasi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Dibuka Naik 0,28% ke 6.544 di Awal Pekan, Sentimen FTSE & Maulid",
+      "url": "https://emitennews.com/news/ihsg-dibuka-naik-028-ke-6544-di-awal-pekan-sentimen-ftse-maulid",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Koreksi 0,69 Persen ke 6.480 di Sesi Siang, Sektor Kesehatan Drop",
+      "url": "https://emitennews.com/news/ihsg-koreksi-069-persen-ke-6480-di-sesi-siang-sektor-kesehatan-drop",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Makin Berotot, IPOT Jagokan Saham-saham Berikut",
+      "url": "https://emitennews.com/news/ihsg-makin-berotot-ipot-jagokan-saham-saham-berikut",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Susuri Zona Merah, Indeks LQ45 hingga IDX80 Naik-Turun!",
+      "url": "https://emitennews.com/news/ihsg-susuri-zona-merah-indeks-lq45-hingga-idx80-naik-turun",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Komitmen, DUCK Janji Mulai Buyback 2 November 2026",
+      "url": "https://emitennews.com/news/komitmen-duck-janji-mulai-buyback-2-november-2026",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Peluang Suku Bunga BOJ Naik Tembus 82 Persen di September",
+      "url": "https://emitennews.com/news/peluang-suku-bunga-boj-naik-tembus-82-persen-di-september",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kian Dekat dengan Perusahaan Korea, Saham PICO Terbang 34,31 Persen",
+      "url": "https://emitennews.com/news/kian-dekat-dengan-perusahaan-korea-saham-pico-terbang-3431-persen",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Saham FCA milik Bakrie dan Saham Baru Diakuisisi Ini Lepas Suspensi",
+      "url": "https://emitennews.com/news/saham-fca-milik-bakrie-dan-saham-baru-diakuisisi-ini-lepas-suspensi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Seirama Wall Street, IHSG Makin Berkilau",
+      "url": "https://emitennews.com/news/seirama-wall-street-ihsg-makin-berkilau",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tak Cuma Listrik, Bahlil Dorong Geothermal Buat Industri",
+      "url": "https://emitennews.com/news/tak-cuma-listrik-bahlil-dorong-geothermal-buat-industri",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kapal Ikan Terbakar di Pelabuhan Belawan",
+      "url": "https://medan.kompas.com/read/2026/08/24/153533378/kapal-ikan-terbakar-di-pelabuhan-belawan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Polisi Ungkap Duduk Perkara Keributan Debt Collector dan Keluarga Pelapor di Cengkareng Jakbar",
+      "url": "https://megapolitan.kompas.com/read/2026/08/24/15323061/polisi-ungkap-duduk-perkara-keributan-debt-collector-dan-keluarga-pelapor",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Rupiah Melemah ke Level Rp 17.722 Per Dollar AS, Ini Biang Keroknya",
+      "url": "https://money.kompas.com/read/2026/08/24/153852526/rupiah-melemah-ke-level-rp-17722-per-dollar-as-ini-biang-keroknya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Mendagri: Bantuan Kemasyarakatan Presiden untuk Penanggulangan Bencana di NTT Sudah Ditransfer",
+      "url": "https://nasional.kompas.com/read/2026/08/24/15323781/mendagri-bantuan-kemasyarakatan-presiden-untuk-penanggulangan-bencana-di-ntt",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Usai Bareskrimkan 6 Nama, ASBI Kebut Rapat Darurat",
+      "url": "https://emitennews.com/news/usai-bareskrimkan-6-nama-asbi-kebut-rapat-darurat",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Yield Global Tekan Saham Jepang, Investor Pantau Iran",
+      "url": "https://emitennews.com/news/yield-global-tekan-saham-jepang-investor-pantau-iran",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Usai Didepak FTSE, ASSA Dapat Tambahan Kredit CIMB Niaga Jadi Rp100M",
+      "url": "https://emitennews.com/news/usai-didepak-ftse-assa-dapat-tambahan-kredit-cimb-niaga-jadi-rp100m",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tak Hanya Pelaku Lapangan, Polisi Didesak Bongkar Korporasi Dalang Penyebab Karhutla",
+      "url": "https://nasional.kompas.com/read/2026/08/24/15275481/tak-hanya-pelaku-lapangan-polisi-didesak-bongkar-korporasi-dalang-penyebab",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Hakim Sebut PN Jakpus Tidak Berwenang Adili Permohonan Praperadilan Lodewyk Pusung",
+      "url": "https://nasional.kompas.com/read/2026/08/24/15332961/hakim-sebut-pn-jakpus-tidak-berwenang-adili-permohonan-praperadilan-lodewyk",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Urgensi Reformasi Tata Kelola Pendidikan Kedokteran",
+      "url": "https://nasional.kompas.com/read/2026/08/24/15372961/urgensi-reformasi-tata-kelola-pendidikan-kedokteran",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Molinas Bakal Terbuka, Tak Identik dengan Satu Merek",
+      "url": "https://otomotif.kompas.com/read/2026/08/24/153630015/molinas-bakal-terbuka-tak-identik-dengan-satu-merek",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Warga Desa Adat Sade Mulai Bersihkan Sisa Kebakaran",
+      "url": "https://regional.kompas.com/read/2026/08/24/153045778/warga-desa-adat-sade-mulai-bersihkan-sisa-kebakaran",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Mualem Tunjuk Plt Sekda Aceh Baru Usai M Nasir Dicopot Presiden Prabowo",
+      "url": "https://regional.kompas.com/read/2026/08/24/153117678/mualem-tunjuk-plt-sekda-aceh-baru-usai-m-nasir-dicopot-presiden-prabowo",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Satpol PP Segel Bakal Tempat Cuci Mobil di Magelang, Apa Alasannya?",
+      "url": "https://regional.kompas.com/read/2026/08/24/153131278/satpol-pp-segel-bakal-tempat-cuci-mobil-di-magelang-apa-alasannya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kadis Perkim Taufik Ditunjuk Jadi Plt Sekda Aceh, Gantikan M Nasir",
+      "url": "https://regional.kompas.com/read/2026/08/24/153622978/kadis-perkim-taufik-ditunjuk-jadi-plt-sekda-aceh-gantikan-m-nasir",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Palembang Dikepung Kabut Asap, Wali Kota Tiadakan Upacara hingga Evaluasi Kegiatan CFD dan CFN",
+      "url": "https://regional.kompas.com/read/2026/08/24/153712478/palembang-dikepung-kabut-asap-wali-kota-tiadakan-upacara-hingga-evaluasi",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Bus Aktivis Pati Dilempar Batu Jelang Demo 27 Agustus, Pelaku Pakai Hoodie",
+      "url": "https://regional.kompas.com/read/2026/08/24/153636778/bus-aktivis-pati-dilempar-batu-jelang-demo-27-agustus-pelaku-pakai-hoodie",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Karhutla Meluas, Satwa Liar Terdesak Keluar Hutan untuk Cari Makan dan Air",
+      "url": "https://regional.kompas.com/read/2026/08/24/153853878/karhutla-meluas-satwa-liar-terdesak-keluar-hutan-untuk-cari-makan-dan-air",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Ada Lampu Hijau atau Biru di Pojok Atas HP Android, Ini Artinya",
+      "url": "https://tekno.kompas.com/read/2026/08/24/15350057/ada-lampu-hijau-atau-biru-di-pojok-atas-hp-android-ini-artinya-",
+      "sektor": "Teknologi"
+    }
+  ]
+}
