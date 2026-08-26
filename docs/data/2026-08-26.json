@@ -1,0 +1,202 @@
+{
+  "tanggal": "2026-08-26",
+  "dibuat_pada": "2026-08-26 15:40 WIB",
+  "jumlah_artikel": 27,
+  "saham_disebut": {
+    "BPII": [
+      "Keuangan (rating 2/7)"
+    ],
+    "BBTN": [
+      "Keuangan (rating 2/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "ARKO": [
+      "Energi (rating 3/7)"
+    ],
+    "BTEL": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "PIPA": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "WEGE": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Indeks Harga Saham Gabungan (IHSG) ambruk 1,2% pada perdagangan hari ini, menciptakan sentimen negatif yang kuat untuk pasar secara keseluruhan.",
+      "alasan": "Sektor keuangan memiliki korelasi tinggi dengan pergerakan IHSG. Penurunan tajam IHSG sebesar 1,2% menunjukkan tekanan jual yang dominan dan sentimen pasar yang bearish, yang diperkirakan akan berlanjut menekan kinerja saham-saham di sektor keuangan pada hari perdagangan berikutnya.",
+      "analisis_saham": "BPII (PT Batavia Prosperindo Internasional Tbk) memasuki jadwal cum dividen tunai interim, yang mungkin menarik bagi sebagian investor sehingga dapat memberikan dukungan harga jangka pendek, meskipun sentimen pasar negatif dapat membatasi dampaknya. BBTN (PT Bank Tabungan Negara) melakukan program TJSL membantu korban kebakaran; ini adalah berita positif bagi citra perusahaan namun dampaknya terhadap pergerakan harga saham cenderung netral atau minim."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Pasar global sedang memantau laporan keuangan Nvidia, sementara Indeks Harga Saham Gabungan (IHSG) Indonesia ditutup melemah signifikan yang dapat menekan sektor secara keseluruhan.",
+      "alasan": "Pelemahan IHSG secara umum sebesar 1,2% akan menciptakan sentimen negatif yang berpotensi menyeret seluruh sektor, termasuk teknologi. Meskipun ada perhatian pada laporan keuangan Nvidia sebagai indikator sektor teknologi global, hasil laporannya masih dinantikan sehingga belum memberikan katalis positif langsung, dan Wall Street dilaporkan stabil mengindikasikan sikap hati-hati.",
+      "analisis_saham": "Tidak ada saham spesifik yang tercatat di bursa efek Indonesia dan relevan dengan sektor Teknologi yang disebutkan dalam berita. Nvidia adalah perusahaan yang terdaftar di bursa Amerika Serikat, sedangkan VISI (PT Satu Visi Putra Tbk) dalam berita ini lebih fokus pada akuisisi perusahaan rumah sakit, sehingga tidak secara langsung merepresentasikan sentimen sektor teknologi."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Pelemahan signifikan Indeks Harga Saham Gabungan (IHSG) akan menekan sektor Energi, meskipun ada sentimen positif dari ekspansi korporasi spesifik di sub-sektor energi terbarukan.",
+      "alasan": "IHSG yang ambruk 1,2% menunjukkan tekanan jual yang kuat di pasar secara keseluruhan, yang diperkirakan akan menyeret turun sebagian besar saham di berbagai sektor, termasuk Energi. Meskipun ada berita positif dari ARKO mengenai ekspansi energi terbarukan, dampak sentimen ini kemungkinan besar tidak cukup kuat untuk melawan arus pelemahan pasar yang lebih luas untuk seluruh sektor Energi yang beragam.",
+      "analisis_saham": "ARKO (Arkora Hydro Tbk)**: Berita mengenai ekspansi ARKO di sektor energi terbarukan melalui pendirian anak usaha dan akuisisi merupakan katalis fundamental yang sangat positif. Langkah strategis ini menunjukkan komitmen perusahaan terhadap pertumbuhan dan diversifikasi di area yang sedang berkembang, berpotensi membuat saham ARKO lebih resilien atau bahkan bergerak positif, mengungguli sektornya secara keseluruhan di tengah tekanan pasar."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Sektor infrastruktur mendapatkan sentimen positif dari lonjakan kontrak baru PT Wijaya Karya Bangunan Gedung (WEGE) dan rencana akuisisi PT Oxala Energy International Tbk (PIPA) sebagai mesin pertumbuhan baru.",
+      "alasan": "Lonjakan kontrak baru WEGE menunjukkan peningkatan aktivitas dan potensi pendapatan di sub-sektor konstruksi, sedangkan rencana akuisisi PIPA di pengolahan gas alam menandakan ekspansi dan inovasi di segmen infrastruktur energi. Kedua perkembangan ini secara kolektif memberikan dorongan positif bagi prospek sektor infrastruktur secara keseluruhan.",
+      "analisis_saham": "BBTN:** Berita mengenai penyaluran bantuan sosial tidak relevan dengan kinerja bisnis inti atau prospek keuangan PT Bank Tabungan Negara, sehingga sentimen terhadap harga saham cenderung netral."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "AS Sanksi Aset Digital Iran, Pasar Kripto Konsolidasi",
+      "url": "https://emitennews.com/news/as-sanksi-aset-digital-iran-pasar-kripto-konsolidasi",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Arkora Hydro (ARKO) Eksekusi 2 Aksi Korporasi Sekaligus, Apa Saja?",
+      "url": "https://emitennews.com/news/arkora-hydro-arko-eksekusi-2-aksi-korporasi-sekaligus-apa-saja",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dibuka Merah, IHSG Ambruk 1,2 Persen Sentuh 6.422 Ditekan Sentimen Ini",
+      "url": "https://emitennews.com/news/dibuka-merah-ihsg-ambruk-12-persen-sentuh-6422-ditekan-sentimen-ini",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BPII Cum Dividen Hari Ini (26/8), Cek Nominalnya!",
+      "url": "https://emitennews.com/news/bpii-cum-dividen-hari-ini-268-cek-nominalnya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "6 Perusahaan Kena Sanksi Karhutla, Cek Dampak ke Emiten",
+      "url": "https://emitennews.com/news/6-perusahaan-kena-sanksi-karhutla-cek-dampak-ke-emiten",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bersama Danantara, BTN Santuni Warga Korban Kebakaran Desa Adat Sade",
+      "url": "https://emitennews.com/news/bersama-danantara-btn-santuni-warga-korban-kebakaran-desa-adat-sade",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Dua Saham Usai Disuspensi Sehari, Dibuka Kontras Melesat dan Menjunam!",
+      "url": "https://emitennews.com/news/dua-saham-usai-disuspensi-sehari-dibuka-kontras-melesat-dan-menjunam",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Emas Dekati Rekor 3 Bulan Jelang Pidato The Fed dan Rilis PCE AS",
+      "url": "https://emitennews.com/news/emas-dekati-rekor-3-bulan-jelang-pidato-the-fed-dan-rilis-pce-as",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Grup Djarum Beber Fakta Eksekusi 10,86 Persen Saham Grup Bakrie (BTEL)",
+      "url": "https://emitennews.com/news/grup-djarum-beber-fakta-eksekusi-1086-persen-saham-grup-bakrie-btel",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Harga Emas Antam Turun Rp18 Ribu Saat Emas Dunia Bertahan",
+      "url": "https://emitennews.com/news/harga-emas-antam-turun-rp18-ribu-saat-emas-dunia-bertahan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Geser Hapsoro, Sosok Ini Gantikan Kepengendalian Emiten Broker (PADI)",
+      "url": "https://emitennews.com/news/geser-hapsoro-sosok-ini-gantikan-kepengendalian-emiten-broker-padi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Hasna Medika, Perusahaan yang Mau Dicaplok Emiten Raffi-Nagita (VISI)",
+      "url": "https://emitennews.com/news/hasna-medika-perusahaan-yang-mau-dicaplok-emiten-raffi-nagita-visi",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IHSG Cenderung Koreksi, Perhatikan Saham-saham Berikut",
+      "url": "https://emitennews.com/news/ihsg-cenderung-koreksi-perhatikan-saham-saham-berikut",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Potensial Rebound, ini Pemicunya",
+      "url": "https://emitennews.com/news/ihsg-potensial-rebound-ini-pemicunya",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Sesi I Volatil Sambut Unjuk Rasa 27 Agustus, TMPO Nyaris ARA!",
+      "url": "https://emitennews.com/news/ihsg-sesi-i-volatil-sambut-unjuk-rasa-27-agustus-tmpo-nyaris-ara",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Jelang Aksi 27 Agustus, OJK Masih Dalami Penundaan Rekening Botok Pati",
+      "url": "https://emitennews.com/news/jelang-aksi-27-agustus-ojk-masih-dalami-penundaan-rekening-botok-pati",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kinerja JPFA yang Baru Ditinggal Wafat Komutnya Meroket di Semester I",
+      "url": "https://emitennews.com/news/kinerja-jpfa-yang-baru-ditinggal-wafat-komutnya-meroket-di-semester-i",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kanada Balas Tarif AS USD27,6 Miliar, Pasar Logam Panas!",
+      "url": "https://emitennews.com/news/kanada-balas-tarif-as-usd276-miliar-pasar-logam-panas",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Nihil Peminat, Pengendali Baru KETR Kembali Perpanjang Tender Sukarela",
+      "url": "https://emitennews.com/news/nihil-peminat-pengendali-baru-ketr-kembali-perpanjang-tender-sukarela",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Pasar Pantau Data PCE dan Laporan Nvidia, Wall Street Stabil",
+      "url": "https://emitennews.com/news/pasar-pantau-data-pce-dan-laporan-nvidia-wall-street-stabil",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "PIPA Proyeksikan Target Akuisisi Ini Jadi New Growth Engine 2027",
+      "url": "https://emitennews.com/news/pipa-proyeksikan-target-akuisisi-ini-jadi-new-growth-engine-2027",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Saham EMAS Naik Kencang Sejak Awal Juli, Komisaris Lepas Saham Rp3,93M",
+      "url": "https://emitennews.com/news/saham-emas-naik-kencang-sejak-awal-juli-komisaris-lepas-saham-rp393m",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Sandang Notasi G, Perusahaan ini Lego 7 Miliar Saham BNBR",
+      "url": "https://emitennews.com/news/sandang-notasi-g-perusahaan-ini-lego-7-miliar-saham-bnbr",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "SWID Perkuat Bisnis Hospitality dan MICE di Yogyakarta",
+      "url": "https://emitennews.com/news/swid-perkuat-bisnis-hospitality-dan-mice-di-yogyakarta",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Usai Dongkrak Modal Dasar, MEJA Gaspol Right Issue, dan Akuisisi TCP",
+      "url": "https://emitennews.com/news/usai-dongkrak-modal-dasar-meja-gaspol-right-issue-dan-akuisisi-tcp",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "WEGE Siapkan Divestasi Aset Rp1 Triliun, Kontrak Baru Agustus Melejit",
+      "url": "https://emitennews.com/news/wege-siapkan-divestasi-aset-rp1-triliun-kontrak-baru-agustus-melejit",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Yield Stagnan 4,64%, Druckenmiller Kritik Buyback Utang AS",
+      "url": "https://emitennews.com/news/yield-stagnan-464-druckenmiller-kritik-buyback-utang-as",
+      "sektor": "Keuangan, Energi"
+    }
+  ]
+}
