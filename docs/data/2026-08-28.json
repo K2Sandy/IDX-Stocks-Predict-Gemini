@@ -1,0 +1,55 @@
+{
+  "tanggal": "2026-08-28",
+  "dibuat_pada": "2026-08-28 01:45 WIB",
+  "jumlah_artikel": 1,
+  "saham_disebut": {
+    "BWPT": [
+      "Keuangan (rating 4/7)",
+      "Energi (rating 4/7)",
+      "Infrastruktur (rating 4/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Eagle High Plantations (BWPT) mengklarifikasi status investasi dan kepemilikan saham, menegaskan FICP sebagai pemegang saham resminya terkait sengketa dengan Felda.",
+      "alasan": "Berita ini membahas sengketa investasi dan struktur kepemilikan saham pada perusahaan perkebunan kelapa sawit (BWPT). Informasi ini tidak memiliki relevansi langsung dengan fundamental atau sentimen yang mempengaruhi kinerja sektor keuangan seperti bank, asuransi, atau perusahaan pembiayaan. Oleh karena itu, berita ini tidak diperkirakan akan memberikan dampak signifikan pada pergerakan indeks sektor keuangan secara keseluruhan.",
+      "analisis_saham": "Kode saham BWPT disebutkan dalam berita. Klarifikasi BWPT mengenai FICP sebagai pemegang saham dan bukan Felda dapat mengurangi ketidakpastian administratif dan hukum bagi perseroan. Sentimen ini cenderung netral hingga sedikit positif untuk BWPT karena memberikan kejelasan terkait sengketa investasi yang sedang berlangsung, namun dampaknya terbatas pada perusahaan tersebut dan tidak relevan untuk sektor keuangan secara umum."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Eagle High Plantations (BWPT) mengklarifikasi bahwa FIC Properties (FICP) adalah pemegang saham terdaftar mereka, bukan Felda, dalam sengketa investasi yang sedang berlangsung.",
+      "alasan": "Berita ini mengenai Eagle High Plantations (BWPT) yang merupakan perusahaan perkebunan kelapa sawit dan masuk dalam sektor Agrikultur. Oleh karena itu, informasi ini tidak memiliki relevansi maupun dampak langsung terhadap pergerakan saham-saham atau indeks di sektor Energi.",
+      "analisis_saham": "Nama saham spesifik yang disebutkan adalah BWPT. Klarifikasi dari BWPT mengenai sengketa investasi Felda, dengan menegaskan FICP sebagai pemegang saham terdaftar, dapat mengurangi ketidakpastian informasi bagi investor BWPT dan menstabilkan persepsi mengenai struktur kepemilikan dan hubungan korporasi perusahaan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Eagle High Plantations (BWPT) mengklarifikasi struktur kepemilikan sahamnya terkait investasi Felda, menyatakan FICP sebagai pemegang saham langsung.",
+      "alasan": "Berita ini spesifik mengenai sengketa investasi dan kepemilikan saham di perusahaan perkebunan kelapa sawit (BWPT), yang termasuk dalam sektor pertanian. Tidak ada relevansi atau dampak langsung maupun tidak langsung terhadap kinerja atau sentimen di sektor infrastruktur.",
+      "analisis_saham": "Berita ini secara spesifik menyebutkan BWPT (Eagle High Plantations). Klarifikasi mengenai FICP sebagai pemegang saham tercatat alih-alih Felda dapat membantu mengurangi ketidakpastian informasi terkait struktur kepemilikan BWPT, yang berpotensi memiliki sentimen netral hingga sedikit positif karena peningkatan transparansi mengenai pihak yang berhak sebagai pemegang saham."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "BWPT Bongkar Fakta Sengketa Investasi Felda",
+      "url": "https://emitennews.com/news/bwpt-bongkar-fakta-sengketa-investasi-felda",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    }
+  ]
+}
