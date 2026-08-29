@@ -1,0 +1,230 @@
+{
+  "tanggal": "2026-08-20",
+  "dibuat_pada": "2026-08-20 15:36 WIB",
+  "jumlah_artikel": 34,
+  "saham_disebut": {
+    "BIPP": [
+      "Keuangan (rating 6/7)"
+    ],
+    "INPP": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BBTN": [
+      "Teknologi (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Bursa Efek Indonesia mengambil langkah proaktif untuk meningkatkan likuiditas pasar dan transparansi, didukung oleh sentimen positif dari pasar global.",
+      "alasan": "Kebijakan BEI untuk menurunkan batas harga minimum saham dan komitmen terhadap reformasi transparansi akan meningkatkan daya tarik dan aktivitas pasar modal. Peningkatan likuiditas dan kepercayaan investor secara langsung menguntungkan perusahaan di sektor keuangan seperti broker, bank investasi, dan manajer aset, mendorong potensi kenaikan kinerja.",
+      "analisis_saham": "BIPP akan melakukan private placement sejumlah saham untuk mendapatkan modal, yang dampaknya bisa positif jika dana digunakan untuk ekspansi, namun berpotensi dilusi bagi pemegang saham. Sementara itu, INPP memasuki masa cum dividen interim, yang umumnya membuat sahamnya menarik sebelum tanggal cum dividen dan berpotensi mengalami koreksi harga setelah tanggal ex-dividen."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Sentimen pasar global membaik karena kebijakan buyback obligasi AS, sementara sektor perbankan domestik menunjukkan akselerasi adopsi teknologi digital dan AI.",
+      "alasan": "Peningkatan kepercayaan di pasar global berkat kebijakan AS dapat mendorong aliran modal dan selera risiko investor, yang secara tidak langsung menguntungkan sektor teknologi domestik. Selain itu, upaya transformasi digital oleh entitas besar seperti BTN menggarisbawahi tren adopsi teknologi yang kuat, meskipun tidak secara langsung menyebutkan kinerja perusahaan teknologi terdaftar.",
+      "analisis_saham": "Bank Tabungan Negara (BBTN) menunjukkan komitmen kuat terhadap transformasi digital dan AI melalui strategi Human Capital-nya, yang berpotensi meningkatkan efisiensi dan inovasi bank tersebut. Penghargaan yang diterima juga memperkuat citra positif manajemen dalam mengelola adaptasi terhadap perkembangan teknologi, yang dapat meningkatkan kepercayaan investor terhadap prospek jangka panjang BBTN."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Defisit perdagangan Jepang yang membengkak akibat lonjakan impor minyak menunjukkan permintaan global yang kuat terhadap komoditas energi, khususnya minyak.",
+      "alasan": "Lonjakan impor minyak Jepang mengindikasikan adanya permintaan yang tinggi dan berpotensi mendorong kenaikan harga komoditas minyak global. Kondisi ini secara umum memberikan sentimen positif bagi emiten di sektor energi, terutama produsen minyak dan gas, karena dapat meningkatkan pendapatan dan profitabilitas mereka.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini tidak memberikan sentimen signifikan yang secara langsung mempengaruhi sektor infrastruktur, dengan sebagian besar berita berfokus pada isu non-sektoral.",
+      "alasan": "Tidak ada berita yang melaporkan perkembangan proyek infrastruktur baru, perubahan kebijakan yang berdampak pada industri, atau kinerja keuangan perusahaan-perusahaan infrastruktur. Isu-isu yang dibahas lebih bersifat lokal atau terkait pasar secara umum tanpa implikasi langsung terhadap sektor infrastruktur.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Sirkulasi uang sebesar Rp 90 triliun per tahun untuk umrah mengindikasikan aktivitas ekonomi yang besar, sementara penghentian bansos untuk penerima yang terlibat judi online menunjukkan upaya penertiban pemerintah.",
+      "alasan": "Aliran dana yang masif sebesar Rp 90 triliun untuk ibadah umrah setiap tahunnya merupakan pendorong konsumsi dan aktivitas ekonomi yang signifikan secara makro, meskipun ada isu penipuan. Meskipun penghentian bansos karena judi online bersifat negatif dan mencerminkan masalah sosial, dampaknya lebih terlokalisasi dan tidak mengimbangi potensi positif dari perputaran uang umrah yang sangat besar pada skala ekonomi nasional. Secara keseluruhan, potensi perputaran uang yang besar lebih dominan dalam membentuk sentimen.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Buyback Obligasi Melonjak, Sinyal Hijau Pasar AS",
+      "url": "https://emitennews.com/news/buyback-obligasi-melonjak-sinyal-hijau-pasar-as",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Efek IJEPA: Kuota Bebas Bea Nanas Naik, Saham Agro Siap Mejit",
+      "url": "https://emitennews.com/news/efek-ijepa-kuota-bebas-bea-nanas-naik-saham-agro-siap-mejit",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BEI Klarifikasi Akan Ubah Batas Harga Minimum Rp50 Jadi Lebih Rendah",
+      "url": "https://emitennews.com/news/bei-klarifikasi-akan-ubah-batas-harga-minimum-rp50-jadi-lebih-rendah",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Bos BEI Respons FTSE Russell, Bakal Lakukan Ini",
+      "url": "https://emitennews.com/news/bos-bei-respons-ftse-russell-bakal-lakukan-ini",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "BIPP Private Placement 502,86 Juta Lembar, Simak Tujuannya",
+      "url": "https://emitennews.com/news/bipp-private-placement-50286-juta-lembar-simak-tujuannya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Cum Dividen Interim INPP Hari Ini (20/8), Cek Lagi Jadwalnya!",
+      "url": "https://emitennews.com/news/cum-dividen-interim-inpp-hari-ini-208-cek-lagi-jadwalnya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Harga Ayam Stabil Rp42 Ribu, Margin Emiten Unggas Aman",
+      "url": "https://emitennews.com/news/harga-ayam-stabil-rp42-ribu-margin-emiten-unggas-aman",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Impor Minyak Melonjak, Defisit Dagang Jepang Membengkak",
+      "url": "https://emitennews.com/news/impor-minyak-melonjak-defisit-dagang-jepang-membengkak",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Meluncur Naik 1 Persen ke Level 6.458, Saham Emas Kompak Ngegas!",
+      "url": "https://emitennews.com/news/ihsg-meluncur-naik-1-persen-ke-level-6458-saham-emas-kompak-ngegas",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Lepas Suspensi Sehari, Dua Saham Ini Kembali Melenggang",
+      "url": "https://emitennews.com/news/lepas-suspensi-sehari-dua-saham-ini-kembali-melenggang",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Siang (20/8) Terbang 1,47 Persen, Hampir Seluruh Sektor Menghijau",
+      "url": "https://emitennews.com/news/ihsg-siang-208-terbang-147-persen-hampir-seluruh-sektor-menghijau",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kasus GOTO Mentok Rp50, Ada Wacana BEI Ubah Batas Minimum Harga ke Rp1",
+      "url": "https://emitennews.com/news/kasus-goto-mentok-rp50-ada-wacana-bei-ubah-batas-minimum-harga-ke-rp1",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Mobil Listrik Bermasalah, Kemendag Panggil BYD Indonesia",
+      "url": "https://emitennews.com/news/mobil-listrik-bermasalah-kemendag-panggil-byd-indonesia",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pemilik Manfaat Garudafood (GOOD) Borong 6,79 Juta Saham Sendiri",
+      "url": "https://emitennews.com/news/pemilik-manfaat-garudafood-good-borong-679-juta-saham-sendiri",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Makassar Job Fair 2026 Dibuka: Didominasi Gen Z dan Posisi Admin Paling Banyak Diminati",
+      "url": "https://makassar.kompas.com/read/2026/08/20/152755578/makassar-job-fair-2026-dibuka-didominasi-gen-z-dan-posisi-admin-paling",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Saiko Akuisisi NAYZ Rp23,5/Saham, Jauh di Bawah Harga IPO dan Pasar",
+      "url": "https://emitennews.com/news/saiko-akuisisi-nayz-rp235saham-jauh-di-bawah-harga-ipo-dan-pasar",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Selat Hormuz Panas, Minyak Dunia Tertahan di USD86",
+      "url": "https://emitennews.com/news/selat-hormuz-panas-minyak-dunia-tertahan-di-usd86",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Penjualan Tiket dan F&B Lesu, Laba CNMA Tergerus 40 Persen",
+      "url": "https://emitennews.com/news/penjualan-tiket-dan-fb-lesu-laba-cnma-tergerus-40-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ada 10.000 Bus Listrik yang Akan Mengaspal di Jakarta pada 2030",
+      "url": "https://megapolitan.kompas.com/read/2026/08/20/15124831/ada-10000-bus-listrik-yang-akan-mengaspal-di-jakarta-pada-2030",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Transformasi SDM Topang Kinerja, BTN Borong Empat Penghargaan ini",
+      "url": "https://emitennews.com/news/transformasi-sdm-topang-kinerja-btn-borong-empat-penghargaan-ini",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kenapa Kali Bekasi Kembali Menghitam dan Berbusa Usai Hujan?",
+      "url": "https://megapolitan.kompas.com/read/2026/08/20/15235251/kenapa-kali-bekasi-kembali-menghitam-dan-berbusa-usai-hujan",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "KRL Bogor dan Tangerang Terganggu Bersamaan, Apa Penyebabnya?",
+      "url": "https://megapolitan.kompas.com/read/2026/08/20/15184501/krl-bogor-dan-tangerang-terganggu-bersamaan-apa-penyebabnya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "1.300 Dapur MBG Ditutup, Anggota DPR: Keamanan Pangan Tidak Boleh Dikompromikan",
+      "url": "https://nasional.kompas.com/read/2026/08/20/15161141/1300-dapur-mbg-ditutup-anggota-dpr-keamanan-pangan-tidak-boleh-dikompromikan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Karhutla di Kalimantan, Kemenkes Kirim Ratusan Ribu Masker dan Bantuan Oksigen",
+      "url": "https://nasional.kompas.com/read/2026/08/20/15122541/karhutla-di-kalimantan-kemenkes-kirim-ratusan-ribu-masker-dan-bantuan",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Uang Umrah Beredar Rp 90 Triliun per Tahun, tapi Banyak Jemaah Ditipu Travel",
+      "url": "https://nasional.kompas.com/read/2026/08/20/15262881/uang-umrah-beredar-rp-90-triliun-per-tahun-tapi-banyak-jemaah-ditipu-travel",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Perca Indonesia Minta Aturan Kewarganegaraan Ganda Tak Diskriminatif",
+      "url": "https://nasional.kompas.com/read/2026/08/20/15294721/perca-indonesia-minta-aturan-kewarganegaraan-ganda-tak-diskriminatif",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BNNP Jambi Minta Pemda Keluarkan Perda Soal Pengawasan Vape Etomidate: Sudah Banyak Korban",
+      "url": "https://regional.kompas.com/read/2026/08/20/151813878/bnnp-jambi-minta-pemda-keluarkan-perda-soal-pengawasan-vape-etomidate-sudah",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Modal Korek Gas demi Irit Biaya Buka Lahan, 8 Orang di Kalbar Jadi Tersangka Karhutla",
+      "url": "https://regional.kompas.com/read/2026/08/20/151354478/modal-korek-gas-demi-irit-biaya-buka-lahan-8-orang-di-kalbar-jadi-tersangka",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Kebakaran Gunung Arjuno, Satu dari Tiga Titik Api Belum Terjangkau Tim Darat",
+      "url": "https://surabaya.kompas.com/read/2026/08/20/152351878/kebakaran-gunung-arjuno-satu-dari-tiga-titik-api-belum-terjangkau-tim-darat",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ratusan Warga Demo Balai Desa Karangsembung Brebes, Tuntut Transparansi Anggaran dan Penertiban Sabung Ayam",
+      "url": "https://regional.kompas.com/read/2026/08/20/151908978/ratusan-warga-demo-balai-desa-karangsembung-brebes-tuntut-transparansi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "1.331 Penerima Bansos di Situbondo Dihentikan, Terindikasi Terlibat Judi Online",
+      "url": "https://surabaya.kompas.com/read/2026/08/20/151609478/1331-penerima-bansos-di-situbondo-dihentikan-terindikasi-terlibat-judi",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Hutan Sengaja Dibakar untuk Ditanami Sawit, Dua Tersangka Karhutla Ditangkap di Bengkalis",
+      "url": "https://regional.kompas.com/read/2026/08/20/152549578/hutan-sengaja-dibakar-untuk-ditanami-sawit-dua-tersangka-karhutla-ditangkap",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Data Desil Bikin Mahasiswa Unesa Ini Nyaris Putus Kuliah, Tercatat Punya 3 Mobil",
+      "url": "https://surabaya.kompas.com/read/2026/08/20/152540378/data-desil-bikin-mahasiswa-unesa-ini-nyaris-putus-kuliah-tercatat-punya-3",
+      "sektor": "Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Harga Rata-rata HP Xiaomi Makin Mahal, Kini Cetak Rekor Tertinggi",
+      "url": "https://tekno.kompas.com/read/2026/08/20/15240057/harga-rata-rata-hp-xiaomi-makin-mahal-kini-cetak-rekor-tertinggi",
+      "sektor": "Keuangan"
+    }
+  ]
+}

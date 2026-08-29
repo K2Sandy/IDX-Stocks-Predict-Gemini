@@ -1,0 +1,289 @@
+{
+  "tanggal": "2026-08-21",
+  "dibuat_pada": "2026-08-21 15:35 WIB",
+  "jumlah_artikel": 45,
+  "saham_disebut": {
+    "PEGE": [
+      "Teknologi (rating 3/7)"
+    ],
+    "TPIA": [
+      "Energi (rating 6/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "PTPP": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "FUTR": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Laba BUMN melonjak 75% setelah restrukturisasi, menunjukkan peningkatan efisiensi dan kesehatan korporat negara yang signifikan.",
+      "alasan": "Kenaikan laba BUMN secara drastis mencerminkan perbaikan kondisi ekonomi dan operasional perusahaan negara, yang secara tidak langsung memberikan sentimen positif bagi sektor keuangan. Bank-bank BUMN, sebagai tulang punggung indeks keuangan, akan diuntungkan dari peningkatan kesehatan kredit dan aktivitas bisnis entitas BUMN lainnya, mendorong proyeksi pertumbuhan kinerja yang lebih baik.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Sentimen pasar didominasi oleh kekhawatiran kenaikan imbal hasil obligasi AS yang menekan saham pertumbuhan, serta kerentanan sistem digital, meskipun ada optimisme terhadap adopsi teknologi baru di industri otomotif.",
+      "alasan": "Kenaikan imbal hasil obligasi AS secara global cenderung menekan sektor teknologi karena meningkatnya biaya modal dan diskonto valuasi pertumbuhan. Meskipun pameran GIIAS menunjukkan potensi teknologi baru di otomotif, berita kebocoran sistem QR Code dan penyalahgunaannya dapat menciptakan sentimen hati-hati terhadap keandalan implementasi teknologi digital. Faktor makro dan kerentanan sistem ini secara agregat cenderung memberikan tekanan ke bawah pada indeks sektor teknologi.",
+      "analisis_saham": "PEGE (PT Panca Global Kapital Tbk.) disebutkan dalam berita mengenai divestasi saham pasca-rights issue oleh PT Mandiri Terang Harapan. Aksi jual signifikan oleh investor besar ini berpotensi memberikan tekanan jual pada harga saham PEGE dalam jangka pendek, menciptakan sentimen negatif khusus untuk saham ini."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Kenaikan harga minyak mentah dunia yang signifikan di atas USD93 per barel akibat lonjakan permintaan dan ketegangan geopolitik menjadi sentimen pendorong utama sektor Energi.",
+      "alasan": "Kenaikan harga minyak mentah global secara langsung meningkatkan pendapatan dan profitabilitas perusahaan energi yang bergerak di sektor hulu (eksplorasi dan produksi minyak). Meskipun ada potensi tekanan pada APBN dan harga BBM domestik, sentimen harga komoditas yang tinggi umumnya dianggap positif bagi kinerja indeks sektor ini secara keseluruhan.",
+      "analisis_saham": "Emiten Chandra Asri Pacific Tbk (TPIA), yang merupakan penyedia solusi energi, kimia, dan infrastruktur, melakukan akuisisi strategis bisnis otomotif Cycle & Carriage di Singapura dan Malaysia. Langkah ekspansi ini menunjukkan strategi pertumbuhan dan diversifikasi perusahaan ke sektor mobilitas, yang dapat memberikan sentimen positif bagi prospek jangka panjang TPIA."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Penataan dan restrukturisasi BUMN mendorong peningkatan laba signifikan, sementara emiten infrastruktur kunci menunjukkan kinerja positif dan ekspansi strategis.",
+      "alasan": "Kebijakan pemerintah dalam restrukturisasi BUMN berdampak positif pada peningkatan efisiensi dan laba entitas pelat merah, yang banyak di antaranya bergerak di sektor infrastruktur. Selain itu, kinerja positif dan langkah merger-restrukturisasi pada emiten infrastruktur besar seperti PTPP, serta ekspansi strategis TPIA, mengindikasikan prospek yang cerah bagi sektor ini.",
+      "analisis_saham": "PTPP**: Berita mengenai percepatan merger dan restrukturisasi oleh Danantara, serta lonjakan signifikan dalam pendapatan dan laba bersih di Semester I 2026, memberikan sentimen sangat positif. Hal ini diperkirakan akan mendorong kenaikan harga saham PTPP."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Sentimen negatif dominan akibat maraknya kasus korupsi yang melibatkan pejabat pemerintah dan akademik serta ancaman serius El Nino terhadap pasokan air bersih di kota besar.",
+      "alasan": "Kasus korupsi yang masif dapat mengikis kepercayaan investor terhadap iklim investasi dan tata kelola yang baik. Sementara itu, ancaman El Nino terhadap pasokan air bersih menimbulkan kekhawatiran akan gangguan ekonomi, risiko inflasi, dan potensi krisis sumber daya yang dapat menekan aktivitas makro secara keseluruhan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Turnamen Usia Muda di Sentul Dikemas seperti Piala Dunia 2026",
+      "url": "https://bola.kompas.com/read/2026/08/21/15193818/turnamen-usia-muda-di-sentul-dikemas-seperti-piala-dunia-2026",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Gubernur Bali Koster Serahkan Rp 1 Miliar untuk Korban Gempa NTT",
+      "url": "https://denpasar.kompas.com/read/2026/08/21/152317778/gubernur-bali-koster-serahkan-rp-1-miliar-untuk-korban-gempa-ntt",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Bogamulia Nagadi Borong Lagi Saham TSPC, Porsi Jadi 91 Persen",
+      "url": "https://emitennews.com/news/bogamulia-nagadi-borong-lagi-saham-tspc-porsi-jadi-91-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "290 BUMN Ditutup, Laba BUMN Melonjak 75% ke Rp326 T",
+      "url": "https://emitennews.com/news/290-bumn-ditutup-laba-bumn-melonjak-75-ke-rp326-t",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Emiten Prajogo (TPIA) Lahap Bisnis Ini dari 2 Negara Tetangga",
+      "url": "https://emitennews.com/news/emiten-prajogo-tpia-lahap-bisnis-ini-dari-2-negara-tetangga",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Danantara Kebut Merger & Restrukturisasi PTPP, Ini Loncatan Kinerjanya",
+      "url": "https://emitennews.com/news/danantara-kebut-merger-restrukturisasi-ptpp-ini-loncatan-kinerjanya",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "FUTR Kemas Rugi di Paruh Pertama 2026, Tapi Sahamnya Nanjak Hari Ini",
+      "url": "https://emitennews.com/news/futr-kemas-rugi-di-paruh-pertama-2026-tapi-sahamnya-nanjak-hari-ini",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Ganti Pemain, Emiten Laptop (ZYRX) Rombak Posisi Dirut & Komut!",
+      "url": "https://emitennews.com/news/ganti-pemain-emiten-laptop-zyrx-rombak-posisi-dirut-komut",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Harga Minyak Tembus USD93, APBN dan BBM Dalam Tekanan",
+      "url": "https://emitennews.com/news/harga-minyak-tembus-usd93-apbn-dan-bbm-dalam-tekanan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Grup Bakrie (BUMI) Makin Dekat Kuasai Emiten Tambang Australia (LLM)",
+      "url": "https://emitennews.com/news/grup-bakrie-bumi-makin-dekat-kuasai-emiten-tambang-australia-llm",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Uji 6.600, Awas Waspadai Badai ini",
+      "url": "https://emitennews.com/news/ihsg-uji-6600-awas-waspadai-badai-ini",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Dibuka Menguat di Atas Level 6.500 Jelang Review FTSE Russel",
+      "url": "https://emitennews.com/news/ihsg-dibuka-menguat-di-atas-level-6500-jelang-review-ftse-russel",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kabar Terbaru, TPIA Caplok Bisnis Otomotif Cycle & Carriage",
+      "url": "https://emitennews.com/news/kabar-terbaru-tpia-caplok-bisnis-otomotif-cycle-carriage",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Imbal Hasil AS Naik, Saham Asia Ikut Tertekan",
+      "url": "https://emitennews.com/news/imbal-hasil-as-naik-saham-asia-ikut-tertekan",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Krisis AS-Iran Katrol Minyak, Harga Emas Antam Bertahan",
+      "url": "https://emitennews.com/news/krisis-as-iran-katrol-minyak-harga-emas-antam-bertahan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ledakan Minyak Lambungkan IHSG",
+      "url": "https://emitennews.com/news/ledakan-minyak-lambungkan-ihsg",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kawal Penataan BUMN, KPPU Bentuk Satgas Khusus",
+      "url": "https://emitennews.com/news/kawal-penataan-bumn-kppu-bentuk-satgas-khusus",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Obligasi dan Minyak Bergejolak, Investor Serbu Emas",
+      "url": "https://emitennews.com/news/obligasi-dan-minyak-bergejolak-investor-serbu-emas",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pemerintah Incar Emas Bawah Bantal USD252 M Masuk Bank",
+      "url": "https://emitennews.com/news/pemerintah-incar-emas-bawah-bantal-usd252-m-masuk-bank",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Opsi Purbaya Terkait FTA: Selamatkan Industri atau Biarkan Mati",
+      "url": "https://emitennews.com/news/opsi-purbaya-terkait-fta-selamatkan-industri-atau-biarkan-mati",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pendapatan Berulang Makin Dominan, INPP Bagi Dividen Interim",
+      "url": "https://emitennews.com/news/pendapatan-berulang-makin-dominan-inpp-bagi-dividen-interim",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Performa Kinclong, BWPT Alihkan Saham Treasuri 402,92 Juta Lembar",
+      "url": "https://emitennews.com/news/performa-kinclong-bwpt-alihkan-saham-treasuri-40292-juta-lembar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pindah Tangan ke Lokal, Sefas Group Borong SPBU Shell di Indonesia",
+      "url": "https://emitennews.com/news/pindah-tangan-ke-lokal-sefas-group-borong-spbu-shell-di-indonesia",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "PT Pos Indonesia Bakal Gelar Rapat, Bahas 3 Agenda Ini",
+      "url": "https://emitennews.com/news/pt-pos-indonesia-bakal-gelar-rapat-bahas-3-agenda-ini",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Post Malone Bertunangan, Harga Cincin Ditaksir Capai Rp 44 Miliar",
+      "url": "https://lifestyle.kompas.com/read/2026/08/21/153100020/post-malone-bertunangan-harga-cincin-ditaksir-capai-rp-44-miliar",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "REAL Kemas Penjualan Tumbuh di 1H2026 Tapi Laba Tergerus, Kenapa?",
+      "url": "https://emitennews.com/news/real-kemas-penjualan-tumbuh-di-1h2026-tapi-laba-tergerus-kenapa",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Sempat 2 Hari ARA Beruntun, Saham Emiten Haji Isam Kini Tercoreng UMA",
+      "url": "https://emitennews.com/news/sempat-2-hari-ara-beruntun-saham-emiten-haji-isam-kini-tercoreng-uma",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "2 Mantan Karyawan Sate Babi Curi Motor Bos di Tambora Jakbar, Modal Duplikat Kunci Garasi",
+      "url": "https://megapolitan.kompas.com/read/2026/08/21/15243791/2-mantan-karyawan-sate-babi-curi-motor-bos-di-tambora-jakbar-modal",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Simas Finance Rombak Manajemen, Hanya Dua Pejabat Lama Bertahan",
+      "url": "https://emitennews.com/news/simas-finance-rombak-manajemen-hanya-dua-pejabat-lama-bertahan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "3 Masalah yang Bikin Pelintasan Sebidang di Jakarta Masih Rawan Kecelakaan",
+      "url": "https://megapolitan.kompas.com/read/2026/08/21/15182941/3-masalah-yang-bikin-pelintasan-sebidang-di-jakarta-masih-rawan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "KPK Panggil Stafsus Menhut Raja Juli Jadi Saksi Kasus Bupati Kuansing",
+      "url": "https://nasional.kompas.com/read/2026/08/21/15193561/kpk-panggil-stafsus-menhut-raja-juli-jadi-saksi-kasus-bupati-kuansing",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Tak Ada Saham ARA & ARB, IHSG Sesi I (21/8) Lanjut Menguat 0,52 Persen",
+      "url": "https://emitennews.com/news/tak-ada-saham-ara-arb-ihsg-sesi-i-218-lanjut-menguat-052-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Usai Rights Issue PEGE, Investor Ini Divestasi 29,9 Juta Saham Rp3,3M",
+      "url": "https://emitennews.com/news/usai-rights-issue-pege-investor-ini-divestasi-299-juta-saham-rp33m",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "JPU Ungkap Kuota Haji Tambahan Dinikmati Orang Berduit, Bukan yang Menunggu Lama",
+      "url": "https://nasional.kompas.com/read/2026/08/21/15310571/jpu-ungkap-kuota-haji-tambahan-dinikmati-orang-berduit-bukan-yang-menunggu",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kemenhut Ungkap Kendala Pelaksanaan \"Water Bombing\" dan OMC di Karhutla Kalimantan",
+      "url": "https://nasional.kompas.com/read/2026/08/21/15301081/kemenhut-ungkap-kendala-pelaksanaan-water-bombing-dan-omc-di-karhutla",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "2 WN Aljazair Diduga Tipu Rental PS di Bali, Pemilik Rugi Rp 74 Juta",
+      "url": "https://regional.kompas.com/read/2026/08/21/151824378/2-wn-aljazair-diduga-tipu-rental-ps-di-bali-pemilik-rugi-rp-74-juta",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Waspada Asap Karhutla, Bandara APT Pranoto Samarinda Gandeng BMKG Pantau Pergerakan Angin",
+      "url": "https://regional.kompas.com/read/2026/08/21/152534478/waspada-asap-karhutla-bandara-apt-pranoto-samarinda-gandeng-bmkg-pantau",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "GIIAS Surabaya 2026: Pameran Otomotif, Arah Industri & Teknologi Baru",
+      "url": "https://otomotif.kompas.com/read/2026/08/21/152100015/giias-surabaya-2026--pameran-otomotif-arah-industri-teknologi-baru",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Ancaman El Nino Bikin Sungai Mahakam Surut dan Asin, Bagaimana Nasib Air Minum Samarinda?",
+      "url": "https://regional.kompas.com/read/2026/08/21/152800978/ancaman-el-nino-bikin-sungai-mahakam-surut-dan-asin-bagaimana-nasib-air",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Sistem QR Code Solar Subsidi Bocor dan Dijual Bebas di Shopee, DPR Panggil Direksi Pertamina",
+      "url": "https://regional.kompas.com/read/2026/08/21/151748978/sistem-qr-code-solar-subsidi-bocor-dan-dijual-bebas-di-shopee-dpr-panggil",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Profil Noor Farid, Wakil Rektor Unsoed yang Ditangkap KPK, Pernah Jadi Dosen Teladan",
+      "url": "https://regional.kompas.com/read/2026/08/21/152932678/profil-noor-farid-wakil-rektor-unsoed-yang-ditangkap-kpk-pernah-jadi-dosen",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "9 Bulan Bertaruh Nyawa Lewati Jembatan Kayu, Warga Limau Manih Padang Akhirnya Dapat Kepastian",
+      "url": "https://regional.kompas.com/read/2026/08/21/153016278/9-bulan-bertaruh-nyawa-lewati-jembatan-kayu-warga-limau-manih-padang",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Satu Sumur Jadi Rebutan Tiga Dusun di Pamekasan, Warga Rela Antre 3 Jam Demi Air Bersih",
+      "url": "https://surabaya.kompas.com/read/2026/08/21/152830078/satu-sumur-jadi-rebutan-tiga-dusun-di-pamekasan-warga-rela-antre-3-jam-demi",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "SDN Setono Ponorogo Ditutup: Pengajuan sejak 2025, Disepakati Wali Murid dan Komite",
+      "url": "https://surabaya.kompas.com/read/2026/08/21/153000978/sdn-setono-ponorogo-ditutup--pengajuan-sejak-2025-disepakati-wali-murid-dan",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Bandara Tersibuk Dunia 2026 Versi ACI, Juaranya dari Asia",
+      "url": "https://travel.kompas.com/read/2026/08/21/153000027/bandara-tersibuk-dunia-2026-versi-aci-juaranya-dari-asia",
+      "sektor": "Umum/Makro"
+    }
+  ]
+}

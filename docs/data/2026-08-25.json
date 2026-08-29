@@ -1,0 +1,196 @@
+{
+  "tanggal": "2026-08-25",
+  "dibuat_pada": "2026-08-25 15:41 WIB",
+  "jumlah_artikel": 26,
+  "saham_disebut": {
+    "EMTK": [
+      "Teknologi (rating 3/7)"
+    ],
+    "ELSA": [
+      "Energi (rating 4/7)"
+    ],
+    "ADHI": [
+      "Infrastruktur (rating 3/7)"
+    ],
+    "SHIP": [
+      "Infrastruktur (rating 3/7)"
+    ],
+    "BTEL": [
+      "Infrastruktur (rating 3/7)"
+    ],
+    "BBTN": [
+      "Infrastruktur (rating 3/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Kegagalan Adhi Karya (ADHI) dalam membayar bunga obligasi tepat waktu meningkatkan kewaspadaan pasar terhadap risiko utang korporasi.",
+      "alasan": "Meskipun ADHI bukan perusahaan keuangan, default pada obligasinya dapat meningkatkan persepsi risiko di pasar obligasi secara keseluruhan. Ini berpotensi mempengaruhi selera investor terhadap instrumen utang korporasi dan secara tidak langsung bisa menambah tekanan pada lembaga keuangan yang memiliki eksposur terhadap penerbit obligasi atau kredit serupa.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "PT Elang Mahkota Teknologi (EMTK) telah menjual saham anak perusahaan IT-nya, sementara Rusia menawarkan kerja sama teknologi termasuk drone dan robotika ke Indonesia.",
+      "alasan": "Berita paling konkret terkait sektor adalah divestasi lini bisnis IT oleh EMTK, yang mungkin mengindikasikan perampingan fokus daripada ekspansi di sektor tersebut. Sementara tawaran teknologi dari Rusia bersifat umum dan belum memiliki dampak langsung yang kuat terhadap kinerja emiten teknologi terdaftar dalam waktu dekat.",
+      "analisis_saham": "EMTK (PT Elang Mahkota Teknologi Tbk) telah menjual saham PT Abhimata Citra Abadi (ACA), sebuah perusahaan IT. Langkah ini kemungkinan merupakan bagian dari strategi EMTK untuk merampingkan portofolio atau memfokuskan sumber daya pada bisnis inti lainnya. Dampaknya terhadap harga saham EMTK bisa netral karena dianggap sebagai restrukturisasi internal, atau sedikit positif jika pasar melihatnya sebagai efisiensi aset."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "PT Elnusa Tbk (ELSA), anak perusahaan Pertamina di sektor energi, mengumumkan pengunduran diri salah satu direkturnya.",
+      "alasan": "Kumpulan berita hari ini hanya mencakup informasi mengenai pengunduran diri seorang direktur dari PT Elnusa Tbk (ELSA). Peristiwa ini adalah isu spesifik perusahaan dan tidak mencerminkan sentimen pasar atau tren makro yang dapat mempengaruhi sektor Energi secara keseluruhan. Oleh karena itu, berita ini tidak memberikan katalis yang jelas untuk pergerakan indeks sektor secara umum.",
+      "analisis_saham": "Untuk ELSA (PT Elnusa Tbk), pengunduran diri Direktur Sumber Daya Manusia dan Umum, Hera Handayani, dapat menimbulkan persepsi netral hingga sedikit negatif di kalangan investor. Meskipun tidak secara langsung mempengaruhi kinerja operasional inti perusahaan di jasa migas, perubahan manajemen dapat menimbulkan ketidakpastian. Investor mungkin akan mencermati perkembangan selanjutnya terkait suksesi dan potensi implikasinya terhadap tata kelola perusahaan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Penghentian sementara perdagangan saham Adhi Karya (ADHI) akibat gagal bayar bunga obligasi menimbulkan sentimen negatif yang signifikan di sektor infrastruktur.",
+      "alasan": "Masalah likuiditas pada emiten konstruksi BUMN besar seperti ADHI dapat menimbulkan kekhawatiran pasar terhadap kondisi keuangan perusahaan lain di sektor yang sama serta keberlanjutan proyek-proyek infrastruktur. Meskipun ada berita positif dari BTN terkait pembiayaan TOD, sentimen negatif dari masalah fundamental ADHI cenderung lebih dominan mempengaruhi persepsi sektor secara keseluruhan.",
+      "analisis_saham": "ADHI (Adhi Karya):** Penghentian perdagangan saham karena gagal bayar bunga obligasi adalah sentimen yang sangat negatif, menunjukkan masalah keuangan serius yang dapat menekan harga saham lebih lanjut setelah suspensi dicabut dan mengurangi kepercayaan investor."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Bank Sentral Korea Borong Emas, Kurangi Obligasi Asing",
+      "url": "https://emitennews.com/news/bank-sentral-korea-borong-emas-kurangi-obligasi-asing",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Adhi Karya (ADHI) Beber Fakta Penghentian Sementara Perdagangan Saham",
+      "url": "https://emitennews.com/news/adhi-karya-adhi-beber-fakta-penghentian-sementara-perdagangan-saham",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEEF Jelaskan Lonjakan Harga Sahamnya Hingga Disuspensi BEI",
+      "url": "https://emitennews.com/news/beef-jelaskan-lonjakan-harga-sahamnya-hingga-disuspensi-bei",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Avian Brands Peringkat #1 Sustainalytics ESG Risk Rating",
+      "url": "https://emitennews.com/news/avian-brands-peringkat-1-sustainalytics-esg-risk-rating",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Akuisisi, Emiten Raffi-Nagita (VISI) Private Placement 307 Juta Helai",
+      "url": "https://emitennews.com/news/akuisisi-emiten-raffi-nagita-visi-private-placement-307-juta-helai",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BEEF Buka Suara soal Rumor Diakuisisi Investor Korea",
+      "url": "https://emitennews.com/news/beef-buka-suara-soal-rumor-diakuisisi-investor-korea",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Evaluasi Indeks BEI: Saham SHIP Melenggang Masuk ke Papan Utama Bursa",
+      "url": "https://emitennews.com/news/evaluasi-indeks-bei-saham-ship-melenggang-masuk-ke-papan-utama-bursa",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Evaluasi Papan Akselerasi BEI: 3 Saham Masuk, MGLV–PACK Rajai Indeks",
+      "url": "https://emitennews.com/news/evaluasi-papan-akselerasi-bei-3-saham-masuk-mglvpack-rajai-indeks",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Cuma Ada 2, Siapa Raja Properti Indonesia Penghuni Indeks MSCI?",
+      "url": "https://emitennews.com/news/cuma-ada-2-siapa-raja-properti-indonesia-penghuni-indeks-msci",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Evaluasi Papan Pengembangan BEI: GOTO Top Tier & 15 Saham Baru Masuk",
+      "url": "https://emitennews.com/news/evaluasi-papan-pengembangan-bei-goto-top-tier-15-saham-baru-masuk",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Geliat Djarum, Huawei, hingga Jampidsus di Saham Nyangkut Milik Bakrie",
+      "url": "https://emitennews.com/news/geliat-djarum-huawei-hingga-jampidsus-di-saham-nyangkut-milik-bakrie",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Loyo 0,37 Persen, PICO Justru Pimpin Top Gainers, Simak!",
+      "url": "https://emitennews.com/news/ihsg-loyo-037-persen-pico-justru-pimpin-top-gainers-simak",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Intip Kinerja Elnusa (ELSA) di Semester I 2026, Positif?",
+      "url": "https://emitennews.com/news/intip-kinerja-elnusa-elsa-di-semester-i-2026-positif",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Karier Hera Handayani di Elnusa Sebelum Mundur dari Direktur SDM",
+      "url": "https://emitennews.com/news/karier-hera-handayani-di-elnusa-sebelum-mundur-dari-direktur-sdm",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kabar Duka dari JPFA, Komutnya Meninggal Dunia, Eks Kepala BIN Era SBY",
+      "url": "https://emitennews.com/news/kabar-duka-dari-jpfa-komutnya-meninggal-dunia-eks-kepala-bin-era-sby",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ini Lini Bisnis Perusahaan IT yang Dilepas EMTK dan Dibeli Yuslinda",
+      "url": "https://emitennews.com/news/ini-lini-bisnis-perusahaan-it-yang-dilepas-emtk-dan-dibeli-yuslinda",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kartu Kredit Indonesia & Gen Z: Dorong Konsumsi atau Budaya Konsumtif?",
+      "url": "https://emitennews.com/news/kartu-kredit-indonesia-gen-z-dorong-konsumsi-atau-budaya-konsumtif",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Ketika Mal dan Hotel Jadi Penyelamat Kinerja Pakuwon Jati (PWON)",
+      "url": "https://emitennews.com/news/ketika-mal-dan-hotel-jadi-penyelamat-kinerja-pakuwon-jati-pwon",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "PDB Halal Rp5.000 T, RI Kalah Agresif dari Malaysia",
+      "url": "https://emitennews.com/news/pdb-halal-rp5000-t-ri-kalah-agresif-dari-malaysia",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "RI Kejar Target EBT 21%, Jerman Kucurkan 2,3 Miliar Euro",
+      "url": "https://emitennews.com/news/ri-kejar-target-ebt-21-jerman-kucurkan-23-miliar-euro",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "KPR Atraktif, BTN Labeli TOD Manggarai Bunga 6 Persen hingga Lunas",
+      "url": "https://emitennews.com/news/kpr-atraktif-btn-labeli-tod-manggarai-bunga-6-persen-hingga-lunas",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Rusia Tawarkan Teknologi Drone hingga Pengolahan Limbah ke Indonesia",
+      "url": "https://emitennews.com/news/rusia-tawarkan-teknologi-drone-hingga-pengolahan-limbah-ke-indonesia",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "RI-UE Bebaskan Tarif 98% Pos Dagang, Emiten Sektor ini Siap Panen",
+      "url": "https://emitennews.com/news/ri-ue-bebaskan-tarif-98-pos-dagang-emiten-sektor-ini-siap-panen",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Selain Hera Handayani, Ini Daftar Direksi BUMN yang Mundur",
+      "url": "https://emitennews.com/news/selain-hera-handayani-ini-daftar-direksi-bumn-yang-mundur",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "SWAP UGM Beber Risiko dan Proyeksi Usaha Ke Depan, Bagaimana?",
+      "url": "https://emitennews.com/news/swap-ugm-beber-risiko-dan-proyeksi-usaha-ke-depan-bagaimana",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Zankore by Indosat, Potensi Sumber Cuan Baru Bagi ISAT",
+      "url": "https://emitennews.com/news/zankore-by-indosat-potensi-sumber-cuan-baru-bagi-isat",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    }
+  ]
+}

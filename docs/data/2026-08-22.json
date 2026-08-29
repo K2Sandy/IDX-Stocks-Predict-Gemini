@@ -1,0 +1,219 @@
+{
+  "tanggal": "2026-08-22",
+  "dibuat_pada": "2026-08-22 15:22 WIB",
+  "jumlah_artikel": 31,
+  "saham_disebut": {
+    "BBNI": [
+      "Keuangan (rating 5/7)",
+      "Infrastruktur (rating 5/7)"
+    ],
+    "FUJI": [
+      "Keuangan (rating 5/7)"
+    ],
+    "ASLC": [
+      "Infrastruktur (rating 5/7)"
+    ],
+    "ANTM": [
+      "Umum/Makro (rating 3/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pembentukan Bursa Mineral dan Komoditas Strategis di bawah OJK serta laporan defisit neraca dagang menjadi sentimen utama hari ini.",
+      "alasan": "Kabar pembentukan bursa komoditas strategis yang akan diawasi OJK merupakan sentimen positif signifikan karena berpotensi memperluas cakupan pasar keuangan dan menciptakan peluang baru bagi lembaga keuangan. Meskipun ada peringatan mengenai defisit neraca dagang dan dampaknya terhadap Rupiah serta inflasi, prospek ekspansi infrastruktur pasar ini memberikan dorongan positif yang lebih kuat untuk jangka menengah panjang.",
+      "analisis_saham": "BNI (Bank Negara Indonesia Tbk) mendapat sentimen positif dari acara BNI wondrX 2026 yang meningkatkan visibilitas merek dan interaksi dengan masyarakat. PT Fuji Finance Indonesia Tbk (FUJI) tercatat sebagai salah satu top gainers sepekan, menunjukkan kinerja harga saham yang kuat."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Tidak ada berita spesifik yang relevan dengan sektor Teknologi dalam kumpulan berita hari ini, meskipun Indeks Harga Saham Gabungan (IHSG) ditutup menguat sepekan.",
+      "alasan": "Kumpulan berita yang tersedia tidak memuat informasi mengenai perkembangan, sentimen, atau kinerja emiten di sektor Teknologi. Meskipun IHSG secara umum menguat sepekan, tidak ada katalis langsung dari berita ini yang dapat mendorong pergerakan sektor Teknologi secara signifikan keesokan hari. Oleh karena itu, sektor ini diperkirakan cenderung netral atau mengikuti sentimen pasar secara umum tanpa arah yang jelas.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pemerintah berencana membentuk Bursa Mineral dan Komoditas Strategis yang ditargetkan beroperasi pada 1 Januari 2027 untuk menjadikan Indonesia penentu harga komoditas dunia.",
+      "alasan": "Rencana pembentukan bursa komoditas strategis menunjukkan dukungan dan ambisi pemerintah terhadap sektor sumber daya, termasuk energi. Hal ini dapat meningkatkan transparansi dan efisiensi pasar, serta berpotensi menstabilkan atau bahkan meningkatkan harga komoditas strategis di masa depan, yang positif bagi emiten energi.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pemerintah menargetkan pertumbuhan investasi tinggi pada 2027 dan berupaya menciptakan iklim usaha yang kondusif, yang sangat penting bagi sektor infrastruktur.",
+      "alasan": "Target investasi yang ambisius dan penjaminan kepastian hukum menjadi faktor pendorong utama bagi pengembangan proyek infrastruktur dan menarik modal. Selain itu, berita mengenai penggunaan transportasi publik yang aktif menunjukkan permintaan yang stabil terhadap infrastruktur yang ada.",
+      "analisis_saham": "BBNI:** Berita ini menyoroti peran PT Bank Negara Indonesia (Persero) Tbk (BBNI) dalam memfasilitasi akses transportasi publik untuk sebuah acara, termasuk layanan bus gratis. Meskipun menunjukkan keterlibatan BNI dalam kegiatan publik dan penggunaan infrastruktur, sentimen ini diperkirakan tidak memiliki dampak signifikan terhadap pergerakan harga saham BBNI karena berita ini terkait dengan kegiatan non-inti perbankan dan pemasaran."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Kenaikan harga emas di tengah kondisi kebakaran hutan dan lahan yang mendekati pusat rehabilitasi orangutan di Berau.",
+      "alasan": "Kenaikan harga emas bisa diinterpretasikan sebagai sinyal kekhawatiran inflasi atau permintaan aset lindung nilai, yang secara umum bisa menimbulkan kehati-hatian di pasar. Bersamaan dengan itu, berita karhutla memiliki dampak negatif pada lingkungan dan berpotensi mengganggu aktivitas ekonomi serta sosial di wilayah terdampak, sehingga memberikan tekanan cenderung turun pada sentimen makro.",
+      "analisis_saham": "Harga emas yang mengalami kenaikan signifikan memberikan sentimen positif bagi PT Aneka Tambang Tbk (ANTAM), karena perusahaan ini adalah produsen emas. Kenaikan harga komoditas utama yang diproduksi akan berpotensi meningkatkan pendapatan dan profitabilitas perusahaan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Naik KRL hingga Bus Gratis, Ini Cara ke BNI wondrX 2026",
+      "url": "https://biz.kompas.com/read/2026/08/22/144243428/naik-krl-hingga-bus-gratis-ini-cara-ke-bni-wondrx-2026",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Jelang Lawan Timnas Putri U16 Indonesia, Pelatih Thailand Puji Perkembangan Mental Pemainnya",
+      "url": "https://bola.kompas.com/read/2026/08/22/14492038/jelang-lawan-timnas-putri-u16-indonesia-pelatih-thailand-puji-perkembangan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Jadwal Final Piala AFF 2026 Hari Ini Thailand Vs Vietnam: Kim Sang-sik Bidik Rekor Bersejarah",
+      "url": "https://bola.kompas.com/read/2026/08/22/15040758/jadwal-final-piala-aff-2026-hari-ini-thailand-vs-vietnam-kim-sang-sik-bidik",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "1.066 ASN Kabupaten Bandung Main Judol, Deposit Tembus Rp 6,5 Miliar",
+      "url": "https://bandung.kompas.com/read/2026/08/22/150817078/1066-asn-kabupaten-bandung-main-judol-deposit-tembus-rp-65-miliar",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Bursa Komoditas Strategis Internasional Indonesia",
+      "url": "https://emitennews.com/news/bursa-komoditas-strategis-internasional-indonesia",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Defisit Neraca Dagang Berulang, Ekonom UI Warning Rupiah-Inflasi",
+      "url": "https://emitennews.com/news/defisit-neraca-dagang-berulang-ekonom-ui-warning-rupiah-inflasi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Emiten H Isam (JARR) Masuk Top Gainers Sepekan, Cek Daftar Lengkapnya",
+      "url": "https://emitennews.com/news/emiten-h-isam-jarr-masuk-top-gainers-sepekan-cek-daftar-lengkapnya",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Harga Emas Dunia Melonjak 14% Dalam Tiga Minggu, Ini Pemicunya",
+      "url": "https://emitennews.com/news/harga-emas-dunia-melonjak-14-dalam-tiga-minggu-ini-pemicunya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Emiten Industri Kemasan Ini Dapat Jaminan Pasokan Raksasa Baja Korea",
+      "url": "https://emitennews.com/news/emiten-industri-kemasan-ini-dapat-jaminan-pasokan-raksasa-baja-korea",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "FTSE Sikat Saham Konglo, Emiten Grup Lippo Berakhir Tragis",
+      "url": "https://emitennews.com/news/ftse-sikat-saham-konglo-emiten-grup-lippo-berakhir-tragis",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Jajaran Top Losers Sepekan, TCPI, TMPO Hingga FILM",
+      "url": "https://emitennews.com/news/jajaran-top-losers-sepekan-tcpi-tmpo-hingga-film",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "I-EU CEPA Siap Diteken: Sawit, Karet, Alas Kaki Bebas Tarif",
+      "url": "https://emitennews.com/news/i-eu-cepa-siap-diteken-sawit-karet-alas-kaki-bebas-tarif",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kejar Target Investasi 2027, Siap Jamin Kepastian Hukum & Iklim Usaha?",
+      "url": "https://emitennews.com/news/kejar-target-investasi-2027-siap-jamin-kepastian-hukum-iklim-usaha",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Jangan Dibuang! Router Lama Bisa Bikin Wi-Fi 8X Lebih Cepat",
+      "url": "https://emitennews.com/news/jangan-dibuang-router-lama-bisa-bikin-wi-fi-8x-lebih-cepat",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Menguat Lagi, IHSG Ditutup di Zona Hijau Sepekan",
+      "url": "https://emitennews.com/news/menguat-lagi-ihsg-ditutup-di-zona-hijau-sepekan",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Maksimalkan Ekosistem Mobkas, ASLC Penetrasi Lelang Non-kendaraan",
+      "url": "https://emitennews.com/news/maksimalkan-ekosistem-mobkas-aslc-penetrasi-lelang-non-kendaraan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Moratorium Dibuka, BUMN Thailand Kembali Incar Hulu Migas RI",
+      "url": "https://emitennews.com/news/moratorium-dibuka-bumn-thailand-kembali-incar-hulu-migas-ri",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pembiayaan Pindar UMKM Tembus Rp35,12 Triliun, Naik 23,25%",
+      "url": "https://emitennews.com/news/pembiayaan-pindar-umkm-tembus-rp3512-triliun-naik-2325",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Aksi Warga Pati 27 Agustus, Pramono Minta Aparat Kedepankan Pendekatan Humanis",
+      "url": "https://megapolitan.kompas.com/read/2026/08/22/14531151/aksi-warga-pati-27-agustus-pramono-minta-aparat-kedepankan-pendekatan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Polisi Bongkar Pabrik Uang Palsu Rp 36 Miliar di Tangsel, 4 Orang Ditangkap",
+      "url": "https://megapolitan.kompas.com/read/2026/08/22/15123571/polisi-bongkar-pabrik-uang-palsu-rp-36-miliar-di-tangsel-4-orang",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Rumput Laut RI Bebas Tarif AS, Negara Pesaing Kena 12,5%",
+      "url": "https://emitennews.com/news/rumput-laut-ri-bebas-tarif-as-negara-pesaing-kena-125",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pramono Siapkan Fasilitas Olahraga untuk Atasi Tawuran di Manggarai",
+      "url": "https://megapolitan.kompas.com/read/2026/08/22/14505721/pramono-siapkan-fasilitas-olahraga-untuk-atasi-tawuran-di-manggarai",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "PICO Jajaki Kerja Sama dengan Perusahaan Asal Korea, Untuk Apa?",
+      "url": "https://emitennews.com/news/pico-jajaki-kerja-sama-dengan-perusahaan-asal-korea-untuk-apa",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tunda Bayar, Pefindo Turunkan Peringkat Obligasi dan Sukuk WIKA",
+      "url": "https://emitennews.com/news/tunda-bayar-pefindo-turunkan-peringkat-obligasi-dan-sukuk-wika",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sponsor Persib (BJBR) Turun Kelas ke Micro Cap FTSE, Intip Kinerjanya",
+      "url": "https://emitennews.com/news/sponsor-persib-bjbr-turun-kelas-ke-micro-cap-ftse-intip-kinerjanya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Harga Emas Hari Ini 22 Agustus 2026: Antam, Galeri 24 Pegadaian, UBS",
+      "url": "https://money.kompas.com/read/2026/08/22/150216626/harga-emas-hari-ini-22-agustus-2026-antam-galeri-24-pegadaian-ubs",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Harga Emas Pegadaian Siang Ini Naik, Antam Jadi Rp 2,78 Juta",
+      "url": "https://money.kompas.com/read/2026/08/22/145505926/harga-emas-pegadaian-siang-ini-naik-antam-jadi-rp-278-juta",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "ASDP Kerahkan KMP Ile Ape Bawa 5 Ton Bantuan dan 74 Penumpang ke Palue",
+      "url": "https://money.kompas.com/read/2026/08/22/150600926/asdp-kerahkan-kmp-ile-ape-bawa-5-ton-bantuan-dan-74-penumpang-ke-palue",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Kebakaran Hutan di Berau Dekati Pusat Rehabilitasi Orangutan, Abu Sempat Masuk Kandang",
+      "url": "https://regional.kompas.com/read/2026/08/22/144513478/kebakaran-hutan-di-berau-dekati-pusat-rehabilitasi-orangutan-abu-sempat",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Gunung Anak Krakatau Erupsi Hari Ini, Kolom Abu Capai 400 Meter, Bergerak ke Barat Daya",
+      "url": "https://regional.kompas.com/read/2026/08/22/150844778/gunung-anak-krakatau-erupsi-hari-ini-kolom-abu-capai-400-meter-bergerak-ke",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Touring Tiga Kota, Sekaligus Uji Performa Motor Matic",
+      "url": "https://otomotif.kompas.com/read/2026/08/22/150100915/touring-tiga-kota-sekaligus-uji-performa-motor-matic",
+      "sektor": "Umum/Makro"
+    }
+  ]
+}

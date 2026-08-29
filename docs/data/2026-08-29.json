@@ -1,0 +1,72 @@
+{
+  "tanggal": "2026-08-29",
+  "dibuat_pada": "2026-08-29 02:51 WIB",
+  "jumlah_artikel": 3,
+  "saham_disebut": {
+    "ANTM": [
+      "Keuangan (rating 4/7)",
+      "Infrastruktur (rating 4/7)"
+    ],
+    "ADRO": [
+      "Keuangan (rating 4/7)",
+      "Teknologi (rating 4/7)",
+      "Energi (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Emiten dari sektor pertambangan, yaitu PT ANTAM (Persero) Tbk (ANTM) dan PT Adaro Energy Indonesia Tbk (ADRO), melaporkan kinerja keuangan positif di Semester I 2026.",
+      "alasan": "Kumpulan berita yang diberikan secara eksklusif berfokus pada kinerja keuangan emiten dari sektor pertambangan (ANTM dan ADRO) dan tidak memuat informasi relevan mengenai kondisi makroekonomi, kebijakan moneter, suku bunga, pertumbuhan kredit, atau sentimen lain yang secara langsung memengaruhi sektor keuangan. Oleh karena itu, berita ini memiliki dampak netral terhadap arah pergerakan indeks sektor keuangan.",
+      "analisis_saham": "PT ANTAM (Persero) Tbk (ANTM) membukukan laba periode berjalan sebesar Rp6,91 triliun di Semester I 2026, tumbuh 34% dari tahun sebelumnya, yang berpotensi memberikan sentimen positif pada sahamnya. PT Adaro Energy Indonesia Tbk (ADRO) juga menunjukkan kinerja positif dengan Singapura sebagai pelanggan terbesar, yang dapat menciptakan sentimen positif terhadap sahamnya di tengah volatilitas harga komoditas. Penting untuk dicatat bahwa kedua emiten ini berasal dari sektor pertambangan, bukan keuangan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Singapura menjadi pelanggan terbesar ADRO di tengah fluktuasi harga batu bara.",
+      "alasan": "Berita ini secara spesifik membahas kinerja dan pasar dari PT Alamtri Resources Indonesia Tbk (ADRO), yang merupakan emiten di sektor energi (pertambangan batu bara), bukan sektor teknologi. Oleh karena itu, berita ini tidak memiliki relevansi atau dampak langsung terhadap pergerakan indeks sektor Teknologi.",
+      "analisis_saham": "Meskipun berita tidak relevan untuk sektor Teknologi, PT Alamtri Resources Indonesia Tbk (ADRO) disebutkan secara spesifik. Sentimen berita ini, yang menunjukkan Singapura sebagai pelanggan terbesar dan adanya permintaan yang kuat di tengah fluktuasi harga batu bara, bisa dianggap positif bagi prospek kinerja penjualan ADRO. Hal ini berpotensi memberikan sentimen positif pada pergerakan harga saham ADRO."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "ADRO menunjukkan kinerja resilient dengan basis pelanggan internasional yang kuat (Singapura, Jepang, Korsel) di tengah fluktuasi harga batu bara.",
+      "alasan": "Kinerja positif dan basis pelanggan yang stabil dari ADRO, sebagai salah satu emiten batu bara terbesar, dapat meningkatkan kepercayaan investor terhadap prospek sub-sektor batubara. Hal ini mengindikasikan adanya permintaan ekspor yang kuat dan memberikan sentimen positif bagi emiten energi lainnya.",
+      "analisis_saham": "Berita ini sangat positif bagi ADRO. Keterangan mengenai Singapura sebagai pelanggan terbesar, disusul Jepang dan Korea Selatan, menunjukkan kekuatan fundamental dalam permintaan ekspor ADRO. Ini dapat meningkatkan kepercayaan investor terhadap prospek pendapatan dan profitabilitas ADRO ke depan, berpotensi mendorong kenaikan harga sahamnya."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "PT ANTAM (Persero) Tbk (ANTM) membukukan laba bersih yang tumbuh 34% menjadi Rp6,91 triliun di Semester I 2026, didorong oleh kontribusi penjualan emas.",
+      "alasan": "Berita ini secara spesifik membahas kinerja keuangan PT ANTAM (Persero) Tbk (ANTM) yang merupakan perusahaan pertambangan, bukan entitas utama dalam sektor Infrastruktur. Meskipun kinerja ANTM positif, tidak ada korelasi langsung atau dampak material yang signifikan terhadap pergerakan indeks sektor Infrastruktur secara keseluruhan yang didominasi oleh perusahaan utilitas, telekomunikasi, dan transportasi. Oleh karena itu, berita ini cenderung netral bagi sektor Infrastruktur.",
+      "analisis_saham": "Nama saham PT ANTAM (Persero) Tbk dengan kode ANTM secara spesifik disebutkan dalam berita. Kinerja laba bersih ANTM yang tumbuh 34% menjadi Rp6,91 triliun di Semester I 2026 merupakan sentimen yang sangat positif. Hal ini diperkirakan akan memberikan dorongan positif pada harga saham ANTM pada perdagangan berikutnya, mengindikasikan fundamental perusahaan yang kuat."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Laba ANTAM Naik 34%, Disumbang 80% Penjualan Emas yang Tumbuh 1%",
+      "url": "https://emitennews.com/news/laba-antam-naik-34-disumbang-80-penjualan-emas-yang-tumbuh-1",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Antam Raih Laba Bersih Rp6,91 T di 1H26, Emas Sumbang 80% Penjualan",
+      "url": "https://emitennews.com/news/antam-raih-laba-bersih-rp691-t-di-1h26-emas-sumbang-80-penjualan",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Singapura Jadi Pelanggan Terbesar ADRO, Disusul Jepang dan Korsel",
+      "url": "https://emitennews.com/news/singapura-jadi-pelanggan-terbesar-adro-disusul-jepang-dan-korsel",
+      "sektor": "Keuangan, Teknologi, Energi"
+    }
+  ]
+}
