@@ -32,6 +32,15 @@ jobs:
         working-directory: scripts
         run: python cari_url.py
 
+      - name: Upload debug HTML (kalau ada situs yang 0 hasil)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-output
+          path: debug_output/
+          if-no-files-found: ignore
+          retention-days: 14
+
       - name: Ekstrak isi berita
         working-directory: scripts
         run: python extract_berita.py

@@ -110,7 +110,9 @@ def simpan_hasil_json(tanggal, saham_ke_sektor, hasil_terstruktur, jumlah_artike
     if tanggal not in manifest["tanggal_tersedia"]:
         manifest["tanggal_tersedia"].insert(0, tanggal)
     manifest["tanggal_tersedia"].sort(reverse=True)
-    manifest["tanggal_tersedia"] = manifest["tanggal_tersedia"][:60]  # simpan 60 hari terakhir saja
+    # Tidak dipotong/dibatasi -- sudah dihitung, bahkan 10 tahun jalan tiap
+    # hari cuma sekitar puluhan MB, jauh di bawah batas wajar repo GitHub.
+    # Semua tanggal tetap muncul sebagai tombol riwayat di website.
 
     with open(path_manifest, "w", encoding="utf-8") as f:
         json.dump(manifest, f, ensure_ascii=False, indent=2)
