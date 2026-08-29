@@ -1,72 +1,250 @@
 {
   "tanggal": "2026-08-29",
-  "dibuat_pada": "2026-08-29 02:51 WIB",
-  "jumlah_artikel": 3,
+  "dibuat_pada": "2026-08-29 20:33 WIB",
+  "jumlah_artikel": 38,
   "saham_disebut": {
-    "ANTM": [
-      "Keuangan (rating 4/7)",
-      "Infrastruktur (rating 4/7)"
-    ],
-    "ADRO": [
-      "Keuangan (rating 4/7)",
-      "Teknologi (rating 4/7)",
+    "KEEN": [
       "Energi (rating 5/7)"
+    ],
+    "BNBR": [
+      "Energi (rating 5/7)"
+    ],
+    "WIKA": [
+      "Infrastruktur (rating 2/7)"
     ]
   },
   "sektor": [
     {
       "nama": "Keuangan",
       "status": "ok",
-      "prediksi": 4,
-      "key_sentiment": "Emiten dari sektor pertambangan, yaitu PT ANTAM (Persero) Tbk (ANTM) dan PT Adaro Energy Indonesia Tbk (ADRO), melaporkan kinerja keuangan positif di Semester I 2026.",
-      "alasan": "Kumpulan berita yang diberikan secara eksklusif berfokus pada kinerja keuangan emiten dari sektor pertambangan (ANTM dan ADRO) dan tidak memuat informasi relevan mengenai kondisi makroekonomi, kebijakan moneter, suku bunga, pertumbuhan kredit, atau sentimen lain yang secara langsung memengaruhi sektor keuangan. Oleh karena itu, berita ini memiliki dampak netral terhadap arah pergerakan indeks sektor keuangan.",
-      "analisis_saham": "PT ANTAM (Persero) Tbk (ANTM) membukukan laba periode berjalan sebesar Rp6,91 triliun di Semester I 2026, tumbuh 34% dari tahun sebelumnya, yang berpotensi memberikan sentimen positif pada sahamnya. PT Adaro Energy Indonesia Tbk (ADRO) juga menunjukkan kinerja positif dengan Singapura sebagai pelanggan terbesar, yang dapat menciptakan sentimen positif terhadap sahamnya di tengah volatilitas harga komoditas. Penting untuk dicatat bahwa kedua emiten ini berasal dari sektor pertambangan, bukan keuangan."
+      "prediksi": 5,
+      "key_sentiment": "Bursa Efek Indonesia (BEI) memperkenalkan beberapa inisiatif untuk memperdalam pasar, termasuk adanya 9 perusahaan dalam pipeline obligasi, peluncuran IDX Green Equity Designation, dan perubahan batas harga saham minimum menjadi Rp1.",
+      "alasan": "Inisiatif BEI, seperti pipeline obligasi yang aktif dan penetapan saham berbasis hijau, berpotensi meningkatkan volume transaksi dan menarik investasi baru ke pasar modal. Meskipun perubahan batas harga saham menjadi Rp1 membawa implikasi likuiditas dan risiko, tujuan utamanya adalah memperluas ruang transaksi, yang secara keseluruhan dapat mendukung aktivitas bisnis lembaga keuangan di pasar modal.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
     },
     {
       "nama": "Teknologi",
       "status": "ok",
-      "prediksi": 4,
-      "key_sentiment": "Singapura menjadi pelanggan terbesar ADRO di tengah fluktuasi harga batu bara.",
-      "alasan": "Berita ini secara spesifik membahas kinerja dan pasar dari PT Alamtri Resources Indonesia Tbk (ADRO), yang merupakan emiten di sektor energi (pertambangan batu bara), bukan sektor teknologi. Oleh karena itu, berita ini tidak memiliki relevansi atau dampak langsung terhadap pergerakan indeks sektor Teknologi.",
-      "analisis_saham": "Meskipun berita tidak relevan untuk sektor Teknologi, PT Alamtri Resources Indonesia Tbk (ADRO) disebutkan secara spesifik. Sentimen berita ini, yang menunjukkan Singapura sebagai pelanggan terbesar dan adanya permintaan yang kuat di tengah fluktuasi harga batu bara, bisa dianggap positif bagi prospek kinerja penjualan ADRO. Hal ini berpotensi memberikan sentimen positif pada pergerakan harga saham ADRO."
+      "prediksi": 6,
+      "key_sentiment": "Adopsi masif QRIS oleh usaha kecil serta potensi dukungan regulasi untuk pengembangan aset digital dan kripto melalui revisi UU P2SK menunjukkan pertumbuhan positif di sektor teknologi, khususnya pada segmen fintech dan pembayaran digital.",
+      "alasan": "Dominasi penggunaan QRIS oleh lebih dari 125 ribu merchant di Babel mengindikasikan ekspansi dan penerimaan luas teknologi pembayaran digital, yang akan menguntungkan emiten di sektor fintech dan penyedia layanan pembayaran. Pembahasan revisi UU P2SK yang mencakup pengembangan aset digital dan kripto juga memberikan sinyal positif bagi ekosistem inovasi digital dan blockchain, berpotensi menciptakan peluang baru bagi perusahaan teknologi.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
     },
     {
       "nama": "Energi",
       "status": "ok",
       "prediksi": 5,
-      "key_sentiment": "ADRO menunjukkan kinerja resilient dengan basis pelanggan internasional yang kuat (Singapura, Jepang, Korsel) di tengah fluktuasi harga batu bara.",
-      "alasan": "Kinerja positif dan basis pelanggan yang stabil dari ADRO, sebagai salah satu emiten batu bara terbesar, dapat meningkatkan kepercayaan investor terhadap prospek sub-sektor batubara. Hal ini mengindikasikan adanya permintaan ekspor yang kuat dan memberikan sentimen positif bagi emiten energi lainnya.",
-      "analisis_saham": "Berita ini sangat positif bagi ADRO. Keterangan mengenai Singapura sebagai pelanggan terbesar, disusul Jepang dan Korea Selatan, menunjukkan kekuatan fundamental dalam permintaan ekspor ADRO. Ini dapat meningkatkan kepercayaan investor terhadap prospek pendapatan dan profitabilitas ADRO ke depan, berpotensi mendorong kenaikan harga sahamnya."
+      "key_sentiment": "Bursa Efek Indonesia meluncurkan IDX Green Equity Designation yang menunjuk KEEN sebagai salah satu saham hijau, sementara risiko El Nino berpotensi meningkatkan biaya produksi, dan BNBR mencatat kerugian signifikan.",
+      "alasan": "Peluncuran IDX Green Equity Designation menjadi sentimen positif jangka panjang untuk sektor energi, khususnya perusahaan energi terbarukan seperti KEEN, karena menandakan dukungan bursa terhadap investasi hijau. Meskipun demikian, risiko El Nino dan Karhutla dapat menekan profitabilitas melalui peningkatan biaya produksi, namun dampak ini lebih bersifat luas dan mungkin tidak langsung mendominasi pergerakan indeks sektor secara keseluruhan dibandingkan katalis positif dari inisiatif bursa.",
+      "analisis_saham": "PT Kencana Energi Lestari Tbk (KEEN) kemungkinan akan mengalami sentimen positif karena penunjukannya sebagai \"saham hijau\" perdana oleh BEI, meningkatkan visibilitas dan potensi minat investor yang fokus pada ESG. Sebaliknya, PT Bakrie & Brothers (BNBR) diperkirakan akan menghadapi tekanan jual akibat laporan kerugian yang membengkak 502,38% dari periode sebelumnya, mengindikasikan kinerja keuangan yang memburuk."
     },
     {
       "nama": "Infrastruktur",
       "status": "ok",
-      "prediksi": 4,
-      "key_sentiment": "PT ANTAM (Persero) Tbk (ANTM) membukukan laba bersih yang tumbuh 34% menjadi Rp6,91 triliun di Semester I 2026, didorong oleh kontribusi penjualan emas.",
-      "alasan": "Berita ini secara spesifik membahas kinerja keuangan PT ANTAM (Persero) Tbk (ANTM) yang merupakan perusahaan pertambangan, bukan entitas utama dalam sektor Infrastruktur. Meskipun kinerja ANTM positif, tidak ada korelasi langsung atau dampak material yang signifikan terhadap pergerakan indeks sektor Infrastruktur secara keseluruhan yang didominasi oleh perusahaan utilitas, telekomunikasi, dan transportasi. Oleh karena itu, berita ini cenderung netral bagi sektor Infrastruktur.",
-      "analisis_saham": "Nama saham PT ANTAM (Persero) Tbk dengan kode ANTM secara spesifik disebutkan dalam berita. Kinerja laba bersih ANTM yang tumbuh 34% menjadi Rp6,91 triliun di Semester I 2026 merupakan sentimen yang sangat positif. Hal ini diperkirakan akan memberikan dorongan positif pada harga saham ANTM pada perdagangan berikutnya, mengindikasikan fundamental perusahaan yang kuat."
+      "prediksi": 2,
+      "key_sentiment": "Perusahaan konstruksi BUMN Wijaya Karya (WIKA) melaporkan kerugian besar dan menghadapi isu gagal bayar, sementara penyelesaian masalah utang Kereta Cepat Whoosh dialihkan ke Kementerian Keuangan.",
+      "alasan": "Krisis keuangan yang menimpa WIKA, salah satu pemain besar di sektor konstruksi, menciptakan sentimen negatif yang signifikan bagi seluruh sektor infrastruktur. Ditambah lagi, masalah utang proyek Whoosh yang membutuhkan intervensi pemerintah menambah kekhawatiran investor mengenai profitabilitas dan risiko proyek-proyek infrastruktur besar.",
+      "analisis_saham": "Saham PT Wijaya Karya Tbk (WIKA) diprediksi akan mengalami tekanan jual yang sangat kuat atau tetap dibekukan menyusul laporan kerugian yang membengkak, penurunan ekuitas, dan isu gagal bayar. Sentimen negatif ini kemungkinan besar akan menekan harga sahamnya secara signifikan jika dibuka kembali untuk perdagangan dan dapat menyeret sentimen saham sejenis."
     },
     {
       "nama": "Umum/Makro",
-      "status": "tidak_ada_data",
-      "prediksi": null
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Pemerintah meluncurkan program kesejahteraan sosial seperti gratis pengurusan sertifikat tanah dan meningkatkan akurasi data statistik, sementara isu kemiskinan dan perselisihan hukum lokal juga menjadi sorotan.",
+      "alasan": "Berita hari ini menunjukkan inisiatif pemerintah dalam program kesejahteraan sosial dan perbaikan akurasi data, yang positif untuk stabilitas sosial jangka panjang. Namun, tidak ada rilis data makroekonomi atau kebijakan berdampak besar yang akan menggerakkan pasar secara signifikan, sehingga sentimen keseluruhan cenderung netral.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
     }
   ],
   "artikel": [
     {
-      "judul": "Laba ANTAM Naik 34%, Disumbang 80% Penjualan Emas yang Tumbuh 1%",
-      "url": "https://emitennews.com/news/laba-antam-naik-34-disumbang-80-penjualan-emas-yang-tumbuh-1",
-      "sektor": "Keuangan, Infrastruktur"
+      "judul": "Nasib Apes Dua Maling Motor yang Nekat Beraksi di Masjid Komplek TNI AL Ciangsana",
+      "url": "https://bandung.kompas.com/read/2026/08/29/200013178/nasib-apes-dua-maling-motor-yang-nekat-beraksi-di-masjid-komplek-tni-al",
+      "sektor": "Energi"
     },
     {
-      "judul": "Antam Raih Laba Bersih Rp6,91 T di 1H26, Emas Sumbang 80% Penjualan",
-      "url": "https://emitennews.com/news/antam-raih-laba-bersih-rp691-t-di-1h26-emas-sumbang-80-penjualan",
-      "sektor": "Keuangan, Infrastruktur"
+      "judul": "Launching Persija: Kenalkan 29 Pemain, Jersey Kandang Merah Menyala",
+      "url": "https://bola.kompas.com/read/2026/08/29/20045088/launching-persija-kenalkan-29-pemain-jersey-kandang-merah-menyala",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Siswa Naik Rakit ke Sekolah Viral, Bupati Bandung Barat Hubungi KDM soal Pembangunan Jembatan",
+      "url": "https://bandung.kompas.com/read/2026/08/29/195800578/siswa-naik-rakit-ke-sekolah-viral-bupati-bandung-barat-hubungi-kdm-soal",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "AADI Kemas Pendapatan USD2,54 Miliar, Laba Bersih Naik 10,5 Persen",
+      "url": "https://emitennews.com/news/aadi-kemas-pendapatan-usd254-miliar-laba-bersih-naik-105-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BEI Kantongi 9 Perusahaan di Pipeline Obligasi, Total 14 Emisi",
+      "url": "https://emitennews.com/news/bei-kantongi-9-perusahaan-di-pipeline-obligasi-total-14-emisi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Akhiri Semester I, Segini Performa Keuangan HELI",
+      "url": "https://emitennews.com/news/akhiri-semester-i-segini-performa-keuangan-heli",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BEI Luncurkan IDX Green Equity Designation, Apa Itu?",
+      "url": "https://emitennews.com/news/bei-luncurkan-idx-green-equity-designation-apa-itu",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BEI Turunkan Batas Harga ke Rp1, Buka Likuiditas atau Risiko Ritel?",
+      "url": "https://emitennews.com/news/bei-turunkan-batas-harga-ke-rp1-buka-likuiditas-atau-risiko-ritel",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BNBR Berbalik Rugi 502,38 Persen, Investor Kakap Kabur",
+      "url": "https://emitennews.com/news/bnbr-berbalik-rugi-50238-persen-investor-kakap-kabur",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Biayai Akuisisi, KOTA Rancang Right Issue 100 Miliar Eksemplar",
+      "url": "https://emitennews.com/news/biayai-akuisisi-kota-rancang-right-issue-100-miliar-eksemplar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "El Nino, Karhutla dan Ujian Ketahanan Kredit Perbankan",
+      "url": "https://emitennews.com/news/el-nino-karhutla-dan-ujian-ketahanan-kredit-perbankan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Gencar Ekspansi, BACH Kantongi Laba Naik 25 Persen di Semester I 2026",
+      "url": "https://emitennews.com/news/gencar-ekspansi-bach-kantongi-laba-naik-25-persen-di-semester-i-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Harga Emas Turun Tajam Lebih 3% Pascapidato Ketua The Fed",
+      "url": "https://emitennews.com/news/harga-emas-turun-tajam-lebih-3-pascapidato-ketua-the-fed",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Kurang Bensin, Terkoreksi 0,12 Persen Sepekan",
+      "url": "https://emitennews.com/news/ihsg-kurang-bensin-terkoreksi-012-persen-sepekan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Insentif Motor Listrik Rp3 Juta, Menkeu Jamin Cakupannya Lebih Luas",
+      "url": "https://emitennews.com/news/insentif-motor-listrik-rp3-juta-menkeu-jamin-cakupannya-lebih-luas",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kantongi Daftar 40 Perusahaan Baja Tunggak Pajak, Ini Langkah Purbaya",
+      "url": "https://emitennews.com/news/kantongi-daftar-40-perusahaan-baja-tunggak-pajak-ini-langkah-purbaya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Nasib WIKA, Defisit Bengkak, Ekuitas Drop, Gagal Bayar, dan Saham Beku",
+      "url": "https://emitennews.com/news/nasib-wika-defisit-bengkak-ekuitas-drop-gagal-bayar-dan-saham-beku",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Paruh I 2026, Laba MBAP Melonjak 97,14 Persen",
+      "url": "https://emitennews.com/news/paruh-i-2026-laba-mbap-melonjak-9714-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Pendapatan Naik 44 Persen, CASH Justru Kemas Rugi, Ekuitas Negatif",
+      "url": "https://emitennews.com/news/pendapatan-naik-44-persen-cash-justru-kemas-rugi-ekuitas-negatif",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Revisi UU P2SK, Siapa yang Paling Diuntungkan?",
+      "url": "https://emitennews.com/news/revisi-uu-p2sk-siapa-yang-paling-diuntungkan",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Saham Top Gainers Sepekan, BIKE, PICO & TMPO Ngegas",
+      "url": "https://emitennews.com/news/saham-top-gainers-sepekan-bike-pico-tmpo-ngegas",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Sesuai Putusan MK Perlu Penataan Ulang UU, Begini Harapan BP Tapera",
+      "url": "https://emitennews.com/news/sesuai-putusan-mk-perlu-penataan-ulang-uu-begini-harapan-bp-tapera",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Top Losers Sepekan Dihuni TAMA, FORU hingga GIAA",
+      "url": "https://emitennews.com/news/top-losers-sepekan-dihuni-tama-foru-hingga-giaa",
+      "sektor": "Keuangan, Energi"
     },
     {
       "judul": "Singapura Jadi Pelanggan Terbesar ADRO, Disusul Jepang dan Korsel",
       "url": "https://emitennews.com/news/singapura-jadi-pelanggan-terbesar-adro-disusul-jepang-dan-korsel",
       "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Tak Hanya Korupsi, Ada 13 Tindak Pidana Masuk RUU Perampasan Aset",
+      "url": "https://emitennews.com/news/tak-hanya-korupsi-ada-13-tindak-pidana-masuk-ruu-perampasan-aset",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tiga Kelompok Masyarakat Penerima Gratis Urus SHM, Cek Nama Kalian",
+      "url": "https://emitennews.com/news/tiga-kelompok-masyarakat-penerima-gratis-urus-shm-cek-nama-kalian",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Menanti \"Haji Gocap\" di Tengah Malam, PPKS Rela Tahan Dingin demi Uang Rp 50.000",
+      "url": "https://megapolitan.kompas.com/read/2026/08/29/20015551/menanti-haji-gocap-di-tengah-malam-ppks-rela-tahan-dingin-demi-uang-rp",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Tujuh Perusahaan Antre IPO, Sektor Healthcare Mendominasi",
+      "url": "https://emitennews.com/news/tujuh-perusahaan-antre-ipo-sektor-healthcare-mendominasi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Cara Tampil Stylish dengan Outfit Bermotif Ramai, Ini Tips Padu Padan ala Stylist",
+      "url": "https://lifestyle.kompas.com/read/2026/08/29/201000520/cara-tampil-stylish-dengan-outfit-bermotif-ramai-ini-tips-padu-padan-ala",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Duga Ada Pemalsuan Akta, Yayasan Syarif Hidayatullah Laporkan UIN ke Polda Metro Jaya",
+      "url": "https://megapolitan.kompas.com/read/2026/08/29/20124871/duga-ada-pemalsuan-akta-yayasan-syarif-hidayatullah-laporkan-uin-ke-polda",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Menanti \"Haji Gocap\" Tengah Malam di Jaksel: Kami Kalah Cepat 15 Menit",
+      "url": "https://megapolitan.kompas.com/read/2026/08/29/20145181/menanti-haji-gocap-tengah-malam-di-jaksel-kami-kalah-cepat-15-menit",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tutup Semester I, Alamtri Minerals (ADMR) Catat Laba Naik 24 Persen",
+      "url": "https://emitennews.com/news/tutup-semester-i-alamtri-minerals-admr-catat-laba-naik-24-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Usaha Kecil Dominasi Penggunaan QRIS di Babel, ada 125 Ribu Merchant",
+      "url": "https://emitennews.com/news/usaha-kecil-dominasi-penggunaan-qris-di-babel-ada-125-ribu-merchant",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Utang Whoosh Beralih ke Kemenkeu 15 September, Purbaya Siapkan Ini",
+      "url": "https://emitennews.com/news/utang-whoosh-beralih-ke-kemenkeu-15-september-purbaya-siapkan-ini",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Hasil Sprint Race MotoGP Aragon 2026",
+      "url": "https://otomotif.kompas.com/read/2026/08/29/202438015/hasil-sprint-race-motogp-aragon-2026",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "EIGER Adventure Land di Bogor Ganti Nama Jadi EIGER Nature, 1 Tiket Jadi 1 Pohon",
+      "url": "https://travel.kompas.com/read/2026/08/29/200800227/eiger-adventure-land-di-bogor-ganti-nama-jadi-eiger-nature-1-tiket-jadi-1",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Motor Korban Sudah Diambil, Kasus Dugaan Pungli Rp 1 Juta Polrestabes Surabaya Berlanjut ke Propam",
+      "url": "https://surabaya.kompas.com/read/2026/08/29/202600478/motor-korban-sudah-diambil-kasus-dugaan-pungli-rp-1-juta-polrestabes",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Setelah Verifikasi Lapangan, Desil Warga Kulon Progo Berubah dari 9 Jadi 3",
+      "url": "https://money.kompas.com/read/2026/08/29/200000126/setelah-verifikasi-lapangan-desil-warga-kulon-progo-berubah-dari-9-jadi-3",
+      "sektor": "Umum/Makro"
     }
   ]
 }
