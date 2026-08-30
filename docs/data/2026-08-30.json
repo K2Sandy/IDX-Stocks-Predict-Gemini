@@ -1,0 +1,280 @@
+{
+  "tanggal": "2026-08-30",
+  "dibuat_pada": "2026-08-30 20:31 WIB",
+  "jumlah_artikel": 41,
+  "saham_disebut": {
+    "BMRI": [
+      "Keuangan (rating 5/7)"
+    ],
+    "BBRI": [
+      "Keuangan (rating 5/7)"
+    ],
+    "BBNI": [
+      "Keuangan (rating 5/7)"
+    ],
+    "BBTN": [
+      "Keuangan (rating 5/7)"
+    ],
+    "AGRS": [
+      "Teknologi (rating 6/7)"
+    ],
+    "TOWR": [
+      "Infrastruktur (rating 3/7)"
+    ],
+    "SMGR": [
+      "Infrastruktur (rating 3/7)"
+    ],
+    "WIKA": [
+      "Infrastruktur (rating 3/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pemerintah menunjuk 15 bank devisa, termasuk bank BUMN besar, sebagai penampung Rekening Khusus Devisa Hasil Ekspor Sumber Daya Alam (DHE SDA).",
+      "alasan": "Penunjukan ini berpotensi meningkatkan likuiditas dan pendapatan berbasis biaya bagi bank-bank yang ditunjuk, khususnya bank-bank besar. Peningkatan aktivitas devisa hasil ekspor di perbankan secara keseluruhan memberikan sentimen positif bagi stabilitas dan pertumbuhan sektor keuangan.",
+      "analisis_saham": "Bank Mandiri (BMRI), Bank Rakyat Indonesia (BBRI), Bank Negara Indonesia (BBNI), dan Bank Tabungan Negara (BBTN) akan merasakan dampak positif karena penunjukan ini dapat meningkatkan dana pihak ketiga (DPK) dan transaksi perbankan terkait ekspor SDA, yang berpotensi mendorong kenaikan harga saham mereka."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Pertumbuhan industri data center yang signifikan di Indonesia dan inovasi bank digital menjadi pendorong utama sektor teknologi, diimbangi dengan regulasi baru bagi operator telekomunikasi.",
+      "alasan": "Potensi \"ledakan\" industri data center menunjukkan permintaan infrastruktur digital yang sangat kuat, fundamental bagi pertumbuhan sektor ini. Inovasi dari bank digital juga mendukung sentimen positif pada fintech, sementara regulasi operator internet adalah faktor yang perlu diadaptasi tetapi tidak menghambat tren pertumbuhan besar.",
+      "analisis_saham": "Artikel menyebutkan \"Bank Raya\" yang merupakan PT Bank Raya Indonesia Tbk (AGRS). Berita tentang Bank Raya yang aktif berinovasi dengan fitur \"Raya Active\" memberikan sentimen positif bagi saham AGRS, menunjukkan komitmen bank digital ini dalam meningkatkan layanan dan keterlibatan pengguna. Hal ini dapat meningkatkan daya tarik investor terhadap saham AGRS."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Tidak ada berita yang secara spesifik membahas atau memiliki relevansi langsung dengan sektor Energi hari ini.",
+      "alasan": "Kumpulan berita yang disediakan tidak mengandung informasi, sentimen, atau peristiwa yang berkaitan dengan perusahaan atau dinamika di sektor Energi. Oleh karena itu, tidak ada dasar yang kuat untuk memprediksi pergerakan indeks sektor ini berdasarkan berita yang ada, sehingga sentimen bersifat netral.",
+      "analisis_saham": "Tidak ada saham spesifik dari sektor Energi yang disebutkan dalam kumpulan berita."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Kinerja emiten konstruksi BUMN WIKA masih membukukan kerugian besar meskipun pendapatannya naik, sementara emiten menara telekomunikasi TOWR menunjukkan kepercayaan internal dan emiten semen SMGR memperkuat inovasi mendukung program perumahan.",
+      "alasan": "Kerugian signifikan dari PT Wijaya Karya (WIKA), salah satu emiten konstruksi BUMN terbesar, dapat menekan sentimen investor terhadap sektor infrastruktur secara keseluruhan, meskipun ada tanda-tanda perbaikan operasional dan pendapatan yang meningkat. Sentimen positif dari eksekusi MESOP TOWR dan dukungan SMGR terhadap program perumahan memberikan dorongan positif namun mungkin tidak cukup untuk sepenuhnya mengimbangi dampak negatif dari kinerja WIKA.",
+      "analisis_saham": "TOWR**: Eksekusi MESOP oleh pucuk pimpinan perusahaan mengindikasikan kepercayaan internal yang kuat terhadap prospek bisnis PT Sarana Menara Nusantara Tbk., berpotensi memberikan sentimen positif dan mendorong kenaikan harga saham."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Hasil balapan MotoGP Aragon 2026, dengan Marc Marquez meraih kemenangan namun Jorge Martin tetap di puncak klasemen.",
+      "alasan": "Berita ini murni mengenai hasil acara olahraga (MotoGP) dan tidak mengandung informasi apapun yang berkaitan dengan indikator ekonomi makro, kebijakan pemerintah, kinerja sektor riil, atau sentimen pasar secara umum. Oleh karena itu, tidak ada dampak relevan terhadap pergerakan indeks sektor Umum/Makro.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "PKN STAN Kalahkan IPDN Jadi Sekolah Kedinasan Paling Diminati di 2026",
+      "url": "https://edukasi.kompas.com/read/2026/08/30/195556171/pkn-stan-kalahkan-ipdn-jadi-sekolah-kedinasan-paling-diminati-di-2026",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Sindiran Carrick untuk Pengkritik Man United: Malas dan Gampang Menyimpulkan Hasil Laga",
+      "url": "https://bola.kompas.com/read/2026/08/30/19580508/sindiran-carrick-untuk-pengkritik-man-united-malas-dan-gampang-menyimpulkan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Daftar 10 Bank Non BUMN Penampung Devisa Hasil Ekspor SDA",
+      "url": "https://emitennews.com/news/daftar-10-bank-non-bumn-penampung-devisa-hasil-ekspor-sda",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "6 Pucuk Pimpinan TOWR Eksekusi MESOP 145 Juta Saham Rp50,1 Miliar",
+      "url": "https://emitennews.com/news/6-pucuk-pimpinan-towr-eksekusi-mesop-145-juta-saham-rp501-miliar",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bank BSN Perkuat Kepedulian Kemanusiaan bagi Korban Gempa NTT",
+      "url": "https://emitennews.com/news/bank-bsn-perkuat-kepedulian-kemanusiaan-bagi-korban-gempa-ntt",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Astra Bangun 7 Posko Bantuan Masyarakat Terdampak Gempa di NTT",
+      "url": "https://emitennews.com/news/astra-bangun-7-posko-bantuan-masyarakat-terdampak-gempa-di-ntt",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dua Bos Emiten Garmen (TRIS) Serap Konversi Hutang Dividen Rp122,5M",
+      "url": "https://emitennews.com/news/dua-bos-emiten-garmen-tris-serap-konversi-hutang-dividen-rp1225m",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dukung Program 3 Juta Rumah, Emiten Semen BUMN (SMGR) Perkuat Inovasi",
+      "url": "https://emitennews.com/news/dukung-program-3-juta-rumah-emiten-semen-bumn-smgr-perkuat-inovasi",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Menguat 6,32% Sebulan, AGAR & DSSA Jadi Bintang Kinerja Bulan Ini",
+      "url": "https://emitennews.com/news/ihsg-menguat-632-sebulan-agar-dssa-jadi-bintang-kinerja-bulan-ini",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Gaungkan Raya Active, Bank Raya Dukung Generali Lion Heart Run 2026",
+      "url": "https://emitennews.com/news/gaungkan-raya-active-bank-raya-dukung-generali-lion-heart-run-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kinerja WIKA Semester I 2026 Masih Rugi Rp1,48T, Tapi Pendapatan Naik",
+      "url": "https://emitennews.com/news/kinerja-wika-semester-i-2026-masih-rugi-rp148t-tapi-pendapatan-naik",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Industri Syariah Masih Tertinggal Jauh, OJK Siap Luncurkan Peta Jalan",
+      "url": "https://emitennews.com/news/industri-syariah-masih-tertinggal-jauh-ojk-siap-luncurkan-peta-jalan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kasus Korupsi Tambang PT QSS di Kalbar, Kejagung Sita Aset Rp338,3M",
+      "url": "https://emitennews.com/news/kasus-korupsi-tambang-pt-qss-di-kalbar-kejagung-sita-aset-rp3383m",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Laba Melejit 213 Persen, KOTA Kebut Eksekusi Lahan di Maja & Surabaya",
+      "url": "https://emitennews.com/news/laba-melejit-213-persen-kota-kebut-eksekusi-lahan-di-maja-surabaya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Longgarkan Retensi DHE Tambang jadi 3 Bulan, Begini Syarat Pemerintah",
+      "url": "https://emitennews.com/news/longgarkan-retensi-dhe-tambang-jadi-3-bulan-begini-syarat-pemerintah",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Luncurkan Saham Berlabel Hijau, Ini Harapan BEI",
+      "url": "https://emitennews.com/news/luncurkan-saham-berlabel-hijau-ini-harapan-bei",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Milik Orang Terkaya Ke-2 RI, Samindo (MYOH) Raup Laba USD7,98 Juta",
+      "url": "https://emitennews.com/news/milik-orang-terkaya-ke-2-ri-samindo-myoh-raup-laba-usd798-juta",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pemblokiran Rekening Bank: Pelajaran Mahal",
+      "url": "https://emitennews.com/news/pemblokiran-rekening-bank-pelajaran-mahal",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Menyoal Reformasi Subsidi BBM Berbasis Desil",
+      "url": "https://emitennews.com/news/menyoal-reformasi-subsidi-bbm-berbasis-desil",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Operator Dilarang Hapus Sisa Kuota Internet, Ini Penegasan Menkomdigi",
+      "url": "https://emitennews.com/news/operator-dilarang-hapus-sisa-kuota-internet-ini-penegasan-menkomdigi",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Perbaiki Struktur Permodalan, Royaltama (RMKO) Siapkan Right Issue",
+      "url": "https://emitennews.com/news/perbaiki-struktur-permodalan-royaltama-rmko-siapkan-right-issue",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Perkuat Inklusi Pasar Modal, YB Sekuritas Resmikan E-Hub Puri Indah",
+      "url": "https://emitennews.com/news/perkuat-inklusi-pasar-modal-yb-sekuritas-resmikan-e-hub-puri-indah",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kenapa Banyak Orang Lebih Memilih Chat daripada Menelepon?",
+      "url": "https://lifestyle.kompas.com/read/2026/08/30/200600720/kenapa-banyak-orang-lebih-memilih-chat-daripada-menelepon-",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Platinum Berkah Divestasi 6,87 Persen Saham RGAS Rp20,4 Miliar",
+      "url": "https://emitennews.com/news/platinum-berkah-divestasi-687-persen-saham-rgas-rp204-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Potensi Ledakan Data Center, Saham Ini Berpotensi Ketiban Berkah?",
+      "url": "https://emitennews.com/news/potensi-ledakan-data-center-saham-ini-berpotensi-ketiban-berkah",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "PSP Dua Hari Berturut-Turut Borong Saham IMPC, Nilainya Rp16,03 Miliar",
+      "url": "https://emitennews.com/news/psp-dua-hari-berturut-turut-borong-saham-impc-nilainya-rp1603-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dari Kursus Tari Gratis, Sekolah Seni Yonif Kini Garap Drama Musikal dari Nol",
+      "url": "https://megapolitan.kompas.com/read/2026/08/30/20123821/dari-kursus-tari-gratis-sekolah-seni-yonif-kini-garap-drama-musikal-dari",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Putusan MK Soal Penetapan Status Bencana, BNPB Siap Jalankan",
+      "url": "https://emitennews.com/news/putusan-mk-soal-penetapan-status-bencana-bnpb-siap-jalankan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Turun Peringkat Kredit PTPP ke idBB CreditWatch Negatif, Akibat Ini",
+      "url": "https://emitennews.com/news/turun-peringkat-kredit-ptpp-ke-idbb-creditwatch-negatif-akibat-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "12 Perusahaan Buka 1.000 Lowongan Kerja di KEK Industropolis Batang",
+      "url": "https://money.kompas.com/read/2026/08/30/195858926/12-perusahaan-buka-1000-lowongan-kerja-di-kek-industropolis-batang",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Pertambangan Diarahkan Jadi Basis Industrialisasi Nasional",
+      "url": "https://money.kompas.com/read/2026/08/30/200000326/pertambangan-diarahkan-jadi-basis-industrialisasi-nasional",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Diduga Hilang Kendali, Mobil Subaru Tabrak Truk hingga Terbakar di Tol Serpong-Cinere",
+      "url": "https://megapolitan.kompas.com/read/2026/08/30/19560291/diduga-hilang-kendali-mobil-subaru-tabrak-truk-hingga-terbakar-di-tol",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Cara Cek Bansos PKH-BPNT Tahap 3 2026 pakai NIK, Sudah Cair atau Belum",
+      "url": "https://money.kompas.com/read/2026/08/30/195340826/cara-cek-bansos-pkh-bpnt-tahap-3-2026-pakai-nik-sudah-cair-atau-belum",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Klasemen MotoGP Usai GP Aragon 2026, Jorge Martin Masih di Puncak",
+      "url": "https://otomotif.kompas.com/read/2026/08/30/200155715/klasemen-motogp-usai-gp-aragon-2026-jorge-martin-masih-di-puncak",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Muktamar Ke-35 NU di Tambakberas: KH Zulfa Mustofa Siap Dipilih Lewat Mekanisme AHWA",
+      "url": "https://regional.kompas.com/read/2026/08/30/195835278/muktamar-ke-35-nu-di-tambakberas-kh-zulfa-mustofa-siap-dipilih-lewat",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Warganet Keluhkan Aktivitas Pesepeda di Solo, Respati: Hormati Sesama Pengguna Jalan",
+      "url": "https://regional.kompas.com/read/2026/08/30/200653978/warganet-keluhkan-aktivitas-pesepeda-di-solo-respati-hormati-sesama",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Unesa Kirim Tim Kemanusiaan ke NTT, Sekolah Darurat Jadi Perhatian",
+      "url": "https://surabaya.kompas.com/read/2026/08/30/202502678/unesa-kirim-tim-kemanusiaan-ke-ntt-sekolah-darurat-jadi-perhatian",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Daftar Lengkap 9 Ulama Anggota AHWA Muktamar Ke-35 NU di Jombang dan Rincian Suaranya",
+      "url": "https://surabaya.kompas.com/read/2026/08/30/201812478/daftar-lengkap-9-ulama-anggota-ahwa-muktamar-ke-35-nu-di-jombang-dan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Selebrasi Marc Marquez, Dibonceng Motor buat Hampiri Fans di Tribun",
+      "url": "https://otomotif.kompas.com/read/2026/08/30/201306115/selebrasi-marc-marquez-dibonceng-motor-buat-hampiri-fans-di-tribun",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Putri Mahkota Swedia Akan ke Indonesia 4–8 September 2026, Bakal ke NTT dan Lombok",
+      "url": "https://travel.kompas.com/read/2026/08/30/200800027/putri-mahkota-swedia-akan-ke-indonesia-4-8-september-2026-bakal-ke-ntt-dan",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Bos Resto Korea di Surabaya Bantah Semua Tuduhan Dugaan Pelecehan Seksual",
+      "url": "https://surabaya.kompas.com/read/2026/08/30/201621178/bos-resto-korea-di-surabaya-bantah-semua-tuduhan-dugaan-pelecehan-seksual",
+      "sektor": "Keuangan, Energi"
+    }
+  ]
+}
