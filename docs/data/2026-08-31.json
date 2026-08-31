@@ -1,0 +1,295 @@
+{
+  "tanggal": "2026-08-31",
+  "dibuat_pada": "2026-08-31 22:48 WIB",
+  "jumlah_artikel": 47,
+  "saham_disebut": {
+    "ADRO": [
+      "Energi (rating 4/7)"
+    ],
+    "AADI": [
+      "Energi (rating 4/7)"
+    ],
+    "BBTN": [
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Investor asing melakukan pembelian bersih signifikan pada saham-saham bank besar menjelang rebalancing MSCI, didukung oleh sentimen positif dari pendanaan fintech dan ekspansi perbankan syariah.",
+      "alasan": "Aksi beli investor asing yang terfokus pada \"big banks\" adalah sinyal bullish yang kuat karena bank-bank besar memiliki bobot signifikan dalam indeks sektor keuangan. Ditambah lagi, berita mengenai pendanaan besar untuk platform investasi Ajaib dan perluasan layanan digital perbankan syariah Bank BSN menunjukkan pertumbuhan dan inovasi yang positif di berbagai segmen sektor keuangan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan untuk sektor keuangan. Meskipun disebutkan \"saham-saham big banks\", tidak ada kode saham spesifik seperti BBCA, BBRI, BBNI, atau BMRI yang disebutkan secara eksplisit dalam berita."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Platform investasi online Ajaib berhasil memperoleh investasi besar senilai Rp4,8 triliun dari SBI Holdings Jepang untuk ekspansi bisnisnya.",
+      "alasan": "Meskipun Ajaib bukan perusahaan publik, pendanaan besar ini mencerminkan tingginya kepercayaan investor terhadap potensi pertumbuhan sektor teknologi dan fintech di Indonesia. Sentimen positif ini dapat menyebar ke emiten teknologi lainnya di bursa, mendorong optimisme terhadap valuasi dan prospek pertumbuhan sektor secara keseluruhan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Grup Adaro melakukan pemisahan entitas untuk mengejar jalur bisnis yang berbeda antara dividen dan transisi energi hijau, dengan kode saham ADRO dan AADI menjadi fokus analisis.",
+      "alasan": "Berita ini menyoroti strategi diversifikasi dan adaptasi salah satu pemain besar di sektor energi terhadap tren transisi energi hijau. Meskipun langkah ini positif untuk keberlanjutan jangka panjang, dampaknya terhadap pergerakan indeks sektor secara keseluruhan untuk esok hari cenderung netral karena lebih bersifat perubahan struktural internal dan menimbulkan dilema bagi investor.",
+      "analisis_saham": "ADRO sebagai entitas induk yang melakukan spin-off akan dinilai berdasarkan strategi keseluruhan dan prospek gabungan dari unit bisnisnya, termasuk yang berfokus pada transisi energi hijau. Sementara itu, AADI, sebagai entitas bervolume besar, kemungkinan akan dievaluasi berdasarkan kinerja operasional inti dan kemampuannya memberikan dividen di tengah fluktuasi harga batubara."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bank BTN bersama beberapa menteri pemerintah menyerahkan rumah, menandakan komitmen berkelanjutan terhadap program perumahan nasional.",
+      "alasan": "Berita ini menunjukkan dukungan kuat pemerintah dan lembaga keuangan terhadap sektor perumahan, yang merupakan komponen vital dari infrastruktur. Aktivitas pembangunan dan penyediaan perumahan secara langsung mempengaruhi kinerja sub-sektor properti dan konstruksi, memberikan sentimen positif bagi prospek pertumbuhan sektor infrastruktur secara keseluruhan.",
+      "analisis_saham": "BTN (BBTN) adalah bank yang berfokus pada pembiayaan perumahan. Keterlibatannya dalam penyerahan rumah yang didukung pemerintah ini merupakan sentimen positif yang dapat memperkuat kepercayaan investor terhadap model bisnis dan perannya dalam mendukung program perumahan nasional."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Kejadian Karhutla yang meluas di Jambi menyebabkan ancaman ekologi dan pencemaran udara, diperparah dengan kasus korupsi lokal yang melibatkan pejabat publik, menciptakan sentimen negatif terhadap kondisi umum dan makro.",
+      "alasan": "Karhutla berpotensi menimbulkan kerugian ekonomi, gangguan kesehatan masyarakat, dan dampak lingkungan jangka panjang, sementara kasus korupsi mengikis kepercayaan publik dan efisiensi alokasi anggaran, yang keduanya secara kolektif memberikan tekanan negatif pada sentimen pasar makro secara keseluruhan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Komentar Erik ten Hag Usai Mees Hilgers Gabung Heerenven",
+      "url": "https://bola.kompas.com/read/2026/08/31/22331048/komentar-erik-ten-hag-usai-mees-hilgers-gabung-heerenven",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Kata-kata Igor Tolic Usai Hasil Persib Vs Manila Digger 1-0",
+      "url": "https://bola.kompas.com/read/2026/08/31/22124808/kata-kata-igor-tolic-usai-hasil-persib-vs-manila-digger-1-0",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Perampok Minimarket di Subang Gasak Rp 23 Juta, Pistol yang Ditodongkan Ternyata Mainan",
+      "url": "https://bandung.kompas.com/read/2026/08/31/221204078/perampok-minimarket-di-subang-gasak-rp-23-juta-pistol-yang-ditodongkan",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Ajaib Dapat Suntikan Rp4,8 Triliun, Bidik Ekspansi ke 1 Negara Baru",
+      "url": "https://emitennews.com/news/ajaib-dapat-suntikan-rp48-triliun-bidik-ekspansi-ke-1-negara-baru",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Adu Dividen vs Transisi Energi Hijau, Lebih Menarik ADRO atau AADI?",
+      "url": "https://emitennews.com/news/adu-dividen-vs-transisi-energi-hijau-lebih-menarik-adro-atau-aadi",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "23 Emiten Melanggar Aturan OJK dan Didenda Rp73,9M, Cek Daftarnya",
+      "url": "https://emitennews.com/news/23-emiten-melanggar-aturan-ojk-dan-didenda-rp739m-cek-daftarnya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ari Widiatmoko Tinggalkan Posisi Direktur Trimuda Nuansa Citra (TNCA)",
+      "url": "https://emitennews.com/news/ari-widiatmoko-tinggalkan-posisi-direktur-trimuda-nuansa-citra-tnca",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "ASII Buka Penawaran Beli Saham AUTO Milik Publik, Rp3.600 per Saham",
+      "url": "https://emitennews.com/news/asii-buka-penawaran-beli-saham-auto-milik-publik-rp3600-per-saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Asing Terpantau Net Buy Rp183,56M di Sesi I (31/8) Jelang Efektif MSCI",
+      "url": "https://emitennews.com/news/asing-terpantau-net-buy-rp18356m-di-sesi-i-318-jelang-efektif-msci",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bank BSN Layani Pembukaan Rekening Syariah Digital di Muktamar NU",
+      "url": "https://emitennews.com/news/bank-bsn-layani-pembukaan-rekening-syariah-digital-di-muktamar-nu",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Baru Seumur Jagung, Komisaris ADMF Theresia Adriana Widjaja Mundur",
+      "url": "https://emitennews.com/news/baru-seumur-jagung-komisaris-admf-theresia-adriana-widjaja-mundur",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BTN dan PHSI Serahkan Rumah Bagi 30 Pahlawan Bangsa",
+      "url": "https://emitennews.com/news/btn-dan-phsi-serahkan-rumah-bagi-30-pahlawan-bangsa",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bursa Siang Berbalik Sideways, IHSG Nemplok Kembali di 6.517",
+      "url": "https://emitennews.com/news/bursa-siang-berbalik-sideways-ihsg-nemplok-kembali-di-6517",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bye-bye Agustus, Begini Proyeksi IHSG Bulan September 2026",
+      "url": "https://emitennews.com/news/bye-bye-agustus-begini-proyeksi-ihsg-bulan-september-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Cuan Sewa Listrik Melesat 73%, India Jadi Tujuan Ekspor Terbesar AADI",
+      "url": "https://emitennews.com/news/cuan-sewa-listrik-melesat-73-india-jadi-tujuan-ekspor-terbesar-aadi",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Emiten Depakan MSCI Dilego Asing Senin Sore Ini (31/8), CPIN Top Sell!",
+      "url": "https://emitennews.com/news/emiten-depakan-msci-dilego-asing-senin-sore-ini-318-cpin-top-sell",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Enam Program Nasional KKP, Menteri Sakti Pastikan Kebutuhan Masyarakat",
+      "url": "https://emitennews.com/news/enam-program-nasional-kkp-menteri-sakti-pastikan-kebutuhan-masyarakat",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Grup Hapsoro (SINI) & 2 Saham Ini Baru Lepas FCA, Siapa Paling Ngebut?",
+      "url": "https://emitennews.com/news/grup-hapsoro-sini-2-saham-ini-baru-lepas-fca-siapa-paling-ngebut",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Akhir Agustus Menguat ke 6.525, CPIN Transaksi Jumbo Harga Anjlok",
+      "url": "https://emitennews.com/news/ihsg-akhir-agustus-menguat-ke-6525-cpin-transaksi-jumbo-harga-anjlok",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "KBank (BMAS) Bidik Salurkan Kredit Rp40T di 2030, Resmi Operasi Penuh",
+      "url": "https://emitennews.com/news/kbank-bmas-bidik-salurkan-kredit-rp40t-di-2030-resmi-operasi-penuh",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kinerja Tumbuh Signifikan, Laba Bersih SSMS Melonjak jadi Rp1 Triliun",
+      "url": "https://emitennews.com/news/kinerja-tumbuh-signifikan-laba-bersih-ssms-melonjak-jadi-rp1-triliun",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kurangi Dolar AS, BI-MAS Implementasikan Penggunaan Mata Uang Lokal",
+      "url": "https://emitennews.com/news/kurangi-dolar-as-bi-mas-implementasikan-penggunaan-mata-uang-lokal",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Laba BBRI Lompat 17,5 Persen, Ditopang Pendapatan Bunga Bersih Rp80,5T",
+      "url": "https://emitennews.com/news/laba-bbri-lompat-175-persen-ditopang-pendapatan-bunga-bersih-rp805t",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Laba PTBA Terbang 217,61 Persen, Saham Berayun Kencang",
+      "url": "https://emitennews.com/news/laba-ptba-terbang-21761-persen-saham-berayun-kencang",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Laba Semester I 2026 Meroket 511%, Phapros (PEHA) Siapkan Manuver Baru",
+      "url": "https://emitennews.com/news/laba-semester-i-2026-meroket-511-phapros-peha-siapkan-manuver-baru",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Operasional Transnusa di Singapura Pindah ke Terminal 4 Changi Airport",
+      "url": "https://emitennews.com/news/operasional-transnusa-di-singapura-pindah-ke-terminal-4-changi-airport",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Pendapatan Nitrasanata Dharma (JECX) Naik jadi Rp459,38M, Laba Turun",
+      "url": "https://emitennews.com/news/pendapatan-nitrasanata-dharma-jecx-naik-jadi-rp45938m-laba-turun",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Api Masih Berkobar di Lantai 13 Gedung Kosong Imbas Kebakaran Permukiman Gambir",
+      "url": "https://megapolitan.kompas.com/read/2026/08/31/22224701/api-masih-berkobar-di-lantai-13-gedung-kosong-imbas-kebakaran-permukiman",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Pendapatan Susut, Segini Laba JSMR Semester I",
+      "url": "https://emitennews.com/news/pendapatan-susut-segini-laba-jsmr-semester-i",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "PTPP Kantongi Kontrak Rp970 Miliar, Bangun Jalan di Sumatera Selatan",
+      "url": "https://emitennews.com/news/ptpp-kantongi-kontrak-rp970-miliar-bangun-jalan-di-sumatera-selatan",
+      "sektor": "Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Siap Lunasi Surat Utang Rp4 Triliun, Pegadaian Ungkap Sumber Dananya",
+      "url": "https://emitennews.com/news/siap-lunasi-surat-utang-rp4-triliun-pegadaian-ungkap-sumber-dananya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tahun 2027, KPU Anggarkan Pp2,52T Untuk Gaji dan Uang Kehormatan",
+      "url": "https://emitennews.com/news/tahun-2027-kpu-anggarkan-pp252t-untuk-gaji-dan-uang-kehormatan",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Survei Poltracking Indonesia: Kebebasan Berpendapat dan Kebebasan Pers Dinilai Baik",
+      "url": "https://nasional.kompas.com/read/2026/08/31/22393291/survei-poltracking-indonesia-kebebasan-berpendapat-dan-kebebasan-pers",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "KLH Usut 19 Perusahaan Terkait Karhutla di Kalimanan dan Sumatera",
+      "url": "https://nasional.kompas.com/read/2026/08/31/22234511/klh-usut-19-perusahaan-terkait-karhutla-di-kalimanan-dan-sumatera",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "KPK Cecar 3 Pejabat Bappenda Bogor soal Mekanisme Pemungutan Upah Pungut",
+      "url": "https://nasional.kompas.com/read/2026/08/31/22443251/kpk-cecar-3-pejabat-bappenda-bogor-soal-mekanisme-pemungutan-upah-pungut",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Menhut: Penegakan Hukum Karhutla Tak Boleh Tajam ke Bawah, Tumpul ke Atas",
+      "url": "https://nasional.kompas.com/read/2026/08/31/22151671/menhut-penegakan-hukum-karhutla-tak-boleh-tajam-ke-bawah-tumpul-ke-atas",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Siaga 24 Jam, Kapal Pertamina Transko Dara 3218  Dukung Distribusi Energi di Balongan",
+      "url": "https://money.kompas.com/read/2026/08/31/221000926/siaga-24-jam-kapal-pertamina-transko-dara-3218-dukung-distribusi-energi-di",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Malam-Malam, Anies Baswedan Jenguk Fatur Korban Kericuhan Pejompongan di RSUD Tarakan",
+      "url": "https://megapolitan.kompas.com/read/2026/08/31/22071091/malam-malam-anies-baswedan-jenguk-fatur-korban-kericuhan-pejompongan-di",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Petani di Banyuasin Ditangkap Saat Bakar Lahan Sawah Miliknya, Korek dan Pertamax Disita",
+      "url": "https://regional.kompas.com/read/2026/08/31/221918878/petani-di-banyuasin-ditangkap-saat-bakar-lahan-sawah-miliknya-korek-dan",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Wali Kota Ambon Targetkan Kurikulum Musik Diterapkan di Semua SD-SMP dalam 1 Bulan",
+      "url": "https://regional.kompas.com/read/2026/08/31/221640778/wali-kota-ambon-targetkan-kurikulum-musik-diterapkan-di-semua-sd-smp-dalam",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "Eks Pj Bupati Maluku Tengah Ditahan atas Dugaan Korupsi Proyek Air Bersih Pulau Haruku",
+      "url": "https://regional.kompas.com/read/2026/08/31/220935478/eks-pj-bupati-maluku-tengah-ditahan-atas-dugaan-korupsi-proyek-air-bersih",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Karhutla di Jambi Nyaris Hanguskan 100 Hektare Kawasan Taman Nasional Berbak Sembilang, Ancaman Ekologi",
+      "url": "https://regional.kompas.com/read/2026/08/31/222827478/karhutla-di-jambi-nyaris-hanguskan-100-hektare-kawasan-taman-nasional",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Menyala dari Pesisir Kenjeran, Anak Muda Bangun Pojok Literasi untuk Puluhan Anak Nelayan",
+      "url": "https://surabaya.kompas.com/read/2026/08/31/222329878/menyala-dari-pesisir-kenjeran-anak-muda-bangun-pojok-literasi-untuk-puluhan",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Namanya Disebut dalam Kasus Korupsi Proyek Disdik Sampang, Mantan Wabup Bungkam",
+      "url": "https://surabaya.kompas.com/read/2026/08/31/224324378/namanya-disebut-dalam-kasus-korupsi-proyek-disdik-sampang-mantan-wabup",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Rektor IAKN Kupang Jelaskan Persoalan Pangkat Harun Natonis yang Berujung Keributan",
+      "url": "https://regional.kompas.com/read/2026/08/31/223508378/rektor-iakn-kupang-jelaskan-persoalan-pangkat-harun-natonis-yang-berujung",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Trans Banyumas Ditargetkan Beroperasi Lagi Paling Lambat Oktober, Pemkab Kejar Peralihan Pendanaan",
+      "url": "https://regional.kompas.com/read/2026/08/31/223700978/trans-banyumas-ditargetkan-beroperasi-lagi-paling-lambat-oktober-pemkab",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Gaji PPPK Paruh Waktu Kulon Progo Belum Capai UMK, BOS Diusulkan Jadi Sumber Tambahan",
+      "url": "https://yogyakarta.kompas.com/read/2026/08/31/221700078/gaji-pppk-paruh-waktu-kulon-progo-belum-capai-umk-bos-diusulkan-jadi",
+      "sektor": "Keuangan"
+    }
+  ]
+}
