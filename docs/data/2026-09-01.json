@@ -1,0 +1,160 @@
+{
+  "tanggal": "2026-09-01",
+  "dibuat_pada": "2026-09-01 20:03 WIB",
+  "jumlah_artikel": 20,
+  "saham_disebut": {
+    "ASBI": [
+      "Keuangan (rating 5/7)"
+    ],
+    "GOTO": [
+      "Keuangan (rating 5/7)"
+    ],
+    "CYBR": [
+      "Teknologi (rating 5/7)"
+    ],
+    "TPIA": [
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pasar saham Indonesia mengawali bulan September dengan optimisme yang ditandai kenaikan IHSG, meskipun terdapat berita negatif terkait dugaan fraud dan kerugian di emiten asuransi ASBI.",
+      "alasan": "Kenaikan Indeks Harga Saham Gabungan (IHSG) di awal September menunjukkan sentimen pasar yang positif secara keseluruhan. Meskipun ada kabar fraud di ASBI yang menekan sub-sektor asuransi, skala kasus tersebut kemungkinan tidak cukup besar untuk menyeret seluruh sektor keuangan yang didominasi oleh bank-bank besar, yang cenderung bergerak sejalan dengan arah pasar umum yang bergairah.",
+      "analisis_saham": "ASBI (Asuransi Bintang Tbk)**: Dugaan fraud oleh orang dalam dan kerugian minimal Rp12 miliar merupakan sentimen negatif yang sangat kuat dan kemungkinan besar akan menekan harga saham ASBI secara signifikan. Ini mencerminkan risiko tata kelola dan operasional yang serius."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "PT ITSEC Asia (CYBR), perusahaan keamanan siber, mencatat peningkatan laba usaha yang sangat signifikan sebesar 1.171% di Q2 2026.",
+      "alasan": "Kinerja luar biasa dari CYBR menunjukkan potensi pertumbuhan yang kuat di sub-sektor keamanan siber dan kemampuan eksekusi bisnis yang solid di tengah tantangan ekonomi. Keberhasilan perusahaan teknologi dalam mencapai profitabilitas tinggi seperti ini dapat memberikan sentimen positif pada prospek sektor secara keseluruhan, terutama bagi perusahaan dengan model bisnis serupa.",
+      "analisis_saham": "Saham CYBR diperkirakan akan bereaksi positif terhadap berita ini. Peningkatan laba usaha yang fantastis sebesar 1.171% serta lonjakan laba sebelum pajak sebesar 1.407% adalah fundamental yang sangat kuat dan kemungkinan besar akan menarik minat beli dari investor, mendorong potensi kenaikan harga saham CYBR."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Indeks Harga Saham Gabungan (IHSG) mengawali bulan September dengan sentimen positif dan kenaikan moderat.",
+      "alasan": "Meskipun tidak ada berita spesifik mengenai sektor Energi, sentimen positif pada Indeks Harga Saham Gabungan (IHSG) di awal September cenderung menciptakan suasana pasar yang optimistis. Kenaikan IHSG dapat memberikan dorongan tidak langsung bagi seluruh sektor, termasuk Energi, mengindikasikan potensi pergerakan yang cenderung positif.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Anak usaha PT Chandra Asri Pacific Tbk (TPIA) mendapatkan izin untuk mengoperasikan pelabuhan logistiknya bagi pelaku industri eksternal, membuka potensi pendapatan baru.",
+      "alasan": "Pembukaan pelabuhan anak usaha TPIA untuk pihak eksternal menandakan peningkatan utilisasi aset infrastruktur dan potensi pertumbuhan pendapatan di sektor logistik dan pelabuhan. Ini memberikan sentimen positif bagi prospek bisnis infrastruktur secara keseluruhan, khususnya yang terkait dengan konektivitas dan monetisasi aset.",
+      "analisis_saham": "Berita ini sangat positif bagi TPIA karena anak usahanya, CPN, akan dapat mengoptimalkan aset pelabuhan dan menghasilkan pendapatan tambahan dari pihak eksternal. Hal ini berpotensi meningkatkan kinerja keuangan TPIA dan memberikan sentimen positif terhadap pergerakan harga sahamnya."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Dugaan Fraud oleh Orang Dalam, ASBI Rugi Sedikitnya Rp12 Miliar",
+      "url": "https://emitennews.com/news/dugaan-fraud-oleh-orang-dalam-asbi-rugi-sedikitnya-rp12-miliar",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "ARA 6 Hari Beruntun! Saham Kuda Hitam Isam (PACK) 2 Kali Disetop BEI",
+      "url": "https://emitennews.com/news/ara-6-hari-beruntun-saham-kuda-hitam-isam-pack-2-kali-disetop-bei",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Baru Lepas Suspensi, Saham ini Lanjut Melenting 6 Hari Berturut-Turut!",
+      "url": "https://emitennews.com/news/baru-lepas-suspensi-saham-ini-lanjut-melenting-6-hari-berturut-turut",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Aneh, GOTO Catat Inflow Asing Kala Dikeluarkan dari Indeks Utama MSCI",
+      "url": "https://emitennews.com/news/aneh-goto-catat-inflow-asing-kala-dikeluarkan-dari-indeks-utama-msci",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Back to Back Boncos, TAMA Bungkus Defisit Rp127 Miliar",
+      "url": "https://emitennews.com/news/back-to-back-boncos-tama-bungkus-defisit-rp127-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Eksekusi Tepat, Laba Usaha CYBR Meningkat 1.171 Persen",
+      "url": "https://emitennews.com/news/eksekusi-tepat-laba-usaha-cybr-meningkat-1171-persen",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Bergairah di Awal September, Sambut Kenaikan 0,45% di Level 6.554",
+      "url": "https://emitennews.com/news/ihsg-bergairah-di-awal-september-sambut-kenaikan-045-di-level-6554",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Konsolidatif, Investor Telisik Sejumlah Data Berikut",
+      "url": "https://emitennews.com/news/ihsg-konsolidatif-investor-telisik-sejumlah-data-berikut",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG di Sisa Perjalanan 2026, Adakah Potensi Menguat?",
+      "url": "https://emitennews.com/news/ihsg-di-sisa-perjalanan-2026-adakah-potensi-menguat",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Sesi I Naik 0,60 Persen ke 6.564, IDXINDUST dan IDXFINANCE Pimpin",
+      "url": "https://emitennews.com/news/ihsg-sesi-i-naik-060-persen-ke-6564-idxindust-dan-idxfinance-pimpin",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kantongi USD 30,7 Juta, ADMR Kembali Tembus Pasar Jepang",
+      "url": "https://emitennews.com/news/kantongi-usd-307-juta-admr-kembali-tembus-pasar-jepang",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Laba Tumbuh Berkat UMKM, Risiko Kredit Korporasi Membayangi BBRI",
+      "url": "https://emitennews.com/news/laba-tumbuh-berkat-umkm-risiko-kredit-korporasi-membayangi-bbri",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Pelabuhan Anak Usaha TPIA di Cilegon Kini Terbuka bagi Pihak Eksternal",
+      "url": "https://emitennews.com/news/pelabuhan-anak-usaha-tpia-di-cilegon-kini-terbuka-bagi-pihak-eksternal",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Olah 7,7 Juta Ton Batubara, Anak Usaha BUMI Bikin Metanol",
+      "url": "https://emitennews.com/news/olah-77-juta-ton-batubara-anak-usaha-bumi-bikin-metanol",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Perbaiki Keuangan, APEX Pentaskan Aksi ini",
+      "url": "https://emitennews.com/news/perbaiki-keuangan-apex-pentaskan-aksi-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Saham SQMI Melejit ARA, Muncul Pengumuman Dirutnya Mundur!",
+      "url": "https://emitennews.com/news/saham-sqmi-melejit-ara-muncul-pengumuman-dirutnya-mundur",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Soal Rp50 ke Rp1, BEI Targetkan Live di Pekan Terakhir September",
+      "url": "https://emitennews.com/news/soal-rp50-ke-rp1-bei-targetkan-live-di-pekan-terakhir-september",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Spekulasi Kenaikan Suku Bunga Fed Tekan Harga Emas",
+      "url": "https://emitennews.com/news/spekulasi-kenaikan-suku-bunga-fed-tekan-harga-emas",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Timang-Timang CPIN, Kemarin Top Sell, Nasib Ke Depan Bagaimana?",
+      "url": "https://emitennews.com/news/timang-timang-cpin-kemarin-top-sell-nasib-ke-depan-bagaimana",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "VTO ASII Berpotensi Pangkas Free Float AUTO, Ini Kata Analis",
+      "url": "https://emitennews.com/news/vto-asii-berpotensi-pangkas-free-float-auto-ini-kata-analis",
+      "sektor": "Keuangan, Energi"
+    }
+  ]
+}
