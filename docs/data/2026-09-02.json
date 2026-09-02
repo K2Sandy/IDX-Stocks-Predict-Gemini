@@ -1,0 +1,218 @@
+{
+  "tanggal": "2026-09-02",
+  "dibuat_pada": "2026-09-02 19:31 WIB",
+  "jumlah_artikel": 28,
+  "saham_disebut": {
+    "BBRI": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BBCA": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BMRI": [
+      "Keuangan (rating 6/7)"
+    ],
+    "LIFE": [
+      "Keuangan (rating 6/7)"
+    ],
+    "VKTR": [
+      "Energi (rating 4/7)"
+    ],
+    "BNBR": [
+      "Energi (rating 4/7)"
+    ],
+    "ANTM": [
+      "Energi (rating 4/7)"
+    ],
+    "CMNT": [
+      "Energi (rating 4/7)"
+    ],
+    "MORA": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "BCA": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Investor asing kembali memborong saham-saham bank besar, menjadi penopang utama penguatan IHSG dan menunjukkan sinyal positif bagi sektor keuangan.",
+      "alasan": "Masuknya arus dana asing secara signifikan ke saham perbankan berkapitalisasi besar (big banks) secara langsung akan mendorong kinerja indeks sektor keuangan. Bank-bank ini memiliki bobot besar dalam indeks, sehingga kepercayaan investor asing terhadap fundamental mereka diperkirakan akan mengerek sektor secara keseluruhan pada perdagangan berikutnya.",
+      "analisis_saham": "BBRI, BBCA, dan BMRI mendapatkan sentimen sangat positif karena menjadi target pembelian investor asing yang menopang penguatan IHSG, mengindikasikan potensi kenaikan harga lebih lanjut. Sementara itu, saham LIFE disuspensi oleh BEI karena penguatan harga beruntun yang signifikan, memberikan sentimen negatif bagi saham tersebut karena ketidakpastian pembukaan kembali dan potensi volatilitas tinggi."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Platform investasi online Ajaib mengantongi investasi besar namun belum berencana IPO dalam waktu dekat, sementara dana asing kembali memborong saham perbankan di tengah pergerakan IHSG yang cenderung melemah.",
+      "alasan": "Meskipun Ajaib berhasil mendapatkan pendanaan yang signifikan, berita ini tidak secara langsung memberikan katalis positif bagi saham teknologi yang sudah terdaftar di bursa. Dengan aliran dana asing yang fokus ke sektor perbankan dan IHSG yang menunjukkan volatilitas cenderung melemah, sektor teknologi kemungkinan tidak menjadi pilihan utama investor dan dapat menghadapi tekanan jual atau kurangnya minat beli.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Investasi signifikan masuk ke VKTR Teknologi Mobbilitas (VKTR) untuk pengembangan kendaraan listrik, sementara induknya, PT Bakrie & Brothers Tbk (BNBR), masih mencatatkan kerugian meskipun ada lonjakan pendapatan.",
+      "alasan": "Tidak ada berita langsung yang mempengaruhi komoditas energi utama (minyak, gas, batu bara) atau proyek energi besar yang dapat menggerakkan sektor secara signifikan. Meskipun ada investasi positif di segmen energi baru (kendaraan listrik) melalui VKTR, dampak langsungnya pada indeks sektor Energi yang mayoritas masih didominasi oleh energi tradisional cenderung terbatas dan diimbangi oleh kondisi keuangan BNBR yang masih menantang.",
+      "analisis_saham": "VKTR (VKTR Teknologi Mobbilitas):** Sentimen positif karena menerima injeksi dana sebesar Rp2 triliun dari Danantara Investment Management, yang dapat mendukung percepatan proyek-proyek kendaraan listriknya dan potensi pertumbuhan di masa depan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "PT Ekamas Mora Republik Tbk (MORA) memperoleh fasilitas kredit investasi Rp4 triliun dari BCA untuk ekspansi jaringan homepass, menunjukkan investasi signifikan dalam infrastruktur telekomunikasi.",
+      "alasan": "Suntikan dana sebesar Rp4 triliun untuk pengembangan jaringan telekomunikasi merupakan indikator kuat adanya investasi dan pertumbuhan di salah satu sub-sektor kunci infrastruktur. Aktivitas ekspansi ini secara langsung berkontribusi pada peningkatan kapasitas dan layanan infrastruktur secara keseluruhan, memberikan sentimen positif bagi indeks sektor.",
+      "analisis_saham": "MORA: Perolehan kredit investasi sebesar Rp4 triliun adalah katalis positif yang sangat kuat bagi MORA, memungkinkan percepatan pengembangan jaringan dan potensi peningkatan pendapatan serta pangsa pasar di sektor telekomunikasi."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Ajaib Belum Ada Rencana IPO, Intip Alasannya",
+      "url": "https://emitennews.com/news/ajaib-belum-ada-rencana-ipo-intip-alasannya",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Asing Kembali Borong Big Banks, Begini Arah IHSG Selanjutnya",
+      "url": "https://emitennews.com/news/asing-kembali-borong-big-banks-begini-arah-ihsg-selanjutnya",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Awas! Ini 5 Modus Kejahatan Keuangan Terbaru Bikin Rekening Jebol",
+      "url": "https://emitennews.com/news/awas-ini-5-modus-kejahatan-keuangan-terbaru-bikin-rekening-jebol",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bank Jakarta Raih Indonesia Best CMO Awards 2026 dari Warta Ekonomi",
+      "url": "https://emitennews.com/news/bank-jakarta-raih-indonesia-best-cmo-awards-2026-dari-warta-ekonomi",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEI Jadwalkan Ulang Floor Price Saham Rp1, ARA–ARB, & Evaluasi FCA",
+      "url": "https://emitennews.com/news/bei-jadwalkan-ulang-floor-price-saham-rp1-araarb-evaluasi-fca",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "66,48 Persen Saham TCID Berpindah Tangan, Manajemen Ungkap Faktanya",
+      "url": "https://emitennews.com/news/6648-persen-saham-tcid-berpindah-tangan-manajemen-ungkap-faktanya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BEI Kompak Setop 3 Saham Ini Usai ARA Berjilid-Jilid, Kapan Dibuka?",
+      "url": "https://emitennews.com/news/bei-kompak-setop-3-saham-ini-usai-ara-berjilid-jilid-kapan-dibuka",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Bunga Fed Mengancam, Harga Emas Antam Anjlok Rp40.000",
+      "url": "https://emitennews.com/news/bunga-fed-mengancam-harga-emas-antam-anjlok-rp40000",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "DEWI Rilis Lapkeu H126 Kemas Penjualan Naik, Ditopang Karkas",
+      "url": "https://emitennews.com/news/dewi-rilis-lapkeu-h126-kemas-penjualan-naik-ditopang-karkas",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "CA-EDC Chandra Asri Topang Ketahanan Bahan Baku Industri Nasional",
+      "url": "https://emitennews.com/news/ca-edc-chandra-asri-topang-ketahanan-bahan-baku-industri-nasional",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Cemindo Gemilang (CMNT) Umumkan Perubahan Pengurus Anak Usaha KPN",
+      "url": "https://emitennews.com/news/cemindo-gemilang-cmnt-umumkan-perubahan-pengurus-anak-usaha-kpn",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Direktur Utama Toba Surimi Industries (CRAB) Pamit Undur Diri",
+      "url": "https://emitennews.com/news/direktur-utama-toba-surimi-industries-crab-pamit-undur-diri",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Grup Emtek Kempit 31,34 Persen, Saham JECX Terus Melaju",
+      "url": "https://emitennews.com/news/grup-emtek-kempit-3134-persen-saham-jecx-terus-melaju",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ekspansi Homepass, MORA Peroleh Kredit Investasi Rp4 Triliun dari BCA",
+      "url": "https://emitennews.com/news/ekspansi-homepass-mora-peroleh-kredit-investasi-rp4-triliun-dari-bca",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Harga Premium, Sosok Ini Borong 56,5 Juta Saham DYAN Senilai Rp13M",
+      "url": "https://emitennews.com/news/harga-premium-sosok-ini-borong-565-juta-saham-dyan-senilai-rp13m",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Melemah Tipis Tinggalkan 6.600, Saham Big Banks Paling Diburu",
+      "url": "https://emitennews.com/news/ihsg-melemah-tipis-tinggalkan-6600-saham-big-banks-paling-diburu",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IHSG Loyo di Penutupan Sesi I (2/9), Turun 0,28 Persen ke 6.581",
+      "url": "https://emitennews.com/news/ihsg-loyo-di-penutupan-sesi-i-29-turun-028-persen-ke-6581",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "IPO Swayasa (SWAP) Ditunda Imbas Belum Turunnya Izin Efektif OJK",
+      "url": "https://emitennews.com/news/ipo-swayasa-swap-ditunda-imbas-belum-turunnya-izin-efektif-ojk",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Lonjakan Pendapatan BNBR 45% Belum Cukup Lepas dari Tekanan Rugi",
+      "url": "https://emitennews.com/news/lonjakan-pendapatan-bnbr-45-belum-cukup-lepas-dari-tekanan-rugi",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Masuk Ekosistem Grup Bakrie, Danantara Gelontor Triliunan Rupiah",
+      "url": "https://emitennews.com/news/masuk-ekosistem-grup-bakrie-danantara-gelontor-triliunan-rupiah",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "OTO Lebur ke Summit Oto Finance, SMBC Pegang 51% Saham",
+      "url": "https://emitennews.com/news/oto-lebur-ke-summit-oto-finance-smbc-pegang-51-saham",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Metode Backfilling Disetujui KLH, Proyek DPM Dinilai Sudah Layak Jalan",
+      "url": "https://emitennews.com/news/metode-backfilling-disetujui-klh-proyek-dpm-dinilai-sudah-layak-jalan",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Penjualan EV VKTR Naik 1.777%, Mitsubishi Fuso Berkontribusi Besar",
+      "url": "https://emitennews.com/news/penjualan-ev-vktr-naik-1777-mitsubishi-fuso-berkontribusi-besar",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "PGJO Kemas Pendapatan Meroket hingga Cetak Laba, Sahamnya Ikut ARA!",
+      "url": "https://emitennews.com/news/pgjo-kemas-pendapatan-meroket-hingga-cetak-laba-sahamnya-ikut-ara",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Saham Nonaktif Ini Kembali Diperdagangkan BEI Usai 2 Bulan Terkunci",
+      "url": "https://emitennews.com/news/saham-nonaktif-ini-kembali-diperdagangkan-bei-usai-2-bulan-terkunci",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Satu Dekade EMOS Perkuat Ekosistem Kesehatan Digital Indonesia",
+      "url": "https://emitennews.com/news/satu-dekade-emos-perkuat-ekosistem-kesehatan-digital-indonesia",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Sepi Peminat, Iforte Tambah Lagi Extra Time VTO Saham IBST",
+      "url": "https://emitennews.com/news/sepi-peminat-iforte-tambah-lagi-extra-time-vto-saham-ibst",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "WBSA Kemas Pendapatan Melonjak, Laba Bersihnya Justru Ambles 95%",
+      "url": "https://emitennews.com/news/wbsa-kemas-pendapatan-melonjak-laba-bersihnya-justru-ambles-95",
+      "sektor": "Keuangan"
+    }
+  ]
+}
