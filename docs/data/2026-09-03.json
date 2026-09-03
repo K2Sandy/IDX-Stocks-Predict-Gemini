@@ -1,0 +1,300 @@
+{
+  "tanggal": "2026-09-03",
+  "dibuat_pada": "2026-09-03 19:31 WIB",
+  "jumlah_artikel": 45,
+  "saham_disebut": {
+    "OCBC": [
+      "Keuangan (rating 6/7)"
+    ],
+    "LIFE": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BSIM": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BBRI": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BELI": [
+      "Teknologi (rating 3/7)"
+    ],
+    "MGLV": [
+      "Teknologi (rating 3/7)"
+    ],
+    "PIPA": [
+      "Energi (rating 3/7)"
+    ],
+    "RATU": [
+      "Energi (rating 3/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Sektor keuangan menunjukkan sinyal pertumbuhan strategis melalui akuisisi OCBC dan stabilitas tata kelola anak usaha BRI, didukung sentimen pasar yang positif.",
+      "alasan": "Akuisisi Great Eastern Life Indonesia oleh OCBC NISP menunjukkan langkah strategis untuk membentuk konglomerasi keuangan, yang merupakan sinyal pertumbuhan dan diversifikasi bagi sektor. Ditambah lagi, lulusnya Dirut BRI Finance dalam uji OJK menambah kepercayaan terhadap tata kelola dan stabilitas di salah satu grup perbankan terbesar. Penguatan Rupiah dan IHSG yang positif secara umum turut mendukung sentimen positif bagi sektor ini.",
+      "analisis_saham": "OCBC: Akuisisi PT Great Eastern Life Indonesia (GELI) senilai Rp201,98 miliar adalah langkah strategis untuk memperluas konglomerasi keuangan OCBC, yang berpotensi positif bagi diversifikasi pendapatan dan pertumbuhan jangka panjang saham."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Dua emiten teknologi, BELI dan MGLV, menghadapi sentimen negatif masing-masing dari pengumuman UMA BEI dan penundaan RUPSLB akibat permintaan OJK.",
+      "alasan": "Meskipun pasar secara keseluruhan menunjukkan penguatan, berita negatif spesifik terkait BELI dan MGLV, dua emiten yang relevan di sektor teknologi, cenderung menciptakan sentimen kehati-hatian. Pengawasan UMA dan penundaan rapat penting berpotensi menekan pergerakan saham individu dan dapat menyeret sentimen sektor secara keseluruhan ke arah menurun.",
+      "analisis_saham": "BELI (PT Global Digital Niaga Tbk): Pengumuman UMA oleh BEI seringkali menjadi sinyal peringatan akan adanya aktivitas pasar yang tidak biasa dan dapat memicu koreksi harga saham atau peningkatan volatilitas."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Sektor energi menghadapi sentimen negatif dari hambatan proyek ekspor listrik hijau dan pengawasan UMA terhadap saham energi, sementara emiten hulu migas berencana private placement.",
+      "alasan": "Proyek ekspor listrik hijau oleh Pertamina New & Renewable Energy (PNRE) yang menghadapi kendala signifikan menciptakan ketidakpastian dan sentimen negatif bagi sub-sektor energi terbarukan. Selain itu, pengumuman UMA pada saham energi PIPA, dengan indikasi potensi koreksi tajam, menambah sentimen kehati-hatian investor terhadap volatilitas di sektor ini secara keseluruhan.",
+      "analisis_saham": "PIPA:** Saham PT Oxala Energy International Tbk (PIPA) masuk dalam kategori Unusual Market Activity (UMA) oleh BEI. Berita ini juga secara implisit menyebutkan bahwa 4 dari 6 saham yang terjerat UMA langsung menukik, mengindikasikan bahwa PIPA berpotensi mengalami tekanan jual atau koreksi harga yang signifikan pada perdagangan berikutnya."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Tidak ada berita spesifik yang secara langsung berkaitan atau memberikan sentimen signifikan terhadap sektor Infrastruktur hari ini.",
+      "alasan": "Kumpulan berita yang disediakan tidak mencakup informasi mengenai proyek infrastruktur baru, kebijakan pemerintah terkait pembangunan, atau kinerja perusahaan-perusahaan di sektor infrastruktur. Oleh karena itu, tidak ada katalis yang jelas untuk mendorong pergerakan sektor ini naik atau turun.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Kebakaran hutan dan lahan (karhutla) yang menyebabkan penundaan penerbangan di Kalimantan Barat serta pencemaran Kali Bekasi menciptakan sentimen negatif terkait isu lingkungan dan gangguan operasional.",
+      "alasan": "Karhutla yang menyebabkan penundaan penerbangan berpotensi mengganggu sektor transportasi dan pariwisata, serta menimbulkan kekhawatiran akan dampak kesehatan dan produktivitas ekonomi. Selain itu, isu pencemaran lingkungan yang terus-menerus dapat memengaruhi citra investasi dan menuntut alokasi sumber daya untuk mitigasi.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Caplok GELI Rp201,98M, OCBC Bentuk Konglomerasi Keuangan",
+      "url": "https://emitennews.com/news/caplok-geli-rp20198m-ocbc-bentuk-konglomerasi-keuangan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "5 Saham Baru Terbebas Suspensi BEI: 2 Melejit, 2 Ambruk, Sisanya Flat",
+      "url": "https://emitennews.com/news/5-saham-baru-terbebas-suspensi-bei-2-melejit-2-ambruk-sisanya-flat",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Bursa Pagi Membara 0,56 Persen di 6.632, IHSG Uji Resistance 6.635",
+      "url": "https://emitennews.com/news/bursa-pagi-membara-056-persen-di-6632-ihsg-uji-resistance-6635",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "6 Saham Terbang Kompak Terjerat UMA BEI, 4 Langsung Menukik!",
+      "url": "https://emitennews.com/news/6-saham-terbang-kompak-terjerat-uma-bei-4-langsung-menukik",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dirut BRI Finance Lulus Tes OJK, Komaruddin Hidayat dkk Masih Diproses",
+      "url": "https://emitennews.com/news/dirut-bri-finance-lulus-tes-ojk-komaruddin-hidayat-dkk-masih-diproses",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "8 Laptop dan Fasilitas SD Negeri 3 Antiga Kelod Diduga Dirusak OTK, Motif Masih Misteri",
+      "url": "https://denpasar.kompas.com/read/2026/09/03/190849878/8-laptop-dan-fasilitas-sd-negeri-3-antiga-kelod-diduga-dirusak-otk-motif",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "DKFT Jadwal Dividen Rp406,24 Miliar, Cum Date 11 September",
+      "url": "https://emitennews.com/news/dkft-jadwal-dividen-rp40624-miliar-cum-date-11-september",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Dolar AS Tertekan Penguatan Yen, Rupiah Dapat Nafas",
+      "url": "https://emitennews.com/news/dolar-as-tertekan-penguatan-yen-rupiah-dapat-nafas",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Ekspor Listrik Hijau ke Singapura Belum Jelas, PNRE jadi Ikut Bingung",
+      "url": "https://emitennews.com/news/ekspor-listrik-hijau-ke-singapura-belum-jelas-pnre-jadi-ikut-bingung",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Emiten Bos Persib MGLV Jadwal Ulang RUPSLB, Bahas Agenda Besar Ini",
+      "url": "https://emitennews.com/news/emiten-bos-persib-mglv-jadwal-ulang-rupslb-bahas-agenda-besar-ini",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Emas Antam Naik Rp15 Ribu, Mengekor Penguatan Dunia",
+      "url": "https://emitennews.com/news/emas-antam-naik-rp15-ribu-mengekor-penguatan-dunia",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Emiten Low Tuck Kwong (MYOH) Lampaui Target 3 Segmen Hingga Juli 2026",
+      "url": "https://emitennews.com/news/emiten-low-tuck-kwong-myoh-lampaui-target-3-segmen-hingga-juli-2026",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Enseval (EPMT) Suntik Modal Anak Usaha, Totalnya Segini",
+      "url": "https://emitennews.com/news/enseval-epmt-suntik-modal-anak-usaha-totalnya-segini",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Entitas Asing Borong Saham JSMR, Kini Di Atas 5 Persen Totalnya",
+      "url": "https://emitennews.com/news/entitas-asing-borong-saham-jsmr-kini-di-atas-5-persen-totalnya",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Emiten Hapsoro (RATU) Buru Restu Private Placement Pekan Depan!",
+      "url": "https://emitennews.com/news/emiten-hapsoro-ratu-buru-restu-private-placement-pekan-depan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Emiten Konglo Grup Bakrie dan 1 Saham Sempat ARA Ini Keluar dari FCA",
+      "url": "https://emitennews.com/news/emiten-konglo-grup-bakrie-dan-1-saham-sempat-ara-ini-keluar-dari-fca",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Entitas Grup Emtek (SAME) Borong Saham JECX, Sahamnya Menguat",
+      "url": "https://emitennews.com/news/entitas-grup-emtek-same-borong-saham-jecx-sahamnya-menguat",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "ERAA Siapkan Rp500 Miliar Buat Buyback, Saham Melambung di Sesi I",
+      "url": "https://emitennews.com/news/eraa-siapkan-rp500-miliar-buat-buyback-saham-melambung-di-sesi-i",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Getol-getolnya, Tiga Hari Berturut-turut Direktur NICK Ini Beli Saham",
+      "url": "https://emitennews.com/news/getol-getolnya-tiga-hari-berturut-turut-direktur-nick-ini-beli-saham",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "GTBO Nihil Penjualan di 1H26, Sahamnya Aktif Lagi, Sandang 3 Notasi",
+      "url": "https://emitennews.com/news/gtbo-nihil-penjualan-di-1h26-sahamnya-aktif-lagi-sandang-3-notasi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Harga Avtur Melonjak, Tarif Tiket Pesawat Domestik Terancam",
+      "url": "https://emitennews.com/news/harga-avtur-melonjak-tarif-tiket-pesawat-domestik-terancam",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Melesat ke 6.667! BMRI Rajai Transaksi, CPIN-JPFA Top Gainer LQ45",
+      "url": "https://emitennews.com/news/ihsg-melesat-ke-6667-bmri-rajai-transaksi-cpin-jpfa-top-gainer-lq45",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Jeda Siang IHSG Rally 1 Persen Lebih ke Level 6.663, Ini Pendorongnya",
+      "url": "https://emitennews.com/news/jeda-siang-ihsg-rally-1-persen-lebih-ke-level-6663-ini-pendorongnya",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tagih Utang Berujung Maut, Terduga Pelaku Pembunuhan di Bantaeng Sulsel Ditangkap dalam 4 Jam",
+      "url": "https://makassar.kompas.com/read/2026/09/03/192100678/tagih-utang-berujung-maut-terduga-pelaku-pembunuhan-di-bantaeng-sulsel",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Nilai Investasi Rp68,7 Triliun, Sulteng Terbesar Keempat Nasional",
+      "url": "https://emitennews.com/news/nilai-investasi-rp687-triliun-sulteng-terbesar-keempat-nasional",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Profil Destry Damayanti, Gubernur BI Perempuan Pertama RI",
+      "url": "https://emitennews.com/news/profil-destry-damayanti-gubernur-bi-perempuan-pertama-ri",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sudah Ada Nama Baru Direksi? RANS Bakal Gelar RUPSLB Minggu Depan",
+      "url": "https://emitennews.com/news/sudah-ada-nama-baru-direksi-rans-bakal-gelar-rupslb-minggu-depan",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "WINR Ambil Porsi Lebih Besar di ISP Laxo, Ini Sebenarnya yang Diincar",
+      "url": "https://emitennews.com/news/winr-ambil-porsi-lebih-besar-di-isp-laxo-ini-sebenarnya-yang-diincar",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Pemerintah Tawarkan Sukuk Wakaf Imbalan 6,7%, Dana untuk Program Ini",
+      "url": "https://emitennews.com/news/pemerintah-tawarkan-sukuk-wakaf-imbalan-67-dana-untuk-program-ini",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Sosok Warga Depok yang Jadi Tentara Rusia: Jarang Berbaur dengan Tetangga",
+      "url": "https://megapolitan.kompas.com/read/2026/09/03/19220231/sosok-warga-depok-yang-jadi-tentara-rusia-jarang-berbaur-dengan-tetangga",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Warga Keluhkan Asap Pabrik Korek Api, Pihak Pengusaha Sebut Penuhi Regulasi",
+      "url": "https://medan.kompas.com/read/2026/09/03/192503278/warga-keluhkan-asap-pabrik-korek-api-pihak-pengusaha-sebut-penuhi-regulasi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Angkot Tua di Bogor Harus Diremajakan, Sopir Minta Mobil Bekas Jakarta",
+      "url": "https://megapolitan.kompas.com/read/2026/09/03/19165051/angkot-tua-di-bogor-harus-diremajakan-sopir-minta-mobil-bekas-jakarta",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Anggota DPR Ingatkan Kepala BGN Keracunan MBG Bakal Terus Terjadi jika Tak Dibenahi",
+      "url": "https://nasional.kompas.com/read/2026/09/03/19134181/anggota-dpr-ingatkan-kepala-bgn-keracunan-mbg-bakal-terus-terjadi-jika-tak",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Kali Bekasi Diduga Kembali Tercemar pada Akhir Agustus 2026, Air Menghitam dan Berbau",
+      "url": "https://megapolitan.kompas.com/read/2026/09/03/19142381/kali-bekasi-diduga-kembali-tercemar-pada-akhir-agustus-2026-air-menghitam",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Viral Penumpang dan Petugas Ribut di Stasiun Angke Jakbar, Ini Penjelasan KAI",
+      "url": "https://megapolitan.kompas.com/read/2026/09/03/19083881/viral-penumpang-dan-petugas-ribut-di-stasiun-angke-jakbar-ini-penjelasan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Pesawat Sempat Delay karena Asap, Menhut Tiba di Kalbar untuk Cek Titik Karhutla",
+      "url": "https://nasional.kompas.com/read/2026/09/03/19252881/pesawat-sempat-delay-karena-asap-menhut-tiba-di-kalbar-untuk-cek-titik",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Konsumen Usia 40 Tahun ke Atas Mulai Prioritaskan Diri Sendiri, Peluang Pasar Baru?",
+      "url": "https://money.kompas.com/read/2026/09/03/192453426/konsumen-usia-40-tahun-ke-atas-mulai-prioritaskan-diri-sendiri-peluang-pasar",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Marak Kasus Keracunan MBG, JPPI Desak Penegakan Hukum Pihak yang Lalai",
+      "url": "https://nasional.kompas.com/read/2026/09/03/19181421/marak-kasus-keracunan-mbg-jppi-desak-penegakan-hukum-pihak-yang-lalai",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Transformasi BYD, Setop Produksi Mobil Bensin Sejak 2022",
+      "url": "https://otomotif.kompas.com/read/2026/09/03/191200615/transformasi-byd-setop-produksi-mobil-bensin-sejak-2022",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Progres Perbaikan 90 Persen, Jalan Gombel Lama Semarang Ditargetkan Buka 7 September",
+      "url": "https://regional.kompas.com/read/2026/09/03/191945178/progres-perbaikan-90-persen-jalan-gombel-lama-semarang-ditargetkan-buka-7",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Hilang Kontak, Lansia 64 Tahun Ditemukan Meninggal di Dalam Mobil Depan Masjid Pekalongan",
+      "url": "https://regional.kompas.com/read/2026/09/03/192441978/hilang-kontak-lansia-64-tahun-ditemukan-meninggal-di-dalam-mobil-depan",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Mitsubishi Pajero Rally Concept, Ralliart Belum Diproduksi",
+      "url": "https://otomotif.kompas.com/read/2026/09/03/192100215/mitsubishi-pajero-rally-concept-ralliart-belum-diproduksi",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Tak Ada Penerjemah Bahasa Vietnam, Sidang Kasus Penyeludupan Trenggiling Kembali Ditunda Ketiga Kalinya",
+      "url": "https://regional.kompas.com/read/2026/09/03/192531678/tak-ada-penerjemah-bahasa-vietnam-sidang-kasus-penyeludupan-trenggiling",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Ancam Pelaku Pembakaran Hutan, Kapolda Maluku: Siapapun Akan Ditindak Tegas",
+      "url": "https://regional.kompas.com/read/2026/09/03/192747478/ancam-pelaku-pembakaran-hutan-kapolda-maluku-siapapun-akan-ditindak-tegas",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Anggap Desil Tak Sesuai, 1.500 Warga Lumajang Ajukan Pemutakhiran Data",
+      "url": "https://surabaya.kompas.com/read/2026/09/03/191833978/anggap-desil-tak-sesuai-1500-warga-lumajang-ajukan-pemutakhiran-data",
+      "sektor": "Teknologi, Energi"
+    }
+  ]
+}
