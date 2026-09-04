@@ -1,0 +1,202 @@
+{
+  "tanggal": "2026-09-04",
+  "dibuat_pada": "2026-09-04 19:30 WIB",
+  "jumlah_artikel": 27,
+  "saham_disebut": {
+    "BMRI": [
+      "Keuangan (rating 5/7)",
+      "Teknologi (rating 3/7)"
+    ],
+    "ASBI": [
+      "Keuangan (rating 5/7)"
+    ],
+    "BTN": [
+      "Teknologi (rating 3/7)"
+    ],
+    "ADHI": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "ADCP": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "BULL": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bank Mandiri (BMRI) akan membagikan dividen interim yang besar, sementara PT Asuransi Bintang Tbk (ASBI) membebastugaskan direktur terkait dugaan penggelapan.",
+      "alasan": "Pengumuman dividen interim oleh Bank Mandiri, sebagai salah satu bank terbesar di Indonesia, memberikan sentimen positif yang kuat terhadap sub-sektor perbankan dan kesehatan finansial perusahaan besar. Meskipun ada kabar negatif terkait tata kelola perusahaan di ASBI, dampak positif dari BMRI yang memiliki bobot besar di indeks kemungkinan akan lebih mendominasi, menyebabkan sektor keuangan cenderung naik.",
+      "analisis_saham": "BMRI:** Pengumuman pembagian dividen interim Rp66 per saham merupakan sentimen sangat positif. Ini menunjukkan kinerja keuangan yang kuat dan komitmen terhadap pemegang saham, berpotensi mendorong minat beli dan kenaikan harga saham."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "IHSG ditutup anjlok di akhir pekan dengan mayoritas saham, termasuk perbankan besar, mengalami penurunan.",
+      "alasan": "Tidak adanya katalis positif spesifik untuk sektor Teknologi dalam berita hari ini, pergerakannya akan sangat dipengaruhi oleh sentimen pasar secara keseluruhan. Penurunan IHSG dan saham-saham bank besar di akhir pekan mengindikasikan tekanan jual yang berpotensi menyeret sektor Teknologi untuk cenderung bergerak negatif pada perdagangan berikutnya.",
+      "analisis_saham": "BMRI: Berita pembagian dividen interim Rp66 per saham adalah sentimen positif yang dapat mendukung harga saham BMRI, karena menunjukkan komitmen perusahaan terhadap pengembalian kepada pemegang saham. BTN: Fokus pada Hari Pelanggan Nasional dan komitmen terhadap nasabah adalah sentimen netral hingga sedikit positif yang lebih berkaitan dengan citra jangka panjang daripada dampak langsung pada harga saham."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Investor asing menunjukkan minat beli yang kuat pada saham sektor tambang dan energi, mencerminkan berlanjutnya permintaan terhadap sektor komoditas.",
+      "alasan": "Minat beli yang tinggi dari investor asing pada saham-saham energi merupakan indikasi positif terhadap prospek sektor ini. Aliran dana masuk dari investor asing berpotensi mendorong harga saham di sektor energi secara keseluruhan naik pada perdagangan berikutnya, didukung sentimen positif terhadap komoditas.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Pemerintah mendorong transformasi PT Adhi Karya (ADHI) untuk kembali ke bisnis inti, sementara PT Buana Lintas Lautan (BULL) melaporkan kenaikan laba yang signifikan dari jasa angkutan.",
+      "alasan": "Dorongan pemerintah untuk penyehatan dan fokus bisnis inti pada kontraktor BUMN besar seperti ADHI dapat meningkatkan efisiensi dan prospek proyek infrastruktur secara keseluruhan. Kinerja positif yang kuat dari perusahaan transportasi laut seperti BULL juga mengindikasikan aktivitas ekonomi yang robust, yang mendukung permintaan dan pemanfaatan infrastruktur logistik dan transportasi.",
+      "analisis_saham": "ADHI (PT Adhi Karya (Persero) Tbk):** Dorongan pemerintah untuk penyederhanaan struktur usaha dan fokus pada bisnis inti konstruksi diharapkan dapat memperkuat keuangan dan kinerja perusahaan ke depan, memberikan sentimen positif bagi pergerakan sahamnya."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "BMRI Bagi Dividen Interim Rp6,16 Triliun",
+      "url": "https://emitennews.com/news/bmri-bagi-dividen-interim-rp616-triliun",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bangkit Usai Suspensi BEI, BAIK Siapkan Agenda Untuk Paparan Publik",
+      "url": "https://emitennews.com/news/bangkit-usai-suspensi-bei-baik-siapkan-agenda-untuk-paparan-publik",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Adhi Karya Didorong Balik ke Bisnis Inti, Bagaimana Nasib ADCP?",
+      "url": "https://emitennews.com/news/adhi-karya-didorong-balik-ke-bisnis-inti-bagaimana-nasib-adcp",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEI Vonis 3 Saham UMA, Kini Harganya Melorot Termasuk Milik Hapsoro",
+      "url": "https://emitennews.com/news/bei-vonis-3-saham-uma-kini-harganya-melorot-termasuk-milik-hapsoro",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "ASBI Bebastugaskan Jenry Cardo Manurung terkait Dugaan Penggelapan",
+      "url": "https://emitennews.com/news/asbi-bebastugaskan-jenry-cardo-manurung-terkait-dugaan-penggelapan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Asing Incar Saham Tambang di Sesi I (4/9), Cek Proyeksi IHSG Lanjutan",
+      "url": "https://emitennews.com/news/asing-incar-saham-tambang-di-sesi-i-49-cek-proyeksi-ihsg-lanjutan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BULL Cetak Laba Meroket 8x Lipat, Jasa Angkutan Jadi Aktor Utama",
+      "url": "https://emitennews.com/news/bull-cetak-laba-meroket-8x-lipat-jasa-angkutan-jadi-aktor-utama",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "CBRE Bantah Dugaan Wanprestasi Navios",
+      "url": "https://emitennews.com/news/cbre-bantah-dugaan-wanprestasi-navios",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BMRI Tebar Dividen Interim Rp66, Total 20% Laba Bersih Medio 2026",
+      "url": "https://emitennews.com/news/bmri-tebar-dividen-interim-rp66-total-20-laba-bersih-medio-2026",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bursa Pagi Bersinar Cerah, IHSG Naik 0,45% Jajal Level 6.700",
+      "url": "https://emitennews.com/news/bursa-pagi-bersinar-cerah-ihsg-naik-045-jajal-level-6700",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Geger, Syarat STNK Untuk Beli BBM Subsidi Batal!",
+      "url": "https://emitennews.com/news/geger-syarat-stnk-untuk-beli-bbm-subsidi-batal",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Harga Emas Antam Naik Rp31 Ribu Jelang Data Tenaga Kerja AS",
+      "url": "https://emitennews.com/news/harga-emas-antam-naik-rp31-ribu-jelang-data-tenaga-kerja-as",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "HDFA Targetkan Turnaround! Balikkan Rugi 2025 Rp82M Jadi Laba di 2026",
+      "url": "https://emitennews.com/news/hdfa-targetkan-turnaround-balikkan-rugi-2025-rp82m-jadi-laba-di-2026",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Harpelnas 2026, Direksi BTN Dengar Langsung Suara Nasabah",
+      "url": "https://emitennews.com/news/harpelnas-2026-direksi-btn-dengar-langsung-suara-nasabah",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "HPN 2026, Generali Indonesia Tegaskan Komitmen Dampingi Nasabah",
+      "url": "https://emitennews.com/news/hpn-2026-generali-indonesia-tegaskan-komitmen-dampingi-nasabah",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Akhir Pekan Anjlok ke 6.636, Big Banks Kompak Merosot",
+      "url": "https://emitennews.com/news/ihsg-akhir-pekan-anjlok-ke-6636-big-banks-kompak-merosot",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Labil di Tengah Hari, Ditutup Turun 0,11% ke 6.660",
+      "url": "https://emitennews.com/news/ihsg-labil-di-tengah-hari-ditutup-turun-011-ke-6660",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Meroket Ratusan Persen, Saham-Saham Ini Kena Setop BEI",
+      "url": "https://emitennews.com/news/meroket-ratusan-persen-saham-saham-ini-kena-setop-bei",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Peringati Hapelnas, Bank BSN Pacu Layanan dan Apresiasi Nasabah",
+      "url": "https://emitennews.com/news/peringati-hapelnas-bank-bsn-pacu-layanan-dan-apresiasi-nasabah",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Nilai Tukar Rupiah Diramal Bakal Menguat Hari Ini (4/9), Apa Pemicunya",
+      "url": "https://emitennews.com/news/nilai-tukar-rupiah-diramal-bakal-menguat-hari-ini-49-apa-pemicunya",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pertahankan Predikat Maskapai Paling Tepat Waktu, Ini Kiat Pelita Air",
+      "url": "https://emitennews.com/news/pertahankan-predikat-maskapai-paling-tepat-waktu-ini-kiat-pelita-air",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Rupiah Menguat ke Rp17.627 per Dolar AS Pagi Ini",
+      "url": "https://emitennews.com/news/rupiah-menguat-ke-rp17627-per-dolar-as-pagi-ini",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "PTPP dan ADHI Bakal Dilebur, Target Merger Rampung Akhir Desember 2026",
+      "url": "https://emitennews.com/news/ptpp-dan-adhi-bakal-dilebur-target-merger-rampung-akhir-desember-2026",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Rugi Makin Gede, Tapi Revenue MKNT Meledak 6.556% di Semester I-2026",
+      "url": "https://emitennews.com/news/rugi-makin-gede-tapi-revenue-mknt-meledak-6556-di-semester-i-2026",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "RUPO WSKT Setuju Restrukturisasi Obligasi, Peluang Suspensi Dibuka BEI",
+      "url": "https://emitennews.com/news/rupo-wskt-setuju-restrukturisasi-obligasi-peluang-suspensi-dibuka-bei",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tambah Porsi, Putra Om William Kini Kuasai 35 Persen Saham Saratoga",
+      "url": "https://emitennews.com/news/tambah-porsi-putra-om-william-kini-kuasai-35-persen-saham-saratoga",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Transaksi 2025 Batal, CUAN Gelar Negosiasi Baru Ambil Kendali SINI",
+      "url": "https://emitennews.com/news/transaksi-2025-batal-cuan-gelar-negosiasi-baru-ambil-kendali-sini",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    }
+  ]
+}
