@@ -1,0 +1,154 @@
+{
+  "tanggal": "2026-09-05",
+  "dibuat_pada": "2026-09-05 18:33 WIB",
+  "jumlah_artikel": 20,
+  "saham_disebut": {
+    "MTDL": [
+      "Teknologi (rating 5/7)"
+    ],
+    "ADHI": [
+      "Infrastruktur (rating 3/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Pasar saham Indonesia menunjukkan penguatan signifikan dalam seminggu terakhir dan diproyeksikan akan melanjutkan fase pemulihan di semester kedua tahun 2026.",
+      "alasan": "Sektor keuangan sangat sensitif terhadap sentimen pasar secara keseluruhan; penguatan IHSG dan proyeksi pemulihan pasar menunjukkan peningkatan kepercayaan investor. Hal ini berpotensi meningkatkan aktivitas transaksi dan kinerja portofolio institusi keuangan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Sektor teknologi Indonesia mendapatkan sentimen positif dari akselerasi adopsi Agentic AI oleh Metrodata Electronics (MTDL) dan pengembangan Rupiah Digital berbasis blockchain oleh Bank Indonesia.",
+      "alasan": "Adopsi Agentic AI oleh MTDL menunjukkan komitmen kuat terhadap inovasi dan pertumbuhan di area kecerdasan buatan yang sedang berkembang pesat. Sementara itu, inisiatif Rupiah Digital BI menandakan potensi perluasan infrastruktur keuangan digital yang akan mendukung ekosistem teknologi secara keseluruhan, menciptakan peluang baru bagi pemain di sektor ini.",
+      "analisis_saham": "PT Metrodata Electronics Tbk (MTDL) diperkirakan akan menerima sentimen positif kuat dari akselerasi adopsi Agentic AI. Langkah ini dapat memperkuat posisi bisnis perseroan di sektor AI dan berpotensi mendorong kenaikan harga sahamnya karena prospek pertumbuhan pendapatan yang lebih baik di masa depan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Harga minyak mentah dunia melonjak 9% dalam sepekan terakhir mencapai USD91,2 per barel akibat eskalasi konflik di Timur Tengah yang menekan pasokan energi global.",
+      "alasan": "Kenaikan signifikan harga minyak mentah global secara langsung meningkatkan prospek pendapatan dan profitabilitas bagi perusahaan di sektor energi, terutama produsen minyak dan gas. Sentimen positif ini juga dapat merembet ke sub-sektor energi lainnya, didorong oleh kekhawatiran pasokan energi global.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Transformasi dan penyederhanaan struktur usaha ADHI untuk penyehatan keuangan serta kenaikan harga minyak berpotensi menekan sektor infrastruktur.",
+      "alasan": "Berita mengenai ADHI, salah satu emiten infrastruktur besar, yang harus melakukan restrukturisasi besar-besaran untuk penyehatan keuangan mengindikasikan adanya tekanan di sektor ini. Hal ini dapat menimbulkan sentimen negatif terhadap prospek keuangan perusahaan kontraktor lainnya. Kenaikan harga minyak juga berpotensi meningkatkan biaya operasional proyek-proyek infrastruktur secara keseluruhan.",
+      "analisis_saham": "Berita ini bersifat negatif dalam jangka pendek bagi ADHI karena menunjukkan adanya tantangan keuangan yang mengharuskan restrukturisasi besar-besaran dan penyederhanaan bisnis. Meskipun bertujuan untuk penyehatan perusahaan jangka panjang, berita ini kemungkinan akan menekan harga saham ADHI di sesi perdagangan berikutnya karena ketidakpastian proses transformasi dan implikasi kinerja keuangan saat ini."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Babak Berikutnya Pasar Kripto, Mulai Masuk Fase Repricing",
+      "url": "https://emitennews.com/news/babak-berikutnya-pasar-kripto-mulai-masuk-fase-repricing",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Danantara Serukan ADHI Pangkas Seluruh Anak Usaha",
+      "url": "https://emitennews.com/news/danantara-serukan-adhi-pangkas-seluruh-anak-usaha",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Harga Minyak Melonjak 9%, Subsidi BBM Berpotensi Membengkak",
+      "url": "https://emitennews.com/news/harga-minyak-melonjak-9-subsidi-bbm-berpotensi-membengkak",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bank Jakarta Raih Corporate Secretary Champion 2026",
+      "url": "https://emitennews.com/news/bank-jakarta-raih-corporate-secretary-champion-2026",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Sepekan Naik 1,82 Persen, Kapitalisasi Pasar Sentuh Rp11.599T",
+      "url": "https://emitennews.com/news/ihsg-sepekan-naik-182-persen-kapitalisasi-pasar-sentuh-rp11599t",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Diramal Akan Pulih Kembali, Ini Prasyarat yang Harus Ditembus",
+      "url": "https://emitennews.com/news/ihsg-diramal-akan-pulih-kembali-ini-prasyarat-yang-harus-ditembus",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Intip Top Gainers Sepekan, Ada FORU hingga SINI",
+      "url": "https://emitennews.com/news/intip-top-gainers-sepekan-ada-foru-hingga-sini",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Komisaris Lego Saham DILD, Lo Kheng Hong Masih Setia Koleksi",
+      "url": "https://emitennews.com/news/komisaris-lego-saham-dild-lo-kheng-hong-masih-setia-koleksi",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IPO SWAP UGM Resmi Ditunda Karena Lapkeu?",
+      "url": "https://emitennews.com/news/ipo-swap-ugm-resmi-ditunda-karena-lapkeu",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Menilik Wacana Rupiah Digital BI, Sama dengan Aset Kripto?",
+      "url": "https://emitennews.com/news/menilik-wacana-rupiah-digital-bi-sama-dengan-aset-kripto",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Pemerintah Rilis Sukuk Wakaf SWR007 Imbalan Minimal 6,70%",
+      "url": "https://emitennews.com/news/pemerintah-rilis-sukuk-wakaf-swr007-imbalan-minimal-670",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Menimbang Penetapan Komoditas Strategis BMKS",
+      "url": "https://emitennews.com/news/menimbang-penetapan-komoditas-strategis-bmks",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Perkuat Bisnis, MTDL Akselerasi Adopsi Agentic AI",
+      "url": "https://emitennews.com/news/perkuat-bisnis-mtdl-akselerasi-adopsi-agentic-ai",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Ritel Korsel Lepas ETF Leverage USD1,1 M, Lari ke Obligasi AS",
+      "url": "https://emitennews.com/news/ritel-korsel-lepas-etf-leverage-usd11-m-lari-ke-obligasi-as",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Pengurus Baru, BTN Perkuat Regenerasi untuk Akselerasi Transformasi",
+      "url": "https://emitennews.com/news/pengurus-baru-btn-perkuat-regenerasi-untuk-akselerasi-transformasi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Setop Keracunan, DPR Desak MBG Ganti Dapur Berbasis Sekolah",
+      "url": "https://emitennews.com/news/setop-keracunan-dpr-desak-mbg-ganti-dapur-berbasis-sekolah",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Saham Hijau BEI, Peduli Lingkungan atau Sekadar Tren Global?",
+      "url": "https://emitennews.com/news/saham-hijau-bei-peduli-lingkungan-atau-sekadar-tren-global",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Steady Safe (SAFE) Dicap Saham HSC, Cek Alasan dan Daftar Lengkapnya",
+      "url": "https://emitennews.com/news/steady-safe-safe-dicap-saham-hsc-cek-alasan-dan-daftar-lengkapnya",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Top Losers Sepekan, Sajikan TMPO hingga Emiten Grup Bakrie (VKTR)",
+      "url": "https://emitennews.com/news/top-losers-sepekan-sajikan-tmpo-hingga-emiten-grup-bakrie-vktr",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Trump Desak Fed Pangkas Suku Bunga, Ancam Lakukan ini",
+      "url": "https://emitennews.com/news/trump-desak-fed-pangkas-suku-bunga-ancam-lakukan-ini",
+      "sektor": "Keuangan, Energi"
+    }
+  ]
+}
