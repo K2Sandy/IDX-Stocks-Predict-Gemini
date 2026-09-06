@@ -1,0 +1,251 @@
+{
+  "tanggal": "2026-09-06",
+  "dibuat_pada": "2026-09-06 18:55 WIB",
+  "jumlah_artikel": 38,
+  "saham_disebut": {
+    "GOTO": [
+      "Keuangan (rating 3/7)",
+      "Teknologi (rating 3/7)"
+    ],
+    "DSSA": [
+      "Energi (rating 4/7)"
+    ],
+    "ELSA": [
+      "Infrastruktur (rating 2/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Meskipun IHSG secara keseluruhan rebound, investor menunjukkan rotasi keluar dari sektor keuangan di tengah dampak negatif dari erupsi gunung berapi, kebakaran hutan, dan kekhawatiran makroekonomi.",
+      "alasan": "Laporan pasar menunjukkan adanya rotasi investor keluar dari sektor keuangan meskipun IHSG menguat. Hal ini diperparah oleh sentimen negatif dari gangguan ekonomi akibat erupsi Gunung Anak Krakatau (pembatalan penerbangan, PJJ) dan isu makroekonomi seperti kebakaran hutan dan stabilitas politik, yang dapat menekan profitabilitas dan meningkatkan risiko kredit perbankan serta institusi keuangan lainnya.",
+      "analisis_saham": "Saham GOTO disebutkan sebagai saham yang paling banyak dijual asing dengan nilai Rp366 miliar dalam sepekan terakhir. Sentimen ini menunjukkan tekanan jual yang kuat dari investor asing terhadap GOTO, mengindikasikan prospek harga yang cenderung negatif dalam jangka pendek akibat aksi jual tersebut."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Saham GOTO menjadi yang paling banyak dijual asing dalam sepekan terakhir, mengindikasikan sentimen negatif terhadap pemain teknologi utama.",
+      "alasan": "Penjualan saham GOTO yang signifikan oleh investor asing menunjukkan sentimen jual yang kuat terhadap salah satu pemain teknologi terbesar di BEI. Hal ini berpotensi menyeret kinerja indeks Sektor Teknologi secara keseluruhan, mengingat bobot dan visibilitas GOTO dalam sektor tersebut, meskipun IHSG secara umum menguat.",
+      "analisis_saham": "GOTO (GoTo Gojek Tokopedia Tbk): Saham GOTO menjadi yang paling banyak dijual asing dalam sepekan terakhir dengan nilai Rp366 miliar. Hal ini menunjukkan sentimen jual yang kuat dari investor institusi asing dan berpotensi memberikan tekanan jual signifikan pada harga saham GOTO pada perdagangan berikutnya."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "IHSG menguat sepekan terakhir dengan rotasi sektor di luar finansial, di tengah disrupsi regional dan pembatalan penerbangan akibat erupsi Gunung Anak Krakatau.",
+      "alasan": "Meskipun IHSG menunjukkan penguatan dan ada indikasi rotasi dana ke sektor di luar finansial, berita yang ada tidak memberikan katalis kuat yang secara spesifik mendorong atau menekan sektor Energi secara keseluruhan. Dampak erupsi Gunung Anak Krakatau lebih bersifat regional pada logistik dan aktivitas masyarakat, bukan pada fundamental operasional atau harga komoditas utama di sektor ini.",
+      "analisis_saham": "PT Dian Swastatama Sentosa Tbk (DSSA) disebutkan dalam konteks rekap bursa sepekan yang positif, di mana IHSG berhasil rebound. Mengingat DSSA memiliki portofolio signifikan di sektor energi (batubara dan pembangkit listrik), sentimen pasar yang membaik dan perhatian terhadap saham ini di tengah kenaikan pasar dapat memberikan sentimen positif bagi pergerakan harga sahamnya."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Dampak erupsi Gunung Anak Krakatau menyebabkan penutupan tujuh bandara, sementara rencana merger ELSA-PDSI dinilai berpotensi merugikan negara.",
+      "alasan": "Penutupan bandara secara langsung mengganggu operasional transportasi dan logistik yang merupakan bagian inti infrastruktur, berpotensi menurunkan aktivitas ekonomi. Selain itu, sentimen negatif terhadap merger salah satu perusahaan terkait infrastruktur energi (ELSA) dapat menekan kepercayaan investor pada sektor ini secara keseluruhan.",
+      "analisis_saham": "Saham ELSA (PT Elnusa Tbk) kemungkinan akan mengalami tekanan jual karena rencana mergernya dengan PT Pertamina Drilling Services Indonesia (PDSI) dinilai berpotensi merugikan keuangan negara dan menimbulkan moral hazard oleh Direktur IRESS. Sentimen negatif ini dapat memicu aksi jual investor terhadap saham ELSA."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Widespread gangguan di Jakarta, Bekasi, dan Pandeglang akibat abu vulkanik Gunung Anak Krakatau menyebabkan penutupan bandara, pembatalan penerbangan, dan pembelajaran jarak jauh, serta meningkatkan kekhawatiran kesehatan masyarakat.",
+      "alasan": "Penutupan Bandara Halim Perdanakusuma dan pembatalan puluhan penerbangan mengindikasikan gangguan signifikan pada sektor transportasi dan logistik. Penyebaran abu vulkanik di area padat penduduk dan kebijakan belajar dari rumah di daerah terdampak menciptakan sentimen ketidakpastian serta potensi perlambatan aktivitas ekonomi dan mobilitas masyarakat.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Pesawat Gagal Mendarat di Bandara Soetta dan Dialihkan ke Kertajati, Jemaah Umrah: Informasi Tiba-tiba di Dalam Pesawat",
+      "url": "https://bandung.kompas.com/read/2026/09/06/183009078/pesawat-gagal-mendarat-di-bandara-soetta-dan-dialihkan-ke-kertajati-jemaah",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Starting Line Up Persib Vs PSM, Igor Tolic Tak Turunkan Teja dan Eliano",
+      "url": "https://bola.kompas.com/read/2026/09/06/18344358/starting-line-up-persib-vs-psm-igor-tolic-tak-turunkan-teja-dan-eliano",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Klasemen Grup H Usai Hasil Timnas U20 Indonesia Vs Australia 2-0",
+      "url": "https://bola.kompas.com/read/2026/09/06/18230028/klasemen-grup-h-usai-hasil-timnas-u20-indonesia-vs-australia-2-0",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Link Live Streaming Valencia Vs Barcelona di Liga Spanyol Malam Ini",
+      "url": "https://bola.kompas.com/read/2026/09/06/18333858/link-live-streaming-valencia-vs-barcelona-di-liga-spanyol-malam-ini",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Link Live Streaming Everton Vs Man United di Liga Inggris 2026-2027",
+      "url": "https://bola.kompas.com/read/2026/09/06/18515068/link-live-streaming-everton-vs-man-united-di-liga-inggris-2026-2027",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Pakar Itera Ingatkan Bahaya Ukuran Abu Vulkanik Berukuran Sangat Kecil dan Tajam",
+      "url": "https://edukasi.kompas.com/read/2026/09/06/184741671/pakar-itera-ingatkan-bahaya-ukuran-abu-vulkanik-berukuran-sangat-kecil-dan",
+      "sektor": "Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "10 Saham Paling Banyak Dijual Asing dalam Sepekan, GOTO Teratas Rp366M",
+      "url": "https://emitennews.com/news/10-saham-paling-banyak-dijual-asing-dalam-sepekan-goto-teratas-rp366m",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "373 Penerbangan Batal, Maskapai Wajib Penuhi Hak Penumpang",
+      "url": "https://emitennews.com/news/373-penerbangan-batal-maskapai-wajib-penuhi-hak-penumpang",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dampak Erupsi Anak Krakatau, Siang Ini Tujuh Bandara Masih Ditutup",
+      "url": "https://emitennews.com/news/dampak-erupsi-anak-krakatau-siang-ini-tujuh-bandara-masih-ditutup",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bursa Sepekan: IHSG Mantul 1,82%, Big Banks Primadona, DSSA, & Lainnya",
+      "url": "https://emitennews.com/news/bursa-sepekan-ihsg-mantul-182-big-banks-primadona-dssa-lainnya",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "DKI Terapkan PJJ Mulai Senin 7 September, Dampak Erupsi Anak Krakatau",
+      "url": "https://emitennews.com/news/dki-terapkan-pjj-mulai-senin-7-september-dampak-erupsi-anak-krakatau",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dunia Cepat Berubah, Korupsi Parah, Indonesia Salah Arah?",
+      "url": "https://emitennews.com/news/dunia-cepat-berubah-korupsi-parah-indonesia-salah-arah",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Ekonomi Politik Kebakaran Hutan",
+      "url": "https://emitennews.com/news/ekonomi-politik-kebakaran-hutan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Garuda Ubah Aturan Bagasi Hitungan Koli, Kemenhub Kawal Transisi",
+      "url": "https://emitennews.com/news/garuda-ubah-aturan-bagasi-hitungan-koli-kemenhub-kawal-transisi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Harga Beras dan Daging Masih Tinggi, BUMN Intervensi Pasar",
+      "url": "https://emitennews.com/news/harga-beras-dan-daging-masih-tinggi-bumn-intervensi-pasar",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Emiten HSC (HATM) Private Placement 640 Juta Saham, Free Float Menciut",
+      "url": "https://emitennews.com/news/emiten-hsc-hatm-private-placement-640-juta-saham-free-float-menciut",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Erupsi Anak Krakatau, Puluhan Penerbangan Batal dan Ditunda",
+      "url": "https://emitennews.com/news/erupsi-anak-krakatau-puluhan-penerbangan-batal-dan-ditunda",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Harga Saham Merosot 50%, Investor RGAS Ternyata Divestasi Senyap!",
+      "url": "https://emitennews.com/news/harga-saham-merosot-50-investor-rgas-ternyata-divestasi-senyap",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kaki Bank Indonesia di Moneter dan Fiskal, Mampukah?",
+      "url": "https://emitennews.com/news/kaki-bank-indonesia-di-moneter-dan-fiskal-mampukah",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IPO SWAP Mundur, Digantikan 1 Calon Emiten Baru dari Sektor Energi",
+      "url": "https://emitennews.com/news/ipo-swap-mundur-digantikan-1-calon-emiten-baru-dari-sektor-energi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Masih Terganggu Abu Krakatau, Penutupan Bandara Soetta Diperpanjang",
+      "url": "https://emitennews.com/news/masih-terganggu-abu-krakatau-penutupan-bandara-soetta-diperpanjang",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Merger ELSA-PDSI Rugikan Negara, IRESS Usulkan Ini",
+      "url": "https://emitennews.com/news/merger-elsa-pdsi-rugikan-negara-iress-usulkan-ini",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pangkas 300 Anak BUMN, DPR Minta Danantara Cegah PHK",
+      "url": "https://emitennews.com/news/pangkas-300-anak-bumn-dpr-minta-danantara-cegah-phk",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Manuver Konglo, Prajogo Berambisi Kuasai Penuh Emiten Hapsoro (SINI)",
+      "url": "https://emitennews.com/news/manuver-konglo-prajogo-berambisi-kuasai-penuh-emiten-hapsoro-sini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Sekolah di Jakarta Terapkan PJJ Mulai Besok, Satuan Pendidikan Diminta Lakukan Pemantauan",
+      "url": "https://megapolitan.kompas.com/read/2026/09/06/18292711/sekolah-di-jakarta-terapkan-pjj-mulai-besok-satuan-pendidikan-diminta",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Wali Kota Bekasi Imbau Warga Tak Panik Hadapi Sebaran Abu Vulkanik Anak Krakatau",
+      "url": "https://megapolitan.kompas.com/read/2026/09/06/18432431/wali-kota-bekasi-imbau-warga-tak-panik-hadapi-sebaran-abu-vulkanik-anak",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Penutupan Bandara Halim Diperpanjang hingga 23.59 WIB akibat Abu Vulkanik, 72 Penerbangan Batal",
+      "url": "https://megapolitan.kompas.com/read/2026/09/06/18485961/penutupan-bandara-halim-diperpanjang-hingga-2359-wib-akibat-abu-vulkanik",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Abu Vulkanik Mulai Terasa di Jakarta, Warga Beli Masker untuk Berjaga-jaga",
+      "url": "https://megapolitan.kompas.com/read/2026/09/06/18350901/abu-vulkanik-mulai-terasa-di-jakarta-warga-beli-masker-untuk-berjaga-jaga",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "PM Malaysia Anwar Ibrahim Telepon Jokowi soal Erupsi Anak Krakatau dan Karhutla",
+      "url": "https://nasional.kompas.com/read/2026/09/06/18324021/pm-malaysia-anwar-ibrahim-telepon-jokowi-soal-erupsi-anak-krakatau-dan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Mendagri Buka Peluang WFH bagi ASN yang Wilayahnya Terdampak Abu Vulkanik",
+      "url": "https://nasional.kompas.com/read/2026/09/06/18243501/mendagri-buka-peluang-wfh-bagi-asn-yang-wilayahnya-terdampak-abu-vulkanik",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Sepekan Asing Net Buy Jumbo Rp2,31T, Mengalir Deras ke 10 Saham Ini",
+      "url": "https://emitennews.com/news/sepekan-asing-net-buy-jumbo-rp231t-mengalir-deras-ke-10-saham-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kepala Daerah Punya Kewenangan Tentukan Presentase WFH ASN yang Terdampak Bencana",
+      "url": "https://nasional.kompas.com/read/2026/09/06/18415571/kepala-daerah-punya-kewenangan-tentukan-presentase-wfh-asn-yang-terdampak",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Siswa PAUD-SMP di Bandar Lampung Belajar Daring Imbas Abu Vulkanik Anak Krakatau",
+      "url": "https://regional.kompas.com/read/2026/09/06/182631978/siswa-paud-smp-di-bandar-lampung-belajar-daring-imbas-abu-vulkanik-anak",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Erupsi Gunung Anak Krakatau, Sekolah di Pandeglang Terapkan Belajar dari Rumah 7-9 September",
+      "url": "https://regional.kompas.com/read/2026/09/06/183513878/erupsi-gunung-anak-krakatau-sekolah-di-pandeglang-terapkan-belajar-dari",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "12 Penerbangan di Bandara Depati Amir Pangkalpinang Dibatalkan, Penumpang Bisa Reschedule atau Refund",
+      "url": "https://regional.kompas.com/read/2026/09/06/182132878/12-penerbangan-di-bandara-depati-amir-pangkalpinang-dibatalkan-penumpang",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Kisah Farel Perenang Muda Kebumen: Dari Main di Sungai hingga Sabet 3 Medali Popda Jateng",
+      "url": "https://regional.kompas.com/read/2026/09/06/184405478/kisah-farel-perenang-muda-kebumen-dari-main-di-sungai-hingga-sabet-3-medali",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Erupsi Anak Krakatau, Penumpang KA Daop 1 Jakarta Naik 16 Persen",
+      "url": "https://travel.kompas.com/read/2026/09/06/182241727/erupsi-anak-krakatau-penumpang-ka-daop-1-jakarta-naik-16-persen",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "6 Bandara Ditutup akibat Erupsi Anak Krakatau, 3 Bandara Ini Disiapkan Jadi Alternatif",
+      "url": "https://travel.kompas.com/read/2026/09/06/183108127/6-bandara-ditutup-akibat-erupsi-anak-krakatau-3-bandara-ini-disiapkan-jadi",
+      "sektor": "Keuangan, Energi"
+    }
+  ]
+}
