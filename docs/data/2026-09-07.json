@@ -1,0 +1,315 @@
+{
+  "tanggal": "2026-09-07",
+  "dibuat_pada": "2026-09-07 20:54 WIB",
+  "jumlah_artikel": 46,
+  "saham_disebut": {
+    "BTPS": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BMRI": [
+      "Keuangan (rating 6/7)"
+    ],
+    "TLKM": [
+      "Teknologi (rating 5/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "BUKA": [
+      "Teknologi (rating 5/7)"
+    ],
+    "WIFI": [
+      "Teknologi (rating 5/7)"
+    ],
+    "EMTK": [
+      "Teknologi (rating 5/7)"
+    ],
+    "ELSA": [
+      "Energi (rating 6/7)"
+    ],
+    "ISSP": [
+      "Energi (rating 6/7)"
+    ],
+    "CANI": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "MPXL": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "SSIA": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Bank BTPN Syariah (BTPS) merevisi target laba ke atas sementara Bank Mandiri (BMRI) mengumumkan dividen interim, memberikan sentimen positif yang kuat bagi sektor keuangan.",
+      "alasan": "Dua emiten bank besar memberikan kabar positif. Revisi proyeksi laba ke mid double-digit oleh BTPS menunjukkan kinerja fundamental yang membaik, sedangkan pembagian dividen interim oleh BMRI mencerminkan kondisi keuangan yang sehat dan komitmen kepada pemegang saham, yang secara kolektif berpotensi mendorong kenaikan indeks sektor keuangan.",
+      "analisis_saham": "BTPS**: Sentimen positif sangat kuat. Revisi panduan laba dari high single-digit menjadi mid double-digit menunjukkan prospek pertumbuhan yang lebih baik, kemungkinan besar akan menarik minat beli investor dan mendorong kenaikan harga saham."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Sejumlah aksi korporasi strategis dari emiten teknologi besar seperti akuisisi oleh TLKM, penambahan kepemilikan di BUKA oleh Grup Emtek, dan ekspansi infrastruktur WIFI memberikan sentimen positif bagi pertumbuhan sektor, meskipun terdapat peringatan dari OJK dan DPR mengenai perlindungan konsumen di e-commerce dan pinjaman online.",
+      "alasan": "Aksi korporasi seperti akuisisi dan ekspansi jaringan menunjukkan komitmen dan potensi pertumbuhan emiten teknologi. Peningkatan kepemilikan oleh investor strategis juga mencerminkan kepercayaan terhadap prospek perusahaan. Sentimen positif dari inisiatif pertumbuhan ini cenderung mengungguli kekhawatiran regulasi yang bersifat jangka panjang.",
+      "analisis_saham": "TLKM: Akuisisi Digiserve dan target kontribusi pendapatan bisnis enterprise 20-40% mengindikasikan fokus kuat pada segmen digital, yang berpotensi positif bagi kinerja pendapatan dan sentimen investor terhadap saham TLKM."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Dua emiten yang terkait dengan sektor energi, Elnusa (ELSA) dan Steel Pipe Industry (ISSP), melaporkan kinerja positif dan optimisme tinggi didukung oleh proyek-proyek migas nasional.",
+      "alasan": "Kontrak besar yang didapatkan Elnusa dan optimisme ISSP terhadap prospek Q4-2026 yang ditopang proyek migas mengindikasikan peningkatan aktivitas dan investasi di sub-sektor hulu migas serta infrastruktur pendukungnya. Hal ini menciptakan sentimen positif secara keseluruhan bagi perusahaan-perusahaan di sektor energi yang terlibat dalam eksplorasi, produksi, dan jasa penunjang migas.",
+      "analisis_saham": "ELSA (PT Elnusa (Persero) Tbk.): Elnusa membukukan laba bersih naik 29,2% di Semester I 2026 dan mengantongi kontrak sebesar Rp18,8 triliun dengan rencana capex Rp602 miliar untuk 2026. Berita ini sangat positif dan berpotensi mendorong kenaikan harga saham ELSA."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Sektor infrastruktur menunjukkan sinyal positif dengan strategi ekspansi dan investasi modal besar dari pemain kunci seperti Telkom dan SSIA, diiringi peningkatan kinerja MPXL.",
+      "alasan": "Berita akuisisi strategis dan komitmen belanja modal yang tinggi dari TLKM serta target pertumbuhan agresif SSIA yang didukung capex besar, mengindikasikan prospek pertumbuhan yang kuat. Meskipun ada berita negatif, dampaknya bersifat temporer atau spesifik pada perusahaan yang sedang suspend, sehingga sentimen positif lebih mendominasi untuk sektor secara keseluruhan.",
+      "analisis_saham": "PT Telkom Indonesia (Persero) Tbk. (TLKM): Sentimen sangat positif. Akuisisi Digiserve dan target kontribusi pendapatan dari bisnis enterprise menunjukkan strategi pertumbuhan yang jelas di segmen berpotensi tinggi. Komitmen dividen yang tinggi dan alokasi capex ke bisnis inti juga menunjukkan kesehatan finansial dan fokus pada pengembangan fundamental perusahaan, yang akan disukai investor."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Berita hari ini didominasi oleh isu lokal terkait dampak abu vulkanik, peningkatan mutu pendidikan, dan penyelesaian infrastruktur, dengan tidak ada sentimen makro ekonomi yang kuat.",
+      "alasan": "Meskipun ada kekhawatiran kesehatan lokal akibat abu vulkanik (ISPA), hal ini diimbangi oleh jaminan kualitas air dan kemajuan infrastruktur serta pendidikan di beberapa daerah. Tidak ada pendorong sentimen ekonomi nasional yang signifikan dari berita ini.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Mourinho Tutup Mulut Soal Lini Tengah Madrid Jelang Duel Panas Lawan Inter",
+      "url": "https://bola.kompas.com/read/2026/09/07/20341158/mourinho-tutup-mulut-soal-lini-tengah-madrid-jelang-duel-panas-lawan-inter",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Pasien ISPA RSUD Bayu Asih Purwakarta Bertambah di Tengah Paparan Abu Vulkanik",
+      "url": "https://bandung.kompas.com/read/2026/09/07/204818378/pasien-ispa-rsud-bayu-asih-purwakarta-bertambah-di-tengah-paparan-abu",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "CANI Jual Kapal Tunda, Saham Masih Suspend, Sandang 2 Notasi",
+      "url": "https://emitennews.com/news/cani-jual-kapal-tunda-saham-masih-suspend-sandang-2-notasi",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "5 Saham RI Didepak Indeks Syariah FTSE, Aliran Modal Pindah ke Nvidia",
+      "url": "https://emitennews.com/news/5-saham-ri-didepak-indeks-syariah-ftse-aliran-modal-pindah-ke-nvidia",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Caplok Digiserve, TLKM Genjot Bisnis Kontribusikan 20–40% Pendapatan",
+      "url": "https://emitennews.com/news/caplok-digiserve-tlkm-genjot-bisnis-kontribusikan-2040-pendapatan",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "BTPN Syariah (BTPS) Revisi Guidance Laba 2026, Bidik Mid Double-Digit",
+      "url": "https://emitennews.com/news/btpn-syariah-btps-revisi-guidance-laba-2026-bidik-mid-double-digit",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Dividen Interim BMRI Rp66 per Saham, Distribusi 2 Oktober 2026",
+      "url": "https://emitennews.com/news/dividen-interim-bmri-rp66-per-saham-distribusi-2-oktober-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Data Center Serbu DMAS, Manajemen Buka Opsi Konversi Landbank",
+      "url": "https://emitennews.com/news/data-center-serbu-dmas-manajemen-buka-opsi-konversi-landbank",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "GOTO Macet di Rp50, Bos TLKM Buka Suara Perihal Sahamnya yang Nyangkut",
+      "url": "https://emitennews.com/news/goto-macet-di-rp50-bos-tlkm-buka-suara-perihal-sahamnya-yang-nyangkut",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Elnusa (ELSA) Kantongi Kontrak Rp18,8T, Gelontor Capex 2026 Rp602M",
+      "url": "https://emitennews.com/news/elnusa-elsa-kantongi-kontrak-rp188t-gelontor-capex-2026-rp602m",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Grup Emtek Pertebal Porsi Saham BUKA, Serok 803 Juta Harga Atas Pasar",
+      "url": "https://emitennews.com/news/grup-emtek-pertebal-porsi-saham-buka-serok-803-juta-harga-atas-pasar",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Erupsi Gunung Anak Krakatau, 624 Penerbangan di Bandara Soetta Ditunda",
+      "url": "https://emitennews.com/news/erupsi-gunung-anak-krakatau-624-penerbangan-di-bandara-soetta-ditunda",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Erupsi Selama 25 Jam Berakhir, Status Gunung Anak Krakatau Masih Siaga",
+      "url": "https://emitennews.com/news/erupsi-selama-25-jam-berakhir-status-gunung-anak-krakatau-masih-siaga",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Harga Masker Melesat, OMED Tak Naikkan Harga tapi Banyak yang Sold Out",
+      "url": "https://emitennews.com/news/harga-masker-melesat-omed-tak-naikkan-harga-tapi-banyak-yang-sold-out",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Melemah ke 6.619, Big Banks Kompak Memerah, BBCA Terdalam",
+      "url": "https://emitennews.com/news/ihsg-melemah-ke-6619-big-banks-kompak-memerah-bbca-terdalam",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Investor Singapura Serok 872 Juta Saham INPP, Kini Kuasai 35,95 Persen",
+      "url": "https://emitennews.com/news/investor-singapura-serok-872-juta-saham-inpp-kini-kuasai-3595-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "ISSP Optimis Prospek Q4–2026, Ditopang Proyek Migas & Unit 7 Gresik",
+      "url": "https://emitennews.com/news/issp-optimis-prospek-q42026-ditopang-proyek-migas-unit-7-gresik",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Jika Ini Terpenuhi, Purbaya Siap Terapkan Cukai Minuman Berpemanis",
+      "url": "https://emitennews.com/news/jika-ini-terpenuhi-purbaya-siap-terapkan-cukai-minuman-berpemanis",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Langkah Besar MPXL, Pacu Diversifikasi Usaha dan Strategi Logistik",
+      "url": "https://emitennews.com/news/langkah-besar-mpxl-pacu-diversifikasi-usaha-dan-strategi-logistik",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Morgan Stanley Lanjut Serok GOTO di September, Transaksinya Jumbo!",
+      "url": "https://emitennews.com/news/morgan-stanley-lanjut-serok-goto-di-september-transaksinya-jumbo",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Pengendali Borong Saham BUKA, Tambah Porsi Kepemilikan Jadi Segini",
+      "url": "https://emitennews.com/news/pengendali-borong-saham-buka-tambah-porsi-kepemilikan-jadi-segini",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Polri Tetapkan 138 Tersangka Karhutla, Presiden Minta Korporasi Diusut",
+      "url": "https://emitennews.com/news/polri-tetapkan-138-tersangka-karhutla-presiden-minta-korporasi-diusut",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Siap Buyback Saham, BTPN Syariah (BTPS) Gelar RUPSLB 13 Oktober",
+      "url": "https://emitennews.com/news/siap-buyback-saham-btpn-syariah-btps-gelar-rupslb-13-oktober",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Telkom Patok Dividen 60-90% dari Laba Bersih, 94% Capex ke Bisnis Inti",
+      "url": "https://emitennews.com/news/telkom-patok-dividen-60-90-dari-laba-bersih-94-capex-ke-bisnis-inti",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Soal Tambang Martabe, Bos UNTR Ungkap Nasib & Prospek Semester II–2026",
+      "url": "https://emitennews.com/news/soal-tambang-martabe-bos-untr-ungkap-nasib-prospek-semester-ii2026",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "SSIA Gelontorkan Capex Rp2,2 Triliun, Bidik Revenue Tumbuh 63 Persen",
+      "url": "https://emitennews.com/news/ssia-gelontorkan-capex-rp22-triliun-bidik-revenue-tumbuh-63-persen",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Mutu Pendidikan Kota Tangerang Dapat Apresiasi, Akreditasi SD Capai 90,9 Persen",
+      "url": "https://megapolitan.kompas.com/read/2026/09/07/20371101/mutu-pendidikan-kota-tangerang-dapat-apresiasi-akreditasi-sd-capai-909",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Kasus Penyiraman Air Keras Andrie Yunus Mandek, TAUD Desak Ombudsman Periksa Polda Metro",
+      "url": "https://megapolitan.kompas.com/read/2026/09/07/20410671/kasus-penyiraman-air-keras-andrie-yunus-mandek-taud-desak-ombudsman",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Air Baku PAM Jaya Masih Aman meski Abu Vulkanik Anak Krakatau sampai Jakarta",
+      "url": "https://megapolitan.kompas.com/read/2026/09/07/20413941/air-baku-pam-jaya-masih-aman-meski-abu-vulkanik-anak-krakatau-sampai",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Titah Danantara, Elnusa Buka Suara Soal Wacana Merger dengan PDSI",
+      "url": "https://emitennews.com/news/titah-danantara-elnusa-buka-suara-soal-wacana-merger-dengan-pdsi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "TPIA Siapkan Rp361,48M untuk Lunasi Obligasi Jatuh Tempo 27 September",
+      "url": "https://emitennews.com/news/tpia-siapkan-rp36148m-untuk-lunasi-obligasi-jatuh-tempo-27-september",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "WIFI Geber Ekspansi Jaringan Fiber Optik, Bidik 25 Pulau Terhubung",
+      "url": "https://emitennews.com/news/wifi-geber-ekspansi-jaringan-fiber-optik-bidik-25-pulau-terhubung",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Bye-bye Tangga Underpass Curam, Stasiun Depok Baru Bakal Punya Lift Akhir Tahun Ini",
+      "url": "https://megapolitan.kompas.com/read/2026/09/07/20492191/bye-bye-tangga-underpass-curam-stasiun-depok-baru-bakal-punya-lift-akhir",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Waspada Penipuan Transaksi Keuangan, Modus Belanja Ecommerce hingga Fake Call Mendominasi",
+      "url": "https://money.kompas.com/read/2026/09/07/204400626/waspada-penipuan-transaksi-keuangan-modus-belanja-ecommerce-hingga-fake-call",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Bank Mandiri Bakal Tebar Dividen Interim Rp 66 Per Saham, Simak Jadwalnya",
+      "url": "https://money.kompas.com/read/2026/09/07/203026026/bank-mandiri-bakal-tebar-dividen-interim-rp-66-per-saham-simak-jadwalnya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Skema Tadpole Pindar Dinilai Perlu Perhatikan Perlindungan Konsumen",
+      "url": "https://money.kompas.com/read/2026/09/07/204404726/skema-tadpole-pindar-dinilai-perlu-perhatikan-perlindungan-konsumen",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Indonesia-Uzbekistan Perkuat Kerjasama, Menhaj Dorong Penerbangan Langsung ke Samarkand",
+      "url": "https://nasional.kompas.com/read/2026/09/07/20360111/indonesia-uzbekistan-perkuat-kerjasama-menhaj-dorong-penerbangan-langsung-ke",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "WIFI Kejar 3 Juta+ Pelanggan, Siapkan Capex Rp7 Triliun",
+      "url": "https://emitennews.com/news/wifi-kejar-3-juta-pelanggan-siapkan-capex-rp7-triliun",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Mencari Bentuk Hukum yang Ideal untuk PPHN di Tengah Sistem Presidensial",
+      "url": "https://nasional.kompas.com/read/2026/09/07/20281221/mencari-bentuk-hukum-yang-ideal-untuk-pphn-di-tengah-sistem-presidensial",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Abu Krakatau Berdampak, Pemprov Lampung Belum Berlakukan WFH untuk ASN",
+      "url": "https://regional.kompas.com/read/2026/09/07/203524878/abu-krakatau-berdampak-pemprov-lampung-belum-berlakukan-wfh-untuk-asn",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Perjalanan Mbah Darmi Melewati 8 Bulan Bansos Terhenti karena Indikasi Judol, Dari Murung hingga Tersenyum Lega",
+      "url": "https://regional.kompas.com/read/2026/09/07/204222378/perjalanan-mbah-darmi-melewati-8-bulan-bansos-terhenti-karena-indikasi",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Lagi, 2 Penambang Batu Sinabar Tewas di Gunung Tembaga Maluku",
+      "url": "https://regional.kompas.com/read/2026/09/07/204434478/lagi-2-penambang-batu-sinabar-tewas-di-gunung-tembaga-maluku",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Puluhan Kios di Kebun Binatang Bukittinggi Dibongkar, Pemkot: Penataan",
+      "url": "https://regional.kompas.com/read/2026/09/07/203424178/puluhan-kios-di-kebun-binatang-bukittinggi-dibongkar-pemkot-penataan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Jalan Gombel Lama Kembali Dibuka, Perbaikan Longsoran Tuntas 4,5 Bulan",
+      "url": "https://regional.kompas.com/read/2026/09/07/205212678/jalan-gombel-lama-kembali-dibuka-perbaikan-longsoran-tuntas-45-bulan",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Abu Krakatau Belum Hilang, 30 Penerbangan di Bandara Radin Inten II Dibatalkan",
+      "url": "https://regional.kompas.com/read/2026/09/07/204335278/abu-krakatau-belum-hilang-30-penerbangan-di-bandara-radin-inten-ii",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Penerbangan Juanda Dibatalkan Dampak Anak Krakatau, Penumpang: Sedih, tapi Keselamatan Utama",
+      "url": "https://surabaya.kompas.com/read/2026/09/07/204029378/penerbangan-juanda-dibatalkan-dampak-anak-krakatau-penumpang-sedih-tapi",
+      "sektor": "Energi"
+    }
+  ]
+}
