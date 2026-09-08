@@ -1,0 +1,296 @@
+{
+  "tanggal": "2026-09-08",
+  "dibuat_pada": "2026-09-08 19:32 WIB",
+  "jumlah_artikel": 44,
+  "saham_disebut": {
+    "ASBI": [
+      "Keuangan (rating 4/7)"
+    ],
+    "TLKM": [
+      "Teknologi (rating 6/7)"
+    ],
+    "MGLV": [
+      "Teknologi (rating 6/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "PIPA": [
+      "Energi (rating 6/7)"
+    ],
+    "SMMT": [
+      "Energi (rating 6/7)"
+    ],
+    "RATU": [
+      "Energi (rating 6/7)"
+    ],
+    "BBTN": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "PTPP": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "PT Asuransi Bintang Tbk (ASBI) akan menyelenggarakan RUPSLB untuk membahas perubahan susunan pengurus dan persetujuan pelepasan aset.",
+      "alasan": "Berita yang tersedia hari ini hanya berfokus pada aksi korporasi spesifik dari satu perusahaan asuransi (ASBI). Tidak ada katalis berita yang bersifat luas atau fundamental yang dapat menggerakkan indeks sektor keuangan secara keseluruhan, yang terdiri dari berbagai jenis institusi.",
+      "analisis_saham": "Rencana RUPSLB ASBI dengan agenda perubahan pengurus dan pelepasan aset dapat menciptakan sentimen yang beragam bagi saham ini. Investor akan mencermati hasil RUPSLB untuk menilai apakah perubahan tersebut akan membawa efisiensi operasional atau perbaikan kinerja, atau justru indikasi restrukturisasi yang lebih dalam."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Akselerasi 5G Telkomsel dan akuisisi strategis di sektor digital oleh MGLV memberikan sentimen positif yang kuat bagi sektor teknologi.",
+      "alasan": "Berita tentang Telkom (TLKM) yang memperkuat infrastruktur 5G Telkomsel menunjukkan komitmen pada pertumbuhan digital, sementara akuisisi oleh MGLV di bidang AI/digital infrastruktur menyoroti ekspansi dan potensi valuasi di sub-sektor teknologi baru. Kedua perkembangan ini menciptakan momentum positif yang dapat mengangkat sentimen investor terhadap sektor teknologi secara keseluruhan.",
+      "analisis_saham": "TLKM: Penambahan spektrum 100 MHz untuk akselerasi 5G Telkomsel adalah katalis positif yang signifikan, menunjukkan komitmen terhadap pengembangan infrastruktur digital dan potensi pertumbuhan pendapatan dari layanan 5G di masa depan. Hal ini dapat mendorong minat beli terhadap saham TLKM."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Beberapa emiten energi melakukan akuisisi strategis dan investasi pada hilirisasi LNG, menunjukkan ekspansi dan rencana bisnis jangka panjang yang positif.",
+      "alasan": "Akuisisi saham oleh PIPA dan RATU di perusahaan terkait energi menunjukkan langkah ekspansif dan optimisme pertumbuhan di sektor ini. Rencana PT Perta Arun Gas untuk menjadi hub LNG Asia juga memperkuat prospek positif untuk sub-sektor gas/LNG secara keseluruhan, mengindikasikan peningkatan aktivitas dan investasi.",
+      "analisis_saham": "PIPA: Sentimen positif. Akuisisi 75% saham Azteh Pandu Persada menunjukkan strategi ekspansi yang agresif, berpotensi meningkatkan fundamental perusahaan dan menarik minat investor, sehingga dapat mendorong kenaikan harga saham."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Sentimen positif mendominasi dengan adanya progres signifikan pembangunan tol oleh PTPP, akuisisi entitas oleh pengendali MGLV di sektor infrastruktur digital, serta mempertahankan peringkat tertinggi BTN, yang mengungguli gangguan sementara erupsi gunung terhadap operasional bandara.",
+      "alasan": "Proyek pembangunan jalan tol yang mendekati penyelesaian oleh PTPP menunjukkan kelanjutan dan keberhasilan investasi pada infrastruktur fisik. Akuisisi oleh pengendali MGLV mengindikasikan pertumbuhan dan ekspansi di sektor infrastruktur digital. Meskipun ada gangguan pada bandara akibat erupsi, ini bersifat sementara dan sentimen positif dari aktivitas pembangunan dan corporate action lebih kuat mendorong kinerja sektor secara keseluruhan.",
+      "analisis_saham": "MGLV (PT NexAI Digital Infrastruktur Tbk):** Pengendali MGLV mengakuisisi dua entitas baru, NAC dan NGC. Langkah ini berpotensi memperkuat posisi bisnis MGLV di sektor infrastruktur digital dan menciptakan sinergi yang dapat mendorong kinerja serta minat investor terhadap saham MGLV."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini membahas hasil pertandingan sepak bola dan masalah kebersihan lingkungan di Jakarta.",
+      "alasan": "Berita yang tersedia tidak mengandung informasi atau sentimen ekonomi makro, kebijakan pemerintah, data inflasi, suku bunga, atau perkembangan lain yang dapat memengaruhi pergerakan indeks sektor umum/makro. Oleh karena itu, berita ini tidak memberikan arah yang jelas bagi pergerakan sektor tersebut.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Eliano Reijnders Lewatkan Laga Persib, Sempat Terdampak Erupsi Anak Krakatau",
+      "url": "https://bola.kompas.com/read/2026/09/08/19131718/eliano-reijnders-lewatkan-laga-persib-sempat-terdampak-erupsi-anak-krakatau",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Timnas Indonesia U-20 Tiba di Bandara Soetta, Sempat Dialihkan Mendarat di Jogja",
+      "url": "https://bola.kompas.com/read/2026/09/08/19150558/timnas-indonesia-u-20-tiba-di-bandara-soetta-sempat-dialihkan-mendarat-di-jogja",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "ASBI Gelar RUPSLB 30 September, Bahas Ganti Pengurus hingga Lepas Aset",
+      "url": "https://emitennews.com/news/asbi-gelar-rupslb-30-september-bahas-ganti-pengurus-hingga-lepas-aset",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Akuisisi Perusahaan ini, Saham PIPA Terus Meroket",
+      "url": "https://emitennews.com/news/akuisisi-perusahaan-ini-saham-pipa-terus-meroket",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Akselerasi 5G, Telkom (TLKM) Tambah 100 MHz Spektrum untuk Telkomsel",
+      "url": "https://emitennews.com/news/akselerasi-5g-telkom-tlkm-tambah-100-mhz-spektrum-untuk-telkomsel",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Bocoran Dividen SMGR Tahun 2026, Kapan Cair?",
+      "url": "https://emitennews.com/news/bocoran-dividen-smgr-tahun-2026-kapan-cair",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BEI Pasang Status UMA untuk 2 Saham Ini, Investor Diminta Waspada",
+      "url": "https://emitennews.com/news/bei-pasang-status-uma-untuk-2-saham-ini-investor-diminta-waspada",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tangguh Saat Hadapi Chelsea, Ezri Konsa Dipuji Legenda Arsenal",
+      "url": "https://bola.kompas.com/read/2026/09/08/19183708/tangguh-saat-hadapi-chelsea-ezri-konsa-dipuji-legenda-arsenal",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Bos MGLV Caplok Dua Entitas Ini, Saham Melenting ARA",
+      "url": "https://emitennews.com/news/bos-mglv-caplok-dua-entitas-ini-saham-melenting-ara",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Bos Emiten Logistik AMRT (BLOG) Beber Dividen, Capex, & Target 2026",
+      "url": "https://emitennews.com/news/bos-emiten-logistik-amrt-blog-beber-dividen-capex-target-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Capex AKRA Mencapai Rp1 Triliun di 2026, Kinerja Semester I Melesat",
+      "url": "https://emitennews.com/news/capex-akra-mencapai-rp1-triliun-di-2026-kinerja-semester-i-melesat",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ditopang Nyaris Semua Sektor, IHSG Sesi I (8/9) Melaju 0,84% ke 6.674",
+      "url": "https://emitennews.com/news/ditopang-nyaris-semua-sektor-ihsg-sesi-i-89-melaju-084-ke-6674",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Hilirisasi FLNG, RATU Gandeng Perusahaan Malaysia Beli 5% Saham PT LNG",
+      "url": "https://emitennews.com/news/hilirisasi-flng-ratu-gandeng-perusahaan-malaysia-beli-5-saham-pt-lng",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Melesat ke 6.686, Ini 3 Saham Pencetak Transaksi Tertinggi",
+      "url": "https://emitennews.com/news/ihsg-melesat-ke-6686-ini-3-saham-pencetak-transaksi-tertinggi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Incar Posisi Penting di Asia, PAG Ungkap Rencana Bisnis Jangka Panjang",
+      "url": "https://emitennews.com/news/incar-posisi-penting-di-asia-pag-ungkap-rencana-bisnis-jangka-panjang",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "LTLS Siapkan Capex Rp500 Miliar di 2026, Bidik Laba Tumbuh Di Atas 9%",
+      "url": "https://emitennews.com/news/ltls-siapkan-capex-rp500-miliar-di-2026-bidik-laba-tumbuh-di-atas-9",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Outlook Stabil, Pefindo Pertahankan Peringkat Tertinggi BTN idAAA",
+      "url": "https://emitennews.com/news/outlook-stabil-pefindo-pertahankan-peringkat-tertinggi-btn-idaaa",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Perkuat Posisi RAJA, Anak Usaha Rampungkan Akuisisi 5% Saham LNG",
+      "url": "https://emitennews.com/news/perkuat-posisi-raja-anak-usaha-rampungkan-akuisisi-5-saham-lng",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "MDLA Cetak Pertumbuhan Double Digit Semester I 2026, Ini Pendorongnya",
+      "url": "https://emitennews.com/news/mdla-cetak-pertumbuhan-double-digit-semester-i-2026-ini-pendorongnya",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Perusahaan China Kuasai Proyek Sampah Listrik Indonesia",
+      "url": "https://emitennews.com/news/perusahaan-china-kuasai-proyek-sampah-listrik-indonesia",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "RATU Raih Restu Penerbitan 271,5 Juta Saham Baru untuk Dukung Ekspansi",
+      "url": "https://emitennews.com/news/ratu-raih-restu-penerbitan-2715-juta-saham-baru-untuk-dukung-ekspansi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Prospek Pasar Kuat, Pefindo Pertahankan Peringkat idAAA SMGR",
+      "url": "https://emitennews.com/news/prospek-pasar-kuat-pefindo-pertahankan-peringkat-idaaa-smgr",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Rupiah Melemah Terbatas Jelang Keputusan The Fed",
+      "url": "https://emitennews.com/news/rupiah-melemah-terbatas-jelang-keputusan-the-fed",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "PTPP Geber Pembangunan Tol Kataraja Seksi 1, Kini Capai 94,9 Persen",
+      "url": "https://emitennews.com/news/ptpp-geber-pembangunan-tol-kataraja-seksi-1-kini-capai-949-persen",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "RAJA Rampungkan Akuisisi 5 Persen Saham Layar Nusantara Gas",
+      "url": "https://emitennews.com/news/raja-rampungkan-akuisisi-5-persen-saham-layar-nusantara-gas",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Resep Rahasia SMGR, Perkuat Brand Lokal hingga Gaet Persib Bandung",
+      "url": "https://emitennews.com/news/resep-rahasia-smgr-perkuat-brand-lokal-hingga-gaet-persib-bandung",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "KBRI Bern Pastikan Katon Bagaskara Sudah Terbang ke Indonesia Usai Tertahan di Bandara Swiss",
+      "url": "https://entertainment.kompas.com/read/2026/09/08/191722066/kbri-bern-pastikan-katon-bagaskara-sudah-terbang-ke-indonesia-usai",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Viral Dugaan Kekerasan Maba, Pengaderan FMIPA Unhas Dibekukan",
+      "url": "https://makassar.kompas.com/read/2026/09/08/191445978/viral-dugaan-kekerasan-maba-pengaderan-fmipa-unhas-dibekukan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Tertekan Suku Bunga Global, Emas Antam Turun Segini",
+      "url": "https://emitennews.com/news/tertekan-suku-bunga-global-emas-antam-turun-segini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Saham Emiten Mau Dicaplok Prajogo Terdampak Suspensi",
+      "url": "https://emitennews.com/news/saham-emiten-mau-dicaplok-prajogo-terdampak-suspensi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Stop Impor Solar, Proyeksi ESDM Tahun Ini Devisa Meningkat Rp170T",
+      "url": "https://emitennews.com/news/stop-impor-solar-proyeksi-esdm-tahun-ini-devisa-meningkat-rp170t",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Siswa SMA di Karo Diduga Hilang Ingatan Karena Keracunan MBG, Bobby: Gangguan Lainnya Kita Kroscek Juga",
+      "url": "https://medan.kompas.com/read/2026/09/08/191931378/siswa-sma-di-karo-diduga-hilang-ingatan-karena-keracunan-mbg-bobby-gangguan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "TOWR Kemas Pendapatan Rp7,2T di 1H26, Bidik Peluang Bisnis FWA",
+      "url": "https://emitennews.com/news/towr-kemas-pendapatan-rp72t-di-1h26-bidik-peluang-bisnis-fwa",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Puntung Rokok Berserakan di Trotoar Gatot Subroto, Diduga Picu Kebakaran Lapangan TNI AU",
+      "url": "https://megapolitan.kompas.com/read/2026/09/08/19130241/puntung-rokok-berserakan-di-trotoar-gatot-subroto-diduga-picu-kebakaran",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Harga Minyak Dekati 100 Dollar AS Usai Fasilitas Energi Arab Saudi Diserang",
+      "url": "https://money.kompas.com/read/2026/09/08/192200726/harga-minyak-dekati-100-dollar-as-usai-fasilitas-energi-arab-saudi-diserang",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Pacaran dengan Rekan Kerja, Benarkah Bisa Memengaruhi Hubungan Satu Tim?",
+      "url": "https://lifestyle.kompas.com/read/2026/09/08/193000920/pacaran-dengan-rekan-kerja-benarkah-bisa-memengaruhi-hubungan-satu-tim-",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Diperiksa 6 Jam, Febrie Adriansyah Dicecar soal Aliran Uang dari Tan Kian",
+      "url": "https://nasional.kompas.com/read/2026/09/08/19181451/diperiksa-6-jam-febrie-adriansyah-dicecar-soal-aliran-uang-dari-tan-kian",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BMKG: Cuaca Jakarta Besok Didominasi Berawan, Tiga Wilayah Berpotensi Hujan Ringan",
+      "url": "https://megapolitan.kompas.com/read/2026/09/08/19133371/bmkg-cuaca-jakarta-besok-didominasi-berawan-tiga-wilayah-berpotensi-hujan",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Arus Dana ETF Bitcoin Tembus 3,8 Miliar Dollar AS, Pasar Tunggu Data Inflasi AS",
+      "url": "https://money.kompas.com/read/2026/09/08/191054326/arus-dana-etf-bitcoin-tembus-38-miliar-dollar-as-pasar-tunggu-data-inflasi-as",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Aktivitas Gunung Anak Krakatau Stabil, BMKG Sebut Tak Ada Anomali Gelombang Laut",
+      "url": "https://regional.kompas.com/read/2026/09/08/191927078/aktivitas-gunung-anak-krakatau-stabil-bmkg-sebut-tak-ada-anomali-gelombang",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "KM Obi Permai Bertabrakan dengan Speedboat di Halmahera, ABK Selamat",
+      "url": "https://regional.kompas.com/read/2026/09/08/191244978/km-obi-permai-bertabrakan-dengan-speedboat-di-halmahera-abk-selamat",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Gunung Anak Krakatau Erupsi 5 Kali hingga Sore, CCTV Pemantau Masih Rusak",
+      "url": "https://regional.kompas.com/read/2026/09/08/191359378/gunung-anak-krakatau-erupsi-5-kali-hingga-sore-cctv-pemantau-masih-rusak",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Aset Rp 124 Miliar Kembali ke Pemkot, Eri Cahyadi Kini Bidik Ikon Kota Surabaya Zaman Dulu",
+      "url": "https://surabaya.kompas.com/read/2026/09/08/192544078/aset-rp-124-miliar-kembali-ke-pemkot-eri-cahyadi-kini-bidik-ikon-kota",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Tukang Pijat sekaligus Guru Karawitan di Kulon Progo Jadi Tersangka Pencabulan",
+      "url": "https://yogyakarta.kompas.com/read/2026/09/08/192121678/tukang-pijat-sekaligus-guru-karawitan-di-kulon-progo-jadi-tersangka",
+      "sektor": "Energi"
+    }
+  ]
+}
