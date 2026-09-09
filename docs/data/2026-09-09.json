@@ -1,0 +1,211 @@
+{
+  "tanggal": "2026-09-09",
+  "dibuat_pada": "2026-09-09 19:43 WIB",
+  "jumlah_artikel": 27,
+  "saham_disebut": {
+    "BBCA": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BJTM": [
+      "Keuangan (rating 6/7)"
+    ],
+    "MGLV": [
+      "Teknologi (rating 5/7)",
+      "Infrastruktur (rating 2/7)"
+    ],
+    "BBNI": [
+      "Teknologi (rating 5/7)"
+    ],
+    "BYAN": [
+      "Energi (rating 2/7)"
+    ],
+    "WIKA": [
+      "Infrastruktur (rating 2/7)"
+    ],
+    "ADHI": [
+      "Infrastruktur (rating 2/7)"
+    ],
+    "UANG": [
+      "Infrastruktur (rating 2/7)"
+    ],
+    "ADCP": [
+      "Infrastruktur (rating 2/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Bank besar (BBCA) akan membagikan dividen interim kuartalan, sementara bank daerah (BJTM) optimis peluang bisnis dari KUB.",
+      "alasan": "Kebijakan dividen kuartalan dari bank kapitalisasi besar seperti BBCA akan meningkatkan daya tarik investasi di sektor perbankan secara keseluruhan. Optimisme Bank Jatim terhadap perluasan bisnis melalui KUB juga memberikan sentimen positif pada potensi pertumbuhan bank daerah, yang keduanya mendukung kenaikan indeks sektor keuangan.",
+      "analisis_saham": "BBCA (PT Bank Central Asia Tbk.) akan membagikan dividen interim Rp25/saham dan berkomitmen terhadap pembayaran dividen kuartalan, yang sangat positif bagi investor dan berpotensi mendorong kenaikan harga saham. BJTM (PT Bank Pembangunan Daerah Jawa Timur Tbk.) menyatakan optimisme bahwa pembentukan KUB akan membuka peluang bisnis yang lebih luas, menandakan potensi pertumbuhan dan sentimen positif bagi sahamnya."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "PT NexAI Digital Infrastruktur Tbk. (MGLV) disuspensi akibat lonjakan harga signifikan, sementara segmen digital banking BNI (BBNI) menunjukkan pertumbuhan kuat didorong adopsi platform dan Open API.",
+      "alasan": "Meskipun ada suspensi terhadap saham teknologi MGLV karena peningkatan harga ekstrem yang bisa menimbulkan kehati-hatian, pertumbuhan segmen digital banking BNI yang didorong oleh adopsi teknologi dan ekspansi Open API memberikan sinyal positif akan tingginya permintaan solusi digital. Hal ini menunjukkan lingkungan yang mendukung bagi perusahaan teknologi yang menyediakan infrastruktur dan layanan digital.",
+      "analisis_saham": "PT NexAI Digital Infrastruktur Tbk. (MGLV) disuspensi perdagangannya di pasar reguler dan tunai karena kenaikan harga kumulatif yang signifikan, menandakan adanya minat spekulatif tinggi namun juga intervensi regulasi untuk 'cooling down'. PT Bank Negara Indonesia (Persero) Tbk. (BBNI) mencatat pertumbuhan kinerja segmen digital banking yang kuat, ditopang adopsi platform dan ekspansi Open API, menunjukkan keberhasilan transformasi digital yang dapat mendorong pendapatan di masa depan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Penawaran akuisisi 62,2% saham PT Bayan Resources Tbk (BYAN) dengan diskon sangat besar 82,3% dari harga pasar memicu sentimen negatif yang kuat.",
+      "alasan": "Meskipun berita ini spesifik pada satu perusahaan, BYAN adalah salah satu emiten batu bara terbesar di sektor Energi dengan bobot signifikan pada indeks. Penawaran akuisisi dengan harga jauh di bawah pasar dapat menciptakan ketidakpastian valuasi dan menekan harga saham BYAN, yang pada gilirannya akan menarik turun indeks sektor Energi secara keseluruhan. Hal ini juga dapat menimbulkan kekhawatiran investor mengenai prospek nilai aset di sub-sektor batu bara.",
+      "analisis_saham": "PT Bayan Resources Tbk. (BYAN) kemungkinan akan menghadapi tekanan jual yang sangat kuat pada perdagangan berikutnya. Penawaran akuisisi pada valuasi yang sangat rendah, dengan diskon 82,3% dari harga pasar, merupakan sinyal negatif serius yang dapat memicu revisi turun ekspektasi harga dan sentimen investor terhadap saham ini."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Berita negatif terkait perpanjangan suspensi dan gagal bayar obligasi WIKA mendominasi sentimen di sektor infrastruktur, meskipun ada kabar divestasi aset oleh ADHI.",
+      "alasan": "Perpanjangan suspensi dan gagal bayar obligasi PT Wijaya Karya (WIKA) menyoroti masalah keuangan serius di BUMN konstruksi, menciptakan ketidakpastian dan sentimen negatif yang dapat menyeret kinerja sektor secara keseluruhan. Meskipun PT Adhi Karya (ADHI) berencana melakukan divestasi aset yang berpotensi positif, sentimen negatif dari WIKA kemungkinan akan lebih dominan dan menekan indeks.",
+      "analisis_saham": "PT Wijaya Karya (Persero) Tbk (WIKA)**: Perpanjangan suspensi akibat gagal bayar obligasi adalah sentimen yang sangat negatif, mengindikasikan krisis keuangan yang parah dan kemungkinan akan menekan harga saham secara signifikan jika suspensi dicabut, serta merusak kepercayaan investor."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "ARA Berkali-kali, Dua Saham Kena Suspensi",
+      "url": "https://emitennews.com/news/ara-berkali-kali-dua-saham-kena-suspensi",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Adhi Karya (ADHI) Siapkan Divestasi 11 SPV, Paling Banyak di Jalan Tol",
+      "url": "https://emitennews.com/news/adhi-karya-adhi-siapkan-divestasi-11-spv-paling-banyak-di-jalan-tol",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "4x Dalam Setahun, BCA (BBCA) Akan Bagi Dividen Interim Lagi Rp25/Saham",
+      "url": "https://emitennews.com/news/4x-dalam-setahun-bca-bbca-akan-bagi-dividen-interim-lagi-rp25saham",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "ADHI Masih Menunggu Keputusan Danantara soal Suntikan Dana LRT City",
+      "url": "https://emitennews.com/news/adhi-masih-menunggu-keputusan-danantara-soal-suntikan-dana-lrt-city",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "62,2% Saham BYAN Ditawar Murah atas Akuisisi Haji Isam, Diskon 82,3%",
+      "url": "https://emitennews.com/news/622-saham-byan-ditawar-murah-atas-akuisisi-haji-isam-diskon-823",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bank Jatim (BJTM) Optimis KUB Buka Peluang Bisnis Lebih Luas",
+      "url": "https://emitennews.com/news/bank-jatim-bjtm-optimis-kub-buka-peluang-bisnis-lebih-luas",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEI Lanjutkan Suspensi Saham WIKA Akibat Gagal Bayar Obligasi",
+      "url": "https://emitennews.com/news/bei-lanjutkan-suspensi-saham-wika-akibat-gagal-bayar-obligasi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Fitch Afirmasi Peringkat AAA(idn) untuk Indosat dan Surat Utangnya",
+      "url": "https://emitennews.com/news/fitch-afirmasi-peringkat-aaaidn-untuk-indosat-dan-surat-utangnya",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Rabu Turun Tipis 0,12 Persen, 3 Big Banks Anjlok, BBCA Terdalam",
+      "url": "https://emitennews.com/news/ihsg-rabu-turun-tipis-012-persen-3-big-banks-anjlok-bbca-terdalam",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Emas Dunia Anjlok 3 Hari, Harga Antam Melorot Rp17 Ribu",
+      "url": "https://emitennews.com/news/emas-dunia-anjlok-3-hari-harga-antam-melorot-rp17-ribu",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Garap Proyek Metro Manila Subway Filipina, Ambisi WTON Pemain Global",
+      "url": "https://emitennews.com/news/garap-proyek-metro-manila-subway-filipina-ambisi-wton-pemain-global",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Rentan Volatil, Sempat Dibuka ke 6.700 Lalu Turun",
+      "url": "https://emitennews.com/news/ihsg-rentan-volatil-sempat-dibuka-ke-6700-lalu-turun",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Jeda Siang, IHSG Sesi I (9/9) Terperosok Jatuh 0,58% ke 6.647",
+      "url": "https://emitennews.com/news/jeda-siang-ihsg-sesi-i-99-terperosok-jatuh-058-ke-6647",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Makin Ambyar, Duo Saudagar RGAS Buang Ratusan Juta Lembar",
+      "url": "https://emitennews.com/news/makin-ambyar-duo-saudagar-rgas-buang-ratusan-juta-lembar",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Jasa Marga (JSMR) Kemas Laba Rp1,91T, Kini Garap 5 Proyek Jalan Tol",
+      "url": "https://emitennews.com/news/jasa-marga-jsmr-kemas-laba-rp191t-kini-garap-5-proyek-jalan-tol",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "MEDC Bidik Target Produksi Migas Segini, Siapkan Capex USD415 Juta",
+      "url": "https://emitennews.com/news/medc-bidik-target-produksi-migas-segini-siapkan-capex-usd415-juta",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Minyak Melonjak, Indeks Dolar Stabil Tunggu Data Inflasi",
+      "url": "https://emitennews.com/news/minyak-melonjak-indeks-dolar-stabil-tunggu-data-inflasi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Public Expose SMSM, Beber Dividen hingga Capex Perseroan",
+      "url": "https://emitennews.com/news/public-expose-smsm-beber-dividen-hingga-capex-perseroan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Ratusan Siswa Keracunan MBG, Anggota DPR Ini Minta Evaluasi Menyeluruh",
+      "url": "https://emitennews.com/news/ratusan-siswa-keracunan-mbg-anggota-dpr-ini-minta-evaluasi-menyeluruh",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Sah Pimpin Bursa Komoditas Strategis OJK, Begini Sumpah Sarjito di MA",
+      "url": "https://emitennews.com/news/sah-pimpin-bursa-komoditas-strategis-ojk-begini-sumpah-sarjito-di-ma",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Segmen Digital Banking BNI Tumbuh di Semester I 2026, Cek Pendorongnya",
+      "url": "https://emitennews.com/news/segmen-digital-banking-bni-tumbuh-di-semester-i-2026-cek-pendorongnya",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sinyal Dividen Interim ITMG di 2026, Ini Bocorannya",
+      "url": "https://emitennews.com/news/sinyal-dividen-interim-itmg-di-2026-ini-bocorannya",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Songsong Dividen, Komisaris ini Mulai Nyicil Saham BMRI",
+      "url": "https://emitennews.com/news/songsong-dividen-komisaris-ini-mulai-nyicil-saham-bmri",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Suspensi 3 Saham Dilepas, 2 Lanjut Menguat ke Harga Atas!",
+      "url": "https://emitennews.com/news/suspensi-3-saham-dilepas-2-lanjut-menguat-ke-harga-atas",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tekanan Kinerja Jelang Suksesi Waris, Bos Sido Muncul Ungkap Kondisi",
+      "url": "https://emitennews.com/news/tekanan-kinerja-jelang-suksesi-waris-bos-sido-muncul-ungkap-kondisi",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Teken Transaksi Afiliasi dengan Anak Usaha, Begini Pernyataan REAL",
+      "url": "https://emitennews.com/news/teken-transaksi-afiliasi-dengan-anak-usaha-begini-pernyataan-real",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Willgo Zainar Diberhentikan sebagai Komisaris sebelum Jadi Dirut KRAS",
+      "url": "https://emitennews.com/news/willgo-zainar-diberhentikan-sebagai-komisaris-sebelum-jadi-dirut-kras",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    }
+  ]
+}
