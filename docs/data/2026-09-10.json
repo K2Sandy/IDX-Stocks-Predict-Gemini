@@ -1,0 +1,290 @@
+{
+  "tanggal": "2026-09-10",
+  "dibuat_pada": "2026-09-10 19:38 WIB",
+  "jumlah_artikel": 44,
+  "saham_disebut": {
+    "BBCA": [
+      "Keuangan (rating 3/7)"
+    ],
+    "BBRI": [
+      "Keuangan (rating 3/7)"
+    ],
+    "BBTN": [
+      "Keuangan (rating 3/7)"
+    ],
+    "ARTO": [
+      "Teknologi (rating 5/7)"
+    ],
+    "MGLV": [
+      "Teknologi (rating 5/7)",
+      "Infrastruktur (rating 5/7)"
+    ],
+    "GGRM": [
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Investor asing mencatat jual bersih sebesar Rp1,3 triliun, terutama pada saham bank besar seperti BBCA dan BBRI, sementara BBTN memproyeksikan pertumbuhan kredit dan diversifikasi bisnis yang positif.",
+      "alasan": "Aksi jual bersih investor asing yang signifikan dan terfokus pada saham-saham perbankan berkapitalisasi besar seperti BBCA dan BBRI berpotensi memberikan tekanan negatif pada indeks sektor keuangan secara keseluruhan. Meskipun ada kabar positif dari BBTN terkait target pertumbuhan, sentimen negatif dari arus dana asing yang keluar lebih mendominasi prospek sektor.",
+      "analisis_saham": "BBCA: Saham ini menjadi fokus aksi jual bersih investor asing. Hal ini dapat memberikan tekanan negatif pada harga saham BBCA keesokan hari."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Saham MGLV melonjak signifikan setelah pencabutan suspensi, sementara Bank Jago (ARTO) memutuskan untuk menunda pembagian dividen demi fokus pada pertumbuhan perusahaan.",
+      "alasan": "Meskipun Bank Jago (ARTO) menunda dividen, sentimen positif yang sangat kuat dari MGLV yang langsung \"ngegas ke harga atas\" setelah suspensi dicabut berpotensi menciptakan momentum positif jangka pendek yang dapat mengangkat sektor Teknologi secara keseluruhan.",
+      "analisis_saham": "ARTO: Keputusan untuk tidak membagikan dividen bisa memberikan sentimen negatif dari investor yang mencari yield, namun alasan fokus pada pertumbuhan dapat menarik investor jangka panjang. Dampaknya cenderung netral hingga sedikit negatif jangka pendek."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini tidak memuat informasi spesifik yang relevan langsung dengan sektor Energi di Bursa Efek Indonesia.",
+      "alasan": "Tidak ada berita yang membahas emiten energi, harga komoditas energi (minyak, gas, batu bara), kebijakan pemerintah terkait energi, atau proyek-proyek strategis di sektor ini. Oleh karena itu, tidak ada sentimen pendorong atau penekan yang jelas untuk sektor Energi dari berita yang diberikan.",
+      "analisis_saham": "Tidak ada saham spesifik dari sektor energi yang disebutkan dalam kumpulan berita ini."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Proyek infrastruktur, khususnya jalan tol, mendapatkan fokus baru dari salah satu pemain besar (GGRM), sementara saham infrastruktur digital (MGLV) menunjukkan momentum positif setelah pencabutan suspensi.",
+      "alasan": "Meskipun PT Gudang Garam Tbk (GGRM) menghentikan capex untuk satu proyek bandara, komitmennya terhadap proyek jalan tol di Jawa Timur menunjukkan keberlanjutan investasi pada infrastruktur darat. Ditambah dengan saham PT NexAI Digital Infrastruktur Tbk (MGLV) yang bergerak positif setelah pencabutan suspensi, sentimen terhadap beberapa komponen sektor infrastruktur terlihat cenderung menguat.",
+      "analisis_saham": "GGRM**: Menghentikan belanja modal untuk Bandara Dhoho Kediri namun mengalihkan fokus ke proyek jalan tol di Jawa Timur. Ini menandakan pergeseran strategis dalam alokasi investasi infrastruktur perusahaan, bukan penghentian total, sehingga dampak netral hingga sedikit positif pada persepsi keterlibatan GGRM di sektor infrastruktur secara keseluruhan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Berita hari ini menyoroti pemeriksaan pabrik plastik atas keluhan pencemaran lingkungan serta pengungkapan tiga tantangan utama (SDM, pembiayaan, pasar) yang dihadapi koperasi Indonesia untuk menembus pasar global.",
+      "alasan": "Isu pencemaran lingkungan, meskipun lokal, dapat menandakan peningkatan pengawasan regulasi yang berpotensi menambah biaya operasional bagi sektor industri tertentu. Sementara itu, pengakuan atas tantangan struktural yang dihadapi koperasi di bidang SDM, pembiayaan, dan akses pasar menunjukkan adanya hambatan fundamental dalam pertumbuhan segmen ekonomi ini, yang secara kolektif dapat membatasi optimisme terhadap performa ekonomi makro secara keseluruhan dalam jangka pendek.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Gagal Rekrut Julian Alvarez dari Atletico, Deco Bantah Barcelona Bertindak Tak Etis",
+      "url": "https://bola.kompas.com/read/2026/09/10/19355748/gagal-rekrut-julian-alvarez-dari-atletico-deco-bantah-barcelona-bertindak-tak",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Bursa Siang (10/9) Catat Asing Net Sell Rp1,3T, Berkutat di BBCA–BBRI",
+      "url": "https://emitennews.com/news/bursa-siang-109-catat-asing-net-sell-rp13t-berkutat-di-bbcabbri",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Emas Antam Naik Rp15.000 Mengekor Rebound Emas Dunia",
+      "url": "https://emitennews.com/news/emas-antam-naik-rp15000-mengekor-rebound-emas-dunia",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BBTN Geber Diversifikasi Bisnis, Sasar Kredit Non-Perumahan Hingga 30%",
+      "url": "https://emitennews.com/news/bbtn-geber-diversifikasi-bisnis-sasar-kredit-non-perumahan-hingga-30",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Ace Hardware Kini Kompetitor, ACES Pede Target Penjualan 6-8% di 2026",
+      "url": "https://emitennews.com/news/ace-hardware-kini-kompetitor-aces-pede-target-penjualan-6-8-di-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Astra (ASII) Beber Alasan VTO Saham AUTO, Free Float Aman?",
+      "url": "https://emitennews.com/news/astra-asii-beber-alasan-vto-saham-auto-free-float-aman",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Entitas EMAS dan BKSDA Sulut Perkuat Konservasi Cagar Alam Panua",
+      "url": "https://emitennews.com/news/entitas-emas-dan-bksda-sulut-perkuat-konservasi-cagar-alam-panua",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "GGRM Stop Capex untuk Bandara, Fokus ke Proyek Jalan Tol di Jawa Timur",
+      "url": "https://emitennews.com/news/ggrm-stop-capex-untuk-bandara-fokus-ke-proyek-jalan-tol-di-jawa-timur",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "GGRM Resah, Bidik Profitabilitas Namun Daya Beli Tengah Menurun",
+      "url": "https://emitennews.com/news/ggrm-resah-bidik-profitabilitas-namun-daya-beli-tengah-menurun",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Harpelnas 2026, Momentum Penguatan Perlindungan kepada Pekerja",
+      "url": "https://emitennews.com/news/harpelnas-2026-momentum-penguatan-perlindungan-kepada-pekerja",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Melemah 1,33 Persen, DSSA dan BBCA Anjlok, CUAN Melambung",
+      "url": "https://emitennews.com/news/ihsg-melemah-133-persen-dssa-dan-bbca-anjlok-cuan-melambung",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "INCO Kejar Proyek 3 Tambang Segera Beroperasi, Morowali Lebih Dulu",
+      "url": "https://emitennews.com/news/inco-kejar-proyek-3-tambang-segera-beroperasi-morowali-lebih-dulu",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Jeda Siang, Market Cap BEI Tergerus IHSG Berakhir Terjerumus ke 6.668",
+      "url": "https://emitennews.com/news/jeda-siang-market-cap-bei-tergerus-ihsg-berakhir-terjerumus-ke-6668",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kinerja Timah (TINS) Lampaui Target, Laba Bersih Melonjak 805 Persen",
+      "url": "https://emitennews.com/news/kinerja-timah-tins-lampaui-target-laba-bersih-melonjak-805-persen",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kisi-Kisi Dividen Bank Jago (ARTO), Ada Pertanda Cair?",
+      "url": "https://emitennews.com/news/kisi-kisi-dividen-bank-jago-arto-ada-pertanda-cair",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Melantai Tahun Depan, RAJA Rencanakan Hingga 2 IPO Baru Grup Hapsoro",
+      "url": "https://emitennews.com/news/melantai-tahun-depan-raja-rencanakan-hingga-2-ipo-baru-grup-hapsoro",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kode Morgan Stanley Jual–Beli & Repo GOTO Jelang BEI Buka Batas Rp50",
+      "url": "https://emitennews.com/news/kode-morgan-stanley-jualbeli-repo-goto-jelang-bei-buka-batas-rp50",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Laba Melambung 102%, RATU Bidik Kenaikan Dividen dan Kinerja 2026",
+      "url": "https://emitennews.com/news/laba-melambung-102-ratu-bidik-kenaikan-dividen-dan-kinerja-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Minyak Tembus USD102, B50 Sudah Tersedia di 94% SPBU",
+      "url": "https://emitennews.com/news/minyak-tembus-usd102-b50-sudah-tersedia-di-94-spbu",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pengendali MGLV Jual 35 Juta Saham, Kepemilikan Turun Jadi 65,1 Persen",
+      "url": "https://emitennews.com/news/pengendali-mglv-jual-35-juta-saham-kepemilikan-turun-jadi-651-persen",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "RBB 2026, Bank Jago (ARTO) Pastikan tak ada Rencana Merger dengan BFIN",
+      "url": "https://emitennews.com/news/rbb-2026-bank-jago-arto-pastikan-tak-ada-rencana-merger-dengan-bfin",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Samator (AGII) Pastikan Siap Lunasi Surat Utang Jatuh Tempo 10 Oktober",
+      "url": "https://emitennews.com/news/samator-agii-pastikan-siap-lunasi-surat-utang-jatuh-tempo-10-oktober",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pidatonya Sering Blunder, Prabowo Bilang Kalau Salah Ya, Maaf!",
+      "url": "https://emitennews.com/news/pidatonya-sering-blunder-prabowo-bilang-kalau-salah-ya-maaf",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Resmi Berstatus UMA, 5 Saham Ini Kompak Terpuruk!",
+      "url": "https://emitennews.com/news/resmi-berstatus-uma-5-saham-ini-kompak-terpuruk",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "3 Zodiak yang Diprediksi Beruntung pada 11 September 2026, Ada Virgo",
+      "url": "https://lifestyle.kompas.com/read/2026/09/10/193000520/3-zodiak-yang-diprediksi-beruntung-pada-11-september-2026-ada-virgo",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ratusan Mahasiswa Geruduk Gedung DPRD Sumut, Protes Soal Keracunan Massal MBG di Kabupaten Karo",
+      "url": "https://medan.kompas.com/read/2026/09/10/191956578/ratusan-mahasiswa-geruduk-gedung-dprd-sumut-protes-soal-keracunan-massal-mbg",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Suspensi Babak Kedua Menjerat Saham GRPH, Kapan Dibuka?",
+      "url": "https://emitennews.com/news/suspensi-babak-kedua-menjerat-saham-grph-kapan-dibuka",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "DLHK Depok Periksa Pabrik Plastik Tapos Usai Warga Keluhkan Pencemaran",
+      "url": "https://megapolitan.kompas.com/read/2026/09/10/19221421/dlhk-depok-periksa-pabrik-plastik-tapos-usai-warga-keluhkan-pencemaran",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Suspensi Dicabut, 2 dari 3 Saham Ngegas ke Harga Atas",
+      "url": "https://emitennews.com/news/suspensi-dicabut-2-dari-3-saham-ngegas-ke-harga-atas",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Besok, SMK Prima Wisata Jakbar Terapkan PJJ Usai AC Kelas Meledak",
+      "url": "https://megapolitan.kompas.com/read/2026/09/10/19234201/besok-smk-prima-wisata-jakbar-terapkan-pjj-usai-ac-kelas-meledak",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Tambah 3 Tugboat dan 1 LCT, MITI Perkuat Bisnis Pelayaran dan Logistik",
+      "url": "https://emitennews.com/news/tambah-3-tugboat-dan-1-lct-miti-perkuat-bisnis-pelayaran-dan-logistik",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Daya Beli Kelas Menengah Tertekan, Uangnya Lari ke Mana?",
+      "url": "https://money.kompas.com/read/2026/09/10/192419726/daya-beli-kelas-menengah-tertekan-uangnya-lari-ke-mana",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "TINS Ketiban Berkah Pabrik iPhone di India, Market Share Naik 12%",
+      "url": "https://emitennews.com/news/tins-ketiban-berkah-pabrik-iphone-di-india-market-share-naik-12",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ekspansi Masih Berjalan, Vale Indonesia Buka Peluang Bagi Dividen",
+      "url": "https://money.kompas.com/read/2026/09/10/192758926/ekspansi-masih-berjalan-vale-indonesia-buka-peluang-bagi-dividen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Wamenkop Ungkap 3 Tantangan Koperasi Indonesia Tembus Pasar Global",
+      "url": "https://money.kompas.com/read/2026/09/10/193426126/wamenkop-ungkap-3-tantangan-koperasi-indonesia-tembus-pasar-global",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Kasus ISPA Melonjak, Hampir 1 Juta Masker Dibagikan ke Warga Terdampak Karhutla",
+      "url": "https://nasional.kompas.com/read/2026/09/10/19252921/kasus-ispa-melonjak-hampir-1-juta-masker-dibagikan-ke-warga-terdampak",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Cerita Evakuasi Jari Siswi SMKN 1 Karanganyar yang Tersangkut Lubang Meja Saat Belajar",
+      "url": "https://regional.kompas.com/read/2026/09/10/192649478/cerita-evakuasi-jari-siswi-smkn-1-karanganyar-yang-tersangkut-lubang-meja",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Karhutla Tahura Sultan Thaha Jambi Meluas, Satwa Berlindung di Hamparan yang Tersisa",
+      "url": "https://regional.kompas.com/read/2026/09/10/192218878/karhutla-tahura-sultan-thaha-jambi-meluas-satwa-berlindung-di-hamparan-yang",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "TNI AL Temukan Rompi Pelampung, Tabung, dan Botol di Perairan Anyer Saat Pencarian Rombongan Jurnalis Hilang",
+      "url": "https://regional.kompas.com/read/2026/09/10/192716378/tni-al-temukan-rompi-pelampung-tabung-dan-botol-di-perairan-anyer-saat",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Ikuti Kebijakan Daerah Terdampak Kabut Asap, Pemprov Sumbar Alihkan KBM SMA/SMK ke PJJ",
+      "url": "https://regional.kompas.com/read/2026/09/10/192958878/ikuti-kebijakan-daerah-terdampak-kabut-asap-pemprov-sumbar-alihkan-kbm-sma",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "ASN Asal Rote Ndao Tewas Ditembak KKB di Jayawijaya, Keluarga Sempat Dihubungi Pelaku",
+      "url": "https://regional.kompas.com/read/2026/09/10/193305678/asn-asal-rote-ndao-tewas-ditembak-kkb-di-jayawijaya-keluarga-sempat",
+      "sektor": "Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Karhutla Membara di Indragiri Hulu Riau, Kapolda dan Pangdam Turun Tangan",
+      "url": "https://regional.kompas.com/read/2026/09/10/192939378/karhutla-membara-di-indragiri-hulu-riau-kapolda-dan-pangdam-turun-tangan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "5 Hektare Lahan Tebu di Malang Terbakar, 1 Orang Tewas",
+      "url": "https://surabaya.kompas.com/read/2026/09/10/192243178/5-hektare-lahan-tebu-di-malang-terbakar-1-orang-tewas",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Sesar Aktif di Surabaya Berpotensi Picu Gempa M 6,8, Warga Diminta Kenali Risikonya",
+      "url": "https://surabaya.kompas.com/read/2026/09/10/192134978/sesar-aktif-di-surabaya-berpotensi-picu-gempa-m-68-warga-diminta-kenali",
+      "sektor": "Energi, Infrastruktur"
+    }
+  ]
+}
