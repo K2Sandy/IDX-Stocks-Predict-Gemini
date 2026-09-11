@@ -1,0 +1,310 @@
+{
+  "tanggal": "2026-09-11",
+  "dibuat_pada": "2026-09-11 19:34 WIB",
+  "jumlah_artikel": 45,
+  "saham_disebut": {
+    "BBNI": [
+      "Keuangan (rating 3/7)",
+      "Energi (rating 4/7)"
+    ],
+    "SMLE": [
+      "Teknologi (rating 5/7)"
+    ],
+    "ICBP": [
+      "Energi (rating 4/7)"
+    ],
+    "JARR": [
+      "Energi (rating 4/7)"
+    ],
+    "IPAC": [
+      "Energi (rating 4/7)"
+    ],
+    "MSJA": [
+      "Energi (rating 4/7)"
+    ],
+    "MICE": [
+      "Energi (rating 4/7)"
+    ],
+    "SUGI": [
+      "Energi (rating 4/7)"
+    ],
+    "PANI": [
+      "Energi (rating 4/7)"
+    ],
+    "PTPP": [
+      "Infrastruktur (rating 2/7)"
+    ],
+    "MKNT": [
+      "Infrastruktur (rating 2/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Lima saham besar, termasuk BBNI, dicoret dari daftar konstituen FTSE ESG Low Carbon Select Indexes, berpotensi memicu tekanan jual dari rebalancing portofolio.",
+      "alasan": "Pencoretan BBNI, salah satu bank besar di Indonesia, dari indeks ESG global dapat menyebabkan divestasi oleh investor yang berfokus pada ESG, yang berpotensi menekan harga saham bank dan sentimen pasar keuangan secara keseluruhan. Meskipun ada berita positif mengenai ekspansi layanan digital Bank BSN, dampaknya tidak langsung pada saham BEI yang tercatat.",
+      "analisis_saham": "BBNI (Bank Negara Indonesia Tbk):** Pencoretan dari FTSE ESG Low Carbon Select Indexes kemungkinan akan menyebabkan tekanan jual dari rebalancing portofolio oleh dana-dana yang melacak indeks tersebut, berpotensi menekan harga saham BBNI pada keesokan hari perdagangan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Biaya investasi teknologi AI diperkirakan terus membengkak hingga tahun 2027 namun perusahaan-perusahaan tidak berniat menghentikan investasinya, menunjukkan permintaan yang kuat dan berkelanjutan.",
+      "alasan": "Meskipun biaya pengembangan dan penerapan AI meningkat, komitmen perusahaan untuk terus berinvestasi menandakan adopsi teknologi yang kuat dan pertumbuhan permintaan. Hal ini memberikan sentimen positif bagi perusahaan teknologi yang menyediakan solusi AI atau infrastruktur pendukungnya.",
+      "analisis_saham": "PT Sinergi Multi Lestarindo Tbk (SMLE) menyatakan belum membahas dividen untuk tahun 2026 dan memilih fokus memperluas ekosistem bisnis. Keputusan ini menunjukkan prioritas pada pertumbuhan dan reinvestasi yang dapat mendukung fundamental jangka panjang, namun mungkin bersifat netral hingga sedikit negatif bagi investor yang mencari pendapatan dividen dalam jangka pendek."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Tidak ada berita spesifik yang memberikan sentimen arah yang jelas untuk sektor Energi secara keseluruhan; satu emiten energi (SUGI) tercatat dalam daftar Unusual Market Activity (UMA) karena peningkatan harga.",
+      "alasan": "Kumpulan berita hari ini sebagian besar membahas suspensi saham, daftar UMA untuk saham di berbagai sektor, dan perubahan indeks ESG untuk emiten non-energi. Meskipun PT Sugih Energy Tbk (SUGI) yang merupakan emiten energi masuk daftar UMA karena kenaikan harga, hal ini lebih mencerminkan pergerakan saham individual dan bukan tren yang menggerakkan seluruh sektor Energi. Tidak ada katalis makroekonomi, kebijakan energi, atau pergerakan harga komoditas utama yang dilaporkan untuk memberikan arah yang jelas bagi sektor ini.",
+      "analisis_saham": "BBNI: Dikeluarkan dari daftar konstituen FTSE ESG Low Carbon Select Indexes. Sentimen ini negatif dari sisi investasi berbasis ESG, yang berpotensi mengurangi aliran modal \"hijau\" ke saham ini."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Dua emiten di sektor infrastruktur dan terkait, PTPP dan MKNT, mengumumkan langkah-langkah korporasi yang menyoroti tantangan finansial serius, yaitu restrukturisasi utang besar dan private placement yang sangat dilutif.",
+      "alasan": "Restrukturisasi utang Rp18 triliun PTPP menunjukkan tekanan keuangan pada pemain besar di sektor ini, sementara rencana private placement MKNT yang sangat dilutif mengindikasikan kesulitan finansial ekstrem. Kedua kabar ini menciptakan sentimen negatif yang kuat dan berpotensi menyeret kinerja sektor infrastruktur secara keseluruhan.",
+      "analisis_saham": "PTPP: Kabar restrukturisasi utang sebesar Rp18,2 triliun, meskipun bertujuan untuk memperbaiki posisi keuangan jangka panjang, mengindikasikan adanya masalah likuiditas atau solvabilitas. Hal ini kemungkinan akan memicu sentimen negatif dan tekanan jual pada saham PTPP. MKNT: Rencana private placement yang sangat dilutif dengan menerbitkan 1,02 triliun saham pada harga Rp1 per lembar (setara 99,46% dari jumlah saham) menandakan kondisi keuangan yang sangat tertekan. Berita ini dipastikan akan memicu aksi jual dan memberikan tekanan sangat kuat pada harga saham MKNT karena adanya dilusi ekstrem."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Inefisiensi penyaluran bantuan sosial di dalam negeri dan tekanan penjualan Tesla di China menjadi sorotan utama, mengindikasikan adanya tantangan pada efektivitas kebijakan domestik dan potensi perlambatan ekonomi global.",
+      "alasan": "Inefisiensi dalam penyaluran bansos dapat mengurangi efektivitas belanja pemerintah dalam mendorong ekonomi domestik, sementara tekanan pada penjualan Tesla di pasar China mengindikasikan potensi pelemahan ekonomi global. Kondisi ini dapat berdampak negatif terhadap sentimen investor terhadap prospek makroekonomi Indonesia melalui jalur konsumsi domestik yang kurang optimal dan penurunan permintaan ekspor serta harga komoditas.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Kapolda Jabar Perintahkan Personel Siaga Amankan Nobar Persija vs Persib",
+      "url": "https://bandung.kompas.com/read/2026/09/11/192616478/kapolda-jabar-perintahkan-personel-siaga-amankan-nobar-persija-vs-persib",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bruno Fernandes Pincang, Man United Harap-harap Cemas Jelang Derbi",
+      "url": "https://bola.kompas.com/read/2026/09/11/19262478/bruno-fernandes-pincang-man-united-harap-harap-cemas-jelang-derbi",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "5 Saham Dibuang, Dari BBNI hingga ICBP Tak Lolos Reviu FTSE ESG Index",
+      "url": "https://emitennews.com/news/5-saham-dibuang-dari-bbni-hingga-icbp-tak-lolos-reviu-ftse-esg-index",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BSN Serbu Bandung, Layanan Digital Masuk Merchant",
+      "url": "https://emitennews.com/news/bsn-serbu-bandung-layanan-digital-masuk-merchant",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BEI Suspensi Dua Saham, Salah Satunya Milik Haji Isam (JARR), Ada Apa?",
+      "url": "https://emitennews.com/news/bei-suspensi-dua-saham-salah-satunya-milik-haji-isam-jarr-ada-apa",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dua Saham Disuspensi: 1 Disetop BEI, 1 Segera Delisting",
+      "url": "https://emitennews.com/news/dua-saham-disuspensi-1-disetop-bei-1-segera-delisting",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "4 Saham Masuk Daftar UMA Bursa, Termasuk Emiten FCA dari Grup Astra",
+      "url": "https://emitennews.com/news/4-saham-masuk-daftar-uma-bursa-termasuk-emiten-fca-dari-grup-astra",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "EmitenNews Awards 2026: Ajang Pencarian Jawara Emiten di 11 Sektor BEI",
+      "url": "https://emitennews.com/news/emitennews-awards-2026-ajang-pencarian-jawara-emiten-di-11-sektor-bei",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Hasnur (HAIS) Rombak Jajaran Direksi, Sudah Kantongi Restu RUPSLB",
+      "url": "https://emitennews.com/news/hasnur-hais-rombak-jajaran-direksi-sudah-kantongi-restu-rupslb",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Akhir Pekan Merosot ke 6.541, Big Banks Kompak Anjlok",
+      "url": "https://emitennews.com/news/ihsg-akhir-pekan-merosot-ke-6541-big-banks-kompak-anjlok",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Dibuka Terjun 1,25% ke Dasar 6.500, Cermati Sentimen Global Ini",
+      "url": "https://emitennews.com/news/ihsg-dibuka-terjun-125-ke-dasar-6500-cermati-sentimen-global-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Investindo Arya Juga Kurangi Porsi Saham di Emiten TP Rachmat (TAPG)",
+      "url": "https://emitennews.com/news/investindo-arya-juga-kurangi-porsi-saham-di-emiten-tp-rachmat-tapg",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Tertekan, Pilih Saham Fundamental Kuat dengan Arus Kas Solid",
+      "url": "https://emitennews.com/news/ihsg-tertekan-pilih-saham-fundamental-kuat-dengan-arus-kas-solid",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Inflasi AS Tekan Emas Dunia, Antam Turun Rp25.000/Gram",
+      "url": "https://emitennews.com/news/inflasi-as-tekan-emas-dunia-antam-turun-rp25000gram",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "KLBF Buka Opsi Delisting EPMT Jika Tak Bisa Penuhi Free Float",
+      "url": "https://emitennews.com/news/klbf-buka-opsi-delisting-epmt-jika-tak-bisa-penuhi-free-float",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Investor Meradang, Emiten Raffi-Nagita (RANS) Ungkap Fakta ini",
+      "url": "https://emitennews.com/news/investor-meradang-emiten-raffi-nagita-rans-ungkap-fakta-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kaji Capex Rp1T, Kalbe Farma (KLBF) Bahas Tekanan Rantai Pasok Global",
+      "url": "https://emitennews.com/news/kaji-capex-rp1t-kalbe-farma-klbf-bahas-tekanan-rantai-pasok-global",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Perkuat Hilirisasi, Entitas Arsari Group Gandeng Asahi Solder",
+      "url": "https://emitennews.com/news/perkuat-hilirisasi-entitas-arsari-group-gandeng-asahi-solder",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Presdir ASBI Hastanto Mundur Usai Direktur Keuangan Dibebastugaskan",
+      "url": "https://emitennews.com/news/presdir-asbi-hastanto-mundur-usai-direktur-keuangan-dibebastugaskan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Minyak Dunia Melonjak, Pemerintah Tetapkan ICP Agustus USD89,43",
+      "url": "https://emitennews.com/news/minyak-dunia-melonjak-pemerintah-tetapkan-icp-agustus-usd8943",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Punya Pabrik Baru, SMLE Bidik PT Sinarom Beroperasi Penuh di 2027",
+      "url": "https://emitennews.com/news/punya-pabrik-baru-smle-bidik-pt-sinarom-beroperasi-penuh-di-2027",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "PTPP Restrukturisasi Utang Rp18T, Ada Opsi Bayar dari Hasil Divestasi",
+      "url": "https://emitennews.com/news/ptpp-restrukturisasi-utang-rp18t-ada-opsi-bayar-dari-hasil-divestasi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "RATU Bidik Aset Migas Baru, Ekspansi Bisa Capai Luar Negeri",
+      "url": "https://emitennews.com/news/ratu-bidik-aset-migas-baru-ekspansi-bisa-capai-luar-negeri",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Senin 14 September, MKNT Izin Private Placement Jumbo",
+      "url": "https://emitennews.com/news/senin-14-september-mknt-izin-private-placement-jumbo",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tersengat Gejolak Global, Kalbe (KLBF) Bakal Tinjau Ulang Capex 2026",
+      "url": "https://emitennews.com/news/tersengat-gejolak-global-kalbe-klbf-bakal-tinjau-ulang-capex-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Biaya Teknologi AI Diperkirakan Terus Membengkak hingga 2027",
+      "url": "https://lestari.kompas.com/read/2026/09/11/192436086/biaya-teknologi-ai-diperkirakan-terus-membengkak-hingga-2027",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "SMLE Belum Bahas Dividen, Pilih Fokus Perluas Ekosistem Bisnis",
+      "url": "https://emitennews.com/news/smle-belum-bahas-dividen-pilih-fokus-perluas-ekosistem-bisnis",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "4 Siswa SMAN 10 Luwu Dirawat di Puskesmas, Belum Dipastikan akibat Keracunan MBG",
+      "url": "https://makassar.kompas.com/read/2026/09/11/192921478/4-siswa-sman-10-luwu-dirawat-di-puskesmas-belum-dipastikan-akibat-keracunan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "BMKG: Cuaca Jakarta Besok Didominasi Berawan, Hujan Berpotensi Turun di Dua Wilayah",
+      "url": "https://megapolitan.kompas.com/read/2026/09/11/19252411/bmkg-cuaca-jakarta-besok-didominasi-berawan-hujan-berpotensi-turun-di-dua",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Suporter Persib Dilarang Datang ke GBK Besok, Apa Alasannya?",
+      "url": "https://megapolitan.kompas.com/read/2026/09/11/19260061/suporter-persib-dilarang-datang-ke-gbk-besok-apa-alasannya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tertekan Sentimen, IHSG Siang (11/9) Anjlok 1,49% ke Bawah Level 6.500",
+      "url": "https://emitennews.com/news/tertekan-sentimen-ihsg-siang-119-anjlok-149-ke-bawah-level-6500",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Usai Degradasi MSCI, Saham CPIN Dilepas Derivatif UBS London Rp11,4M",
+      "url": "https://emitennews.com/news/usai-degradasi-msci-saham-cpin-dilepas-derivatif-ubs-london-rp114m",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Resmi Spin-Off, Portofolio Syariah Sompo Indonesia Bakal Dialihkan",
+      "url": "https://money.kompas.com/read/2026/09/11/192300826/resmi-spin-off-portofolio-syariah-sompo-indonesia-bakal-dialihkan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Laba MSIG Life Melonjak, Premi Lanjutan Tembus Rp 1 Triliun",
+      "url": "https://money.kompas.com/read/2026/09/11/193116326/laba-msig-life-melonjak-premi-lanjutan-tembus-rp-1-triliun",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "UKM Berkembang Positif, Sektor Produktif jadi Penopang Pertumbuhan",
+      "url": "https://emitennews.com/news/ukm-berkembang-positif-sektor-produktif-jadi-penopang-pertumbuhan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kemensos Ungkap 45 Persen Bansos Terindikasi Tidak Tepat Sasaran",
+      "url": "https://nasional.kompas.com/read/2026/09/11/19235021/kemensos-ungkap-45-persen-bansos-terindikasi-tidak-tepat-sasaran",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Tesla Makin Tertekan di China",
+      "url": "https://otomotif.kompas.com/read/2026/09/11/192100615/tesla-makin-tertekan-di-china",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Penjualan Motor Agustus Sempat Menurun, Yamaha Masih Optimis",
+      "url": "https://otomotif.kompas.com/read/2026/09/11/193100915/penjualan-motor-agustus-sempat-menurun-yamaha-masih-optimis",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BAIC Hadir di GIIAS Bandung 2026, Bawa Seluruh Line-up dan Promo T1",
+      "url": "https://otomotif.kompas.com/read/2026/09/11/192707115/baic-hadir-di-giias-bandung-2026-bawa-seluruh-line-up-dan-promo-t1",
+      "sektor": "Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kudus Raih Apresiasi Daerah Peduli Inovasi Ekonomi Kreatif, Bupati Sam’ani: Kreativitas Lokal Jadi Kekuatan Ekonomi Masyarakat",
+      "url": "https://regional.kompas.com/read/2026/09/11/192039878/kudus-raih-apresiasi-daerah-peduli-inovasi-ekonomi-kreatif-bupati-samani",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "KKB yang Video Call Keluarga ASN Korban Penembakan Teridentifikasi, Kini Jadi DPO",
+      "url": "https://regional.kompas.com/read/2026/09/11/192221878/kkb-yang-video-call-keluarga-asn-korban-penembakan-teridentifikasi-kini",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Bukan Cuma Jumlah Kendaraan, Ini 4 Faktor yang Bikin Ketapang-Gilimanuk Padat",
+      "url": "https://surabaya.kompas.com/read/2026/09/11/192247378/bukan-cuma-jumlah-kendaraan-ini-4-faktor-yang-bikin-ketapang-gilimanuk",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Penampakan Nyala Api Kebakaran Bromo Malam Ini, Ada 10 Titik di Blok Watangan",
+      "url": "https://surabaya.kompas.com/read/2026/09/11/193046378/penampakan-nyala-api-kebakaran-bromo-malam-ini-ada-10-titik-di-blok",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Kronologi Pelajar 16 Tahun Tewas Saat Tawuran Maut di Demak, Korban Alami Luka Tusuk di Dada",
+      "url": "https://regional.kompas.com/read/2026/09/11/193200978/kronologi-pelajar-16-tahun-tewas-saat-tawuran-maut-di-demak-korban-alami",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Gunung Fuji Dilanda Longsor Usai Hujan Deras, Akses Ditutup",
+      "url": "https://travel.kompas.com/read/2026/09/11/193100427/gunung-fuji-dilanda-longsor-usai-hujan-deras-akses-ditutup",
+      "sektor": "Keuangan"
+    }
+  ]
+}
