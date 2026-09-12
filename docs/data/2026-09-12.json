@@ -1,0 +1,153 @@
+{
+  "tanggal": "2026-09-12",
+  "dibuat_pada": "2026-09-12 18:54 WIB",
+  "jumlah_artikel": 17,
+  "saham_disebut": {
+    "ARTO": [
+      "Keuangan (rating 5/7)",
+      "Teknologi (rating 6/7)"
+    ],
+    "INET": [
+      "Teknologi (rating 6/7)",
+      "Infrastruktur (rating 5/7)"
+    ],
+    "JELI": [
+      "Teknologi (rating 6/7)"
+    ],
+    "LAPD": [
+      "Energi (rating 4/7)"
+    ],
+    "GGRM": [
+      "Infrastruktur (rating 5/7)"
+    ],
+    "PTPP": [
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bank Jago (ARTO) menegaskan komitmen pertumbuhan berkelanjutan melalui inovasi produk, layanan perbankan digital, dan kolaborasi dengan ekosistem.",
+      "alasan": "Meskipun sentimen pasar secara umum dalam beberapa berita lain menunjukkan pelemahan IHSG, kabar positif dari Bank Jago (ARTO) yang merupakan salah satu bank digital terkemuka dapat memberikan dorongan sentimen positif spesifik untuk sub-sektor perbankan digital dalam keuangan. Komitmen terhadap inovasi dan pertumbuhan berkelanjutan dari pemain penting ini dapat menarik perhatian investor ke potensi sektor keuangan berbasis teknologi.",
+      "analisis_saham": "ARTO (PT Bank Jago Tbk): Bank Jago memaparkan komitmen kuat untuk pertumbuhan berkelanjutan melalui inovasi produk, layanan perbankan digital, dan kolaborasi ekosistem. Sentimen positif ini diharapkan dapat mendukung kepercayaan investor terhadap prospek ARTO di tengah tren digitalisasi sektor keuangan, berpotensi memicu kenaikan harga saham."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Bank Jago (ARTO) menegaskan komitmen pertumbuhan berkelanjutan dan Sinergi Inti Andalan (INET) mencatat lonjakan laba serta pendapatan yang signifikan, sementara beberapa saham lain termasuk JELI menjadi top losers.",
+      "alasan": "Kinerja fundamental yang sangat positif dari dua emiten kunci di sektor teknologi, yakni Bank Jago (fintech) dan Sinergi Inti Andalan (infrastruktur data center), memberikan sentimen kuat yang positif. Komitmen terhadap inovasi dan pertumbuhan laba yang eksplosif dari perusahaan-perusahaan ini menunjukkan potensi profitabilitas dan ekspansi yang kuat di sektor teknologi secara keseluruhan, mengungguli sentimen negatif dari saham-saham yang melemah atau isu IPO.",
+      "analisis_saham": "ARTO (PT Bank Jago Tbk):** Bank Jago sebagai bank berbasis teknologi menegaskan komitmennya untuk pertumbuhan berkelanjutan melalui inovasi produk, layanan perbankan digital, dan kolaborasi ekosistem. Sentimen positif ini diperkirakan akan mendukung pergerakan harga saham ARTO ke arah naik seiring kepercayaan investor terhadap strategi pertumbuhan perusahaan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "PT Leyand International Tbk (LAPD), sebuah perusahaan di sektor energi, mengumumkan rencana rights issue dan inbreng saham.",
+      "alasan": "Hanya ada satu berita spesifik terkait perusahaan sektor energi (LAPD) yang mengumumkan rencana corporate action. Meskipun corporate action seperti rights issue berpotensi memberikan tekanan pada harga saham individual, sentimen ini tidak cukup kuat atau meluas untuk secara signifikan mempengaruhi arah pergerakan indeks sektor Energi secara keseluruhan tanpa adanya berita lain yang lebih substansial.",
+      "analisis_saham": "LAPD (PT Leyand International Tbk): Rencana rights issue dan inbreng oleh LAPD berpotensi menciptakan tekanan jual pada harga sahamnya dalam jangka pendek karena penambahan jumlah saham beredar (dilusi) dan adanya hak yang tidak ditebus oleh sebagian pemegang saham. Namun, aksi korporasi ini juga bertujuan untuk memperkuat struktur permodalan perusahaan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Infrastruktur digital menunjukkan pertumbuhan yang meledak, didukung langkah penting restrukturisasi pemain konstruksi BUMN untuk penguatan fundamental.",
+      "alasan": "Sektor infrastruktur mendapatkan sentimen positif dari kinerja cemerlang di segmen infrastruktur digital (data center) yang menunjukkan pertumbuhan pesat, serta langkah restrukturisasi yang dilakukan oleh pemain kunci BUMN konstruksi untuk memperkuat fundamentalnya. Meskipun ada tantangan profitabilitas di proyek infrastruktur tertentu, sentimen positif dari pertumbuhan dan perbaikan finansial pemain utama lebih dominan.",
+      "analisis_saham": "GGRM: Berita bahwa Bandara Dhoho belum memberikan kontribusi positif dan penghentian capex pada 2026 akan menciptakan sentimen negatif terhadap saham GGRM, terutama terkait investasi non-inti mereka. Investor mungkin khawatir tentang pengembalian investasi di proyek tersebut."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "JELI Masuk Top Losers Sepekan Lagi, Intip Daftar Lengkapnya!",
+      "url": "https://emitennews.com/news/jeli-masuk-top-losers-sepekan-lagi-intip-daftar-lengkapnya",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Gudang Garam (GGRM) Akui Bandara Dhoho Belum Kasih Cuan, Capex Distop",
+      "url": "https://emitennews.com/news/gudang-garam-ggrm-akui-bandara-dhoho-belum-kasih-cuan-capex-distop",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bank Jago (ARTO) Tegaskan Komitmen ini",
+      "url": "https://emitennews.com/news/bank-jago-arto-tegaskan-komitmen-ini",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Akurasi Data Jadi Taruhan, DTSEN Wajib Dibenahi",
+      "url": "https://emitennews.com/news/akurasi-data-jadi-taruhan-dtsen-wajib-dibenahi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Jajaran Top Gainers Sepekan, Intip Apa Saja",
+      "url": "https://emitennews.com/news/jajaran-top-gainers-sepekan-intip-apa-saja",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Laba dan Pendapatan Meledak, Saham INET Kian Seksi",
+      "url": "https://emitennews.com/news/laba-dan-pendapatan-meledak-saham-inet-kian-seksi",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "LAPD Mau Rights Issue dan Inbreng Saham, Minta Restu RUPSLB",
+      "url": "https://emitennews.com/news/lapd-mau-rights-issue-dan-inbreng-saham-minta-restu-rupslb",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pasar Menggeliat, Penjualan Mobil Astra (ASII) Melenting 13 Persen",
+      "url": "https://emitennews.com/news/pasar-menggeliat-penjualan-mobil-astra-asii-melenting-13-persen",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Peringkat Terjun Bebas, Rasio NPL BJBR Mengkhawatirkan",
+      "url": "https://emitennews.com/news/peringkat-terjun-bebas-rasio-npl-bjbr-mengkhawatirkan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Saham IPO Tanpa Izin OJK Muncul: Uang Memang Kembali, Tapi Waktu Tidak",
+      "url": "https://emitennews.com/news/saham-ipo-tanpa-izin-ojk-muncul-uang-memang-kembali-tapi-waktu-tidak",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Milad ke-23 AASI, Industri Asuransi Syariah Jaga Momentum Pertumbuhan",
+      "url": "https://emitennews.com/news/milad-ke-23-aasi-industri-asuransi-syariah-jaga-momentum-pertumbuhan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Rapor 1H26 Hijau, UVCR Mau Pacu Segmen B2B Makin Melesat",
+      "url": "https://emitennews.com/news/rapor-1h26-hijau-uvcr-mau-pacu-segmen-b2b-makin-melesat",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Target Pertamina Semua Produk Gasoline Berbasis Etanol dalam 1-2 Tahun",
+      "url": "https://emitennews.com/news/target-pertamina-semua-produk-gasoline-berbasis-etanol-dalam-1-2-tahun",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Teken MRA, PT PP (PTPP) Masuki Proses Penting Penguatan Fundamental",
+      "url": "https://emitennews.com/news/teken-mra-pt-pp-ptpp-masuki-proses-penting-penguatan-fundamental",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tersapu Angin, IHSG Rontok 1,43 Persen dalam Sepekan",
+      "url": "https://emitennews.com/news/tersapu-angin-ihsg-rontok-143-persen-dalam-sepekan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "VICI Tarik Pinjaman Rp270,65 Miliar, Alokasi Terbesar untuk ini",
+      "url": "https://emitennews.com/news/vici-tarik-pinjaman-rp27065-miliar-alokasi-terbesar-untuk-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Terlibat Scamming, 31 Warga Malaysia dan Taiwan Ditahan Imigrasi",
+      "url": "https://emitennews.com/news/terlibat-scamming-31-warga-malaysia-dan-taiwan-ditahan-imigrasi",
+      "sektor": "Keuangan, Teknologi, Energi"
+    }
+  ]
+}
