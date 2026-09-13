@@ -1,0 +1,149 @@
+{
+  "tanggal": "2026-09-13",
+  "dibuat_pada": "2026-09-13 20:08 WIB",
+  "jumlah_artikel": 19,
+  "saham_disebut": {
+    "BMRI": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BBCA": [
+      "Keuangan (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Kinerja perbankan menunjukkan pertumbuhan kredit UMKM yang kuat dan kualitas aset membaik, didukung oleh pengumuman dividen dari bank-bank besar.",
+      "alasan": "Berita pertumbuhan penyaluran kredit produktif dan perbaikan kualitas aset oleh Bank BPD Bali mengindikasikan fundamental sektor perbankan yang sehat. Ditambah lagi, pengumuman dividen interim dari Bank Mandiri (BMRI) dan pembayaran dividen oleh Bank BCA (BBCA) akan menarik minat investor dan memberikan sentimen positif bagi valuasi saham-saham perbankan, meskipun ada tekanan jual asing di pasar secara umum.",
+      "analisis_saham": "BMRI (PT Bank Mandiri (Persero) Tbk):** Pengumuman dividen interim sebesar Rp66 per saham dengan jadwal cum dividen pada 15 September diperkirakan akan meningkatkan daya tarik saham ini karena investor cenderung mengakumulasi saham menjelang cum date untuk mendapatkan hak dividen."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Ledakan investasi data center dan pertumbuhan ekonomi digital yang signifikan menunjukkan fundamental positif bagi sektor teknologi, meskipun pasar secara keseluruhan melemah.",
+      "alasan": "Berita mengenai ledakan investasi data center dan transformasi kawasan industri menjadi pusat ekonomi digital memberikan sentimen positif yang kuat bagi sub-sektor infrastruktur teknologi. Meskipun Indeks Harga Saham Gabungan (IHSG) melemah secara keseluruhan akibat sentimen risk-off global, potensi pertumbuhan dari digitalisasi ini dapat memberikan dorongan atau setidaknya meredam tekanan jual pada saham-saham teknologi, membuatnya cenderung naik atau lebih resilient dibandingkan pasar.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Harga minyak Brent menembus USD100 per barel di tengah eskalasi konflik AS-Iran, memicu sentimen risk-off global namun berpotensi menguntungkan sektor energi.",
+      "alasan": "Kenaikan harga minyak Brent hingga USD100 per barel secara langsung meningkatkan prospek pendapatan bagi perusahaan di sektor energi, terutama produsen minyak dan gas. Meskipun sentimen pasar global secara keseluruhan negatif, harga komoditas energi yang tinggi bertindak sebagai katalis positif kuat untuk kinerja saham di sektor ini.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Ledakan investasi data center mendorong permintaan lahan industri dan kebutuhan listrik, namun APBN yang mulai seret berpotensi menjadi risiko likuiditas bagi bank pemerintah.",
+      "alasan": "Sektor infrastruktur mendapatkan sentimen positif dari pertumbuhan pesat investasi di pusat data yang merupakan bagian dari infrastruktur digital dan dampaknya terhadap lahan industri. Namun, potensi risiko likuiditas akibat penarikan Saldo Anggaran Lebih (SAL) dan kondisi APBN yang mengetat dapat membatasi dukungan pemerintah terhadap proyek infrastruktur atau menekan likuiditas secara umum. Secara keseluruhan, sentimen cenderung positif didorong oleh sektor digital namun diimbangi kehati-hatian finansial.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "David Kini Preskom Emiten Grup Sinar Mas (DSSA) Gantikan Franky",
+      "url": "https://emitennews.com/news/david-kini-preskom-emiten-grup-sinar-mas-dssa-gantikan-franky",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Data Center dan Lahan Industri, Meluruskan Miskonsepsi Investasi",
+      "url": "https://emitennews.com/news/data-center-dan-lahan-industri-meluruskan-miskonsepsi-investasi",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Ekspor Produk Perikanan Indonesia Capai USD3 Miliar, Pasar 152 Negara",
+      "url": "https://emitennews.com/news/ekspor-produk-perikanan-indonesia-capai-usd3-miliar-pasar-152-negara",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bank Bali Salurkan Kredit UMKM Rp14,15 Triliun, Tumbuh 14 Persen",
+      "url": "https://emitennews.com/news/bank-bali-salurkan-kredit-umkm-rp1415-triliun-tumbuh-14-persen",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BMRI–PSAB Bersiap Cum Dividen 15 September, BBCA–CMRY Cair Pekan Ini!",
+      "url": "https://emitennews.com/news/bmripsab-bersiap-cum-dividen-15-september-bbcacmry-cair-pekan-ini",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Asing Net Sell Rp732,8M (11/9), Cek 7 Saham Paling Dibuang & Diborong",
+      "url": "https://emitennews.com/news/asing-net-sell-rp7328m-119-cek-7-saham-paling-dibuang-diborong",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Emiten Hapsoro (BUVA) Kucurkan Pinjaman Tambahan Rp22M ke Anak Usaha",
+      "url": "https://emitennews.com/news/emiten-hapsoro-buva-kucurkan-pinjaman-tambahan-rp22m-ke-anak-usaha",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "GRIA Absen Dividen hingga Hapus Jabatan Direktur Pemasaran, Ada Apa?",
+      "url": "https://emitennews.com/news/gria-absen-dividen-hingga-hapus-jabatan-direktur-pemasaran-ada-apa",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Mitigasi Risiko Likuiditas Ketika SAL Ditarik Mendadak",
+      "url": "https://emitennews.com/news/mitigasi-risiko-likuiditas-ketika-sal-ditarik-mendadak",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Menengok Taktik Emiten SCNP Penuhi Free Float 15 Persen",
+      "url": "https://emitennews.com/news/menengok-taktik-emiten-scnp-penuhi-free-float-15-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Hari Ke-6 Basarnas Fokuskan Pencarian Jurnalis di Perairan Selatan GAK",
+      "url": "https://emitennews.com/news/hari-ke-6-basarnas-fokuskan-pencarian-jurnalis-di-perairan-selatan-gak",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "MTQ Nasional XXXI Jateng Diproyeksi Gerakkan Ekonomi Rp1,2 Triliun",
+      "url": "https://emitennews.com/news/mtq-nasional-xxxi-jateng-diproyeksi-gerakkan-ekonomi-rp12-triliun",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Pefindo Tetapkan Rating Terbaru Waskita Karya (WSKT) idB/CreditWatch",
+      "url": "https://emitennews.com/news/pefindo-tetapkan-rating-terbaru-waskita-karya-wskt-idbcreditwatch",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pekan Merah, IHSG Melemah 1,43% dan Asing Berbalik Net Sell Rp3,3T",
+      "url": "https://emitennews.com/news/pekan-merah-ihsg-melemah-143-dan-asing-berbalik-net-sell-rp33t",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Salurkan KPP Rp7,4 Triliun, BTN (BBTN) Dorong Pelaku Usaha Naik Kelas",
+      "url": "https://emitennews.com/news/salurkan-kpp-rp74-triliun-btn-bbtn-dorong-pelaku-usaha-naik-kelas",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Samir Salurkan Pembiayaan Rp3T pada 5,3 Juta Akun, Tumbuh 63 Persen",
+      "url": "https://emitennews.com/news/samir-salurkan-pembiayaan-rp3t-pada-53-juta-akun-tumbuh-63-persen",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Sisa Dana IPO Rp3 Miliar, Emiten Voucher (DIVA) Parkirkan di BCA",
+      "url": "https://emitennews.com/news/sisa-dana-ipo-rp3-miliar-emiten-voucher-diva-parkirkan-di-bca",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Prabowo: Indonesia Siap Perkuat Ketahanan Pangan Dunia",
+      "url": "https://emitennews.com/news/prabowo-indonesia-siap-perkuat-ketahanan-pangan-dunia",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Tembus Porsi 10,06%, Yulie Sekuritas Borong Lagi 1,44 Juta Saham EMMI",
+      "url": "https://emitennews.com/news/tembus-porsi-1006-yulie-sekuritas-borong-lagi-144-juta-saham-emmi",
+      "sektor": "Keuangan"
+    }
+  ]
+}
