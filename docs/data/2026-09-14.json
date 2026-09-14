@@ -1,0 +1,278 @@
+{
+  "tanggal": "2026-09-14",
+  "dibuat_pada": "2026-09-14 21:41 WIB",
+  "jumlah_artikel": 44,
+  "saham_disebut": {
+    "BRIS": [
+      "Keuangan (rating 3/7)",
+      "Teknologi (rating 5/7)"
+    ],
+    "MNCN": [
+      "Teknologi (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Penguatan dolar AS dan antisipasi kenaikan suku bunga The Fed menciptakan tekanan bagi sektor keuangan, diimbangi oleh pertumbuhan transaksi digital di salah satu bank dan sentimen positif dari penunjukan Menteri Keuangan baru.",
+      "alasan": "Kekhawatiran terhadap pengetatan kebijakan moneter global dan potensi outflow modal akibat penguatan dolar dapat menekan kinerja perbankan dan lembaga keuangan. Meskipun Bank Syariah Indonesia (BRIS) mencatat pertumbuhan transaksi QRIS yang solid, sentimen makro lebih dominan untuk arah sektor secara keseluruhan.",
+      "analisis_saham": "PT Bank Syariah Indonesia Tbk (BRIS) menunjukkan kinerja positif dengan pertumbuhan 17% pada jumlah merchant QRIS yang dilayani dan nilai transaksi mencapai Rp5,7 triliun. Sentimen ini sangat positif untuk BRIS, menunjukkan ekspansi bisnis dan adopsi digital yang kuat, berpotensi memberikan dorongan positif pada harga sahamnya."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Adopsi teknologi digital terus meluas di berbagai sektor seperti pembayaran dan media, menunjukkan tren positif.",
+      "alasan": "Meskipun tidak ada berita langsung dari emiten teknologi murni, peningkatan penggunaan QRIS oleh perbankan (BRIS) dan fokus transformasi digital oleh perusahaan media (MNCN) menunjukkan fundamental ekonomi digital yang sehat dan berpotensi mendukung sentimen positif di sektor teknologi secara tidak langsung. Ekosistem digital yang kuat akan menguntungkan perusahaan teknologi.",
+      "analisis_saham": "BRIS (Bank Syariah Indonesia Tbk) menunjukkan pertumbuhan signifikan dalam layanan QRIS, melayani lebih dari 604 ribu merchant dengan nilai transaksi mencapai Rp5,7 triliun. Hal ini mencerminkan keberhasilan dalam adopsi teknologi pembayaran digital dan ekspansi pasar, yang berpotensi memberikan sentimen positif pada saham BRIS. MNCN (PT Media Nusantara Citra Tbk) memperkuat ekosistem media terintegrasi dengan fokus pada transformasi digital dan distribusi konten lintas platform, langkah ini dapat meningkatkan daya saing dan jangkauan pasar, berpotensi memberikan sentimen positif bagi saham MNCN."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kenaikan harga minyak dunia global memberikan dukungan fundamental positif bagi sektor energi di tengah tekanan pasar yang lebih luas.",
+      "alasan": "Meskipun Indeks Harga Saham Gabungan (IHSG) dan seluruh sektor mengalami tekanan jual yang signifikan pada hari sebelumnya, kenaikan harga minyak dunia dapat memberikan fundamental yang kuat bagi sektor energi. Sentimen positif dari harga komoditas ini berpotensi menyeimbangkan tekanan pasar secara umum, sehingga arah pergerakan indeks sektor energi menjadi netral atau tidak memiliki arah yang jelas.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Indeks Harga Saham Gabungan (IHSG) mengalami penurunan signifikan yang menyeret seluruh sektor, termasuk Infrastruktur, ke zona negatif.",
+      "alasan": "Penurunan tajam IHSG sebesar 1,7% di sesi pertama dengan frasa \"seluruh sektor babak belur\" mengindikasikan tekanan jual yang luas di pasar. Tanpa adanya katalis positif spesifik untuk sektor Infrastruktur, sentimen negatif pasar secara keseluruhan diperkirakan akan menekan kinerja sektor ini pada perdagangan berikutnya.",
+      "analisis_saham": "Tidak ada saham spesifik dari sektor Infrastruktur yang disebutkan dalam kumpulan berita ini. Berita mengenai TINS adalah perusahaan pertambangan timah dan MKNT bergerak di sektor teknologi/komunikasi, bukan infrastruktur dalam konteks sektor BEI."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Peningkatan investasi swasta dalam proyek infrastruktur di Jakarta dan pertumbuhan minat masyarakat terhadap kendaraan listrik yang didukung oleh pembiayaan mengindikasikan aktivitas ekonomi yang positif.",
+      "alasan": "Berita tentang investasi tanpa APBD di Jakarta mencerminkan partisipasi aktif sektor swasta dalam pembangunan, mendorong pertumbuhan ekonomi dan sektor properti. Sementara itu, tren kendaraan listrik yang semakin terjangkau dan pembiayaannya yang kian dilirik akan memacu sektor konsumsi dan keuangan, memberikan dorongan positif bagi perekonomian makro secara keseluruhan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "WN Belanda Diduga Lompat dari Lantai 5 Hotel di Badung Bali, Begini Kondisinya",
+      "url": "https://denpasar.kompas.com/read/2026/09/14/212425278/wn-belanda-diduga-lompat-dari-lantai-5-hotel-di-badung-bali-begini",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Bobot MSCI Terbaru: Cerita Asli Pasar Saham Kita di Balik Angka",
+      "url": "https://emitennews.com/news/bobot-msci-terbaru-cerita-asli-pasar-saham-kita-di-balik-angka",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Charles Rigoux Mundur, Ketut Budi Wijaya Masuk Jajaran Komisaris LPCK",
+      "url": "https://emitennews.com/news/charles-rigoux-mundur-ketut-budi-wijaya-masuk-jajaran-komisaris-lpck",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BSI (BRIS) Layani 604 Ribu Merchant QRIS, Nilai Transaksi Rp5,7T",
+      "url": "https://emitennews.com/news/bsi-bris-layani-604-ribu-merchant-qris-nilai-transaksi-rp57t",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Dibayangi UMA BEI, Saham Emiten Kabel Laut Ini Langsung Tertekan",
+      "url": "https://emitennews.com/news/dibayangi-uma-bei-saham-emiten-kabel-laut-ini-langsung-tertekan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Cimory Suntik Rp125 Miliar ke Anak Usaha, Pacu Ekspansi Distribusi",
+      "url": "https://emitennews.com/news/cimory-suntik-rp125-miliar-ke-anak-usaha-pacu-ekspansi-distribusi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Dolar Menguat 4 Hari Jelang Rapat Fed, Rupiah Siap Siaga",
+      "url": "https://emitennews.com/news/dolar-menguat-4-hari-jelang-rapat-fed-rupiah-siap-siaga",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Gantikan Purbaya, Menkeu Suahasil Dapat Arahan Khusus dari Presiden",
+      "url": "https://emitennews.com/news/gantikan-purbaya-menkeu-suahasil-dapat-arahan-khusus-dari-presiden",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ekspor Terbesar ke India, Rahasia Dapur TINS Cetak Lonjakan Laba 800%",
+      "url": "https://emitennews.com/news/ekspor-terbesar-ke-india-rahasia-dapur-tins-cetak-lonjakan-laba-800",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Gantikan Purbaya, Mari Berkenalan dengan Menkeu Suahasil Nazara",
+      "url": "https://emitennews.com/news/gantikan-purbaya-mari-berkenalan-dengan-menkeu-suahasil-nazara",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ini Profil Menkeu Suahasil Nazara yang Gantikan Purbaya",
+      "url": "https://emitennews.com/news/ini-profil-menkeu-suahasil-nazara-yang-gantikan-purbaya",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "INET Kemas Pendapatan Rp926,4 Miliar, Melonjak Hampir 2 Ribu Persen",
+      "url": "https://emitennews.com/news/inet-kemas-pendapatan-rp9264-miliar-melonjak-hampir-2-ribu-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Sesi I (14/9) Menjunam 1,7% ke 6.429, Seluruh Sektor Babak Belur",
+      "url": "https://emitennews.com/news/ihsg-sesi-i-149-menjunam-17-ke-6429-seluruh-sektor-babak-belur",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "JARR Lepas Suspensi, VICI & Saham ARA Beruntun Ini Justru Disetop BEI",
+      "url": "https://emitennews.com/news/jarr-lepas-suspensi-vici-saham-ara-beruntun-ini-justru-disetop-bei",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kekayaan Suahasil Nazara Tembus Rp138,16 Miliar, Data LHKPN 2025",
+      "url": "https://emitennews.com/news/kekayaan-suahasil-nazara-tembus-rp13816-miliar-data-lhkpn-2025",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Menkeu Purbaya Selesai, Suahasil Nazara Maju Jadi Pengganti",
+      "url": "https://emitennews.com/news/menkeu-purbaya-selesai-suahasil-nazara-maju-jadi-pengganti",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Minyak Melonjak, Fed Hawkish, Emas Antam Ikut Terkoreksi",
+      "url": "https://emitennews.com/news/minyak-melonjak-fed-hawkish-emas-antam-ikut-terkoreksi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pengendali Borong Lagi 4,7 Juta Saham IMPC, Bernilai Rp7,84 Miliar",
+      "url": "https://emitennews.com/news/pengendali-borong-lagi-47-juta-saham-impc-bernilai-rp784-miliar",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Nasib Tragis Menkeu Purbaya, Pagi Masih Raker di DPR, Sore Dicopot",
+      "url": "https://emitennews.com/news/nasib-tragis-menkeu-purbaya-pagi-masih-raker-di-dpr-sore-dicopot",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Purbaya Out! Suahasil Nazara: Defisit APBN Tetap Dijaga di Bawah 3%*",
+      "url": "https://emitennews.com/news/purbaya-out-suahasil-nazara-defisit-apbn-tetap-dijaga-di-bawah-3",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Putra Pendiri Astra Borong Lagi Saham Saratoga (SRTG)",
+      "url": "https://emitennews.com/news/putra-pendiri-astra-borong-lagi-saham-saratoga-srtg",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "RUPSLB Pilih Ade Supandi jadi Komisaris Utama Transcoal Pacific (TCPI)",
+      "url": "https://emitennews.com/news/rupslb-pilih-ade-supandi-jadi-komisaris-utama-transcoal-pacific-tcpi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Reshuffle Purbaya, Big Banks Dorong IHSG Rebound Usai Anjlok 2,6%",
+      "url": "https://emitennews.com/news/reshuffle-purbaya-big-banks-dorong-ihsg-rebound-usai-anjlok-26",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Saham FORU Mengamuk ARA, Resmi Rights Issue Jumbo Rp27,1T",
+      "url": "https://emitennews.com/news/saham-foru-mengamuk-ara-resmi-rights-issue-jumbo-rp271t",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Sempat Rebound, IHSG Ditutup Melemah ke 6.534 Usai Purbaya Diganti",
+      "url": "https://emitennews.com/news/sempat-rebound-ihsg-ditutup-melemah-ke-6534-usai-purbaya-diganti",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Siswa SMP di Polman Curi Uang Tetangga Rp 48 Juta, Dipakai Beli Akun Game hingga Motor",
+      "url": "https://makassar.kompas.com/read/2026/09/14/212810678/siswa-smp-di-polman-curi-uang-tetangga-rp-48-juta-dipakai-beli-akun-game",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tak Terapkan Ganjil-Genap, Luwu Batasi Pembelian BBM Mobil Rp 400.000 Sehari",
+      "url": "https://makassar.kompas.com/read/2026/09/14/212010778/tak-terapkan-ganjil-genap-luwu-batasi-pembelian-bbm-mobil-rp-400000-sehari",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Surat Berharga Dominasi Aset Menkeu Suahasil, Nilainya Segini",
+      "url": "https://emitennews.com/news/surat-berharga-dominasi-aset-menkeu-suahasil-nilainya-segini",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tambah Porsi, Direktur Ini Beli 75 Ribu Helai Saham Hermina (HEAL)",
+      "url": "https://emitennews.com/news/tambah-porsi-direktur-ini-beli-75-ribu-helai-saham-hermina-heal",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Undur Diri Massal Seluruh Pucuk Pimpinan MKNT Jelang RUPS, Ada Apa?",
+      "url": "https://emitennews.com/news/undur-diri-massal-seluruh-pucuk-pimpinan-mknt-jelang-rups-ada-apa",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Investasi Jakarta Nyaris Rp 270 Triliun, Pramono Ungkap Proyek Tanpa APBD",
+      "url": "https://megapolitan.kompas.com/read/2026/09/14/21095761/investasi-jakarta-nyaris-rp-270-triliun-pramono-ungkap-proyek-tanpa-apbd",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Pertamina NRE Kembangkan Bioetanol di Lampung dengan Pendekatan Multi-Feedstock dan Multi-Generation",
+      "url": "https://money.kompas.com/read/2026/09/14/211008526/pertamina-nre-kembangkan-bioetanol-di-lampung-dengan-pendekatan-multi",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Harga EV Semakin Murah, Pembiayaan Mobil Listrik Kian Dilirik",
+      "url": "https://money.kompas.com/read/2026/09/14/211900326/harga-ev-semakin-murah-pembiayaan-mobil-listrik-kian-dilirik",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Perkuat Ekosistem Media Terintegrasi, MNCN Gandeng Republikorp",
+      "url": "https://money.kompas.com/read/2026/09/14/210920326/perkuat-ekosistem-media-terintegrasi-mncn-gandeng-republikorp",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Anak Meninggal Usai Terlempar dari Motor di Puri Beta Ciledug",
+      "url": "https://megapolitan.kompas.com/read/2026/09/14/21293891/anak-meninggal-usai-terlempar-dari-motor-di-puri-beta-ciledug",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "KSP Dudung Sidak ke Agrinas, Temukan \"Bottleneck\" Supply Chain Kopdes Merah Putih",
+      "url": "https://nasional.kompas.com/read/2026/09/14/21243851/ksp-dudung-sidak-ke-agrinas-temukan-bottleneck-supply-chain-kopdes-merah",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Mendagri: Pemberdayaan Perempuan dan Perlindungan Anak Jadi Program Wajib Pemda",
+      "url": "https://nasional.kompas.com/read/2026/09/14/21184531/mendagri-pemberdayaan-perempuan-dan-perlindungan-anak-jadi-program-wajib",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Apa Itu Mindfulness yang Dibahas Maudy Ayunda? Ini Manfaat dan Cara Menerapkannya",
+      "url": "https://lifestyle.kompas.com/read/2026/09/14/213000020/apa-itu-mindfulness-yang-dibahas-maudy-ayunda-ini-manfaat-dan-cara",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Siswa Diduga Keracunan MBG di Lombok Tengah Sudah Dipulangkan, Satu Masih Dirawat",
+      "url": "https://regional.kompas.com/read/2026/09/14/212148178/siswa-diduga-keracunan-mbg-di-lombok-tengah-sudah-dipulangkan-satu-masih",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Dulu Jadi Magnet Pengunjung, Kini Zidan Menunggu Dipindahkan dari Kebun Binatang Bukittinggi",
+      "url": "https://regional.kompas.com/read/2026/09/14/212301778/dulu-jadi-magnet-pengunjung-kini-zidan-menunggu-dipindahkan-dari-kebun",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Perusahaan KM Virgo Transport 8 dan Anggota DPR Menduga Kapal Terbalik karena Cuaca",
+      "url": "https://surabaya.kompas.com/read/2026/09/14/211225778/perusahaan-km-virgo-transport-8-dan-anggota-dpr-menduga-kapal-terbalik",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Reshuffle Menkeu: Suahasil Nazara dan Ujian Keberanian Mengelola APBN",
+      "url": "https://money.kompas.com/read/2026/09/14/212011126/reshuffle-menkeu-suahasil-nazara-dan-ujian-keberanian-mengelola-apbn",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pimpinan Komisi XI DPR Yakin Pergantian Menkeu Lalui Pertimbangan Matang Prabowo",
+      "url": "https://nasional.kompas.com/read/2026/09/14/21275901/pimpinan-komisi-xi-dpr-yakin-pergantian-menkeu-lalui-pertimbangan-matang",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pilu Nasib Gajah Zidan di Kebun Binatang Bukittinggi, 3 Tahun Dirantai Pendek",
+      "url": "https://regional.kompas.com/read/2026/09/14/211327878/pilu-nasib-gajah-zidan-di-kebun-binatang-bukittinggi-3-tahun-dirantai",
+      "sektor": "Energi"
+    }
+  ]
+}
