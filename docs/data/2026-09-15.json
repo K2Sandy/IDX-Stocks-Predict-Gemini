@@ -1,0 +1,280 @@
+{
+  "tanggal": "2026-09-15",
+  "dibuat_pada": "2026-09-15 20:05 WIB",
+  "jumlah_artikel": 44,
+  "saham_disebut": {
+    "MAYA": [
+      "Keuangan (rating 5/7)"
+    ],
+    "AMMN": [
+      "Energi (rating 5/7)"
+    ],
+    "MKNT": [
+      "Infrastruktur (rating 2/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bursa Efek Indonesia mengumumkan pemberlakuan kembali short selling mulai tahun 2026, sementara putra pemilik Bank Mayapada (MAYA) melepas sejumlah besar sahamnya.",
+      "alasan": "Kebijakan BEI untuk menghidupkan kembali short selling, meskipun berlaku di masa depan, memberikan sentimen positif jangka panjang bagi peningkatan aktivitas dan likuiditas pasar, yang berpotensi menguntungkan perusahaan sekuritas dan lembaga keuangan. Berita penjualan saham MAYA oleh pemegang saham kunci bersifat spesifik dan kemungkinan tidak akan mempengaruhi pergerakan sektor keuangan secara luas.",
+      "analisis_saham": "MAYA (PT Bank Mayapada Internasional Tbk): Penjualan 523,35 juta saham oleh Jonathan Tahir untuk membayar utang dapat menciptakan sentimen negatif. Aksi jual oleh putra pemilik dengan harga Rp10 per lembar berpotensi menekan harga saham MAYA karena menimbulkan kekhawatiran pasar tentang fundamental atau likuiditas pemegang saham."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Sentimen global terhadap saham teknologi berbasis AI tertekan akibat kekhawatiran keamanan, meskipun ada pengembangan positif lokal di teknologi Wi-Fi.",
+      "alasan": "Tekanan global pada saham teknologi berbasis AI akibat isu keamanan cenderung menciptakan sentimen negatif yang dapat menyebar ke sektor teknologi domestik secara keseluruhan, membatasi potensi kenaikan. Meskipun ada kolaborasi positif untuk pengembangan Wi-Fi 8 oleh Varnion Technology Semesta, dampak dari berita ini mungkin lebih spesifik dan belum cukup kuat untuk mengimbangi sentimen negatif global.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Tingginya harga minyak bumi global yang berpotensi memicu kenaikan suku bunga AS menjadi sentimen utama di tengah pergerakan pasar yang bervariasi.",
+      "alasan": "Harga minyak bumi yang tinggi secara fundamental mendukung pendapatan dan profitabilitas perusahaan di sektor energi, terutama produsen minyak dan gas. Meskipun ada kekhawatiran terkait ekspektasi kenaikan suku bunga dan pelemahan IHSG hari ini, sentimen positif dari harga komoditas utama diharapkan dapat menopang sektor ini.",
+      "analisis_saham": "AMMN (PT Amman Mineral Internasional Tbk) direkomendasikan untuk dibeli (\"serok\") di tengah kebangkitan IHSG. Meskipun bergerak di sektor pertambangan tembaga dan emas, sentimen positif terhadap komoditas secara umum dan rekomendasi beli ini dapat mendorong pergerakan harga saham AMMN."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Deteksi aktivitas judi online di Kementerian Pekerjaan Umum menimbulkan sentimen negatif terhadap integritas dan tata kelola sektor infrastruktur.",
+      "alasan": "Berita mengenai isu integritas di Kementerian PU, sebagai pemangku kepentingan utama proyek infrastruktur, dapat memicu kekhawatiran investor mengenai potensi inefisiensi atau penundaan proyek. Hal ini berpotensi menekan kinerja saham-saham di sektor infrastruktur secara keseluruhan karena mengurangi kepercayaan terhadap prospek pengembangan proyek pemerintah.",
+      "analisis_saham": "PT Remitra Global International Tbk (MKNT) menghadapi sentimen sangat negatif akibat aksi korporasi restrukturisasi masif yang menyebabkan dilusi kepemilikan saham publik hingga 99,46%. Berita ini akan mendorong harga saham MKNT untuk anjlok secara signifikan karena hilangnya nyaris seluruh nilai bagi pemegang saham lama dan publik."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Penemuan kasus korupsi besar di Kementerian ATR/BPN terkait HGB serta kenaikan biaya logistik akibat kemacetan mengindikasikan risiko tata kelola dan inefisiensi ekonomi yang dapat memicu inflasi.",
+      "alasan": "Kasus korupsi pada lembaga kunci seperti Kementerian ATR/BPN dapat menciptakan ketidakpastian hukum dan menghambat investasi di sektor properti dan real estat, mengurangi kepercayaan investor. Kenaikan biaya logistik secara langsung berpotensi meningkatkan tekanan inflasi dan membebani profitabilitas bisnis, berdampak negatif pada pertumbuhan ekonomi secara keseluruhan. Kedua sentimen ini memberikan arah negatif yang cukup kuat.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "BEI Hidupkan Lagi Short Selling Mulai 15 September 2026",
+      "url": "https://emitennews.com/news/bei-hidupkan-lagi-short-selling-mulai-15-september-2026",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEI Pantau 4 Saham Naik Tak Wajar, 1 Masih Ngotot ARA",
+      "url": "https://emitennews.com/news/bei-pantau-4-saham-naik-tak-wajar-1-masih-ngotot-ara",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Bayar Utang, Putra Dato Tahir Jual 523 Juta Saham Bank Mayapada (MAYA)",
+      "url": "https://emitennews.com/news/bayar-utang-putra-dato-tahir-jual-523-juta-saham-bank-mayapada-maya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Dilusi PMTHMETD 99,46%, Eks Napi dan Sosok Ini Jadi Komisaris MKNT",
+      "url": "https://emitennews.com/news/dilusi-pmthmetd-9946-eks-napi-dan-sosok-ini-jadi-komisaris-mknt",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bobot MSCI Terbaru: Cuma 5 Penguasa Large Cap & 42 Saham Small Cap",
+      "url": "https://emitennews.com/news/bobot-msci-terbaru-cuma-5-penguasa-large-cap-42-saham-small-cap",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Cabut Suspensi, 2 Saham Lanjut Menguat, 1 Tumbang ARB!",
+      "url": "https://emitennews.com/news/cabut-suspensi-2-saham-lanjut-menguat-1-tumbang-arb",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Garuda Metalindo (BOLT) Bagikan Kabar Duka, Komisaris Utama Tutup Usia",
+      "url": "https://emitennews.com/news/garuda-metalindo-bolt-bagikan-kabar-duka-komisaris-utama-tutup-usia",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Hari Ini Cum Dividen Interim BMRI, Rp66 per Saham, Minat?",
+      "url": "https://emitennews.com/news/hari-ini-cum-dividen-interim-bmri-rp66-per-saham-minat",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IHSG Bangkit, Serok Saham ASII, BMRI, dan AMMN",
+      "url": "https://emitennews.com/news/ihsg-bangkit-serok-saham-asii-bmri-dan-ammn",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Ditutup Melorot 1,13 Persen, Tembus Level Terendah Intraday",
+      "url": "https://emitennews.com/news/ihsg-ditutup-melorot-113-persen-tembus-level-terendah-intraday",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Pagi Tak Sanggup Menguat, Turun 0,64% ke Bawah Level 6.500",
+      "url": "https://emitennews.com/news/ihsg-pagi-tak-sanggup-menguat-turun-064-ke-bawah-level-6500",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Sesi I (15/9) Loyo ke Bawah Level 6.500, Sektor Finance Tertekan",
+      "url": "https://emitennews.com/news/ihsg-sesi-i-159-loyo-ke-bawah-level-6500-sektor-finance-tertekan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Investor Kakap Lego Saham NASI, Kantongi Dana Rp370 Juta",
+      "url": "https://emitennews.com/news/investor-kakap-lego-saham-nasi-kantongi-dana-rp370-juta",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Imbal Hasil AS Naik, Emas Bertahan di Level Terendah 5 Minggu",
+      "url": "https://emitennews.com/news/imbal-hasil-as-naik-emas-bertahan-di-level-terendah-5-minggu",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kalbe Farma Siapkan Buyback Saham Rp500 Miliar, EPS Berpotensi Naik",
+      "url": "https://emitennews.com/news/kalbe-farma-siapkan-buyback-saham-rp500-miliar-eps-berpotensi-naik",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Judol Terdeteksi di Kementerian PU, 81 Ribu Transaksi Nilainya Rp12M",
+      "url": "https://emitennews.com/news/judol-terdeteksi-di-kementerian-pu-81-ribu-transaksi-nilainya-rp12m",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kolaborasi Chandra Asri-BMRI, Hadirkan Solusi Keuangan Terintegrasi",
+      "url": "https://emitennews.com/news/kolaborasi-chandra-asri-bmri-hadirkan-solusi-keuangan-terintegrasi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "MoU Varnion-Omada, Perkuat Riset Pengembangan Menuju Era Wi-Fi 8",
+      "url": "https://emitennews.com/news/mou-varnion-omada-perkuat-riset-pengembangan-menuju-era-wi-fi-8",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "OTT KPK, 17 Orang Terjaring Termasuk Presdir Summarecon Agung (SMRA)",
+      "url": "https://emitennews.com/news/ott-kpk-17-orang-terjaring-termasuk-presdir-summarecon-agung-smra",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Perkuat Ekosistem Media, MNC Group Lakukan ini",
+      "url": "https://emitennews.com/news/perkuat-ekosistem-media-mnc-group-lakukan-ini",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Presdir Summarecon Agung Kena OTT KPK, Saham SMRA Ambles 6,02%",
+      "url": "https://emitennews.com/news/presdir-summarecon-agung-kena-ott-kpk-saham-smra-ambles-602",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Purbaya Tinggalkan Kemenkeu, Ini Pesan Terakhir kepada Jajarannya",
+      "url": "https://emitennews.com/news/purbaya-tinggalkan-kemenkeu-ini-pesan-terakhir-kepada-jajarannya",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Putra Dato Tahir Lepas 523,35 Juta Saham MAYA, Harga Diskon Parah",
+      "url": "https://emitennews.com/news/putra-dato-tahir-lepas-52335-juta-saham-maya-harga-diskon-parah",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "RUPSLB Demutualisasi BEI Ngaret, Danantara Incar Kongsi 40% & AB 51%",
+      "url": "https://emitennews.com/news/rupslb-demutualisasi-bei-ngaret-danantara-incar-kongsi-40-ab-51",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Iran Klaim Tembak Jatuh 2 Drone AS Dekat Selat Hormuz",
+      "url": "https://internasional.kompas.com/read/2026/09/15/195100070/iran-klaim-tembak-jatuh-2-drone-as-dekat-selat-hormuz",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Saham Ambruk, Force Majeure Sandera Entitas BYAN",
+      "url": "https://emitennews.com/news/saham-ambruk-force-majeure-sandera-entitas-byan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "TPIA Gaet BMRI, Teken MoU Buat Perluas Akses Perbankan",
+      "url": "https://emitennews.com/news/tpia-gaet-bmri-teken-mou-buat-perluas-akses-perbankan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tingkatkan Layanan, Asuransi Astra Sodorkan 3 Inovasi",
+      "url": "https://emitennews.com/news/tingkatkan-layanan-asuransi-astra-sodorkan-3-inovasi",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Kecelakaan Maut di Tanjung Priok Jakut, Pengendara Motor Tewas Terseret, Truk Terbakar",
+      "url": "https://megapolitan.kompas.com/read/2026/09/15/19491001/kecelakaan-maut-di-tanjung-priok-jakut-pengendara-motor-tewas-terseret",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Polisi Periksa 8 Saksi dan 2 Ahli Kasus Pencabulan Anak di Jakbar, Segera Gelar Perkara",
+      "url": "https://megapolitan.kompas.com/read/2026/09/15/19585051/polisi-periksa-8-saksi-dan-2-ahli-kasus-pencabulan-anak-di-jakbar-segera",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "WBSA Mau Beli Kapal, Bank OCBC Kasih Suntikan Dana Rp75 Miliar",
+      "url": "https://emitennews.com/news/wbsa-mau-beli-kapal-bank-ocbc-kasih-suntikan-dana-rp75-miliar",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Cek Desil NIK untuk Lihat Status Bansos 2026, Begini Caranya lewat HP",
+      "url": "https://money.kompas.com/read/2026/09/15/195732126/cek-desil-nik-untuk-lihat-status-bansos-2026-begini-caranya-lewat-hp",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "OJK Luncurkan Indonesia Commodity Exchange (Icomex) 17 September 2026",
+      "url": "https://money.kompas.com/read/2026/09/15/200004226/ojk-luncurkan-indonesia-commodity-exchange-icomex-17-september-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BI Ungkap Kredit Tumbuh, tetapi Daya Beli Masyarakat Masih Tertekan",
+      "url": "https://money.kompas.com/read/2026/09/15/200141926/bi-ungkap-kredit-tumbuh-tetapi-daya-beli-masyarakat-masih-tertekan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "KPK Sita Uang Tunai Rp 106,3 Miliar dalam Kasus Suap HGB Kementerian ATR/BPN",
+      "url": "https://nasional.kompas.com/read/2026/09/15/19484871/kpk-sita-uang-tunai-rp-1063-miliar-dalam-kasus-suap-hgb-kementerian-atr-bpn",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Penampakan Uang Sitaan KPK Rp 106,3 Miliar Dalam Kasus Suap Kementerian ATR/BPN",
+      "url": "https://nasional.kompas.com/read/2026/09/15/19584081/penampakan-uang-sitaan-kpk-rp-1063-miliar-dalam-kasus-suap-kementerian-atr",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "4 Orang Kepercayaan Menteri ATR/BPN Jadi Tersangka Korupsi, Ini Perannya",
+      "url": "https://nasional.kompas.com/read/2026/09/15/19584321/4-orang-kepercayaan-menteri-atr-bpn-jadi-tersangka-korupsi-ini-perannya",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Dukung Pendidikan Gratis Anak Miskin Ekstrem, Mensos Gus Ipul Inspeksi Sekolah Rakyat Seluas 7,6 Hektar di Makassar",
+      "url": "https://nasional.kompas.com/read/2026/09/15/20025461/dukung-pendidikan-gratis-anak-miskin-ekstrem-mensos-gus-ipul-inspeksi",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kabut Asap Selimuti Sebagian Besar Sumut, Jarak Pandang Rendah 2-5 Km",
+      "url": "https://medan.kompas.com/read/2026/09/15/200309778/kabut-asap-selimuti-sebagian-besar-sumut-jarak-pandang-rendah-2-5-km",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Jibaku Pemadam Karhutla Palangka Raya: Air Kering, Mesin Pompa Jebol...",
+      "url": "https://regional.kompas.com/read/2026/09/15/195634278/jibaku-pemadam-karhutla-palangka-raya-air-kering-mesin-pompa-jebol",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Viral Video Drone Duga Perahu Rombongan Jurnalis Terbalik, Tim SAR Cek Lokasi: Hasilnya Nihil",
+      "url": "https://regional.kompas.com/read/2026/09/15/195655578/viral-video-drone-duga-perahu-rombongan-jurnalis-terbalik-tim-sar-cek",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pelajar di Nabire Demo Tolak MBG, BGN: Kewenangan Ada di Pusat",
+      "url": "https://regional.kompas.com/read/2026/09/15/194939378/pelajar-di-nabire-demo-tolak-mbg-bgn-kewenangan-ada-di-pusat",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tangisan Anak Korban KM Virgo Transport 8 Asal Blitar, Ajak Sang Kakek Menjemput Ayahnya",
+      "url": "https://surabaya.kompas.com/read/2026/09/15/195951678/tangisan-anak-korban-km-virgo-transport-8-asal-blitar-ajak-sang-kakek",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Macet Ketapang-Gilimanuk, Tarif Angkutan Logistik ke Bali Naik Rp 1 Juta",
+      "url": "https://surabaya.kompas.com/read/2026/09/15/195358478/macet-ketapang-gilimanuk-tarif-angkutan-logistik-ke-bali-naik-rp-1-juta",
+      "sektor": "Umum/Makro"
+    }
+  ]
+}
