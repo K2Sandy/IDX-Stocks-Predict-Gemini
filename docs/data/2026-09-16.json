@@ -1,0 +1,203 @@
+{
+  "tanggal": "2026-09-16",
+  "dibuat_pada": "2026-09-16 20:06 WIB",
+  "jumlah_artikel": 28,
+  "saham_disebut": {
+    "BCIC": [
+      "Keuangan (rating 5/7)"
+    ],
+    "MGLV": [
+      "Teknologi (rating 3/7)"
+    ],
+    "MOLI": [
+      "Energi (rating 4/7)"
+    ],
+    "MBAP": [
+      "Energi (rating 4/7)"
+    ],
+    "KIJA": [
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bursa Efek Indonesia mengaktifkan kembali short selling yang berpotensi meningkatkan likuiditas pasar hingga 17%, meskipun hanya ditujukan bagi investor ahli.",
+      "alasan": "Kebijakan reaktivasi short selling berpotensi mendorong peningkatan volume transaksi di bursa, yang secara langsung akan menguntungkan perusahaan-perusahaan di sektor keuangan, terutama perusahaan pialang dan sekuritas, melalui peningkatan pendapatan dari komisi. Meskipun ditujukan untuk investor ahli, ini adalah sinyal positif dari BEI untuk meningkatkan aktivitas pasar secara keseluruhan.",
+      "analisis_saham": "PT Bank JTrust Indonesia Tbk (BCIC) sedang mencari investor strategis untuk memenuhi ketentuan free float. Langkah ini positif untuk kepatuhan regulasi dan potensi penguatan struktur permodalan, namun dampaknya pada harga saham jangka pendek akan tergantung pada detail kesepakatan investor atau pelaksanaan HMETD."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Pengendali saham NexAI Digital (MGLV) menjual puluhan juta saham pada harga diskon signifikan, memberikan sentimen negatif terhadap perusahaan.",
+      "alasan": "Meskipun berita negatif tersebut spesifik pada MGLV, aksi divestasi oleh pengendali dengan diskon besar ini dapat menimbulkan kekhawatiran dan memicu kehati-hatian investor terhadap emiten teknologi lainnya, terutama yang berkapitalisasi pasar menengah dan kecil. Tidak adanya berita positif pengimbang untuk sektor ini memperkuat potensi tekanan jual atau sentimen negatif secara keseluruhan.",
+      "analisis_saham": "MGLV (NexAI Digital): Pengendali perusahaan menjual 38,5 juta lembar saham dengan diskon sekitar 54,25% dari harga penutupan sebelumnya. Ini adalah sinyal yang sangat negatif, menunjukkan kurangnya keyakinan dari pengendali dan kemungkinan besar akan menyebabkan tekanan jual serta penurunan harga saham MGLV secara signifikan di perdagangan berikutnya."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Beberapa emiten di sektor yang terkait dengan energi seperti produsen etanol/CO2 cair (MOLI) dan tambang batubara (MBAP) sedang dalam proses memenuhi ketentuan free float 15%.",
+      "alasan": "Berita yang relevan dengan sektor Energi berfokus pada pemenuhan ketentuan *free float* oleh beberapa emiten. Isu *free float* merupakan corporate action terkait kepatuhan regulasi dan struktur kepemilikan, bukan sentimen fundamental yang menggerakkan harga komoditas energi atau permintaan/penawaran sektor secara keseluruhan. Oleh karena itu, berita ini tidak memberikan dorongan arah yang jelas untuk pergerakan indeks sektor Energi secara luas.",
+      "analisis_saham": "MOLI (PT Madusari Murni Indah Tbk): Perusahaan produsen etanol dan CO2 cair ini perlu meningkatkan porsi free float-nya. Upaya pemenuhan free float ini menunjukkan komitmen terhadap regulasi, yang dapat meningkatkan kepercayaan investor dan potensi likuiditas di masa depan, namun dampak langsung pada harga saham besok tidak signifikan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Program penguatan tenaga kerja oleh Jababeka Infrastruktur memberikan sentimen positif, sementara penyelidikan anti-dumping baja impor menimbulkan potensi ketidakpastian biaya bahan baku.",
+      "alasan": "Meskipun ada ketidakpastian terkait potensi kenaikan biaya bahan baku baja di masa depan, program tanggung jawab sosial PT Jababeka Infrastruktur yang fokus pada kesiapan kerja mendukung keberlanjutan dan daya saing kawasan industri, yang merupakan bagian penting dari sektor infrastruktur. Hal ini memberikan optimisme jangka panjang untuk pengembangan infrastruktur terkait kawasan industri.",
+      "analisis_saham": "PT Jababeka Tbk. (KIJA), sebagai induk dari Jababeka Infrastruktur, menerima sentimen positif dari berita ini. Program JClass memperkuat ekosistem kawasan industri KIJA dengan mempersiapkan tenaga kerja yang kompeten, yang berpotensi meningkatkan daya tarik dan efisiensi operasional kawasan industri milik perusahaan di masa depan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Beredar di FCA, Saham Baru Buka Suspensi Ini Melejit ARA",
+      "url": "https://emitennews.com/news/beredar-di-fca-saham-baru-buka-suspensi-ini-melejit-ara",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "3 Saham Dipantau BEI: 2 Lanjut Merosot usai UMA, 1 Ngacir ARA",
+      "url": "https://emitennews.com/news/3-saham-dipantau-bei-2-lanjut-merosot-usai-uma-1-ngacir-ara",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BEI: Short Selling Berpotensi Dongkrak Likuiditas Bursa hingga 17%",
+      "url": "https://emitennews.com/news/bei-short-selling-berpotensi-dongkrak-likuiditas-bursa-hingga-17",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BCIC Cari Investor Strategis untuk Penuhi Ketentuan Free Float",
+      "url": "https://emitennews.com/news/bcic-cari-investor-strategis-untuk-penuhi-ketentuan-free-float",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Bukan untuk Investor Ritel, BEI Sebut Short Selling Khusus bagi Expert",
+      "url": "https://emitennews.com/news/bukan-untuk-investor-ritel-bei-sebut-short-selling-khusus-bagi-expert-2",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bukan Sekadar Formalitas, Intip Ketatnya Penjurian EmitenNews Awards!",
+      "url": "https://emitennews.com/news/bukan-sekadar-formalitas-intip-ketatnya-penjurian-emitennews-awards",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Diskon Gede, Pengendali Jual Puluhan Juta Saham MGLV",
+      "url": "https://emitennews.com/news/diskon-gede-pengendali-jual-puluhan-juta-saham-mglv",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Gagal Bayar PT Pos Indonesia Diganjar Penurunan Peringkat oleh Fitch",
+      "url": "https://emitennews.com/news/gagal-bayar-pt-pos-indonesia-diganjar-penurunan-peringkat-oleh-fitch",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Gagal Pertahankan Penguatan, Dua Saham Bakrie Top Losers LQ45",
+      "url": "https://emitennews.com/news/ihsg-gagal-pertahankan-penguatan-dua-saham-bakrie-top-losers-lq45",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Impor Baja Tiongkok Ancam Industri, KADI Gelar Penyelidikan",
+      "url": "https://emitennews.com/news/impor-baja-tiongkok-ancam-industri-kadi-gelar-penyelidikan",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Emiten CO2 Cair Ini Siapkan Dua Opsi Penuhi Free Float 15 Persen",
+      "url": "https://emitennews.com/news/emiten-co2-cair-ini-siapkan-dua-opsi-penuhi-free-float-15-persen",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Fahd A Rafiq Lagi, Ke-3 Kalinya Politikus Golkar Ini Terjerat Korupsi",
+      "url": "https://emitennews.com/news/fahd-a-rafiq-lagi-ke-3-kalinya-politikus-golkar-ini-terjerat-korupsi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Investasi Langsung, Direktur Central Omega (DKFT) Ini Tambah Saham",
+      "url": "https://emitennews.com/news/investasi-langsung-direktur-central-omega-dkft-ini-tambah-saham",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Nawasena Caplok 66,58 Persen, Saham IDEA Langsung Meroket",
+      "url": "https://emitennews.com/news/nawasena-caplok-6658-persen-saham-idea-langsung-meroket",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "JClass Jababeka Rangkul 8 SMK di Bekasi, Perkuat Kesiapan Kerja Siswa",
+      "url": "https://emitennews.com/news/jclass-jababeka-rangkul-8-smk-di-bekasi-perkuat-kesiapan-kerja-siswa",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Kalender Libur BEI 2027, Cek Bulan Panen Cuti Bersama & Tanggal Merah",
+      "url": "https://emitennews.com/news/kalender-libur-bei-2027-cek-bulan-panen-cuti-bersama-tanggal-merah",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Omzet Produk Kimia Klinik Drop 73%, Emiten Debutan Ini Rugi Rp8,84M",
+      "url": "https://emitennews.com/news/omzet-produk-kimia-klinik-drop-73-emiten-debutan-ini-rugi-rp884m",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Penuhi Free Float 15 Persen, MBAP Sodorkan Tahapan Berikut",
+      "url": "https://emitennews.com/news/penuhi-free-float-15-persen-mbap-sodorkan-tahapan-berikut",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Presdir Kena OTT KPK, Pihak SMRA Ungkap Fakta Ini",
+      "url": "https://emitennews.com/news/presdir-kena-ott-kpk-pihak-smra-ungkap-fakta-ini",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Rebound, IHSG Siang (16/9) Menghijau Ditopang Sederet Sektor ke 6.484",
+      "url": "https://emitennews.com/news/rebound-ihsg-siang-169-menghijau-ditopang-sederet-sektor-ke-6484",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Risiko Iklim Strategi Nyata dan Standar Ketahanan Bisnis di Era Global",
+      "url": "https://emitennews.com/news/risiko-iklim-strategi-nyata-dan-standar-ketahanan-bisnis-di-era-global",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Sempat Melemah, IHSG Pagi (16/9) Meluncur Naik 0,36% ke 6.484",
+      "url": "https://emitennews.com/news/sempat-melemah-ihsg-pagi-169-meluncur-naik-036-ke-6484",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Saham ARB Berjilid-Jilid dan 2 Saham Naik Ekstrem Akhirnya Disuspensi!",
+      "url": "https://emitennews.com/news/saham-arb-berjilid-jilid-dan-2-saham-naik-ekstrem-akhirnya-disuspensi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Short Selling Berlaku Lagi, Investor Harus Apa?",
+      "url": "https://emitennews.com/news/short-selling-berlaku-lagi-investor-harus-apa",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tepat 28 September, BEI Hapus Batasan Rp50 & Rilis Daftar Short Sell",
+      "url": "https://emitennews.com/news/tepat-28-september-bei-hapus-batasan-rp50-rilis-daftar-short-sell",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Timang-Timang Short Selling, Ternyata Gini Dampaknya",
+      "url": "https://emitennews.com/news/timang-timang-short-selling-ternyata-gini-dampaknya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tindak Tegas Karhutla, Menhut Ungkap Izin 26 Perusahaan Dibekukan",
+      "url": "https://emitennews.com/news/tindak-tegas-karhutla-menhut-ungkap-izin-26-perusahaan-dibekukan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tokoh Pasar Modal Kawakan, Ini Profil 3 Juri EmitenNews Awards 2026",
+      "url": "https://emitennews.com/news/tokoh-pasar-modal-kawakan-ini-profil-3-juri-emitennews-awards-2026",
+      "sektor": "Keuangan, Teknologi"
+    }
+  ]
+}
