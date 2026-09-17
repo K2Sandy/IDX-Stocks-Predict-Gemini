@@ -1,0 +1,170 @@
+{
+  "tanggal": "2026-09-17",
+  "dibuat_pada": "2026-09-17 20:03 WIB",
+  "jumlah_artikel": 27,
+  "saham_disebut": {},
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Teknologi",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Energi",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "2 Hari Berturut, Investor Asing Ini Lepas 337 Juta Saham BVIC Rp32,69M",
+      "url": "https://emitennews.com/news/2-hari-berturut-investor-asing-ini-lepas-337-juta-saham-bvic-rp3269m",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Akuisisi Beres, Saham Emiten Prajogo Ambles 55 Persen",
+      "url": "https://emitennews.com/news/akuisisi-beres-saham-emiten-prajogo-ambles-55-persen",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "AirAsia tidak Baik-baik Saja, Dua Maskapai Ini Diminta Turun Tangan",
+      "url": "https://emitennews.com/news/airasia-tidak-baik-baik-saja-dua-maskapai-ini-diminta-turun-tangan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Anak Usaha GEMS Tambah Lagi Capex, Ada Dana Segar dari BMRI",
+      "url": "https://emitennews.com/news/anak-usaha-gems-tambah-lagi-capex-ada-dana-segar-dari-bmri",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Bebas dari Suspensi: 2 Saham Lanjut Ngebut, 1 Ambruk 13 Hari Berturut!",
+      "url": "https://emitennews.com/news/bebas-dari-suspensi-2-saham-lanjut-ngebut-1-ambruk-13-hari-berturut",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BEI Sorot Lagi Saham Bank Hary Tanoe (BABP), Begini Jawaban Manajemen",
+      "url": "https://emitennews.com/news/bei-sorot-lagi-saham-bank-hary-tanoe-babp-begini-jawaban-manajemen",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "CLEO Operasikan 2 Pabrik Baru di Q4-2026, Jaga Pertumbuhan Dua Digit",
+      "url": "https://emitennews.com/news/cleo-operasikan-2-pabrik-baru-di-q4-2026-jaga-pertumbuhan-dua-digit",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Gagal ke 6.500, Bursa Siang (17/9) Berujung Mendarat ke 6.436",
+      "url": "https://emitennews.com/news/gagal-ke-6500-bursa-siang-179-berujung-mendarat-ke-6436",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "GRPH Bidik Okupansi Hotel 70% di 2026, Saham Suspen Bagaimana?",
+      "url": "https://emitennews.com/news/grph-bidik-okupansi-hotel-70-di-2026-saham-suspen-bagaimana",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Dibuka Naik Nyaris 1% di Tengah Kenaikan Suku Bunga The Fed",
+      "url": "https://emitennews.com/news/ihsg-dibuka-naik-nyaris-1-di-tengah-kenaikan-suku-bunga-the-fed",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Harga Emas Antam Naik Meski Pasar Global Tertekan Bunga The Fed",
+      "url": "https://emitennews.com/news/harga-emas-antam-naik-meski-pasar-global-tertekan-bunga-the-fed",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Diprediksi Variatif, Cermati Saham MBMA, SIDO, TPIA",
+      "url": "https://emitennews.com/news/ihsg-diprediksi-variatif-cermati-saham-mbma-sido-tpia",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Kamis Melesat ke 6.462,43, AMMN dan INCO Top Losers LQ45",
+      "url": "https://emitennews.com/news/ihsg-kamis-melesat-ke-646243-ammn-dan-inco-top-losers-lq45",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Indeks Dolar Tembus Level Tertinggi Usai Suku Bunga AS Naik",
+      "url": "https://emitennews.com/news/indeks-dolar-tembus-level-tertinggi-usai-suku-bunga-as-naik",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "INET Akuisisi 60% Saham SGI, Bidik Pendapatan Berulang Jangka Panjang",
+      "url": "https://emitennews.com/news/inet-akuisisi-60-saham-sgi-bidik-pendapatan-berulang-jangka-panjang",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Meski Diterpa UMA BEI, Saham Ini Justru Loncat 27 Persen di Pembukaan",
+      "url": "https://emitennews.com/news/meski-diterpa-uma-bei-saham-ini-justru-loncat-27-persen-di-pembukaan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kejar Free Float, Yupi Indo (YUPI) Siapkan 4 Opsi, Salah Satunya ESOP",
+      "url": "https://emitennews.com/news/kejar-free-float-yupi-indo-yupi-siapkan-4-opsi-salah-satunya-esop",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "OJK Akhirnya Bocorkan Arah Regulasi Demutualisasi BEI",
+      "url": "https://emitennews.com/news/ojk-akhirnya-bocorkan-arah-regulasi-demutualisasi-bei",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Pemegang Mayoritas Lego Saham KETR, Direksi Langsung Tampung",
+      "url": "https://emitennews.com/news/pemegang-mayoritas-lego-saham-ketr-direksi-langsung-tampung",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Puluhan Emiten Kena Sanksi BEI, SP1 hingga Denda Rp50 Juta",
+      "url": "https://emitennews.com/news/puluhan-emiten-kena-sanksi-bei-sp1-hingga-denda-rp50-juta",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Pemprov DKI Harap JITEX 2026 Pintu Masuk Investasi dan Pasar Global",
+      "url": "https://emitennews.com/news/pemprov-dki-harap-jitex-2026-pintu-masuk-investasi-dan-pasar-global",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Reshuffle! KKGI Rombak Direksi, Wimpi Salim Jadi Dirut Baru",
+      "url": "https://emitennews.com/news/reshuffle-kkgi-rombak-direksi-wimpi-salim-jadi-dirut-baru",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Rupiah Pagi ini Dibuka Melemah Pasca Fed Naikkan Suku Bunga",
+      "url": "https://emitennews.com/news/rupiah-pagi-ini-dibuka-melemah-pasca-fed-naikkan-suku-bunga",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Rupiah Merosot Lagi ke Rp17.753, Lima Hari Berturut-Turut",
+      "url": "https://emitennews.com/news/rupiah-merosot-lagi-ke-rp17753-lima-hari-berturut-turut",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Saldo Laba 2025 Menggunung, KKGI Kucurkan Dividen Tunai Rp20 per Saham",
+      "url": "https://emitennews.com/news/saldo-laba-2025-menggunung-kkgi-kucurkan-dividen-tunai-rp20-per-saham",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Saham FCA Ini Melejit ARA & Disuspensi BEI Secara Tiba-Tiba, Kenapa?",
+      "url": "https://emitennews.com/news/saham-fca-ini-melejit-ara-disuspensi-bei-secara-tiba-tiba-kenapa",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Total 93 AB Siap Sambut Penurunan Batas Saham ke Rp1 pada 28 September",
+      "url": "https://emitennews.com/news/total-93-ab-siap-sambut-penurunan-batas-saham-ke-rp1-pada-28-september",
+      "sektor": "Keuangan, Infrastruktur"
+    }
+  ]
+}
