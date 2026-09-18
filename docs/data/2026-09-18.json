@@ -1,0 +1,289 @@
+{
+  "tanggal": "2026-09-18",
+  "dibuat_pada": "2026-09-18 19:37 WIB",
+  "jumlah_artikel": 45,
+  "saham_disebut": {
+    "BBNI": [
+      "Keuangan (rating 5/7)"
+    ],
+    "MGLV": [
+      "Teknologi (rating 3/7)",
+      "Infrastruktur (rating 5/7)"
+    ],
+    "TPIA": [
+      "Energi (rating 6/7)"
+    ],
+    "BREN": [
+      "Energi (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bursa Efek Indonesia (BEI) memperkuat kerangka pasar dengan melanjutkan demutualisasi dan menjajaki IPO, serta menghidupkan kembali mode short selling, menandakan pengembangan dan kematangan pasar modal.",
+      "alasan": "Langkah BEI untuk melanjutkan demutualisasi, potensi IPO, dan penegasan independensi menciptakan sentimen positif terhadap tata kelola dan prospek jangka panjang infrastruktur pasar modal. Reintroduksi short selling dapat meningkatkan likuiditas dan efisiensi pasar, yang berpotensi menguntungkan perusahaan broker dan secara keseluruhan mendorong aktivitas di sektor keuangan meskipun IHSG hari ini terkoreksi.",
+      "analisis_saham": "BNI (BBNI) disebutkan dalam berita terkait dukungannya terhadap Jatinangor Music Fest sebagai bagian dari strategi memperkuat peran sebagai mitra perbankan. Ini adalah inisiatif CSR yang positif untuk citra merek dan engagement dengan komunitas, namun dampaknya terhadap pergerakan harga saham BBNI diperkirakan netral atau sangat minimal karena tidak terkait langsung dengan kinerja keuangan inti."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Pemegang saham pengendali PT NexAi Digital Infrastruktur Tbk (MGLV) melakukan penjualan sebagian saham secara signifikan, memberikan sentimen negatif bagi saham tersebut.",
+      "alasan": "Penjualan saham oleh pemegang saham pengendali MGLV dapat memicu kekhawatiran pasar dan berpotensi menyeret sentimen negatif pada sektor Teknologi secara keseluruhan. Ditambah dengan pergerakan IHSG yang merosot serta dihidupkannya kembali short selling, sektor ini berpotensi menghadapi tekanan jual.",
+      "analisis_saham": "PT NexAi Digital Infrastruktur Tbk (MGLV): Penjualan saham oleh pemegang saham pengendali Nextier Datamate Center secara signifikan berpotensi menekan harga saham MGLV. Investor mungkin menafsirkan aksi ini sebagai kurangnya kepercayaan atau sinyal untuk mengambil keuntungan, yang dapat memicu aksi jual."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Sentimen positif muncul dari kenaikan harga minyak mentah global yang memicu pengetatan moneter di Jepang, serta konsolidasi kekayaan di tangan konglomerat yang berinvestasi di sektor energi dan batu bara.",
+      "alasan": "Kenaikan harga minyak mentah dunia secara langsung meningkatkan prospek pendapatan perusahaan energi yang bergerak di sektor hulu migas dan beberapa sub-sektor terkait. Dominasi konglomerat seperti Prajogo Pangestu yang kekayaannya bersumber dari energi dan petrokimia juga mencerminkan kekuatan fundamental dan potensi nilai di sektor ini.",
+      "analisis_saham": "Berita mengenai Prajogo Pangestu sebagai orang terkaya RI nomor satu, dengan kekayaan yang berasal dari sektor petrokimia, energi, dan batu bara, memberikan sentimen positif tidak langsung kepada saham-saham yang terafiliasi dengan Barito Group. Ini termasuk PT Barito Pacific Tbk (TPIA) dan PT Barito Renewables Energy Tbk (BREN), karena menunjukkan kekuatan finansial dan potensi pertumbuhan di entitas-entitas bisnis utamanya."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Proyek infrastruktur transportasi di Manggarai menunjukkan kemajuan menuju penyelesaian, sementara terjadi penjualan saham signifikan oleh pemegang saham pengendali di perusahaan infrastruktur digital.",
+      "alasan": "Kemajuan proyek skybridge Manggarai memberikan sentimen positif bagi sub-sektor infrastruktur transportasi, mengindikasikan kelanjutan pembangunan dan investasi. Meskipun ada tekanan jual dari pemegang saham pengendali MGLV, berita tersebut lebih bersifat spesifik saham daripada mencerminkan fundamental buruk pada sektor infrastruktur digital secara keseluruhan.",
+      "analisis_saham": "PT NexAi Digital Infrastruktur Tbk (MGLV) kemungkinan akan menghadapi tekanan jual. Penjualan 7 juta unit saham oleh Nextier Datamate Center sebagai pemegang saham pengendali berpotensi menekan harga saham MGLV pada perdagangan berikutnya, karena menambah pasokan saham di pasar dan dapat diinterpretasikan sebagai sinyal negatif dari pemegang saham besar."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini didominasi oleh isu sosial, aktivitas politik seremonial, dan masalah lingkungan lokal tanpa adanya penggerak ekonomi makro yang signifikan.",
+      "alasan": "Berita yang tersedia tidak mengandung data ekonomi penting, pengumuman kebijakan pemerintah, atau sentimen pasar yang cukup kuat untuk mendorong pergerakan indeks sektor umum/makro secara signifikan. Oleh karena itu, indeks cenderung netral tanpa arah yang jelas.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Penebang 2 Pohon di Bandung Kena Denda Rp 20 Juta dan Wajib Ganti 200 Bibit",
+      "url": "https://bandung.kompas.com/read/2026/09/18/191715578/penebang-2-pohon-di-bandung-kena-denda-rp-20-juta-dan-wajib-ganti-200-bibit",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Kisah Lansia di Pangandaran: 20 Tahun Tinggal di Rumah Rapuh hingga Terancam Digusur, Suami Idap Tumor Ganas",
+      "url": "https://bandung.kompas.com/read/2026/09/18/192710578/kisah-lansia-di-pangandaran-20-tahun-tinggal-di-rumah-rapuh-hingga-terancam",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Sudah Tinggal Sejak 2010, ASN Penanam Ganja di Bandung Dikenal Jarang Bergaul",
+      "url": "https://bandung.kompas.com/read/2026/09/18/192658978/sudah-tinggal-sejak-2010-asn-penanam-ganja-di-bandung-dikenal-jarang-bergaul",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Cedera Ganggu Persiapan Timnas Indonesia Jelang FIFA ASEAN Cup 2026",
+      "url": "https://bola.kompas.com/read/2026/09/18/19325828/cedera-ganggu-persiapan-timnas-indonesia-jelang-fifa-asean-cup-2026",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Persija Vs Java United, Penyesalan Shin Tae-yong Tampil di Bali dan Tanpa Penonton",
+      "url": "https://bola.kompas.com/read/2026/09/18/19224528/persija-vs-java-united-penyesalan-shin-tae-yong-tampil-di-bali-dan-tanpa",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "10 Orang Terkaya RI Terbaru, Prajogo Nomor Satu, Ada Nama H Isam?",
+      "url": "https://emitennews.com/news/10-orang-terkaya-ri-terbaru-prajogo-nomor-satu-ada-nama-h-isam",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BEI Hidupkan Lagi Mode Short Sell, Ada Tendensi MSCI & Update Terbaru",
+      "url": "https://emitennews.com/news/bei-hidupkan-lagi-mode-short-sell-ada-tendensi-msci-update-terbaru",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEI Potensial Jajaki IPO usai Demutualisasi, Tertarik?",
+      "url": "https://emitennews.com/news/bei-potensial-jajaki-ipo-usai-demutualisasi-tertarik",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BNI Perkuat Peran ini melalui Jatinangor Music Fest",
+      "url": "https://emitennews.com/news/bni-perkuat-peran-ini-melalui-jatinangor-music-fest",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BOJ Naikkan Suku Bunga ke 1,25%, Tertinggi dalam 31 Tahun",
+      "url": "https://emitennews.com/news/boj-naikkan-suku-bunga-ke-125-tertinggi-dalam-31-tahun",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BYAN Perkasa, IHSG Siang (18/9) Justru Melorot 0,35% ke 6.439",
+      "url": "https://emitennews.com/news/byan-perkasa-ihsg-siang-189-justru-melorot-035-ke-6439",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Demutualisasi Jalan Terus, BEI Tegaskan Independensi Tetap Prioritas",
+      "url": "https://emitennews.com/news/demutualisasi-jalan-terus-bei-tegaskan-independensi-tetap-prioritas",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ditetapkan UMA, Saham Ini Masih Melenggang Naik!",
+      "url": "https://emitennews.com/news/ditetapkan-uma-saham-ini-masih-melenggang-naik",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Emiten Kayu IFII Tebar Dividen Interim Rp47 Miliar, Cair Oktober",
+      "url": "https://emitennews.com/news/emiten-kayu-ifii-tebar-dividen-interim-rp47-miliar-cair-oktober",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Dibeking 4 Klien Kakap, Saham Prajogo Tembus Top 10 MSCI Small Cap",
+      "url": "https://emitennews.com/news/dibeking-4-klien-kakap-saham-prajogo-tembus-top-10-msci-small-cap",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Dicecar DPR Soal Dana Rp106T Baru 3 Kopdes Beroperasi, Ini Kata Menkop",
+      "url": "https://emitennews.com/news/dicecar-dpr-soal-dana-rp106t-baru-3-kopdes-beroperasi-ini-kata-menkop",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Emiten Keluarga Nursalim SCNP Siap Guyur Pasar 192,33 Juta Saham",
+      "url": "https://emitennews.com/news/emiten-keluarga-nursalim-scnp-siap-guyur-pasar-19233-juta-saham",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Haji Isam Masuk, Low Tuck Kwong Rintis BYAN dari Bisnis Kontraktor",
+      "url": "https://emitennews.com/news/haji-isam-masuk-low-tuck-kwong-rintis-byan-dari-bisnis-kontraktor",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Harga Minyak Melandai, Bursa Asia Pasifik Kompak Melesat",
+      "url": "https://emitennews.com/news/harga-minyak-melandai-bursa-asia-pasifik-kompak-melesat",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IFII Jadwal Dividen Interim, Simak Lengkapnya",
+      "url": "https://emitennews.com/news/ifii-jadwal-dividen-interim-simak-lengkapnya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Merosot ke 6.441, Saham Tambang dan Big Banks Berguguran",
+      "url": "https://emitennews.com/news/ihsg-merosot-ke-6441-saham-tambang-dan-big-banks-berguguran",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Induk Frisian Flag Caplok Ultrajaya (ULTJ), Saham Langsung Melesat!",
+      "url": "https://emitennews.com/news/induk-frisian-flag-caplok-ultrajaya-ultj-saham-langsung-melesat",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Nextier Jualan MGLV Lagi, Volume 7 Juta Unit, Harga Setara Pertalite",
+      "url": "https://emitennews.com/news/nextier-jualan-mglv-lagi-volume-7-juta-unit-harga-setara-pertalite",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Nasib IPO SWAP UGM, Bos BEI Ungkap Fakta Terbaru",
+      "url": "https://emitennews.com/news/nasib-ipo-swap-ugm-bos-bei-ungkap-fakta-terbaru",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Rupiah Menguat ke Rp17.745 per Dolar AS pada Jumat Pagi",
+      "url": "https://emitennews.com/news/rupiah-menguat-ke-rp17745-per-dolar-as-pada-jumat-pagi",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Saham Big Cap Runtuh di Sesi I (18/9), Ternyata Asing Net Sell Rp1,14T",
+      "url": "https://emitennews.com/news/saham-big-cap-runtuh-di-sesi-i-189-ternyata-asing-net-sell-rp114t",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Purbaya Bukan Tahu Bulat, Anatomi Pencopotan yang Digoreng Dadakan",
+      "url": "https://emitennews.com/news/purbaya-bukan-tahu-bulat-anatomi-pencopotan-yang-digoreng-dadakan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sekar Bumi (SKBM) Ungkap Kronologi Kebakaran, Begini Ceritanya",
+      "url": "https://emitennews.com/news/sekar-bumi-skbm-ungkap-kronologi-kebakaran-begini-ceritanya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Taman Bacaan Masyarakat, Bitung, dan Ruang Tumbuh Anak...",
+      "url": "https://makassar.kompas.com/read/2026/09/18/192800978/taman-bacaan-masyarakat-bitung-dan-ruang-tumbuh-anak-",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Selain Hapus Batas Rp50, BEI Juga Terapkan Hapus FCA di 28 September",
+      "url": "https://emitennews.com/news/selain-hapus-batas-rp50-bei-juga-terapkan-hapus-fca-di-28-september",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Mahasiswa S2 Kenotariatan Ditangkap, Produksi dan Jual Tembakau Sintetis secara Daring",
+      "url": "https://megapolitan.kompas.com/read/2026/09/18/19254871/mahasiswa-s2-kenotariatan-ditangkap-produksi-dan-jual-tembakau-sintetis",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Lampu Monas hingga Bundaran HI Dipadamkan Besok Selama 60 Menit",
+      "url": "https://megapolitan.kompas.com/read/2026/09/18/19332621/lampu-monas-hingga-bundaran-hi-dipadamkan-besok-selama-60-menit",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Skybridge Masih Dibangun, Begini Rute Jalan Kaki dari Stasiun KRL ke LRT Manggarai",
+      "url": "https://megapolitan.kompas.com/read/2026/09/18/19344501/skybridge-masih-dibangun-begini-rute-jalan-kaki-dari-stasiun-krl-ke-lrt",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Siapkan PMTHMETD, Ultra Voucher (UVCR) Kuatkan Modal Kembangkan Bisnis",
+      "url": "https://emitennews.com/news/siapkan-pmthmetd-ultra-voucher-uvcr-kuatkan-modal-kembangkan-bisnis",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Dua Siswi Korban Keracunan MBG Pulang, Wapres Gibran Pesan untuk Rajin Kontrol",
+      "url": "https://nasional.kompas.com/read/2026/09/18/19192521/dua-siswi-korban-keracunan-mbg-pulang-wapres-gibran-pesan-untuk-rajin",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sinyal RKAB Rampung, Saham BYAN Meroket ARA 19,96 Persen di Sesi I",
+      "url": "https://emitennews.com/news/sinyal-rkab-rampung-saham-byan-meroket-ara-1996-persen-di-sesi-i",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Prabowo-Gibran Hadiri HUT Ke-28 PAN, Kompak Kenakan Batik",
+      "url": "https://nasional.kompas.com/read/2026/09/18/19232081/prabowo-gibran-hadiri-hut-ke-28-pan-kompak-kenakan-batik",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Sugeng dan Rudy Perkuat Mitrabahtera (MBSS), Ini Posisinya Usai RUPSLB",
+      "url": "https://emitennews.com/news/sugeng-dan-rudy-perkuat-mitrabahtera-mbss-ini-posisinya-usai-rupslb",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Fundamental Bisnis dan Transformasi BUMN Sokong Prospek JSMR",
+      "url": "https://money.kompas.com/read/2026/09/18/192447726/fundamental-bisnis-dan-transformasi-bumn-sokong-prospek-jsmr",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Bidik Pasar Muslim Terbesar, AXA Sharia Life Resmi Beroperasi",
+      "url": "https://money.kompas.com/read/2026/09/18/192641026/bidik-pasar-muslim-terbesar-axa-sharia-life-resmi-beroperasi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Pegawai Bea Cukai Ahmad Dedi Jadi Saksi dalam Sidang Kasus Suap Eks Atasan",
+      "url": "https://nasional.kompas.com/read/2026/09/18/19304861/pegawai-bea-cukai-ahmad-dedi-jadi-saksi-dalam-sidang-kasus-suap-eks-atasan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Karhutla di Jambi Tembus 20 Ribu Hektare, Separuhnya di Kawasan Hutan Produksi",
+      "url": "https://regional.kompas.com/read/2026/09/18/191615278/karhutla-di-jambi-tembus-20-ribu-hektare-separuhnya-di-kawasan-hutan",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "SPPG Malaimsimsa Klabulu Ditutup Sementara, Satgas MBG: Keselamatan Penerima Manfaat Jadi Prioritas",
+      "url": "https://regional.kompas.com/read/2026/09/18/191939178/sppg-malaimsimsa-klabulu-ditutup-sementara-satgas-mbg-keselamatan-penerima",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Banyumas Kekurangan 1.778 Guru SD dan SMP, Disdik Andalkan Mahasiswa KKN",
+      "url": "https://regional.kompas.com/read/2026/09/18/192723478/banyumas-kekurangan-1778-guru-sd-dan-smp-disdik-andalkan-mahasiswa-kkn",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "3 Tersangka Karhutla Samarinda, Salah Satunya Larang Warga Padamkan Api",
+      "url": "https://regional.kompas.com/read/2026/09/18/192824478/3-tersangka-karhutla-samarinda-salah-satunya-larang-warga-padamkan-api",
+      "sektor": "Umum/Makro"
+    }
+  ]
+}
