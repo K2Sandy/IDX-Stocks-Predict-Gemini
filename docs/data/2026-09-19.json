@@ -1,0 +1,225 @@
+{
+  "tanggal": "2026-09-19",
+  "dibuat_pada": "2026-09-19 19:14 WIB",
+  "jumlah_artikel": 35,
+  "saham_disebut": {},
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Peningkatan regulasi, inovasi perbankan syariah, dan pengembangan pasar baru oleh otoritas pasar modal menunjukkan prospek positif bagi sektor keuangan.",
+      "alasan": "Amanat OJK tentang modal disetor minimal Rp1 triliun untuk Bursa Mineral dan Komoditas Strategis menunjukkan penguatan regulasi dan infrastruktur pasar. Upaya Bank BSN memperkuat ekosistem emas syariah mencerminkan inovasi dan perluasan layanan perbankan. Selain itu, pengembangan pasar karbon oleh BEI membuka potensi peluang bisnis baru bagi sektor ini.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan. \"Bank BSN\" tidak merujuk pada kode saham spesifik yang tercatat di Bursa Efek Indonesia, sehingga berita tersebut lebih memberikan sentimen positif bagi segmen perbankan syariah secara umum."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Peluncuran smartphone entry-level Honor X5c Plus dengan fitur inovatif \"Magic Capsule\" menunjukkan perkembangan positif dalam pengalaman pengguna di pasar perangkat konsumen.",
+      "alasan": "Meskipun berita ini menyoroti inovasi di sektor teknologi perangkat keras, produk ini adalah merek asing yang tidak tercatat di Bursa Efek Indonesia. Oleh karena itu, dampaknya terhadap pergerakan indeks Sektor Teknologi secara keseluruhan di BEI, yang lebih banyak digerakkan oleh saham-saham e-commerce, platform digital, dan pusat data, diperkirakan sangat minim.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pengembangan blok gas Natuna D-Alpha oleh Hashim Djojohadikusumo melalui PT Nations Petroleum menandakan investasi baru di sektor energi hulu.",
+      "alasan": "Berita tentang pengembangan blok gas Natuna D-Alpha merupakan sentimen positif yang kuat bagi sektor energi, khususnya di sub-sektor eksplorasi dan produksi gas, karena menandakan adanya proyek baru dan investasi. Meskipun ada pembengkakan anggaran subsidi energi yang menimbulkan beban fiskal pemerintah, hal ini lebih merupakan isu makro-ekonomi dan tidak secara langsung menghambat prospek operasional perusahaan energi yang terlibat dalam produksi atau distribusi. Oleh karena itu, sentimen positif dari proyek gas baru cenderung lebih dominan dalam mendorong sektor secara keseluruhan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Peningkatan tekanan fiskal pemerintah akibat anggaran subsidi yang membengkak dan utang baru, ditambah dengan isu korupsi di kementerian terkait lahan dan pengawasan ketat BPK terhadap entitas investasi negara, menciptakan sentimen negatif terhadap sektor infrastruktur.",
+      "alasan": "Pembengkakan subsidi dan penambahan utang baru dapat mengurangi fleksibilitas anggaran pemerintah untuk proyek infrastruktur di masa depan. Selain itu, isu korupsi di Kementerian ATR/BPN berpotensi menghambat proses perizinan dan pengadaan lahan, sementara pemeriksaan BPK terhadap BPI Danantara dapat memperlambat atau menunda keputusan investasi pada proyek-proyek strategis, semuanya berdampak negatif pada sektor ini.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini sebagian besar mencakup isu-isu olahraga, sosial, dan pengadaan militer yang tidak memberikan sinyal makroekonomi signifikan untuk pasar saham.",
+      "alasan": "Berita yang tersedia lebih banyak berfokus pada event non-ekonomi seperti Asian Games dan Moto3, kasus selebgram, serta pengadaan helikopter TNI AD. Tidak ada informasi mengenai indikator ekonomi makro kunci seperti inflasi, suku bunga, kebijakan fiskal, atau data PDB yang dapat menggerakkan sektor secara keseluruhan. Oleh karena itu, sentimen terhadap sektor Umum/Makro bersifat netral.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Indonesia Pastikan Medali Asian Games 2026 dari Dua Cabor Kejutan",
+      "url": "https://bola.kompas.com/read/2026/09/19/18312648/indonesia-pastikan-medali-asian-games-2026-dari-dua-cabor-kejutan",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Timnas Indonesia Tanpa Penyerang Lokal di FIFA ASEAN Cup 2026",
+      "url": "https://bola.kompas.com/read/2026/09/19/18562998/timnas-indonesia-tanpa-penyerang-lokal-di-fifa-asean-cup-2026",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Jay Idzes dan Sandy Walsh Absen di FIFA ASEAN Cup 2026, Pengamat Lihat Opsi Lain Herdman",
+      "url": "https://bola.kompas.com/read/2026/09/19/18441978/jay-idzes-dan-sandy-walsh-absen-di-fifa-asean-cup-2026-pengamat-lihat-opsi-lain",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Amanat OJK, Bursa Mineral Wajibkan Modal Disetor Minimal Rp1 Triliun",
+      "url": "https://emitennews.com/news/amanat-ojk-bursa-mineral-wajibkan-modal-disetor-minimal-rp1-triliun",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "10 Top Gainers Sepekan, SEMA, ALKA hingga ULTJ Masuk!",
+      "url": "https://emitennews.com/news/10-top-gainers-sepekan-sema-alka-hingga-ultj-masuk",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ada Hashim Djojohadikusumo dalam Pengembangan Gas Natuna D-Alpha",
+      "url": "https://emitennews.com/news/ada-hashim-djojohadikusumo-dalam-pengembangan-gas-natuna-d-alpha",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Anggaran Subsidi dan Kompensasi Rp331T, Bengkak Sampai 52 Persen",
+      "url": "https://emitennews.com/news/anggaran-subsidi-dan-kompensasi-rp331t-bengkak-sampai-52-persen",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bank BSN Perkuat Ekosistem Emas Syariah, Buka Peluang Investasi Berkah",
+      "url": "https://emitennews.com/news/bank-bsn-perkuat-ekosistem-emas-syariah-buka-peluang-investasi-berkah",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "BAJA Kebut Right Issue Rp450 Miliar, Sejumlah Investor Absen",
+      "url": "https://emitennews.com/news/baja-kebut-right-issue-rp450-miliar-sejumlah-investor-absen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BEI Ungkap Pasar Karbon Didominasi Seller, Siapkan 2 Jurus Ini",
+      "url": "https://emitennews.com/news/bei-ungkap-pasar-karbon-didominasi-seller-siapkan-2-jurus-ini",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BEI Usul Mekanisme Insentif dan Disinsentif untuk Transaksi Karbon",
+      "url": "https://emitennews.com/news/bei-usul-mekanisme-insentif-dan-disinsentif-untuk-transaksi-karbon",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Bos BYAN Jadi Orang Terkaya Indonesia Versi Forbes, Geser Prajogo",
+      "url": "https://emitennews.com/news/bos-byan-jadi-orang-terkaya-indonesia-versi-forbes-geser-prajogo",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Daftar Top Losers Sepekan, SMRA, KPIG, hingga PADI Masuk!",
+      "url": "https://emitennews.com/news/daftar-top-losers-sepekan-smra-kpig-hingga-padi-masuk",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Dari Saham Rp1 hingga Short Selling: Benarkah Semua Demi Likuiditas?",
+      "url": "https://emitennews.com/news/dari-saham-rp1-hingga-short-selling-benarkah-semua-demi-likuiditas",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Geledah Rumah Anak Buah Menteri Nusron Wahid, KPK Temukan Petunjuk",
+      "url": "https://emitennews.com/news/geledah-rumah-anak-buah-menteri-nusron-wahid-kpk-temukan-petunjuk",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kemenperin Perketat SNI Kopi hingga Sawit Imbas Aturan EUDR",
+      "url": "https://emitennews.com/news/kemenperin-perketat-sni-kopi-hingga-sawit-imbas-aturan-eudr",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IPO Sepi Peminat, Calon Emiten Makin Tak Berhasrat",
+      "url": "https://emitennews.com/news/ipo-sepi-peminat-calon-emiten-makin-tak-berhasrat",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "GMFI Resmikan Fasilitas di Pondok Cabe, Revenue H126 Naik 51 Persen",
+      "url": "https://emitennews.com/news/gmfi-resmikan-fasilitas-di-pondok-cabe-revenue-h126-naik-51-persen",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Masih Panjang Proses Peluang BEI IPO, Mari Cermati Tahapannya",
+      "url": "https://emitennews.com/news/masih-panjang-proses-peluang-bei-ipo-mari-cermati-tahapannya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Sepi Transaksi, IHSG Sepekan Melorot 1,53 Persen",
+      "url": "https://emitennews.com/news/sepi-transaksi-ihsg-sepekan-melorot-153-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Risiko di Balik Kenaikan 25 BPS The Fed",
+      "url": "https://emitennews.com/news/risiko-di-balik-kenaikan-25-bps-the-fed",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bisakah Haid Saat Hamil Muda? Ini Beda Menstruasi dan Flek Hamil",
+      "url": "https://lifestyle.kompas.com/read/2026/09/19/190500420/bisakah-haid-saat-hamil-muda-ini-beda-menstruasi-dan-flek-hamil",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Telisik Risiko dan Fraud, BPK Minta Danantara Buka Akses Data",
+      "url": "https://emitennews.com/news/telisik-risiko-dan-fraud-bpk-minta-danantara-buka-akses-data",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Selebgram Jule Pakai Vape Narkoba Etomidate Sudah 3 Minggu",
+      "url": "https://megapolitan.kompas.com/read/2026/09/19/18563331/selebgram-jule-pakai-vape-narkoba-etomidate-sudah-3-minggu",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Sulap Pasar Minggu Triliunan Rupiah, Saham BIKE Melonjak Signifikan",
+      "url": "https://emitennews.com/news/sulap-pasar-minggu-triliunan-rupiah-saham-bike-melonjak-signifikan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Utang Baru Tambah Rp506 Triliun, Kemenkeu Beberkan Peruntukannya",
+      "url": "https://emitennews.com/news/utang-baru-tambah-rp506-triliun-kemenkeu-beberkan-peruntukannya",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "UVCR Gelar Private Placement 200 Juta Saham, Pengendali Serap Penuh",
+      "url": "https://emitennews.com/news/uvcr-gelar-private-placement-200-juta-saham-pengendali-serap-penuh",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Oktober 2026 Wajib Sertifikasi Halal, UMKM Belum Patuh Tak Langsung Disanksi",
+      "url": "https://money.kompas.com/read/2026/09/19/183600426/oktober-2026-wajib-sertifikasi-halal-umkm-belum-patuh-tak-langsung-disanksi",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "GAPKI Soroti Beban Ekspor Sawit RI Jelang Penerapan Bursa Komoditas",
+      "url": "https://money.kompas.com/read/2026/09/19/185700526/gapki-soroti-beban-ekspor-sawit-ri-jelang-penerapan-bursa-komoditas",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "TNI AD Punya Helikopter Baru untuk Antar Logistik ke Papua",
+      "url": "https://nasional.kompas.com/read/2026/09/19/18324221/tni-ad-punya-helikopter-baru-untuk-antar-logistik-ke-papua",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Polri Identifikasi 9 Korban Meninggal KM Virgo Transport 8, Akan Diserahkan ke Keluarga",
+      "url": "https://nasional.kompas.com/read/2026/09/19/19013961/polri-identifikasi-9-korban-meninggal-km-virgo-transport-8-akan-diserahkan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Hasil Kualifikasi Moto3 Austria 2026: Veda Start ke-19",
+      "url": "https://otomotif.kompas.com/read/2026/09/19/184921715/hasil-kualifikasi-moto3-austria-2026-veda-start-ke-19",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Wadanyon TPNPB OPM Kodap 35 Bintang Timur Ditangkap TNI, Hendak Beli Senjata Api",
+      "url": "https://regional.kompas.com/read/2026/09/19/182736278/wadanyon-tpnpb-opm-kodap-35-bintang-timur-ditangkap-tni-hendak-beli-senjata",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Honor X5c Plus Bawa Magic Capsule, Cek Musik hingga Rekaman Layar Tanpa Buka Aplikasi",
+      "url": "https://tekno.kompas.com/read/2026/09/19/18580277/honor-x5c-plus-bawa-magic-capsule-cek-musik-hingga-rekaman-layar-tanpa-buka",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Desa Wisata Kulon Progo Temui 30 Travel Agent, Bidik Pasar Jateng-DIY",
+      "url": "https://travel.kompas.com/read/2026/09/19/190700227/desa-wisata-kulon-progo-temui-30-travel-agent-bidik-pasar-jateng-diy",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    }
+  ]
+}
