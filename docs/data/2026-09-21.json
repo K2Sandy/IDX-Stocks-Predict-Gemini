@@ -1,0 +1,298 @@
+{
+  "tanggal": "2026-09-21",
+  "dibuat_pada": "2026-09-21 21:47 WIB",
+  "jumlah_artikel": 47,
+  "saham_disebut": {
+    "WIKA": [
+      "Keuangan (rating 4/7)"
+    ],
+    "BYAN": [
+      "Energi (rating 3/7)"
+    ],
+    "BRPT": [
+      "Energi (rating 3/7)"
+    ],
+    "KETR": [
+      "Infrastruktur (rating 3/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Bursa Efek Indonesia mengambil tindakan tegas dengan suspensi beberapa saham dan satu BUMN karya menunda pembayaran sukuk, menimbulkan sentimen hati-hati di pasar.",
+      "alasan": "Tidak ada berita langsung yang mengindikasikan kinerja positif atau negatif untuk perusahaan-perusahaan di sektor keuangan. Namun, tindakan pengawasan BEI terhadap aktivitas pasar yang tidak biasa dan masalah pembayaran utang salah satu BUMN dapat menciptakan sentimen kehati-hatian di pasar secara keseluruhan, yang secara tidak langsung dapat mempengaruhi likuiditas atau kepercayaan investor terhadap sektor keuangan.",
+      "analisis_saham": "BEI menggembok saham WIKA akibat penundaan pembayaran Sukuk Mudharabah. Hal ini merupakan sentimen negatif yang kuat bagi PT Wijaya Karya (Persero) Tbk, mengindikasikan tekanan pada kondisi keuangan perseroan yang dapat menekan harga sahamnya jika suspensi dibuka."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Peluncuran smartphone flagship terbaru Vivo X500 series di Shanghai memberikan sentimen positif pada inovasi dan pasar teknologi global.",
+      "alasan": "Meskipun peluncuran produk ini tidak melibatkan emiten Teknologi BEI secara langsung, berita ini dapat menciptakan optimisme umum terhadap prospek industri teknologi dan inovasi. Peningkatan aktivitas di segmen perangkat keras konsumen global secara tidak langsung bisa memberikan sentimen positif bagi ekosistem teknologi yang lebih luas.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Akuisisi 30% saham PT Bayan Resources Tbk (BYAN) masih belum mengantongi izin dari Kementerian ESDM, menciptakan ketidakpastian di sektor energi, sementara PT Barito Pacific Tbk (BRPT) mengklaim komitmen investasi yang kuat di Indonesia.",
+      "alasan": "Sentimen ketidakpastian regulasi terkait akuisisi saham besar pada BYAN, salah satu emiten batubara utama, berpotensi menekan kinerja sektor energi secara keseluruhan. Meskipun ada kabar positif dari BRPT mengenai komitmen investasi, hal tersebut tidak sepenuhnya mampu menutupi dampak dari penundaan persetujuan penting bagi BYAN, terutama dengan penutupan IHSG yang juga melemah.",
+      "analisis_saham": "BYAN: Berita bahwa akuisisi 30% sahamnya masih menunggu persetujuan Kementerian ESDM menciptakan ketidakpastian regulasi. Hal ini cenderung menekan harga saham BYAN karena investor akan bersikap hati-hati hingga ada kejelasan terkait proses akuisisi tersebut."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Bursa Efek Indonesia melanjutkan suspensi terhadap satu saham BUMN karya, mengindikasikan sentimen negatif pada sektor konstruksi, sementara ada transaksi internal direktur di emiten kabel laut KETR.",
+      "alasan": "Lanjutan suspensi saham BUMN Karya menandakan adanya isu yang belum terselesaikan pada salah satu pemain utama di sektor infrastruktur, khususnya sub-sektor konstruksi, yang dapat menciptakan sentimen negatif di pasar. Meskipun ada aksi pembelian saham oleh direktur KETR yang merupakan emiten infrastruktur digital, dampak positifnya lebih bersifat spesifik terhadap perusahaan tersebut dan tidak cukup untuk menetralkan sentimen negatif terhadap sektor secara keseluruhan.",
+      "analisis_saham": "Untuk PT Ketrosden Triasmitra Tbk (KETR), pembelian saham oleh direktur dari pemegang saham pengendali dapat diinterpretasikan sebagai indikasi kepercayaan internal terhadap prospek perusahaan. Aksi ini berpotensi memberikan dukungan atau setidaknya menjaga stabilitas harga saham KETR di tengah sentimen pasar."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Kebijakan wajib sertifikasi halal yang akan berlaku pada 18 Oktober diharapkan dapat memacu daya saing produk dalam negeri dan memperluas akses pasar bagi UMKM.",
+      "alasan": "Kebijakan pemerintah mengenai sertifikasi halal memiliki potensi positif jangka panjang untuk meningkatkan daya saing ekonomi nasional dan akses pasar produk, yang relevan bagi sektor umum/makro. Meskipun ada berita mengenai bencana alam yang menyebabkan putusnya jalur transportasi di Solok, dampak positif dari kebijakan ekonomi yang bersifat nasional ini cenderung lebih dominan dibandingkan gangguan lokal tersebut.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "2 Saham Penyandang UMA Masih Ngotot Ngegas, 1 Mentok ke Harga Atas",
+      "url": "https://emitennews.com/news/2-saham-penyandang-uma-masih-ngotot-ngegas-1-mentok-ke-harga-atas",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "AMMN Karungkan Laba USD504 Juta H1 2026, Utang Bersih Drop 13 Persen",
+      "url": "https://emitennews.com/news/ammn-karungkan-laba-usd504-juta-h1-2026-utang-bersih-drop-13-persen",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Astra Pentaskan Tenun Manggarai Barat ke Panggung Fashion Modern",
+      "url": "https://emitennews.com/news/astra-pentaskan-tenun-manggarai-barat-ke-panggung-fashion-modern",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "BEI Jerat Suspensi Enam Saham dengan Alasan Tertentu, Kapan Dibuka?",
+      "url": "https://emitennews.com/news/bei-jerat-suspensi-enam-saham-dengan-alasan-tertentu-kapan-dibuka",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEI Gembok Lagi Saham WIKA, Imbas Tunda Bayar Sukuk",
+      "url": "https://emitennews.com/news/bei-gembok-lagi-saham-wika-imbas-tunda-bayar-sukuk",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Akuisisi Saham Bayan (BYAN) Oleh Emiten Haji Isam Belum Kantongi Izin",
+      "url": "https://emitennews.com/news/akuisisi-saham-bayan-byan-oleh-emiten-haji-isam-belum-kantongi-izin",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bos Emiten Kabel Laut (KETR) Tampung Saham Divestasi Pengendali Rp9,6M",
+      "url": "https://emitennews.com/news/bos-emiten-kabel-laut-ketr-tampung-saham-divestasi-pengendali-rp96m",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "BEI Rombak Aturan ARA dan ARB Jadi Simetris, Mulai Tahun Depan",
+      "url": "https://emitennews.com/news/bei-rombak-aturan-ara-dan-arb-jadi-simetris-mulai-tahun-depan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Direktur Keuangan JECX Ajukan Pengunduran Diri",
+      "url": "https://emitennews.com/news/direktur-keuangan-jecx-ajukan-pengunduran-diri",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Getol Ekspansi, BRPT Klaim 90% Investasi Tetap Mengalir ke Indonesia",
+      "url": "https://emitennews.com/news/getol-ekspansi-brpt-klaim-90-investasi-tetap-mengalir-ke-indonesia",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Gala VVIP EmitenNews Awards 2026 Dipandu Eksklusif Daniel Mananta",
+      "url": "https://emitennews.com/news/gala-vvip-emitennews-awards-2026-dipandu-eksklusif-daniel-mananta",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Hapus Stigma Saham Gocap, BEI Berlakukan Aturan Rp1 pada 28 September",
+      "url": "https://emitennews.com/news/hapus-stigma-saham-gocap-bei-berlakukan-aturan-rp1-pada-28-september",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Hemat Biaya Sewa, DYAN Beli Aset Rp36M dari Dapen Kompas Gramedia",
+      "url": "https://emitennews.com/news/hemat-biaya-sewa-dyan-beli-aset-rp36m-dari-dapen-kompas-gramedia",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Hijau di Pembukaan, IHSG Senin Malah Berakhir Merosot Tinggalkan 6.400",
+      "url": "https://emitennews.com/news/hijau-di-pembukaan-ihsg-senin-malah-berakhir-merosot-tinggalkan-6400",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "KAQI Gaspol Ekspansi! Buka Cabang Baru di Kudus, Jawa Tengah",
+      "url": "https://emitennews.com/news/kaqi-gaspol-ekspansi-buka-cabang-baru-di-kudus-jawa-tengah",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "KPK Tangkap Bupati Bolaang Mongondow Utara dalam OTT ke-21",
+      "url": "https://emitennews.com/news/kpk-tangkap-bupati-bolaang-mongondow-utara-dalam-ott-ke-21",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kurangi Porsi jadi 56,56 Persen, Infiniti Wahana Masih Pengendali SAFE",
+      "url": "https://emitennews.com/news/kurangi-porsi-jadi-5656-persen-infiniti-wahana-masih-pengendali-safe",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Lepas FCA, Saham CSMI Menguat di Sesi I Perdagangan",
+      "url": "https://emitennews.com/news/lepas-fca-saham-csmi-menguat-di-sesi-i-perdagangan",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Lepas Suspensi Masuk FCA, 2 Saham Ini Kontras Harganya Naik dan Ambrol",
+      "url": "https://emitennews.com/news/lepas-suspensi-masuk-fca-2-saham-ini-kontras-harganya-naik-dan-ambrol",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Menggembirakan, Penerimaan Bea Cukai Rp210 Triliun, Tumbuh 7,8 Persen",
+      "url": "https://emitennews.com/news/menggembirakan-penerimaan-bea-cukai-rp210-triliun-tumbuh-78-persen",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pengendali Emiten Gocap (REAL) Jual 100 Juta Saham Rp5,5M, Ada Apa?",
+      "url": "https://emitennews.com/news/pengendali-emiten-gocap-real-jual-100-juta-saham-rp55m-ada-apa",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Nasib Ritel Apes: D-50 Delisting Cuma MABA Buka Suara, Sisanya Gimana?",
+      "url": "https://emitennews.com/news/nasib-ritel-apes-d-50-delisting-cuma-maba-buka-suara-sisanya-gimana",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "OJK Terbitkan Payung Hukum Demutualisasi Bursa Efek Indonesia",
+      "url": "https://emitennews.com/news/ojk-terbitkan-payung-hukum-demutualisasi-bursa-efek-indonesia",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Pramono Tawarkan 37 Proyek Jakarta Senilai USD7 Miliar di Forum U20 AS",
+      "url": "https://emitennews.com/news/pramono-tawarkan-37-proyek-jakarta-senilai-usd7-miliar-di-forum-u20-as",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Adik Kesayangan Olga Syahputra Menikah, Billy Syahputra Beri Pesan pada Iparnya",
+      "url": "https://entertainment.kompas.com/read/2026/09/21/213158766/adik-kesayangan-olga-syahputra-menikah-billy-syahputra-beri-pesan-pada",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Siapakah 48 Jawara dari 11 Sektor BEI di EmitenNews Awards 2026?",
+      "url": "https://emitennews.com/news/siapakah-48-jawara-dari-11-sektor-bei-di-emitennews-awards-2026",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kronologi Pejalan Kaki Tewas Tertabrak KRL di Karet Jakpus, Diduga Tak Sadar Kereta Kedua Melintas",
+      "url": "https://megapolitan.kompas.com/read/2026/09/21/21170541/kronologi-pejalan-kaki-tewas-tertabrak-krl-di-karet-jakpus-diduga-tak",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Tak Cukup Tuntut 8,5 Tahun Bui, JPU Minta Hak Politik Sudewo Dicabut",
+      "url": "https://emitennews.com/news/tak-cukup-tuntut-85-tahun-bui-jpu-minta-hak-politik-sudewo-dicabut",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dapat Dana Rp 100 Juta per RW, Warga Bekasi Beli Mesin Pirolisis untuk Olah Sampah Plastik",
+      "url": "https://megapolitan.kompas.com/read/2026/09/21/21184591/dapat-dana-rp-100-juta-per-rw-warga-bekasi-beli-mesin-pirolisis-untuk",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tambah Saham Charoen Pokphand Indonesia (CPIN) Lagi, UBS AG Sasar Ini",
+      "url": "https://emitennews.com/news/tambah-saham-charoen-pokphand-indonesia-cpin-lagi-ubs-ag-sasar-ini",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Terkoreksi! IHSG Sesi Siang (21/9) Sempat Amblas Turun ke Bawah 6.400",
+      "url": "https://emitennews.com/news/terkoreksi-ihsg-sesi-siang-219-sempat-amblas-turun-ke-bawah-6400",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Untuk Alasan yang Sama, Direktur GMFI Ini Kembali Tambah Sahamnya",
+      "url": "https://emitennews.com/news/untuk-alasan-yang-sama-direktur-gmfi-ini-kembali-tambah-sahamnya",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kronologi Pria Tertabrak KRL di Stasiun Karet Jakpus, Korban Ternyata Kernet Angkot",
+      "url": "https://megapolitan.kompas.com/read/2026/09/21/21262561/kronologi-pria-tertabrak-krl-di-stasiun-karet-jakpus-korban-ternyata",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Pria Bersenjata Tajam yang Geruduk Rumah Doa GKPI Tangerang Akhirnya Minta Maaf",
+      "url": "https://megapolitan.kompas.com/read/2026/09/21/21090851/pria-bersenjata-tajam-yang-geruduk-rumah-doa-gkpi-tangerang-akhirnya",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Wajib Sertifikasi Halal 18 Oktober, Mendag: Bisa Pacu Daya Saing Produk Dalam Negeri",
+      "url": "https://money.kompas.com/read/2026/09/21/211400126/wajib-sertifikasi-halal-18-oktober-mendag--bisa-pacu-daya-saing-produk-dalam",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Denny Indrayana Persoalkan Suket Penyetaraan Ijazah Gibran yang Diproses Kilat",
+      "url": "https://nasional.kompas.com/read/2026/09/21/21202431/denny-indrayana-persoalkan-suket-penyetaraan-ijazah-gibran-yang-diproses",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Warga Kebumen Jadi Korban TPPO di Kamboja, Bupati Lilis Ingatkan Cek Legalitas Tawaran Kerja",
+      "url": "https://regional.kompas.com/read/2026/09/21/211314378/warga-kebumen-jadi-korban-tppo-di-kamboja-bupati-lilis-ingatkan-cek",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Status Gunung Anak Krakatau Turun Jadi Level II atau Waspada",
+      "url": "https://regional.kompas.com/read/2026/09/21/213126378/status-gunung-anak-krakatau-turun-jadi-level-ii-atau-waspada",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Banjir Bandang Terjang Pusat Pemerintahan Kabupaten Solok Sumbar",
+      "url": "https://regional.kompas.com/read/2026/09/21/210919878/banjir-bandang-terjang-pusat-pemerintahan-kabupaten-solok-sumbar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Banjir Bandang Terjang Kompleks Kantor Bupati Solok, Warga Dievakuasi",
+      "url": "https://regional.kompas.com/read/2026/09/21/213849678/banjir-bandang-terjang-kompleks-kantor-bupati-solok-warga-dievakuasi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Status Gunung Anak Krakatau Turun Jadi Waspada, Warga Diimbau Jangan Terpancing Isu Tak Jelas",
+      "url": "https://regional.kompas.com/read/2026/09/21/214112878/status-gunung-anak-krakatau-turun-jadi-waspada-warga-diimbau-jangan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Jalur Padang-Solok Putus Total, Material Banjir Bandang Tutupi Badan Jalan",
+      "url": "https://regional.kompas.com/read/2026/09/21/214415978/jalur-padang-solok-putus-total-material-banjir-bandang-tutupi-badan-jalan",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "5 Persen Suspek Terkonfirmasi Positif TBC dalam Program Pelacakan di Blitar",
+      "url": "https://surabaya.kompas.com/read/2026/09/21/211712978/5-persen-suspek-terkonfirmasi-positif-tbc-dalam-program-pelacakan-di-blitar",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Karhutla di Jember Capai 72 Kejadian, 136,5 Hektare Lahan Terdampak",
+      "url": "https://surabaya.kompas.com/read/2026/09/21/212310378/karhutla-di-jember-capai-72-kejadian-1365-hektare-lahan-terdampak",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Vivo X500 Meluncur di Shanghai, Baterai 7.500 mAh Kamera Tele 64 MP",
+      "url": "https://tekno.kompas.com/read/2026/09/21/21143407/vivo-x500-meluncur-di-shanghai-baterai-7500-mah-kamera-tele-64-mp",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "Vivo X500 Pro dan Pro Max Resmi di Shanghai, Bawa Kamera Tele 200 MP",
+      "url": "https://tekno.kompas.com/read/2026/09/21/21343857/vivo-x500-pro-dan-pro-max-resmi-di-shanghai-bawa-kamera-tele-200-mp",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "Seniman Susilo Nugroho Meninggal Dunia, Budayawan: Jogja Kehilangan Penjaga Akal Sehat",
+      "url": "https://yogyakarta.kompas.com/read/2026/09/21/212552878/seniman-susilo-nugroho-meninggal-dunia-budayawan-jogja-kehilangan-penjaga",
+      "sektor": "Umum/Makro"
+    }
+  ]
+}
