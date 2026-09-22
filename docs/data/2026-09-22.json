@@ -1,0 +1,292 @@
+{
+  "tanggal": "2026-09-22",
+  "dibuat_pada": "2026-09-22 20:02 WIB",
+  "jumlah_artikel": 45,
+  "saham_disebut": {
+    "BBRI": [
+      "Keuangan (rating 2/7)"
+    ],
+    "FUTR": [
+      "Energi (rating 5/7)",
+      "Infrastruktur (rating 3/7)"
+    ],
+    "KIJA": [
+      "Infrastruktur (rating 3/7)"
+    ],
+    "WIKA": [
+      "Infrastruktur (rating 3/7)"
+    ],
+    "SRTG": [
+      "Infrastruktur (rating 3/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Indeks Harga Saham Gabungan (IHSG) ambruk signifikan dan ditarik turun oleh saham-saham \"Big Banks\" serta aksi jual bersih investor asing yang masif, terutama pada saham BBRI.",
+      "alasan": "Penyebutan eksplisit \"Big Banks\" sebagai pemberat utama IHSG dan laporan penjualan bersih investor asing yang tinggi, khususnya pada BBRI, secara langsung menunjukkan sentimen negatif dan tekanan jual yang kuat pada sektor keuangan. Hal ini mengindikasikan potensi kelanjutan pergerakan bearish untuk indeks sektor tersebut.",
+      "analisis_saham": "BBRI - Investor asing mencatatkan net sell yang signifikan sebesar Rp351,12 miliar di sesi pertama, dengan BBRI menjadi saham yang paling banyak dilepas. Aksi jual besar oleh investor asing ini memberikan tekanan jual yang kuat pada BBRI, mengindikasikan potensi penurunan harga sahamnya."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Saham Meta Platforms melonjak signifikan menyusul pertumbuhan pengguna agen kecerdasan buatan Muse, menambah keyakinan pada potensi AI di sektor teknologi global.",
+      "alasan": "Meskipun berita ini berasal dari bursa global, lonjakan saham raksasa teknologi seperti Meta akibat inovasi AI seringkali memicu sentimen positif di seluruh sektor teknologi, termasuk di Indonesia. Investor lokal kemungkinan akan melihat tren ini sebagai indikator potensi pertumbuhan bagi perusahaan teknologi yang fokus pada inovasi digital atau AI, meningkatkan minat beli pada saham teknologi domestik.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "PT Futura Energi Global (FUTR) berencana memperluas bisnisnya ke energi terbarukan dan infrastruktur berkelanjutan.",
+      "alasan": "Ekspansi FUTR ke energi terbarukan menunjukkan potensi pertumbuhan dan diversifikasi dalam sub-sektor energi bersih. Meskipun ini adalah berita spesifik perusahaan, sentimen positif terhadap energi terbarukan dapat memberikan dorongan tidak langsung bagi minat investor di sektor Energi secara keseluruhan, terutama yang berfokus pada keberlanjutan.",
+      "analisis_saham": "PT Futura Energi Global Tbk (FUTR) berpotensi mendapatkan sentimen positif dari rencana ekspansi bisnisnya ke energi terbarukan dan infrastruktur berkelanjutan. Langkah strategis ini dapat meningkatkan prospek pertumbuhan perusahaan dan menarik minat investor yang berfokus pada sektor berkelanjutan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Kondisi keuangan dan likuiditas PT Wijaya Karya (Persero) Tbk (WIKA) dinilai masih lemah, disertai risiko dari ekspansi sebelumnya.",
+      "alasan": "Peringkat lemah yang diberikan Pefindo kepada WIKA, salah satu emiten konstruksi dan infrastruktur BUMN terbesar, menciptakan sentimen negatif yang signifikan bagi sektor ini. Meskipun ada berita ekspansi positif dari beberapa emiten lain, tantangan yang dihadapi pemain kunci seperti WIKA berpotensi menyeret kinerja sektor infrastruktur secara keseluruhan.",
+      "analisis_saham": "FUTR: PT Futura Energi Global Tbk (FUTR) berencana ekspansi ke infrastruktur air minum, yang merupakan sentimen positif dan dapat mendorong kenaikan harga sahamnya karena potensi pertumbuhan bisnis baru."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Pedagang Pasar Mobil Kemayoran mengeluhkan penurunan drastis aktivitas jual beli dan omzet toko selama setahun terakhir, menunjukkan melemahnya daya beli masyarakat di sektor tersebut.",
+      "alasan": "Penurunan signifikan aktivitas jual beli dan omzet yang berlangsung lama di pusat perdagangan seperti Pasar Mobil Kemayoran mengindikasikan adanya tekanan pada daya beli konsumen dan sektor ritel. Meskipun lokalisasi, tren ini berpotensi mencerminkan pelemahan konsumsi domestik secara lebih luas, yang merupakan faktor negatif bagi pertumbuhan ekonomi makro.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Emas Dunia Rebound, Kok Emas Antam Turun?",
+      "url": "https://emitennews.com/news/emas-dunia-rebound-kok-emas-antam-turun",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Anak Usaha Baru MPXL Bermarkas di Serang, Modal Dasar Rp12 Miliar",
+      "url": "https://emitennews.com/news/anak-usaha-baru-mpxl-bermarkas-di-serang-modal-dasar-rp12-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BEI Resmi Ubah Harga Minimum Saham, Ini Daftar Saham Rp1-Rp50",
+      "url": "https://emitennews.com/news/bei-resmi-ubah-harga-minimum-saham-ini-daftar-saham-rp1-rp50",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bursa Pagi Menyala, IHSG Bangkit ke Atas Level 6.400",
+      "url": "https://emitennews.com/news/bursa-pagi-menyala-ihsg-bangkit-ke-atas-level-6400",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BEI Pantau JAWA, Masuk Radar UMA",
+      "url": "https://emitennews.com/news/bei-pantau-jawa-masuk-radar-uma",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Asing Net Sell Rp351 M di Sesi I (22/9), BBRI Paling Banyak Dilepas",
+      "url": "https://emitennews.com/news/asing-net-sell-rp351-m-di-sesi-i-229-bbri-paling-banyak-dilepas",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Ambruk Lagi ke Bawah 6.300, Big Banks hingga BUMI Jadi Pemberat",
+      "url": "https://emitennews.com/news/ihsg-ambruk-lagi-ke-bawah-6300-big-banks-hingga-bumi-jadi-pemberat",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "EURO Restui Rights Issue 2 Miliar Saham dan Rombak Manajemen",
+      "url": "https://emitennews.com/news/euro-restui-rights-issue-2-miliar-saham-dan-rombak-manajemen",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "FUTR Perluas Ekspansi, Rambah Bisnis Infrastruktur Air Minum",
+      "url": "https://emitennews.com/news/futr-perluas-ekspansi-rambah-bisnis-infrastruktur-air-minum",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kejar Aset Kewajiban BLBI, Pemerintah Siapkan Sejumlah Strategi",
+      "url": "https://emitennews.com/news/kejar-aset-kewajiban-blbi-pemerintah-siapkan-sejumlah-strategi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Sesi I (22/9) Ambruk, Sempat Turun 1,67% Imbas Ini",
+      "url": "https://emitennews.com/news/ihsg-sesi-i-229-ambruk-sempat-turun-167-imbas-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kolaborasi KIJA dan Pertamina, Kompak Bidik Net Zero Emission",
+      "url": "https://emitennews.com/news/kolaborasi-kija-dan-pertamina-kompak-bidik-net-zero-emission",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kombinasi Fenomena El Nino-IOD, Prediksi BMKG Awal Musim Hujan Mundur",
+      "url": "https://emitennews.com/news/kombinasi-fenomena-el-nino-iod-prediksi-bmkg-awal-musim-hujan-mundur",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kondisi Keuangan dan Likuiditas WIKA Masih Lemah, Pefindo Ungkap Ini",
+      "url": "https://emitennews.com/news/kondisi-keuangan-dan-likuiditas-wika-masih-lemah-pefindo-ungkap-ini",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "POJK Demutualisasi Terbit, BEI Ungkap Belum Ada Arahan Simulasi OJK",
+      "url": "https://emitennews.com/news/pojk-demutualisasi-terbit-bei-ungkap-belum-ada-arahan-simulasi-ojk",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "PSSI Mau Bagi Saham Bonus Rp100 Per Helai, Restu Ada di RUPSLB",
+      "url": "https://emitennews.com/news/pssi-mau-bagi-saham-bonus-rp100-per-helai-restu-ada-di-rupslb",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Raja Kripto Caplok 15 Persen, Saham TRUK Melenting ARA",
+      "url": "https://emitennews.com/news/raja-kripto-caplok-15-persen-saham-truk-melenting-ara",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Run Capitalist, Run! Pasar Modal RI Gelar Capital Market Run 2026",
+      "url": "https://emitennews.com/news/run-capitalist-run-pasar-modal-ri-gelar-capital-market-run-2026",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Rupiah Turun ke Rp17.884, Pasar Waspadai Hal Ini",
+      "url": "https://emitennews.com/news/rupiah-turun-ke-rp17884-pasar-waspadai-hal-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Sempat Diundur BEI Kabarkan RUPSLB Dihelat 28 Oktober, Demutualisasi?",
+      "url": "https://emitennews.com/news/sempat-diundur-bei-kabarkan-rupslb-dihelat-28-oktober-demutualisasi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Serok Terus! Edwin Soeryadjaya Nyaris Tiap Hari Buy SRTG di September",
+      "url": "https://emitennews.com/news/serok-terus-edwin-soeryadjaya-nyaris-tiap-hari-buy-srtg-di-september",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Setoran Modal Rp5M, Sinar Mas Multiartha (SMMA) Perkuat Anak Usaha",
+      "url": "https://emitennews.com/news/setoran-modal-rp5m-sinar-mas-multiartha-smma-perkuat-anak-usaha",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Stock Split Direstui, 3 Miliar Saham PBSA Siap Ramaikan Pasar",
+      "url": "https://emitennews.com/news/stock-split-direstui-3-miliar-saham-pbsa-siap-ramaikan-pasar",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Suspensi Dicabut! 3 Saham Bergerak Melesat, Menjunam, & Flat",
+      "url": "https://emitennews.com/news/suspensi-dicabut-3-saham-bergerak-melesat-menjunam-flat",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Potensi Karbon Biru Indonesia Besar, Tata Kelola Pesisir Masih Terfragmentasi",
+      "url": "https://lestari.kompas.com/read/2026/09/22/195054086/potensi-karbon-biru-indonesia-besar-tata-kelola-pesisir-masih-terfragmentasi",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Tak Terima Terkena Percikan Air, Ojol di Makassar Aniaya Petugas Penyiram Tanaman",
+      "url": "https://makassar.kompas.com/read/2026/09/22/194219878/tak-terima-terkena-percikan-air-ojol-di-makassar-aniaya-petugas-penyiram",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Makan Sebelum Olahraga Sebaiknya Berapa Jam? Ini Penjelasan Dokter",
+      "url": "https://lifestyle.kompas.com/read/2026/09/22/194500520/makan-sebelum-olahraga-sebaiknya-berapa-jam-ini-penjelasan-dokter",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Temui Keluarga Eks Istri Polisi yang Tewas di Medan, Kompolnas Dalami Kejanggalan",
+      "url": "https://medan.kompas.com/read/2026/09/22/194745878/temui-keluarga-eks-istri-polisi-yang-tewas-di-medan-kompolnas-dalami",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Guru Sekolah Internasional di Tangsel Diduga Child Grooming dan Lecehkan Muridnya",
+      "url": "https://megapolitan.kompas.com/read/2026/09/22/19424511/guru-sekolah-internasional-di-tangsel-diduga-child-grooming-dan-lecehkan",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "VICO Bagi Dividen Rp121,73 Miliar Setara 25,68% Laba, Yield Menarik",
+      "url": "https://emitennews.com/news/vico-bagi-dividen-rp12173-miliar-setara-2568-laba-yield-menarik",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tarik Parkir Rp 5.000 Tanpa Karcis, 2 Jukir Taman Sumenep Jakpus Dipanggil Dishub",
+      "url": "https://megapolitan.kompas.com/read/2026/09/22/19354391/tarik-parkir-rp-5000-tanpa-karcis-2-jukir-taman-sumenep-jakpus-dipanggil",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "VICO Jadwal Dividen Rp8, Cum Date 28 September",
+      "url": "https://emitennews.com/news/vico-jadwal-dividen-rp8-cum-date-28-september",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BMKG Peringatkan Hujan Sedang-Lebat Berpotensi Guyur Jabodetabek 22-24 September, Cek Wilayahnya",
+      "url": "https://megapolitan.kompas.com/read/2026/09/22/19345681/bmkg-peringatkan-hujan-sedang-lebat-berpotensi-guyur-jabodetabek-22-24",
+      "sektor": "Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Tersingkir dari MSCI Mei 2026, Rapor AMMN Berbalik Laba Berkat Tembaga",
+      "url": "https://emitennews.com/news/tersingkir-dari-msci-mei-2026-rapor-ammn-berbalik-laba-berkat-tembaga",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Saham Meta Melonjak, Kekayaan Zuckerberg Bertambah Rp 231 Triliun Gegara Muse",
+      "url": "https://money.kompas.com/read/2026/09/22/194912426/saham-meta-melonjak-kekayaan-zuckerberg-bertambah-rp-231-triliun-gegara-muse",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "PKB Minta Kemenag Tangguhkan Jabatan Rektor UINSA Akhmad Muzakki",
+      "url": "https://nasional.kompas.com/read/2026/09/22/19345201/pkb-minta-kemenag-tangguhkan-jabatan-rektor-uinsa-akhmad-muzakki",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Danantara Jawab Permintaan Pramono untuk Bantu Pembiayaan LRT Jakarta",
+      "url": "https://nasional.kompas.com/read/2026/09/22/19345021/danantara-jawab-permintaan-pramono-untuk-bantu-pembiayaan-lrt-jakarta",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Pemerintah: 4.465 Hektar Area Karhutla Telah Dipadamkan dalam 5 Hari",
+      "url": "https://nasional.kompas.com/read/2026/09/22/19553781/pemerintah-4465-hektar-area-karhutla-telah-dipadamkan-dalam-5-hari",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "RUU Statistik, Direktur STIS Soroti Kurangnya Kualitas SDM",
+      "url": "https://nasional.kompas.com/read/2026/09/22/19502501/ruu-statistik-direktur-stis-soroti-kurangnya-kualitas-sdm",
+      "sektor": "Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Keluhan Pedagang Pasar Mobil Kemayoran, Toko Makin Sepi",
+      "url": "https://otomotif.kompas.com/read/2026/09/22/194100815/keluhan-pedagang-pasar-mobil-kemayoran-toko-makin-sepi",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Ratusan Siswa di Pati Diduga Keracunan, Dinkes Jateng Ungkap Hasil Lab Sampel Menu MBG",
+      "url": "https://regional.kompas.com/read/2026/09/22/194628778/ratusan-siswa-di-pati-diduga-keracunan-dinkes-jateng-ungkap-hasil-lab",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Anggota DPRD Ende yang Diduga Dipukul Ketua DPRD Tolak Berdamai",
+      "url": "https://regional.kompas.com/read/2026/09/22/194025478/anggota-dprd-ende-yang-diduga-dipukul-ketua-dprd-tolak-berdamai",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "21 Warga Diduga Keracunan PMT Posyandu Datangi RSUD Batang, 14 Dewasa dan 7 Anak Alami Muntah-Diare",
+      "url": "https://regional.kompas.com/read/2026/09/22/195126678/21-warga-diduga-keracunan-pmt-posyandu-datangi-rsud-batang-14-dewasa-dan-7",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Warga Padangsidimpuan Meninggal di Kamboja, Keluarga Harap Jenazah Dipulangkan",
+      "url": "https://regional.kompas.com/read/2026/09/22/195325278/warga-padangsidimpuan-meninggal-di-kamboja-keluarga-harap-jenazah",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "12 Kantor Dinas Pemkab Solok Rusak Imbas Banjir Bandang, Lokasi Kompleks Perkantoran Bakal Dievaluasi",
+      "url": "https://regional.kompas.com/read/2026/09/22/195717778/12-kantor-dinas-pemkab-solok-rusak-imbas-banjir-bandang-lokasi-kompleks",
+      "sektor": "Keuangan, Infrastruktur"
+    }
+  ]
+}
