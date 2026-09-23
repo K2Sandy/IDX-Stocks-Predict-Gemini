@@ -1,0 +1,213 @@
+{
+  "tanggal": "2026-09-23",
+  "dibuat_pada": "2026-09-23 20:18 WIB",
+  "jumlah_artikel": 29,
+  "saham_disebut": {
+    "ASII": [
+      "Teknologi (rating 4/7)",
+      "Energi (rating 5/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "TRUK": [
+      "Teknologi (rating 4/7)"
+    ],
+    "BUVA": [
+      "Teknologi (rating 4/7)"
+    ],
+    "FAST": [
+      "Teknologi (rating 4/7)"
+    ],
+    "ASLI": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "INET": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bank Indonesia mempertahankan suku bunga acuan serta memperkuat stabilitas Rupiah dan likuiditas domestik melalui insentif lindung nilai, sedangkan BEI berencana mencabut ARB asimetris mulai 2027.",
+      "alasan": "Keputusan Bank Indonesia untuk menahan suku bunga acuan memberikan stabilitas pada margin bunga bersih (NIM) perbankan dan mengurangi ketidakpastian kebijakan moneter. Ditambah dengan upaya BI menjaga stabilitas Rupiah dan kecukupan likuiditas domestik, hal ini menciptakan lingkungan operasional yang cenderung positif dan stabil bagi sektor keuangan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Minimnya berita langsung yang signifikan terkait perusahaan atau tren dalam sektor Teknologi Indonesia di antara kumpulan berita hari ini.",
+      "alasan": "Tidak ada berita substansial yang secara langsung berkaitan dengan kinerja atau tren sektor Teknologi secara keseluruhan di antara kumpulan berita hari ini. Berita yang ada lebih berfokus pada emiten di sektor lain atau kebijakan makroekonomi.",
+      "analisis_saham": "Berita mengenai **TRUK** sangat positif karena akuisisi oleh \"Duo Raja Kripto\" telah mendorong sahamnya ARA 6 kali beruntun, mengindikasikan spekulasi kuat terhadap potensi digitalisasi logistik di masa depan. Untuk **ASII**, berita capex dan strategi investasi menunjukkan fokus pada efisiensi di sektor non-teknologi, yang cenderung netral terhadap pergerakan harga. Sementara itu, berita **BUVA** dan **FAST** berfokus pada ekspansi di sektor hiburan/gaya hidup dan agenda RUPSLB, yang tidak memiliki kaitan langsung dengan sentimen atau pergerakan sektor Teknologi."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Astra International (ASII) telah merealisasikan belanja modal sebesar Rp17 triliun di semester I-2026, yang didominasi oleh lini bisnis pertambangan, dari total rencana Rp36 triliun hingga 2026.",
+      "alasan": "Investasi signifikan oleh ASII di sektor pertambangan mengindikasikan potensi peningkatan aktivitas produksi dan pertumbuhan di sub-sektor yang erat kaitannya dengan energi, seperti batu bara atau mineral. Sentimen positif dari perusahaan besar ini dapat menular ke sektor energi secara keseluruhan, menunjukkan kepercayaan pada prospek pasar.",
+      "analisis_saham": "ASII: Realisasi belanja modal yang besar, terutama yang didominasi oleh lini bisnis pertambangan, menunjukkan komitmen kuat ASII terhadap ekspansi dan pertumbuhan. Hal ini berpotensi memberikan sentimen positif terhadap harga saham ASII, seiring dengan ekspektasi peningkatan kinerja dari segmen pertambangan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Sektor infrastruktur menunjukkan sentimen positif dari aktivitas pembangunan proyek baru di konstruksi dan digital, serta peningkatan keyakinan investor dan manajemen terhadap prospek beberapa emiten.",
+      "alasan": "Berita hari ini menyoroti investasi dan pengembangan proyek infrastruktur, khususnya pada sektor konstruksi fisik seperti flyover dan infrastruktur digital seperti kabel laut. Peningkatan kepemilikan oleh pengendali dan pembelian saham oleh direksi emiten terkait mengindikasikan optimisme terhadap pertumbuhan dan kinerja di masa depan, mendorong sentimen positif untuk sektor secara keseluruhan.",
+      "analisis_saham": "ASLI:** PT Asri Karya Lestari Tbk (ASLI) menerima sentimen positif kuat dari peningkatan kepemilikan oleh pengendali yang menunjukkan keyakinan tinggi. Perusahaan juga sedang menggarap proyek flyover, menegaskan aktivitas dan potensi pendapatan di sektor konstruksi."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Astra (ASII) Baru Serap Rp17T Capex, Siapkan Total Rp36T di 2026",
+      "url": "https://emitennews.com/news/astra-asii-baru-serap-rp17t-capex-siapkan-total-rp36t-di-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BI Tahan Suku Bunga Acuan 5,75%, Bandingkan dengan Usulan LPEM FEB UI",
+      "url": "https://emitennews.com/news/bi-tahan-suku-bunga-acuan-575-bandingkan-dengan-usulan-lpem-feb-ui",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "ARA 6 Kali Beruntun, ini Alasan Duo Raja Kripto Akuisisi TRUK",
+      "url": "https://emitennews.com/news/ara-6-kali-beruntun-ini-alasan-duo-raja-kripto-akuisisi-truk",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bursa Siang Rebound (23/9) IHSG Balik Meluncur ke Atas 6.300",
+      "url": "https://emitennews.com/news/bursa-siang-rebound-239-ihsg-balik-meluncur-ke-atas-6300",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BI Obral Insentif Lindung Nilai Demi Jaga Stabilitas Rupiah",
+      "url": "https://emitennews.com/news/bi-obral-insentif-lindung-nilai-demi-jaga-stabilitas-rupiah",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BEI Ungkap Alasan Pencabutan ARB Asimetris 15% Mulai 1 Januari 2027",
+      "url": "https://emitennews.com/news/bei-ungkap-alasan-pencabutan-arb-asimetris-15-mulai-1-januari-2027",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Destry Tak Berani Naikkan BI-Rate di RDG Pertama Sebagai Gubernur BI",
+      "url": "https://emitennews.com/news/destry-tak-berani-naikkan-bi-rate-di-rdg-pertama-sebagai-gubernur-bi",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BUVA Perkuat Eksposur Sektor Hiburan dan Gaya Hidup Bali",
+      "url": "https://emitennews.com/news/buva-perkuat-eksposur-sektor-hiburan-dan-gaya-hidup-bali",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Gelar RUPSLB 14 Oktober, Ini Agenda Emiten Keluarga Gelael (FAST)",
+      "url": "https://emitennews.com/news/gelar-rupslb-14-oktober-ini-agenda-emiten-keluarga-gelael-fast",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Di Luar 3 Bisnis Inti, Astra International (ASII) Perketat Investasi",
+      "url": "https://emitennews.com/news/di-luar-3-bisnis-inti-astra-international-asii-perketat-investasi",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Efek Emiten Telko dan MIgas dari Kesepakatan AI & Satelit CAEXPO 2026",
+      "url": "https://emitennews.com/news/efek-emiten-telko-dan-migas-dari-kesepakatan-ai-satelit-caexpo-2026",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Era Saham “Hidup Segan Mati Tak Mau” Berakhir, Siapa Paling Dirugikan?",
+      "url": "https://emitennews.com/news/era-saham-hidup-segan-mati-tak-mau-berakhir-siapa-paling-dirugikan",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Gelontorkan Rp20,3M, Pengendali ASLI Tambah Kepemilikan Jadi 52 Persen",
+      "url": "https://emitennews.com/news/gelontorkan-rp203m-pengendali-asli-tambah-kepemilikan-jadi-52-persen",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "HSBC Masuk, Apexindo (APEX) Siapkan 218 Juta Saham Baru",
+      "url": "https://emitennews.com/news/hsbc-masuk-apexindo-apex-siapkan-218-juta-saham-baru",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IHSG Berbalik Menguat 1,56%, Big Banks Kinclong, CPIN Top Loser LQ45",
+      "url": "https://emitennews.com/news/ihsg-berbalik-menguat-156-big-banks-kinclong-cpin-top-loser-lq45",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kompak! Komisaris dan Dirut Astra (ASII) Gulung Jutaan Lembar",
+      "url": "https://emitennews.com/news/kompak-komisaris-dan-dirut-astra-asii-gulung-jutaan-lembar",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "INET, FiberHome, Surge, Nokia, SGI & Weave (NTT) Bangun Kabel Laut",
+      "url": "https://emitennews.com/news/inet-fiberhome-surge-nokia-sgi-weave-ntt-bangun-kabel-laut",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Kinerja Solid Laba Bank BSN Rp721 Miliar, Naik 36,72 Persen",
+      "url": "https://emitennews.com/news/kinerja-solid-laba-bank-bsn-rp721-miliar-naik-3672-persen",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Morgan Stanley Borong Lagi Saham GOTO Jelang Harga Rp1 Berlaku",
+      "url": "https://emitennews.com/news/morgan-stanley-borong-lagi-saham-goto-jelang-harga-rp1-berlaku",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Mesin Laba Astragraphia (ASGR), Bos: Peranan AI Dongkrak Model Bisnis",
+      "url": "https://emitennews.com/news/mesin-laba-astragraphia-asgr-bos-peranan-ai-dongkrak-model-bisnis",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "PLN Pastikan Suahasil Nazara Tak Lagi Menjabat Wakil Komut",
+      "url": "https://emitennews.com/news/pln-pastikan-suahasil-nazara-tak-lagi-menjabat-wakil-komut",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Morgan Stanley Serok GOTO Senilai Rp10,8M, Kuasai 7% Porsi Saham",
+      "url": "https://emitennews.com/news/morgan-stanley-serok-goto-senilai-rp108m-kuasai-7-porsi-saham",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Proses RKAB Seret, UNTR Baru Dapat Jatah Segini",
+      "url": "https://emitennews.com/news/proses-rkab-seret-untr-baru-dapat-jatah-segini",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Prospek CPO 2027 Cerah, Astra (AALI) Siapkan Capex Rp1,5T & Replanting",
+      "url": "https://emitennews.com/news/prospek-cpo-2027-cerah-astra-aali-siapkan-capex-rp15t-replanting",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Sesuai Ekspektasi! BI Tahan BI Rate di 5,75 Persen",
+      "url": "https://emitennews.com/news/sesuai-ekspektasi-bi-tahan-bi-rate-di-575-persen",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Raih Pembiayaan USD9,8 Juta, Anak Usaha ARKO akan Biayai Proyek PLTS",
+      "url": "https://emitennews.com/news/raih-pembiayaan-usd98-juta-anak-usaha-arko-akan-biayai-proyek-plts",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Uang Bertanda Tangan Purbaya Masih Sah, Ini Penjelasan Bank Indonesia",
+      "url": "https://emitennews.com/news/uang-bertanda-tangan-purbaya-masih-sah-ini-penjelasan-bank-indonesia",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tambah Kapasitas Proyek Listrik Hijau, RI Butuh Investasi Rp1.306T",
+      "url": "https://emitennews.com/news/tambah-kapasitas-proyek-listrik-hijau-ri-butuh-investasi-rp1306t",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Triv Premiere, Cuan ala Master Gema dan Gabriel Rey",
+      "url": "https://emitennews.com/news/triv-premiere-cuan-ala-master-gema-dan-gabriel-rey",
+      "sektor": "Keuangan, Energi"
+    }
+  ]
+}
