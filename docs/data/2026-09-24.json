@@ -1,0 +1,308 @@
+{
+  "tanggal": "2026-09-24",
+  "dibuat_pada": "2026-09-24 20:08 WIB",
+  "jumlah_artikel": 43,
+  "saham_disebut": {
+    "BBKP": [
+      "Keuangan (rating 5/7)"
+    ],
+    "IPOT": [
+      "Keuangan (rating 5/7)"
+    ],
+    "BHIT": [
+      "Keuangan (rating 5/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "BMTR": [
+      "Keuangan (rating 5/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "MNCN": [
+      "Keuangan (rating 5/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "MSIN": [
+      "Keuangan (rating 5/7)",
+      "Teknologi (rating 3/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "BYAN": [
+      "Energi (rating 6/7)"
+    ],
+    "LABA": [
+      "Energi (rating 6/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "PMUI": [
+      "Energi (rating 6/7)"
+    ],
+    "WIFI": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "MGLV": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "BBNI": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Sektor keuangan mendapatkan sentimen positif dari pertumbuhan kredit perbankan dan prospek aktivitas pasar modal yang solid dari perusahaan sekuritas.",
+      "alasan": "Pertumbuhan kredit KB Bank (BBKP) di segmen wholesale banking menunjukkan ekspansi bisnis perbankan yang sehat. Sementara itu, rencana Indo Premier Sekuritas (IPOT) untuk membawa banyak perusahaan IPO mengindikasikan prospek pendapatan yang baik dari aktivitas pasar modal. Sentimen positif dari kedua pilar utama sektor keuangan ini cenderung mengangkat performa keseluruhan.",
+      "analisis_saham": "KB Bank (BBKP): Ekspansi kredit BBKP sebesar 2,85% pada semester I 2026 adalah sinyal positif kuat bagi kinerja perbankan. Pertumbuhan ini berpotensi meningkatkan pendapatan bunga bersih dan mendorong kenaikan harga saham BBKP."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Sentimen pasar yang negatif secara keseluruhan menekan IHSG dan saham-saham grup MNC, meskipun ada inovasi positif dari Indo Premier Sekuritas yang meluncurkan fitur Artificial Intelligence (AI) di aplikasi IPOT X.",
+      "alasan": "Pelemahan Indeks Harga Saham Gabungan (IHSG) yang signifikan menciptakan tekanan jual di pasar secara luas, termasuk berpotensi mempengaruhi sektor Teknologi. Meskipun ada berita positif mengenai adopsi AI oleh Indo Premier Sekuritas, dampak langsungnya terhadap pergerakan indeks sektor Teknologi mungkin belum cukup kuat untuk melawan sentimen negatif pasar secara keseluruhan.",
+      "analisis_saham": "Saham MNC Digital (MSIN) mengalami penurunan signifikan sebesar 11,5%, sebagai bagian dari pelemahan saham-saham Grup MNC secara keseluruhan. Koreksi ini tampaknya lebih didorong oleh sentimen negatif grup dan kondisi pasar daripada masalah spesifik pada operasi digitalnya."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Berita positif dari pencabutan force majeure dan peningkatan kuota produksi batubara BYAN, serta ekspansi bisnis energi terbarukan dan ekosistem kendaraan listrik oleh LABA dan PMUI, memberikan sentimen positif bagi sektor Energi.",
+      "alasan": "Peningkatan kapasitas operasional dan prospek pendapatan dari emiten batubara besar seperti BYAN, dikombinasikan dengan ekspansi strategis ke segmen energi terbarukan dan ekosistem kendaraan listrik oleh emiten lain (LABA, PMUI), menciptakan sentimen positif. Perkembangan ini menunjukkan potensi pertumbuhan dan diversifikasi yang sehat di sektor energi secara keseluruhan.",
+      "analisis_saham": "BYAN (Bayan Resources)**: Pencabutan force majeure dan persetujuan RKAB hingga 2026 dengan kuota yang bertambah merupakan kabar fundamental yang sangat positif bagi operasional dan potensi pendapatan BYAN, meskipun artikel menyebut sahamnya menukik saat ini. Ini menghilangkan ketidakpastian dan membuka jalan bagi peningkatan produksi."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Sektor infrastruktur Indonesia menunjukkan prospek positif dengan ekspansi besar di digitalisasi dan energi terbarukan, didorong oleh investasi signifikan dalam pusat data, jaringan 5G, dan solusi baterai kendaraan listrik.",
+      "alasan": "Berita hari ini menyoroti sejumlah investasi dan pengembangan strategis di infrastruktur digital (data center oleh MGLV, 5G oleh WIFI) serta infrastruktur pendukung energi hijau (sewa baterai EV oleh LABA). Ekspansi ini menunjukkan pertumbuhan yang kuat dan peluang bisnis yang luas dalam sektor infrastruktur, mengindikasikan sentimen positif secara keseluruhan.",
+      "analisis_saham": "Saham-saham Grup MNC seperti BHIT, BMTR, MNCN, dan MSIN dilaporkan berguguran dan berada di zona merah, menunjukkan sentimen negatif kuat untuk grup tersebut. PT Green Power Group Tbk (LABA) diperkirakan positif karena memperluas bisnis ke sewa baterai untuk truk listrik, masuk ke segmen energi terbarukan yang sedang berkembang. Solusi Sinergi Digital (WIFI) juga akan mendapat sentimen positif dari peluncuran layanan 5G Fixed Wireless Access (FWA) di 10 kota, menunjukkan ekspansi jangkauan signifikan. PT NexAI Digital Infrastruktur Tbk (MGLV) diprediksi akan mengalami kenaikan kuat setelah memperoleh fasilitas kredit Rp10,75 triliun dari PT Bank Negara Indonesia (Persero) Tbk (BBNI) untuk ekspansi data center, menunjukkan potensi pertumbuhan besar. Bagi BBNI, pemberian fasilitas kredit besar ini dapat dilihat positif sebagai partisipasi dalam pembiayaan proyek strategis nasional."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Berita hari ini didominasi oleh isu-isu lokal, personal, dan non-ekonomi yang tidak memberikan sentimen signifikan terhadap pasar umum atau makroekonomi nasional.",
+      "alasan": "Kumpulan berita yang disajikan mencakup topik-topik seperti kriminalitas lokal, tips kesehatan, pariwisata daerah, sengketa politik personal, dan olahraga. Tidak ada satu pun berita yang mengandung informasi relevan mengenai indikator ekonomi makro, kebijakan pemerintah yang berdampak luas, atau sentimen pasar secara keseluruhan, sehingga tidak ada dorongan signifikan baik positif maupun negatif bagi sektor umum/makro.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Karyawan Toko Emas di Denpasar Curi 24 Perhiasan, Kerugian Capai Rp 151 Juta",
+      "url": "https://denpasar.kompas.com/read/2026/09/24/194753778/karyawan-toko-emas-di-denpasar-curi-24-perhiasan-kerugian-capai-rp-151-juta",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Belum Efektif Rp1, Emiten Grup MNC Berguguran",
+      "url": "https://emitennews.com/news/belum-efektif-rp1-emiten-grup-mnc-berguguran",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "BYAN Bebas Force Majeure, Kuota Bertambah, dan Saham Justru Menukik",
+      "url": "https://emitennews.com/news/byan-bebas-force-majeure-kuota-bertambah-dan-saham-justru-menukik",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BYAN Cabut Status Force Majeure, 3 Anak Usaha Bisa Beroperasi Lagi",
+      "url": "https://emitennews.com/news/byan-cabut-status-force-majeure-3-anak-usaha-bisa-beroperasi-lagi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Demand Furnitur Pendidikan Naik, Chitose (CINT) Incar 2 Digit Revenue",
+      "url": "https://emitennews.com/news/demand-furnitur-pendidikan-naik-chitose-cint-incar-2-digit-revenue",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ekspansi Kredit KB Bank (BBKP) Rp30,28 Triliun, Tumbuh 2,85 Persen",
+      "url": "https://emitennews.com/news/ekspansi-kredit-kb-bank-bbkp-rp3028-triliun-tumbuh-285-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Bidik 6 IPO 2027, Indo Premier (IPOT) Siapkan Perusahaan Skala Besar",
+      "url": "https://emitennews.com/news/bidik-6-ipo-2027-indo-premier-ipot-siapkan-perusahaan-skala-besar",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "FCA Tak Henti-Henti Berakibat Suspensi, INPS Umumkan Manuver Terbaru",
+      "url": "https://emitennews.com/news/fca-tak-henti-henti-berakibat-suspensi-inps-umumkan-manuver-terbaru",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Merosot 1,2 Persen, Saham-Saham Emiten Hary Tanoe Turun Terdalam",
+      "url": "https://emitennews.com/news/ihsg-merosot-12-persen-saham-saham-emiten-hary-tanoe-turun-terdalam",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IHSG Sesi I (24/9) Ditutup Terjun 1 Persen Lebih ke Dasar Level 6.300",
+      "url": "https://emitennews.com/news/ihsg-sesi-i-249-ditutup-terjun-1-persen-lebih-ke-dasar-level-6300",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Green Power Group (LABA) Garap Bisnis Sewa Baterai untuk Truk Listrik",
+      "url": "https://emitennews.com/news/green-power-group-laba-garap-bisnis-sewa-baterai-untuk-truk-listrik",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Terkoreksi–Asing Buang Barang Lagi, Neto Hampir Rp1T di Sesi I",
+      "url": "https://emitennews.com/news/ihsg-terkoreksiasing-buang-barang-lagi-neto-hampir-rp1t-di-sesi-i",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Indo Premier Sekuritas Rilis AI di IPOT X, Bidik Investor Naik Kelas",
+      "url": "https://emitennews.com/news/indo-premier-sekuritas-rilis-ai-di-ipot-x-bidik-investor-naik-kelas",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IPOT X Revolusi Pertama Investasi dengan AI-Native Intelligence",
+      "url": "https://emitennews.com/news/ipot-x-revolusi-pertama-investasi-dengan-ai-native-intelligence",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Kembali Terkoreksi, IHSG Dibuka Drop 0,67 Persen ke 6.331",
+      "url": "https://emitennews.com/news/kembali-terkoreksi-ihsg-dibuka-drop-067-persen-ke-6331",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Kontras, Dua Saham Naik Tak Wajar Kena Stempel UMA BEI",
+      "url": "https://emitennews.com/news/kontras-dua-saham-naik-tak-wajar-kena-stempel-uma-bei",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Jadi Sorotan Bursa, BIPP Besok Buru Izin Private Placement",
+      "url": "https://emitennews.com/news/jadi-sorotan-bursa-bipp-besok-buru-izin-private-placement",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Listrik Jadi Tulang Punggung, Kapal Makin Seksi, Dividen Cair Lagi",
+      "url": "https://emitennews.com/news/listrik-jadi-tulang-punggung-kapal-makin-seksi-dividen-cair-lagi",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "NICL Bagi Dividen Rp63,8 Miliar, Pantau Cum Dividen di Oktober",
+      "url": "https://emitennews.com/news/nicl-bagi-dividen-rp638-miliar-pantau-cum-dividen-di-oktober",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "PMUI Beli Saham Perusahaan Dealer Vinfast di Bandung, Porsinya Segini",
+      "url": "https://emitennews.com/news/pmui-beli-saham-perusahaan-dealer-vinfast-di-bandung-porsinya-segini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Putra Pendiri Astra Borong Terus Saratoga (SRTG), Akumulasi Segini",
+      "url": "https://emitennews.com/news/putra-pendiri-astra-borong-terus-saratoga-srtg-akumulasi-segini",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Pemerintah Bahas Rp3,8T Untuk 74 Juta Warga Belum Punya Rekening",
+      "url": "https://emitennews.com/news/pemerintah-bahas-rp38t-untuk-74-juta-warga-belum-punya-rekening",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "PLAS Mulai Eksekusi Buyback Hari Ini (24/9), Harga Rp51 Per Helai",
+      "url": "https://emitennews.com/news/plas-mulai-eksekusi-buyback-hari-ini-249-harga-rp51-per-helai",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Lansia Perlu Protein dan Olahraga, Ini Alasannya Menurut Dokter",
+      "url": "https://health.kompas.com/read/26I24200500468/lansia-perlu-protein-dan-olahraga-ini-alasannya-menurut-dokter",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "RUPSLB Tuntas, IPCM Setujui Susunan Direksi Baru",
+      "url": "https://emitennews.com/news/rupslb-tuntas-ipcm-setujui-susunan-direksi-baru",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Serentak! WIFI Hadirkan Full Coverage 5G IRA 10 Kota Pulau Jawa",
+      "url": "https://emitennews.com/news/serentak-wifi-hadirkan-full-coverage-5g-ira-10-kota-pulau-jawa",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Berani Lawan Larangan Trump, Pengadilan Kabulkan Gugatan 3 Media",
+      "url": "https://internasional.kompas.com/read/2026/09/24/195100470/berani-lawan-larangan-trump-pengadilan-kabulkan-gugatan-3-media",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Anak Sering Mendengkur Saat Tidur? Ini Tanda yang Perlu Diwaspadai",
+      "url": "https://lifestyle.kompas.com/read/2026/09/24/200300620/anak-sering-mendengkur-saat-tidur-ini-tanda-yang-perlu-diwaspadai-",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Jelajah Sejarah Kota Tangerang lewat Sejumlah Destinasi Wisata",
+      "url": "https://megapolitan.kompas.com/read/2026/09/24/19521411/jelajah-sejarah-kota-tangerang-lewat-sejumlah-destinasi-wisata",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Tiga Saham Disuspensi BEI, Salah Satunya Nonstop ARA 9 Hari Berturut",
+      "url": "https://emitennews.com/news/tiga-saham-disuspensi-bei-salah-satunya-nonstop-ara-9-hari-berturut",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tekanan Dolar AS Seret Harga Emas Antam Turun Rp25.000",
+      "url": "https://emitennews.com/news/tekanan-dolar-as-seret-harga-emas-antam-turun-rp25000",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Gus Nur Yakin Jokowi Tak Akan Hadir Bawa Ijazah Asli ke Sidang Roy Suryo",
+      "url": "https://megapolitan.kompas.com/read/2026/09/24/19580441/gus-nur-yakin-jokowi-tak-akan-hadir-bawa-ijazah-asli-ke-sidang-roy-suryo",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "91 Persen Konsumen RI Khawatir Data Pribadi Terancam AI, Ini Cara Aman Menggunakannya",
+      "url": "https://money.kompas.com/read/2026/09/24/194933926/91-persen-konsumen-ri-khawatir-data-pribadi-terancam-ai-ini-cara-aman",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Utang Rp10,75T dari BNI, Emiten Boy Thohir (MGLV) Ekspansi Data Center",
+      "url": "https://emitennews.com/news/utang-rp1075t-dari-bni-emiten-boy-thohir-mglv-ekspansi-data-center",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Bos BI Ungkap Penyebab Kredit Nganggur Masih Tinggi Capai Rp 2.548 Triliun",
+      "url": "https://money.kompas.com/read/2026/09/24/200242826/bos-bi-ungkap-penyebab-kredit-nganggur-masih-tinggi-capai-rp-2548-triliun",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "KRL Bekas dari Jepang, PT KAI: Kita Tak Bisa Impor dari yang Lain",
+      "url": "https://money.kompas.com/read/2026/09/24/200453126/krl-bekas-dari-jepang-pt-kai-kita-tak-bisa-impor-dari-yang-lain",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Anggota DPR Minta Pencarian Korban KMP Virgo Jangan Dihentikan Dulu",
+      "url": "https://nasional.kompas.com/read/2026/09/24/19564181/anggota-dpr-minta-pencarian-korban-kmp-virgo-jangan-dihentikan-dulu",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Pimpinan Ponpes di Lombok Tengah Mangkir dari Pemeriksaan Kasus Dugaan Kekerasan Seksual",
+      "url": "https://regional.kompas.com/read/2026/09/24/195341578/pimpinan-ponpes-di-lombok-tengah-mangkir-dari-pemeriksaan-kasus-dugaan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Satu Korban Masih Hilang di Solok, BNPB: Jangan Hentikan Pencarian Sebelum Keluarga Ikhlas",
+      "url": "https://regional.kompas.com/read/2026/09/24/194754978/satu-korban-masih-hilang-di-solok-bnpb-jangan-hentikan-pencarian-sebelum",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "KM Virgo Terbalik di Laut Jawa, Pemerintah Fokus Evakuasi Sebelum Investigasi Menyeluruh",
+      "url": "https://regional.kompas.com/read/2026/09/24/200000178/km-virgo-terbalik-di-laut-jawa-pemerintah-fokus-evakuasi-sebelum",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "5 Pernyataan TGH Muhammad Imanuddin Sumar usai Dituduh Mencabuli Santri di Lombok Tengah",
+      "url": "https://regional.kompas.com/read/2026/09/24/200543878/5-pernyataan-tgh-muhammad-imanuddin-sumar-usai-dituduh-mencabuli-santri-di",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Persipura Tunjuk Regi Aditya Jadi Pelatih Baru Gantikan Andri Ramawi",
+      "url": "https://regional.kompas.com/read/2026/09/24/200509878/persipura-tunjuk-regi-aditya-jadi-pelatih-baru-gantikan-andri-ramawi",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Diduga Korupsi Dana BOP PKBM Windu di Banggai Kepulauan, Ketua dan Pejabat Dinas Jadi Tersangka",
+      "url": "https://regional.kompas.com/read/2026/09/24/200545778/diduga-korupsi-dana-bop-pkbm-windu-di-banggai-kepulauan-ketua-dan-pejabat",
+      "sektor": "Keuangan"
+    }
+  ]
+}
