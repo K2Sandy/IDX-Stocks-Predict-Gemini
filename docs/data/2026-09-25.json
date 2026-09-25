@@ -1,0 +1,142 @@
+{
+  "tanggal": "2026-09-25",
+  "dibuat_pada": "2026-09-25 20:16 WIB",
+  "jumlah_artikel": 19,
+  "saham_disebut": {},
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Pasar saham secara umum ditutup melemah disertai sepinya transaksi dan aksi jual bersih investor asing, sementara BEI menunda evaluasi aturan FCA dan membatalkan lelang sahamnya.",
+      "alasan": "Sektor keuangan sangat sensitif terhadap sentimen pasar secara keseluruhan dan likuiditas. Pelemahan IHSG, volume transaksi yang rendah, serta adanya aksi jual bersih oleh investor asing akan memberikan tekanan signifikan pada kinerja saham-saham di sektor keuangan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Sektor teknologi menunjukkan ketahanan positif dengan menjadi satu-satunya sektor yang tidak melemah di tengah penurunan IHSG.",
+      "alasan": "Di saat Indeks Harga Saham Gabungan (IHSG) dan mayoritas sektor lain kompak melemah, sektor teknologi berhasil mempertahankan posisinya atau bahkan menguat. Hal ini mengindikasikan adanya sentimen positif yang kuat atau akumulasi di sektor ini, menunjukkan potensi kenaikan di hari perdagangan berikutnya.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini tidak memuat informasi spesifik yang berkaitan langsung dengan sektor energi.",
+      "alasan": "Tidak ada berita yang secara langsung mempengaruhi harga komoditas energi, kebijakan terkait energi, atau kinerja emiten di sektor energi. Berita yang ada lebih berfokus pada regulasi bursa, pergerakan saham di sektor lain, dan kondisi makroekonomi (nilai tukar Rupiah) yang dampaknya bersifat umum, sehingga sentimen untuk sektor energi secara spesifik adalah netral.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "IHSG melemah disertai sepinya transaksi dan aksi jual bersih investor asing.",
+      "alasan": "Sektor Infrastruktur umumnya bergerak sejalan dengan pergerakan IHSG. Dengan sentimen pasar yang negatif akibat penurunan IHSG, transaksi yang sepi, dan adanya net sell asing, saham-saham di sektor ini cenderung akan ikut tertekan keesokan hari.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Evaluasi Aturan FCA Batal Diterapkan 28 September, Ini Kata Bos BEI",
+      "url": "https://emitennews.com/news/evaluasi-aturan-fca-batal-diterapkan-28-september-ini-kata-bos-bei",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BEI Bakal Bisa Bagi Dividen, OJK: Aturan Larangan Resmi Dicabut",
+      "url": "https://emitennews.com/news/bei-bakal-bisa-bagi-dividen-ojk-aturan-larangan-resmi-dicabut",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BEI Buka Gembok Dua Saham, Salah Satunya Sempat Terkunci 5 Bulan!",
+      "url": "https://emitennews.com/news/bei-buka-gembok-dua-saham-salah-satunya-sempat-terkunci-5-bulan",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bursa Siang Sepi Transaksi, IHSG Drop ke 6.263—Asing Net Sell Lagi",
+      "url": "https://emitennews.com/news/bursa-siang-sepi-transaksi-ihsg-drop-ke-6263asing-net-sell-lagi",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "AUTO Garap Pasar EV, Charger ALTRO Mulai Masuk Segmen Retail",
+      "url": "https://emitennews.com/news/auto-garap-pasar-ev-charger-altro-mulai-masuk-segmen-retail",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "BEI Batalkan Lelang Saham Bursa",
+      "url": "https://emitennews.com/news/bei-batalkan-lelang-saham-bursa",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Gabriel Rey Siap Jadi Pengendali Baru TRUK, Gelar VTO Rp48,3 Miliar",
+      "url": "https://emitennews.com/news/gabriel-rey-siap-jadi-pengendali-baru-truk-gelar-vto-rp483-miliar",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IHSG Melemah 0,9 Persen di Akhir Pekan, 3 Big Banks Topang Transaksi",
+      "url": "https://emitennews.com/news/ihsg-melemah-09-persen-di-akhir-pekan-3-big-banks-topang-transaksi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Sesi I Kurang Tenaga, Turun 0,55%, Rupiah pun Dekati Rp18.000",
+      "url": "https://emitennews.com/news/ihsg-sesi-i-kurang-tenaga-turun-055-rupiah-pun-dekati-rp18000",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Masuk Radar Pantau Bursa, Emiten Ini Justru Ngegas Nyaris ARA",
+      "url": "https://emitennews.com/news/masuk-radar-pantau-bursa-emiten-ini-justru-ngegas-nyaris-ara",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Masuk HSC Saat Boncos, Asing & Komut Ternyata Setir Saham NICK",
+      "url": "https://emitennews.com/news/masuk-hsc-saat-boncos-asing-komut-ternyata-setir-saham-nick",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "MDLA Raih Predikat Terbaik di Capital Market Excellence Awards 2026",
+      "url": "https://emitennews.com/news/mdla-raih-predikat-terbaik-di-capital-market-excellence-awards-2026",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "OJK–BEI Dorong Lagi Insentif Pajak untuk Perusahaan Tbk, Cek Detailnya",
+      "url": "https://emitennews.com/news/ojkbei-dorong-lagi-insentif-pajak-untuk-perusahaan-tbk-cek-detailnya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Putra TP Rachmat Beli 500 Ribu Saham Triputra (TAPG), Nilainya Rp1M",
+      "url": "https://emitennews.com/news/putra-tp-rachmat-beli-500-ribu-saham-triputra-tapg-nilainya-rp1m",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "OJK Sosialisasikan Demutualisasi, BEI Diminta Revisi Sejumlah Aturan",
+      "url": "https://emitennews.com/news/ojk-sosialisasikan-demutualisasi-bei-diminta-revisi-sejumlah-aturan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tak Sekadar Ambil Kendali TRUK, Gabriel Rey Siapkan Ekspansi usai VTO",
+      "url": "https://emitennews.com/news/tak-sekadar-ambil-kendali-truk-gabriel-rey-siapkan-ekspansi-usai-vto",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Rupiah Ditutup di Rp17.903, Berpotensi Sentuh Rp18.000?",
+      "url": "https://emitennews.com/news/rupiah-ditutup-di-rp17903-berpotensi-sentuh-rp18000",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tertekan Dolar dan Kebutuhan Valas, Rupiah Kian Dekati Rp18.000/USD",
+      "url": "https://emitennews.com/news/tertekan-dolar-dan-kebutuhan-valas-rupiah-kian-dekati-rp18000usd",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tiga Saham Meroket Ratusan Persen, Kini Terjebak Suspensi",
+      "url": "https://emitennews.com/news/tiga-saham-meroket-ratusan-persen-kini-terjebak-suspensi",
+      "sektor": "Keuangan, Teknologi"
+    }
+  ]
+}
