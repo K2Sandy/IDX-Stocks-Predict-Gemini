@@ -1,0 +1,292 @@
+{
+  "tanggal": "2026-09-26",
+  "dibuat_pada": "2026-09-26 19:39 WIB",
+  "jumlah_artikel": 44,
+  "saham_disebut": {
+    "AHAP": [
+      "Keuangan (rating 5/7)"
+    ],
+    "ANTM": [
+      "Energi (rating 5/7)"
+    ],
+    "INCO": [
+      "Energi (rating 5/7)"
+    ],
+    "BBCA": [
+      "Energi (rating 5/7)"
+    ],
+    "BNBR": [
+      "Infrastruktur (rating 2/7)"
+    ],
+    "GOTO": [
+      "Infrastruktur (rating 2/7)"
+    ],
+    "WSKT": [
+      "Infrastruktur (rating 2/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Undang-Undang P2SK memungkinkan Bank Indonesia menjadi pemegang saham BEI, didukung oleh aksi korporasi positif seperti right issue Asuransi Harta Aman Pratama (AHAP) yang berhasil menarik partisipasi investor besar.",
+      "alasan": "Regulasi baru yang memperkuat posisi Bank Indonesia dalam struktur kepemilikan Bursa Efek Indonesia memberikan sinyal positif bagi stabilitas dan tata kelola pasar keuangan secara keseluruhan. Hal ini didukung oleh keberhasilan AHAP dalam menggalang modal melalui right issue, menunjukkan kepercayaan pasar terhadap sektor asuransi dan kemampuan perusahaan untuk memperkuat struktur permodalannya.",
+      "analisis_saham": "AHAP (Asuransi Harta Aman Pratama) mendapatkan sentimen positif dari berita berhasilnya right issue senilai Rp175 miliar dengan partisipasi Anthoni Salim. Aksi korporasi ini memperkuat permodalan perusahaan dan menunjukkan kepercayaan investor, yang berpotensi mendorong kenaikan harga saham AHAP di masa mendatang."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Investasi global pada pusat data untuk mendukung kecerdasan buatan (AI) dan komputasi awan sedang mengalami lonjakan signifikan, menunjukkan pertumbuhan fundamental yang kuat di sektor teknologi.",
+      "alasan": "Berita tentang gelombang investasi besar-besaran oleh raksasa teknologi global untuk infrastruktur data center AI dan cloud mengindikasikan prospek pertumbuhan yang sangat positif. Ini akan menciptakan sentimen bullish bagi ekosistem teknologi, termasuk penyedia layanan cloud, pengembang perangkat lunak, dan operator data center di pasar domestik.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Saham-saham komoditas seperti ANTM dan INCO direkomendasikan sebagai menarik untuk dicermati pada perdagangan pekan depan.",
+      "alasan": "Analis memproyeksikan sektor komoditas, yang meliputi sebagian besar perusahaan energi dan pertambangan, akan menarik perhatian investor pada pekan depan. Sentimen positif ini diperkirakan dapat memberikan dorongan pada indeks Sektor Energi.",
+      "analisis_saham": "ANTM (Aneka Tambang Tbk):** Saham ANTM, yang bergerak di sektor pertambangan komoditas (terkait erat dengan dinamika energi dan material), disebutkan sebagai menarik untuk dicermati. Rekomendasi ini berpotensi meningkatkan permintaan dan harga saham ANTM."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Gagal bayar obligasi oleh PT Waskita Karya (Persero) Tbk (WSKT) dan penurunan peringkat menjadi idCCC memberikan sentimen negatif kuat bagi sektor infrastruktur.",
+      "alasan": "Masalah gagal bayar oleh salah satu BUMN konstruksi terbesar seperti WSKT dapat meningkatkan kekhawatiran pasar terhadap kesehatan finansial perusahaan lain di sektor ini, serta potensi tertundanya proyek-proyek infrastruktur. Sentimen negatif ini jauh lebih dominan dibandingkan berita positif terkait pemanfaatan infrastruktur pariwisata di Mandalika.",
+      "analisis_saham": "BNBR:** Aksi divestasi besar-besaran oleh Levoca Enterprise atas 3,77 miliar saham BNBR pada harga Rp71 akan menciptakan tekanan jual yang signifikan dan sentimen negatif untuk saham tersebut."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini tidak mengandung informasi relevan yang memengaruhi sentimen pasar secara makro ekonomi Indonesia.",
+      "alasan": "Berita yang tersedia meliputi topik olahraga, bencana alam di negara lain (Thailand), budaya lokal, dan hubungan diplomatik. Tidak ada satupun berita yang secara langsung berkaitan dengan indikator ekonomi makro Indonesia, kebijakan pemerintah, atau sentimen pasar yang dapat menggerakkan sektor secara keseluruhan. Oleh karena itu, berita ini tidak memberikan arah yang jelas untuk pergerakan sektor.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Alejandro Balde Terpinggirkan di Barcelona, MU Disebut Masih Berminat",
+      "url": "https://bola.kompas.com/read/2026/09/26/19251128/alejandro-balde-terpinggirkan-di-barcelona-mu-disebut-masih-berminat",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dorong Perspektif Perempuan, ITB Ajak Petani KBB Susun Mitigasi Bencana",
+      "url": "https://bandung.kompas.com/read/2026/09/26/191852978/dorong-perspektif-perempuan-itb-ajak-petani-kbb-susun-mitigasi-bencana",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Jokowi Ungkap Alasan Hadiri Rakorda PSI Bandung Bareng Kaesang",
+      "url": "https://bandung.kompas.com/read/2026/09/26/192431078/jokowi-ungkap-alasan-hadiri-rakorda-psi-bandung-bareng-kaesang",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "10 Saham Top Gainers Sepekan, FORU hingga TRUK Masuk!",
+      "url": "https://emitennews.com/news/10-saham-top-gainers-sepekan-foru-hingga-truk-masuk",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "46 Emiten Masih Berstatus FCA, Ini Alasan dan Daftar Lengkapnya",
+      "url": "https://emitennews.com/news/46-emiten-masih-berstatus-fca-ini-alasan-dan-daftar-lengkapnya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "AHAP Right Issue, Anthoni Salim Setor Rp109,51 Miliar",
+      "url": "https://emitennews.com/news/ahap-right-issue-anthoni-salim-setor-rp10951-miliar",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Antisipasi Rp1, Investor Kakap ini Lego Miliaran Saham Grup Bakrie",
+      "url": "https://emitennews.com/news/antisipasi-rp1-investor-kakap-ini-lego-miliaran-saham-grup-bakrie",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Cuaca Jakarta jadi Penyebab Timnas Indonesia Masih Belum Maksimal",
+      "url": "https://bola.kompas.com/read/2026/09/26/19283358/cuaca-jakarta-jadi-penyebab-timnas-indonesia-masih-belum-maksimal",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Bank Indonesia Menjadi Pemegang Saham BEI, Bolehkah?",
+      "url": "https://emitennews.com/news/bank-indonesia-menjadi-pemegang-saham-bei-bolehkah",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "ARA-ARB Simetris Berlaku, Awas Risiko Baru bagi Investor Ritel!",
+      "url": "https://emitennews.com/news/ara-arb-simetris-berlaku-awas-risiko-baru-bagi-investor-ritel",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Aturan FCA Baru, 92 Saham Bebas-Ini Kriteria yang Dihapus & Dampaknya",
+      "url": "https://emitennews.com/news/aturan-fca-baru-92-saham-bebas-ini-kriteria-yang-dihapus-dampaknya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Berlaku Rp1, Investor GOTO Akan Alami Kejutan ini",
+      "url": "https://emitennews.com/news/berlaku-rp1-investor-goto-akan-alami-kejutan-ini",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Cara Dapat Diskon Tiket MotoGP Mandalika 2026 Hingga Rp300 Ribu",
+      "url": "https://emitennews.com/news/cara-dapat-diskon-tiket-motogp-mandalika-2026-hingga-rp300-ribu",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Cermati Saham Ini Pekan Depan; ANTM, INCO hingga BBCA",
+      "url": "https://emitennews.com/news/cermati-saham-ini-pekan-depan-antm-inco-hingga-bbca",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "DPR-Pemerintah Sepakat Pangkas Subsidi Energi 2027 Rp11,4 Triliun",
+      "url": "https://emitennews.com/news/dpr-pemerintah-sepakat-pangkas-subsidi-energi-2027-rp114-triliun",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Gagal Bayar Pokok Obligasi, Rating WSKT Anjlok ke idCCC",
+      "url": "https://emitennews.com/news/gagal-bayar-pokok-obligasi-rating-wskt-anjlok-ke-idccc",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dampak 87 Saham Bebas Pemantauan Khusus Bagi Bursa & Investor",
+      "url": "https://emitennews.com/news/dampak-87-saham-bebas-pemantauan-khusus-bagi-bursa-investor",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ikon Mode Seibu Shibuya Tutup Usai 58 Tahun Beroperasi",
+      "url": "https://emitennews.com/news/ikon-mode-seibu-shibuya-tutup-usai-58-tahun-beroperasi",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Merosot 3,09% Sepekan, Kapitalisasi Bursa Turun 3,20%, Kenapa?",
+      "url": "https://emitennews.com/news/ihsg-merosot-309-sepekan-kapitalisasi-bursa-turun-320-kenapa",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ini Top Losers Sepekan, SAFE hingga MNC Group, Cek!",
+      "url": "https://emitennews.com/news/ini-top-losers-sepekan-safe-hingga-mnc-group-cek",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kemenkeu Obral SBR015, Imbal Hasil Tertinggi Dalam 6 Tahun!",
+      "url": "https://emitennews.com/news/kemenkeu-obral-sbr015-imbal-hasil-tertinggi-dalam-6-tahun",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Melejit 830 Persen, MBMA Raup Laba USD54,43 Juta",
+      "url": "https://emitennews.com/news/melejit-830-persen-mbma-raup-laba-usd5443-juta",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ketika Data Center Bangun Dunia, Sektor Tambang Ikut Nikmati Berkahnya",
+      "url": "https://emitennews.com/news/ketika-data-center-bangun-dunia-sektor-tambang-ikut-nikmati-berkahnya",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Obituari Guruh Soekarnoputra: Maestro Orkestrasi Budaya Nusantara",
+      "url": "https://emitennews.com/news/obituari-guruh-soekarnoputra-maestro-orkestrasi-budaya-nusantara",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Peduli Sosial, Upbit Lakukan Aksi Kemanusiaan di Flores dan Medan",
+      "url": "https://emitennews.com/news/peduli-sosial-upbit-lakukan-aksi-kemanusiaan-di-flores-dan-medan",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Perkuat Modal, BBKP Jajakan Obligasi Rp500 Miliar",
+      "url": "https://emitennews.com/news/perkuat-modal-bbkp-jajakan-obligasi-rp500-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Belajar dari Pengalaman Fenita Arie, Jangan Sepelekan Batuk dan Sesak pada Lansia",
+      "url": "https://health.kompas.com/read/26I26193500568/belajar-dari-pengalaman-fenita-arie-jangan-sepelekan-batuk-dan-sesak-pada-lansia",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Prabowo Bentuk Badan Baru Cegah Karhutla di Kawasan Gambut",
+      "url": "https://emitennews.com/news/prabowo-bentuk-badan-baru-cegah-karhutla-di-kawasan-gambut",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Perkuat Bisnis MRO, GMFI Jalin Kemitraan Strategis di Asia Pasifik",
+      "url": "https://emitennews.com/news/perkuat-bisnis-mro-gmfi-jalin-kemitraan-strategis-di-asia-pasifik",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Reformasi TOPIX, Bursa Efek Tokyo Pangkas Konstituen Jadi 900",
+      "url": "https://emitennews.com/news/reformasi-topix-bursa-efek-tokyo-pangkas-konstituen-jadi-900",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BERITA FOTO: Banjir Bangkok Rendam Seisi Kota, Aktivitas Lumpuh",
+      "url": "https://internasional.kompas.com/read/2026/09/26/193300670/berita-foto--banjir-bangkok-rendam-seisi-kota-aktivitas-lumpuh",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Jangan Lewatkan Conditioner Setiap Keramas, Ahli Rambut Jelaskan Alasannya",
+      "url": "https://lifestyle.kompas.com/read/2026/09/26/193000620/jangan-lewatkan-conditioner-setiap-keramas-ahli-rambut-jelaskan-alasannya",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Anak Belajar Mengenal Tradisi Daerah lewat Karnaval Budaya",
+      "url": "https://katanetizen.kompas.com/read/2026/09/26/191619885/anak-belajar-mengenal-tradisi-daerah-lewat-karnaval-budaya",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Saham GOLL Masuk Pemantauan Khusus BEI Akibat Masalah Pendapatan",
+      "url": "https://emitennews.com/news/saham-goll-masuk-pemantauan-khusus-bei-akibat-masalah-pendapatan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Usai Rugi, Emiten Boy Thohir Tabulasi Laba Melonjak Ratusan Persen",
+      "url": "https://emitennews.com/news/usai-rugi-emiten-boy-thohir-tabulasi-laba-melonjak-ratusan-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Yusril soal Mary Jane Bebas Mutlak: RI Hormati Keputusan Filipina",
+      "url": "https://nasional.kompas.com/read/2026/09/26/19264851/yusril-soal-mary-jane-bebas-mutlak-ri-hormati-keputusan-filipina",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Dorong Sektor Keuangan jadi Mesin Ekonomi, OJK Ajak Masyarakat Perbanyak Menabung",
+      "url": "https://money.kompas.com/read/2026/09/26/193731926/dorong-sektor-keuangan-jadi-mesin-ekonomi-ojk-ajak-masyarakat-perbanyak",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Ramalan Zodiak 28 September-4 Oktober: Peruntungan Cinta, Karier, dan Keuangan",
+      "url": "https://lifestyle.kompas.com/read/2026/09/26/193000520/ramalan-zodiak-28-september-4-oktober--peruntungan-cinta-karier-dan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tutup FEKDI x IFSE 2026, BI Catat Ada 72 Tim Inovator Digital Kantongi Kerja Sama Bisnis",
+      "url": "https://money.kompas.com/read/2026/09/26/193424326/tutup-fekdi-x-ifse-2026-bi-catat-ada-72-tim-inovator-digital-kantongi-kerja",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Jerat Berlapis Mantan Kadis di Bengkulu, Jadi Tersangka di Polda dan Kejaksaan",
+      "url": "https://regional.kompas.com/read/2026/09/26/191129678/jerat-berlapis-mantan-kadis-di-bengkulu-jadi-tersangka-di-polda-dan",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Polda Jatim Turun Tangan dalam Kasus SMPN 18 Malang, Siapkan Pasal Berlapis",
+      "url": "https://surabaya.kompas.com/read/2026/09/26/192802578/polda-jatim-turun-tangan-dalam-kasus-smpn-18-malang-siapkan-pasal-berlapis",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Tarif Kapal ke Kepulauan Seribu dari Muara Angke Terbaru, mulai Rp 44.000",
+      "url": "https://travel.kompas.com/read/2026/09/26/190800327/tarif-kapal-ke-kepulauan-seribu-dari-muara-angke-terbaru-mulai-rp-44.000",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Jalur Pendakian Gunung Arjuno-Welirang Kembali Dibuka",
+      "url": "https://surabaya.kompas.com/read/2026/09/26/190445078/jalur-pendakian-gunung-arjuno-welirang-kembali-dibuka",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Bangkok Thailand Banjir, Bandara Tetap Beroperasi dan Wisatawan Diimbau Waspada",
+      "url": "https://travel.kompas.com/read/2026/09/26/190641227/bangkok-thailand-banjir-bandara-tetap-beroperasi-dan-wisatawan-diimbau",
+      "sektor": "Keuangan"
+    }
+  ]
+}
