@@ -1,0 +1,210 @@
+{
+  "tanggal": "2026-09-27",
+  "dibuat_pada": "2026-09-27 20:29 WIB",
+  "jumlah_artikel": 31,
+  "saham_disebut": {
+    "TLKM": [
+      "Teknologi (rating 6/7)",
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bursa Efek Indonesia (BEI) akan menghapus empat kriteria Papan Pemantauan Khusus FCA dan meniadakan batas harga bawah Rp50 menjadi Rp1, berlaku efektif 28 September 2026.",
+      "alasan": "Kebijakan BEI ini merupakan langkah signifikan untuk meningkatkan efisiensi pasar dan mendorong likuiditas saham, terutama bagi saham-saham yang sebelumnya terkunci di harga Rp50. Meskipun dapat memicu volatilitas pada beberapa saham, secara keseluruhan, pasar yang lebih efisien dan likuid akan menciptakan ekosistem yang lebih sehat bagi lembaga keuangan dan pialang, sehingga sentimen terhadap sektor keuangan cenderung positif.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Proyeksi peningkatan signifikan pemanfaatan kecerdasan buatan (AI) oleh BUMN hingga 70% konsumsi data center mendorong TelkomGroup untuk melakukan investasi besar dalam pengembangan infrastruktur data center berbasis AI hingga 1 GW.",
+      "alasan": "Berita ini mengindikasikan katalis pertumbuhan yang sangat kuat bagi sektor Teknologi, khususnya pada penyedia layanan data center dan infrastruktur AI. Peningkatan permintaan yang masif dari entitas BUMN serta ekspansi kapasitas yang dilakukan oleh pemain besar seperti TelkomGroup menunjukkan prospek positif bagi pendapatan dan pertumbuhan di sub-sektor ini. Ini mencerminkan kepercayaan pada potensi AI dan digitalisasi di Indonesia.",
+      "analisis_saham": "PT Telkom Indonesia (Persero) Tbk (TLKM) adalah penerima sentimen positif langsung dari berita ini. Melalui anak usahanya, NeutraDC, TelkomGroup secara aktif memperkuat dan memperluas kapasitas data center berbasis AI hingga 1 GW, menunjukkan komitmen strategis untuk mendominasi pasar infrastruktur AI yang sedang berkembang pesat. Ini dapat berpotensi meningkatkan nilai dan prospek pendapatan TLKM di masa depan seiring dengan adopsi AI yang meningkat."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Tidak ada berita spesifik yang relevan dengan sektor Energi yang dirilis hari ini.",
+      "alasan": "Kumpulan berita yang diberikan berfokus pada sektor kesehatan, barang konsumsi primer, properti, industri, dan ritel. Tidak ada informasi terkait harga komoditas energi, kebijakan pemerintah, atau perkembangan emiten di sektor Energi yang dapat mempengaruhi sentimen pasar.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "TelkomGroup berencana memperkuat dan mengembangkan infrastruktur data center berbasis AI dengan kapasitas hingga 1 GW, sejalan dengan proyeksi konsumsi AI yang dominan oleh BUMN.",
+      "alasan": "Berita ini menunjukkan komitmen besar terhadap pengembangan infrastruktur digital, khususnya data center dan AI, yang merupakan segmen kunci dalam sektor infrastruktur modern. Ekspansi kapasitas dan proyeksi penggunaan AI yang tinggi menciptakan sentimen positif terhadap pertumbuhan pendapatan dan keberlanjutan bisnis perusahaan-perusahaan di sektor ini, terutama bagi penyedia infrastruktur telekomunikasi dan data.",
+      "analisis_saham": "Berita ini sangat positif bagi PT Telkom Indonesia (Persero) Tbk (TLKM) karena menunjukkan strategi pertumbuhan yang jelas di segmen data center dan AI, yang merupakan lini bisnis masa depan yang menjanjikan. Investasi besar dalam pengembangan kapasitas dan proyeksi permintaan tinggi akan mendukung kinerja keuangan TLKM, berpotensi mendorong kenaikan harga saham."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini mayoritas membahas insiden lokal seperti bencana alam dan kecelakaan maritim, serta berita non-ekonomi seperti olahraga dan hiburan, tanpa indikasi sentimen makro ekonomi yang signifikan.",
+      "alasan": "Berita-berita yang tersedia tidak mencakup informasi yang relevan dengan faktor-faktor makroekonomi seperti inflasi, suku bunga, kebijakan pemerintah, atau kinerja sektor industri luas. Insiden yang dilaporkan bersifat sangat lokal dan tidak cukup berdampak untuk menggerakkan indeks sektor Umum/Makro secara keseluruhan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Florian Wirtz Kesulitan Bersinar di Liverpool, Dapat Pembelaan Klopp",
+      "url": "https://bola.kompas.com/read/2026/09/27/20013478/florian-wirtz-kesulitan-bersinar-di-liverpool-dapat-pembelaan-klopp",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Kata John Herdman Soal \"Derby Melayu\", Buat Malaysia Paham Seperti Apa SUGBK",
+      "url": "https://bola.kompas.com/read/2026/09/27/20100478/kata-john-herdman-soal-derby-melayu-buat-malaysia-paham-seperti-apa-sugbk",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Hujan Deras, 9 Rumah Warga di Nanggung Bogor Rusak Terdampak Pergerakan Tanah",
+      "url": "https://bandung.kompas.com/read/2026/09/27/200810678/hujan-deras-9-rumah-warga-di-nanggung-bogor-rusak-terdampak-pergerakan-tanah",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Ajak Masyarakat Hidup Sehat, BPJS Kesehatan Gelar Fun Walk di CFD Kuningan",
+      "url": "https://biz.kompas.com/read/2026/09/27/201532928/ajak-masyarakat-hidup-sehat-bpjs-kesehatan-gelar-fun-walk-di-cfd-kuningan",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Australia Stop Antidumping Nanas, Peluang Ekspansi Emiten Pangan",
+      "url": "https://emitennews.com/news/australia-stop-antidumping-nanas-peluang-ekspansi-emiten-pangan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "BGN Gandeng JICA Kembangkan Pilot Shokuiku untuk Program MBG",
+      "url": "https://emitennews.com/news/bgn-gandeng-jica-kembangkan-pilot-shokuiku-untuk-program-mbg",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dianggap Non-Fundamental, Bos BEI Beberkan Alasan Hapus 4 Kriteria FCA",
+      "url": "https://emitennews.com/news/dianggap-non-fundamental-bos-bei-beberkan-alasan-hapus-4-kriteria-fca",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Emiten Properti Grup Sinar Mas (BSDE) Sahkan Sosok Wapresdir Baru!",
+      "url": "https://emitennews.com/news/emiten-properti-grup-sinar-mas-bsde-sahkan-sosok-wapresdir-baru",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Emiten Gocap (EPAC) Wacanakan Buyback & Rights Issue Jelang Aturan Rp1",
+      "url": "https://emitennews.com/news/emiten-gocap-epac-wacanakan-buyback-rights-issue-jelang-aturan-rp1",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Genap Setahun, Presiden Direktur Sepatu Bata (BATA) Mengundurkan Diri",
+      "url": "https://emitennews.com/news/genap-setahun-presiden-direktur-sepatu-bata-bata-mengundurkan-diri",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Hanna Fadel Muhammad Jadi Komut, Right Issue IRSX On The Track",
+      "url": "https://emitennews.com/news/hanna-fadel-muhammad-jadi-komut-right-issue-irsx-on-the-track",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Harga Turun 14% dalam Sebulan, Presdir TOWR Serok 2,57 Juta Saham",
+      "url": "https://emitennews.com/news/harga-turun-14-dalam-sebulan-presdir-towr-serok-257-juta-saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Komisaris Medco Energi (MEDC) Sempat Jual 3 Juta Saham Senilai Rp4,5M",
+      "url": "https://emitennews.com/news/komisaris-medco-energi-medc-sempat-jual-3-juta-saham-senilai-rp45m",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Lampu Hijau OJK, ENRG Rights Issue IV Rp4,12T, Ini Jadwal Lengkapnya",
+      "url": "https://emitennews.com/news/lampu-hijau-ojk-enrg-rights-issue-iv-rp412t-ini-jadwal-lengkapnya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "MDKA Bidik Kinerja Lebih Kuat di Semester II, Ditopang Dua Proyek",
+      "url": "https://emitennews.com/news/mdka-bidik-kinerja-lebih-kuat-di-semester-ii-ditopang-dua-proyek",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "OJK Siap Buka Regulasi Investasi di Luar Negeri bagi Dana Pensiun",
+      "url": "https://emitennews.com/news/ojk-siap-buka-regulasi-investasi-di-luar-negeri-bagi-dana-pensiun",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Pemanfaatan AI BUMN Bakal Telan 70% Kapasitas Data Center",
+      "url": "https://emitennews.com/news/pemanfaatan-ai-bumn-bakal-telan-70-kapasitas-data-center",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sejumlah Bank Siapkan Teknis Dukung Skema KPR 40 Tahun",
+      "url": "https://emitennews.com/news/sejumlah-bank-siapkan-teknis-dukung-skema-kpr-40-tahun",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Akhirnya Syahrini Kembali Manggung di Pestapora Setelah 7 Tahun Vakum, Ungkap Alasannya",
+      "url": "https://entertainment.kompas.com/read/2026/09/27/200829266/akhirnya-syahrini-kembali-manggung-di-pestapora-setelah-7-tahun-vakum",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "SIG Tuban Gunakan 400 Ton Sekam Per Hari untuk Bahan Bakar",
+      "url": "https://emitennews.com/news/sig-tuban-gunakan-400-ton-sekam-per-hari-untuk-bahan-bakar",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Soal Demutualisasi, BEI Kaji Dua Skema Masuknya Pemegang Saham Baru",
+      "url": "https://emitennews.com/news/soal-demutualisasi-bei-kaji-dua-skema-masuknya-pemegang-saham-baru",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "TelkomGroup dan Danantara Siapkan Data Center, Kapasitas Hingga 1 GW",
+      "url": "https://emitennews.com/news/telkomgroup-dan-danantara-siapkan-data-center-kapasitas-hingga-1-gw",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Syahrini Persembahkan Lagu untuk Reino Barack dan Anaknya di Pestapora 2026",
+      "url": "https://entertainment.kompas.com/read/2026/09/27/202051666/syahrini-persembahkan-lagu-untuk-reino-barack-dan-anaknya-di-pestapora",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "Kronologi 3 Wanita Kena Getok Harga Bajaj Rp 120.000 dari GI ke Dukuh Atas, Awalnya Sepakat Rp 40.000",
+      "url": "https://megapolitan.kompas.com/read/2026/09/27/20080661/kronologi-3-wanita-kena-getok-harga-bajaj-rp-120000-dari-gi-ke-dukuh-atas",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Kemenkeu Prioritaskan Pasar Karbon, Pajak Karbon Jadi Opsi Jika Target Emisi Meleset",
+      "url": "https://money.kompas.com/read/2026/09/27/200000426/kemenkeu-prioritaskan-pasar-karbon-pajak-karbon-jadi-opsi-jika-target-emisi",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Mengenal Bloss, Tren Makeup Bibir yang Beri Kesan Glossy dan Lembap",
+      "url": "https://lifestyle.kompas.com/read/2026/09/27/200000820/mengenal-bloss-tren-makeup-bibir-yang-beri-kesan-glossy-dan-lembap",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Vietnam Masuk Emerging Market, Indonesia Harus Berbenah",
+      "url": "https://emitennews.com/news/vietnam-masuk-emerging-market-indonesia-harus-berbenah",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Yield US Treasury Melonjak, IHSG & Rupiah Terancam Capital Outflow",
+      "url": "https://emitennews.com/news/yield-us-treasury-melonjak-ihsg-rupiah-terancam-capital-outflow",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kaesang Nobar Film \"Istimewa\", Disambut Anak-anak Disabilitas",
+      "url": "https://nasional.kompas.com/read/2026/09/27/19590641/kaesang-nobar-film-istimewa-disambut-anak-anak-disabilitas",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Evakuasi 7 Jenazah KM Virgo dari Kalteng Pakai 2 Helikopter, Pilot Terkendala Kabut Asap",
+      "url": "https://regional.kompas.com/read/2026/09/27/202700678/evakuasi-7-jenazah-km-virgo-dari-kalteng-pakai-2-helikopter-pilot",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Jerome Polin Lamar Kekasih di Depan Gunung Fuji, Ini 5 Danau di Sana",
+      "url": "https://travel.kompas.com/read/2026/09/27/200800827/jerome-polin-lamar-kekasih-di-depan-gunung-fuji-ini-5-danau-di-sana",
+      "sektor": "Keuangan"
+    }
+  ]
+}
