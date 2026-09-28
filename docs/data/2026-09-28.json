@@ -1,0 +1,305 @@
+{
+  "tanggal": "2026-09-28",
+  "dibuat_pada": "2026-09-28 23:24 WIB",
+  "jumlah_artikel": 45,
+  "saham_disebut": {
+    "BBCA": [
+      "Keuangan (rating 3/7)"
+    ],
+    "BBTN": [
+      "Keuangan (rating 3/7)",
+      "Infrastruktur (rating 5/7)"
+    ],
+    "MSKY": [
+      "Teknologi (rating 3/7)"
+    ],
+    "BCAP": [
+      "Teknologi (rating 3/7)"
+    ],
+    "OASA": [
+      "Energi (rating 6/7)",
+      "Infrastruktur (rating 5/7)"
+    ],
+    "CDIA": [
+      "Energi (rating 6/7)"
+    ],
+    "GOTO": [
+      "Infrastruktur (rating 5/7)"
+    ],
+    "DADA": [
+      "Infrastruktur (rating 5/7)"
+    ],
+    "PGAS": [
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "BEI menetapkan BBCA sebagai saham short selling, sementara IHSG melemah dan BTN memperluas program KPR.",
+      "alasan": "Penetapan BBCA, salah satu bank terbesar, sebagai saham yang dapat ditransaksikan short selling dapat menimbulkan tekanan jual. Penurunan Indeks Harga Saham Gabungan (IHSG) secara keseluruhan juga menyeret sektor keuangan, meskipun ada sentimen positif dari ekspansi KPR BTN.",
+      "analisis_saham": "BBCA masuk dalam daftar saham yang dapat ditransaksikan secara short selling, berpotensi meningkatkan volatilitas dan memicu tekanan jual. Sementara itu, BTN mengambil langkah strategis dengan memperluas ekosistem perumahan dan menawarkan KPR hingga 40 tahun, yang berpotensi mendukung pertumbuhan bisnis dan kinerja positifnya di masa depan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Penerapan harga dasar saham Rp1 dan pencabutan FCA memicu volatilitas ekstrem pada saham-saham berkapitalisasi kecil, dengan beberapa saham Grup MNC, termasuk MSKY (MNC Sky Vision) dan BCAP (MNC Kapital Indonesia), terjun bebas ke ARB.",
+      "alasan": "Meskipun tidak ada perusahaan teknologi murni dengan kapitalisasi besar yang disebutkan, berita mengenai anjloknya MSKY (sektor media/TV satelit yang memiliki aspek teknologi) dan BCAP (dengan inisiatif digital/fintech) ke ARB di tengah kebijakan harga Rp1, menunjukkan adanya sentimen negatif yang kuat terhadap beberapa saham yang terkait dengan teknologi, khususnya di segmen saham berharga rendah yang sedang volatil.",
+      "analisis_saham": "MSKY (MNC Sky Vision) dan BCAP (MNC Kapital Indonesia) terjungkal ke zona Auto Reject Bawah (ARB) dan turun ke Rp43 setelah implementasi harga saham Rp1. Hal ini mengindikasikan tekanan jual yang sangat kuat dan sentimen negatif investor terhadap saham-saham terkait grup tersebut, yang kemungkinan akan berlanjut dalam waktu dekat."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Permintaan kuat untuk layanan gas alam cair (LNG) dan pertumbuhan infrastruktur energi di kawasan industri menunjukkan prospek positif bagi sektor energi.",
+      "alasan": "Peningkatan minat kapal LNG global terhadap layanan Perta Arun Gas dan pertumbuhan bisnis energi PT Chandra Daya Investasi Tbk (CDIA) akibat kebutuhan industri, mengindikasikan fundamental yang kuat di sub-sektor gas dan penyediaan energi. Sentimen positif dari permintaan dan pertumbuhan ini diperkirakan akan mendorong kinerja sektor energi secara keseluruhan.",
+      "analisis_saham": "PT Maharaksa Biru Energi Tbk (OASA): Aksi pelepasan saham secara terus-menerus oleh Direktur Utama dapat menciptakan sentimen negatif di pasar, berpotensi menekan harga saham OASA karena kekhawatiran terhadap prospek internal perusahaan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Peningkatan permintaan layanan infrastruktur gas dan dorongan kuat pembiayaan perumahan oleh bank.",
+      "alasan": "Berita mengenai tingginya permintaan layanan gas infrastruktur (Perta Arun Gas) dan ekspansi pembiayaan KPR oleh BTN hingga tenor 40 tahun secara langsung mendukung sektor infrastruktur, khususnya sub-sektor gas, properti, dan konstruksi. Ini menunjukkan peningkatan aktivitas dan potensi pertumbuhan di bidang-bidang tersebut.",
+      "analisis_saham": "GOTO: Penjualan 450 juta saham oleh Morgan Stanley pada harga Rp27 per saham merupakan sentimen negatif, menunjukkan tekanan jual dari investor institusional."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Kekhawatiran akan kemacetan berulang di Ketapang-Gilimanuk yang berdampak negatif pada pariwisata Bali sedikit diimbangi oleh peningkatan aktivitas pariwisata lokal di Solo dan Surabaya.",
+      "alasan": "Isu kemacetan di jalur Ketapang-Gilimanuk menyoroti tantangan infrastruktur dan logistik yang dapat menghambat sektor pariwisata nasional secara luas, terutama Bali sebagai destinasi utama. Meskipun ada kabar positif dari aktivitas pariwisata lokal di Solo dan Surabaya, masalah struktural yang berdampak pada akses ke Bali dapat lebih dominan dalam sentimen pasar makro secara keseluruhan, menunjukkan adanya inefisiensi yang perlu penanganan pemerintah.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Pandangan Herdman soal Kartu Merah Thom Haye di Indonesia Vs Malaysia",
+      "url": "https://bola.kompas.com/read/2026/09/28/23154428/pandangan-herdman-soal-kartu-merah-thom-haye-di-indonesia-vs-malaysia",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Janji John Herdman untuk Suporter Timnas Indonesia Usai Imbang Lawan Malaysia",
+      "url": "https://bola.kompas.com/read/2026/09/28/23210648/janji-john-herdman-untuk-suporter-timnas-indonesia-usai-imbang-lawan-malaysia",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Ranking FIFA Timnas Indonesia Usai Imbang Lawan Malaysia: Turun ke Urutan 119",
+      "url": "https://bola.kompas.com/read/2026/09/28/22381308/ranking-fifa-timnas-indonesia-usai-imbang-lawan-malaysia-turun-ke-urutan-119",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Ada BBCA hingga ASII, BEI Umumkan 5 Saham Short Selling Bulan Oktober",
+      "url": "https://emitennews.com/news/ada-bbca-hingga-asii-bei-umumkan-5-saham-short-selling-bulan-oktober",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Batas Harga Rp1 Belum Berlaku, Morgan Stanley Jual 450 Juta Saham GOTO",
+      "url": "https://emitennews.com/news/batas-harga-rp1-belum-berlaku-morgan-stanley-jual-450-juta-saham-goto",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "31 Dari 92 Saham ex FCA Meledak ARA di Era Saham 1 Perak, TAMU +34,62%",
+      "url": "https://emitennews.com/news/31-dari-92-saham-ex-fca-meledak-ara-di-era-saham-1-perak-tamu-3462",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bisnis Layanan GUCD Perta Arun Gas Diminati Kapal LNG Global",
+      "url": "https://emitennews.com/news/bisnis-layanan-gucd-perta-arun-gas-diminati-kapal-lng-global",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BTN Pacu Ekosistem Perumahan, Bangun Hunian hingga KPR 40 Tahun",
+      "url": "https://emitennews.com/news/btn-pacu-ekosistem-perumahan-bangun-hunian-hingga-kpr-40-tahun",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Bursa Siang Jebol 1% ke Level 6.181, Saham Under Gocap Justru Berpesta",
+      "url": "https://emitennews.com/news/bursa-siang-jebol-1-ke-level-6181-saham-under-gocap-justru-berpesta",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "DADA Beri Santunan Dividen, Total Rp2 Miliar, Per Helai Berapa?",
+      "url": "https://emitennews.com/news/dada-beri-santunan-dividen-total-rp2-miliar-per-helai-berapa",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Dalam 13 Bulan Terus Lepas Saham, Bobby Gafur Tetap Pengendali OASA",
+      "url": "https://emitennews.com/news/dalam-13-bulan-terus-lepas-saham-bobby-gafur-tetap-pengendali-oasa",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "DGWG Bidik Laba Rp251 Miliar di 2026, Ada Pembagian Dividen?",
+      "url": "https://emitennews.com/news/dgwg-bidik-laba-rp251-miliar-di-2026-ada-pembagian-dividen",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Efektif Rp1, Emiten Hary Tanoe Terjun Bebas ARB",
+      "url": "https://emitennews.com/news/efektif-rp1-emiten-hary-tanoe-terjun-bebas-arb",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "GOTO ARB Day-1 Dibanjiri 1 Miliar Lot Jual, Morgan Stanley Juga Jualan",
+      "url": "https://emitennews.com/news/goto-arb-day-1-dibanjiri-1-miliar-lot-jual-morgan-stanley-juga-jualan",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Awal Pekan Tutup di Bawah 6.200, GOTO Kini Bukan Saham Gocap Lagi",
+      "url": "https://emitennews.com/news/ihsg-awal-pekan-tutup-di-bawah-6200-goto-kini-bukan-saham-gocap-lagi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Investasi Pribadi Presdir Rudy di Saham ASII, Belanjakan Rp20,2 Miliar",
+      "url": "https://emitennews.com/news/investasi-pribadi-presdir-rudy-di-saham-asii-belanjakan-rp202-miliar",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Jaga Stabilitas Rupiah, BI Perkuat Pengawasan Lalu Lintas Devisa",
+      "url": "https://emitennews.com/news/jaga-stabilitas-rupiah-bi-perkuat-pengawasan-lalu-lintas-devisa",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kawasan Industri Jadi Mesin Pertumbuhan Bisnis Infrastruktur CDIA",
+      "url": "https://emitennews.com/news/kawasan-industri-jadi-mesin-pertumbuhan-bisnis-infrastruktur-cdia",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kontrak ELPI Tembus Rp837,22 Miliar hingga Akhir September 2026",
+      "url": "https://emitennews.com/news/kontrak-elpi-tembus-rp83722-miliar-hingga-akhir-september-2026",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Lepas Saham MPRO Senilai Rp474M, Taipan Ini Masih Kuasai 10,46 Persen",
+      "url": "https://emitennews.com/news/lepas-saham-mpro-senilai-rp474m-taipan-ini-masih-kuasai-1046-persen",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Maybank Buka Jalur Halal ASEAN, Hubungkan Indonesia-Singapura-Malaysia",
+      "url": "https://emitennews.com/news/maybank-buka-jalur-halal-asean-hubungkan-indonesia-singapura-malaysia",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Muncul Aksi Nego Saham KETR Rp520 Miliar, Akuisisi Grup Sinarmas?",
+      "url": "https://emitennews.com/news/muncul-aksi-nego-saham-ketr-rp520-miliar-akuisisi-grup-sinarmas",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "PART Mau Gelar Rights Issue dan Buyback, Simak Rinciannya!",
+      "url": "https://emitennews.com/news/part-mau-gelar-rights-issue-dan-buyback-simak-rinciannya",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Rencana EPAC di 3 November Nanti, Minta Restu Rights Issue & Buyback",
+      "url": "https://emitennews.com/news/rencana-epac-di-3-november-nanti-minta-restu-rights-issue-buyback",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Saham TRUK Beku, Gabriel Rey Gaspol Tender Sukarela",
+      "url": "https://emitennews.com/news/saham-truk-beku-gabriel-rey-gaspol-tender-sukarela",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Short Selling Eksklusif Berlaku 1 Oktober 2026 di Sekuritas MG & XC",
+      "url": "https://emitennews.com/news/short-selling-eksklusif-berlaku-1-oktober-2026-di-sekuritas-mg-xc",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Terapkan Insentif di Tengah BI Rate 5,75% BI Dorong Modal Masuk USD6M",
+      "url": "https://emitennews.com/news/terapkan-insentif-di-tengah-bi-rate-575-bi-dorong-modal-masuk-usd6m",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tak Yakin Eks Istri Polisi Bunuh Diri, LBH Medan Dorong Ekshumasi dengan Dokter Independen",
+      "url": "https://medan.kompas.com/read/2026/09/28/225317778/tak-yakin-eks-istri-polisi-bunuh-diri-lbh-medan-dorong-ekshumasi-dengan-dokter",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Terbang & Terjun, Dua Saham Bergerak Berlawanan Usai Lepas Suspensi",
+      "url": "https://emitennews.com/news/terbang-terjun-dua-saham-bergerak-berlawanan-usai-lepas-suspensi",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Sebelum Tabrakan di Stasiun Bekasi Timur, Masinis KA 5568A 2 Kali Hubungi PPKP tapi Tak Terjawab",
+      "url": "https://megapolitan.kompas.com/read/2026/09/28/22380121/sebelum-tabrakan-di-stasiun-bekasi-timur-masinis-ka-5568a-2-kali-hubungi",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tukar Guling Rp14,57 T, Ultrajaya Rela Bagi Takhta ke Frisian Flag",
+      "url": "https://emitennews.com/news/tukar-guling-rp1457-t-ultrajaya-rela-bagi-takhta-ke-frisian-flag",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "UNTR Bagi Dividen Interim Rp430 per Helai, Pantau Jadwal Cum Dividen",
+      "url": "https://emitennews.com/news/untr-bagi-dividen-interim-rp430-per-helai-pantau-jadwal-cum-dividen",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "3–5 Menit Pertama Jadi Waktu Penting Saat Kebakaran, Warga Perlu Lakukan Ini",
+      "url": "https://megapolitan.kompas.com/read/2026/09/28/23074941/35-menit-pertama-jadi-waktu-penting-saat-kebakaran-warga-perlu-lakukan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Usai Indonesia Vs Malaysia, Lalu Lintas di Sekitar GBK Padat, Kendaraan Mengular di Pintu 10",
+      "url": "https://megapolitan.kompas.com/read/2026/09/28/22322371/usai-indonesia-vs-malaysia-lalu-lintas-di-sekitar-gbk-padat-kendaraan",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "KNKT Ungkap Rangkaian Masalah di Balik Tabrakan Maut KA Argo Bromo dan Commuter Line",
+      "url": "https://money.kompas.com/read/2026/09/28/223544726/knkt-ungkap-rangkaian-masalah-di-balik-tabrakan-maut-ka-argo-bromo-dan",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sempat Dianggap Aneh, Cara Susi Pilah Sampah di Jaksel Dilirik Kedubes Belanda, Kini Diperluas ke 1 RW",
+      "url": "https://megapolitan.kompas.com/read/2026/09/28/22454951/sempat-dianggap-aneh-cara-susi-pilah-sampah-di-jaksel-dilirik-kedubes",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pemerintah Mulai Uji Coba Ambulans Udara di Pesisir Barat Lampung",
+      "url": "https://nasional.kompas.com/read/2026/09/28/22172241/pemerintah-mulai-uji-coba-ambulans-udara-di-pesisir-barat-lampung",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kemacetan Ketapang-Gilimanuk Jadi Sorotan, DPR Minta Pemprov Bali Ikut Benahi",
+      "url": "https://regional.kompas.com/read/2026/09/28/223429978/kemacetan-ketapang-gilimanuk-jadi-sorotan-dpr-minta-pemprov-bali-ikut",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Longboat Mati Mesin di Laut Aru, 14 Penumpang Termasuk 2 Bocah Dievakuasi",
+      "url": "https://regional.kompas.com/read/2026/09/28/230119378/longboat-mati-mesin-di-laut-aru-14-penumpang-termasuk-2-bocah-dievakuasi",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Disbudpar Sebut Penginapan Penuh Jelang Haul Solo, Rumah Warga Laris Disewa Jemaah",
+      "url": "https://regional.kompas.com/read/2026/09/28/230401078/disbudpar-sebut-penginapan-penuh-jelang-haul-solo-rumah-warga-laris-disewa",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Raih Emas dan Perunggu, 2 Atlet Angkat Besi Jatim \"Video Call\" dengan Khofifah",
+      "url": "https://surabaya.kompas.com/read/2026/09/28/222905978/raih-emas-dan-perunggu-2-atlet-angkat-besi-jatim-video-call-dengan-khofifah",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Sempat Mati Suri, Riverside Peneleh Kini Kembali Ramai Setelah Dibangun Ulang",
+      "url": "https://surabaya.kompas.com/read/2026/09/28/225427478/sempat-mati-suri-riverside-peneleh-kini-kembali-ramai-setelah-dibangun",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Peternak Pasuruan Minta Impor Sapi, Bukan Susu: Sudah Saatnya Peternak Lokal Berjaya",
+      "url": "https://surabaya.kompas.com/read/2026/09/28/230804478/peternak-pasuruan-minta-impor-sapi-bukan-susu-sudah-saatnya-peternak-lokal",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Karhutla di Palaran Samarinda Berjarak 3 Meter dari Permukiman, Warga Mengungsi",
+      "url": "https://regional.kompas.com/read/2026/09/28/223541978/karhutla-di-palaran-samarinda-berjarak-3-meter-dari-permukiman-warga",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "3 Orang di Sumbawa Meninggal akibat Gigitan HPR, Kasus Capai 803",
+      "url": "https://regional.kompas.com/read/2026/09/28/224206278/3-orang-di-sumbawa-meninggal-akibat-gigitan-hpr-kasus-capai-803",
+      "sektor": "Energi"
+    }
+  ]
+}
