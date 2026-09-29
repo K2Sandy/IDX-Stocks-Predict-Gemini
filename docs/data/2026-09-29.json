@@ -1,0 +1,193 @@
+{
+  "tanggal": "2026-09-29",
+  "dibuat_pada": "2026-09-29 21:38 WIB",
+  "jumlah_artikel": 27,
+  "saham_disebut": {
+    "BALI": [
+      "Teknologi (rating 2/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "VKTR": [
+      "Teknologi (rating 2/7)"
+    ],
+    "WSKT": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "IHSG menunjukkan potensi pelemahan lebih lanjut menuju 6.000 di tengah pengaktifan kembali short selling oleh BEI dan penolakan sentimen negatif pembukaan batas saham Rp50.",
+      "alasan": "Meskipun BEI berupaya mengelola sentimen negatif dan memperkenalkan fitur short selling yang berpotensi meningkatkan aktivitas pasar dalam jangka panjang, pergerakan IHSG yang anjlok dan indikasi teknikal menunjukkan pelemahan lebih lanjut. Sektor keuangan, khususnya perbankan, sangat berkorelasi dengan kinerja indeks pasar secara keseluruhan, sehingga potensi penurunan IHSG akan memberikan tekanan negatif pada sektor ini.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Sektor teknologi menghadapi tekanan signifikan dari pelemahan IHSG, kenaikan imbal hasil obligasi global, dan penurunan saham teknologi terkait AI di bursa AS.",
+      "alasan": "Sektor teknologi disebutkan mengalami pelemahan terbesar pada perdagangan sebelumnya, sejalan dengan tekanan pada saham teknologi global akibat kenaikan imbal hasil obligasi. Indikator teknikal IHSG juga mengindikasikan potensi pelemahan lebih lanjut yang akan turut menyeret sektor ini.",
+      "analisis_saham": "BALI:** Emiten infrastruktur telekomunikasi ini mendapatkan sentimen positif dari transaksi antarentitas usaha yang bertujuan memperkuat kinerja, serta peningkatan kepemilikan saham oleh pengendali menjadi hampir 60%. Ini menunjukkan keyakinan kuat dari pemegang saham utama yang bisa menahan sentimen negatif sektor."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Sektor energi melonjak signifikan hari ini dipicu kenaikan harga minyak.",
+      "alasan": "Kenaikan harga minyak secara langsung menguntungkan emiten di sektor energi, terutama perusahaan eksplorasi, produksi, dan jasa migas, karena berpotensi meningkatkan pendapatan dan profitabilitas mereka. Sentimen positif ini diperkirakan masih akan berlanjut, didukung oleh fundamental harga komoditas energi yang sedang tinggi.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Pelunasan obligasi Waskita Karya (WSKT) yang sempat tertunda dan penambahan porsi saham oleh pengendali Bali Towerindo (BALI) menunjukkan sentimen positif bagi sektor infrastruktur.",
+      "alasan": "Berita pelunasan obligasi oleh WSKT, emiten konstruksi BUMN yang kerap menjadi perhatian pasar, menghilangkan salah satu kekhawatiran terbesar terkait kesehatan finansialnya. Ditambah dengan sentimen positif dari BALI melalui transaksi entitas dan penambahan kepemilikan saham oleh pengendali, hal ini diharapkan meningkatkan kepercayaan investor terhadap prospek pertumbuhan dan stabilitas sektor infrastruktur secara keseluruhan.",
+      "analisis_saham": "PT Bali Towerindo Sentra Tbk (BALI) menerima sentimen positif dari transaksi internal yang bertujuan memperkuat kinerja dan penambahan porsi kepemilikan saham oleh pengendali. Ini menunjukkan kepercayaan tinggi manajemen dan pemegang saham mayoritas terhadap prospek perusahaan, berpotensi mendorong kenaikan harga sahamnya."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Bali Towerindo (BALI) Urai Transaksi 2 Entitas Usaha, Perkuat Kinerja",
+      "url": "https://emitennews.com/news/bali-towerindo-bali-urai-transaksi-2-entitas-usaha-perkuat-kinerja",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEI Bantah Pembukaan Batas Saham Gocap Jadi Sentimen Negatif IHSG",
+      "url": "https://emitennews.com/news/bei-bantah-pembukaan-batas-saham-gocap-jadi-sentimen-negatif-ihsg",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Aset CSIS Tebal, Dividen Cair, dan Saham Terbang 27 Persen",
+      "url": "https://emitennews.com/news/aset-csis-tebal-dividen-cair-dan-saham-terbang-27-persen",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "ANJT Beri Pinjaman ke Afiliasi hingga Rp2T dengan Bunga 8,5% per Tahun",
+      "url": "https://emitennews.com/news/anjt-beri-pinjaman-ke-afiliasi-hingga-rp2t-dengan-bunga-85-per-tahun",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BEI Hidupkan Kembali Short Selling, Demi Puaskan MSCI & FTSE?",
+      "url": "https://emitennews.com/news/bei-hidupkan-kembali-short-selling-demi-puaskan-msci-ftse",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Awas, IHSG Menuju Level Psikologis 6.000",
+      "url": "https://emitennews.com/news/awas-ihsg-menuju-level-psikologis-6000",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "CRAB Bagi-Bagi Dividen Tunai Rp3,9 Miliar, Intip Nominal Per Sahamnya!",
+      "url": "https://emitennews.com/news/crab-bagi-bagi-dividen-tunai-rp39-miliar-intip-nominal-per-sahamnya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Emiten Semen Tiga Roda INTP Lebur LBA ke Dalam BI, Aset Jadi Rp400,8M",
+      "url": "https://emitennews.com/news/emiten-semen-tiga-roda-intp-lebur-lba-ke-dalam-bi-aset-jadi-rp4008m",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Ditutup Merosot 0,43 Persen, Sempat Mau Menyentuh Level 6.000!",
+      "url": "https://emitennews.com/news/ihsg-ditutup-merosot-043-persen-sempat-mau-menyentuh-level-6000",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Kembali Tertekan Sentimen, Dibuka Melorot ke Level 6.120",
+      "url": "https://emitennews.com/news/ihsg-kembali-tertekan-sentimen-dibuka-melorot-ke-level-6120",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dari Energi Air ke Pasar Dunia, INALUM Perkenalkan Green Aluminium",
+      "url": "https://emitennews.com/news/dari-energi-air-ke-pasar-dunia-inalum-perkenalkan-green-aluminium",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "HAIS Raih Best Transportation & Logistic Sector EmitenNews Awards 2026",
+      "url": "https://emitennews.com/news/hais-raih-best-transportation-logistic-sector-emitennews-awards-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Sesi I (29/9) Perkecil Pelemahan ke 6.134, 3 Sektor Balik Menguat",
+      "url": "https://emitennews.com/news/ihsg-sesi-i-299-perkecil-pelemahan-ke-6134-3-sektor-balik-menguat",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Tertekan, Borong Saham ENRG, AADI, PTBA, dan MEDC",
+      "url": "https://emitennews.com/news/ihsg-tertekan-borong-saham-enrg-aadi-ptba-dan-medc",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Jadi Pengendali, Kharisma Cipta Towerindo Tambah Porsi Saham BALI",
+      "url": "https://emitennews.com/news/jadi-pengendali-kharisma-cipta-towerindo-tambah-porsi-saham-bali",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kabar Baik! Gaji PPPK Pemda 2027 Resmi Ditanggung Pemerintah Pusat",
+      "url": "https://emitennews.com/news/kabar-baik-gaji-pppk-pemda-2027-resmi-ditanggung-pemerintah-pusat",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "INPS Buka Suara ke BEI Soal Ekuitas Negatif, Siapkan Rencana Ini",
+      "url": "https://emitennews.com/news/inps-buka-suara-ke-bei-soal-ekuitas-negatif-siapkan-rencana-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kejar Target PLTS 100 Gigawatt, Menko Airlangga Dorong Revisi RUPTL",
+      "url": "https://emitennews.com/news/kejar-target-plts-100-gigawatt-menko-airlangga-dorong-revisi-ruptl",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Lonjakan Harga Minyak Tahan Emas di USD4.100",
+      "url": "https://emitennews.com/news/lonjakan-harga-minyak-tahan-emas-di-usd4100",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Mulai 10 Oktober TransNusa Terbangi Lagi Rute Makassar-Manado",
+      "url": "https://emitennews.com/news/mulai-10-oktober-transnusa-terbangi-lagi-rute-makassar-manado",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "November, INKP Lunasi Tiga Surat Utang Rp1,04 Triliun dan USD900 Ribu",
+      "url": "https://emitennews.com/news/november-inkp-lunasi-tiga-surat-utang-rp104-triliun-dan-usd900-ribu",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "RUPS Toba Surimi (CRAB) Pilih Dirut Baru Lalu Bayar Dividen 29 Oktober",
+      "url": "https://emitennews.com/news/rups-toba-surimi-crab-pilih-dirut-baru-lalu-bayar-dividen-29-oktober",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "PTBA Manfaatkan DHE SDA Rp6T dari Mandiri dan BRI untuk Modal Kerja",
+      "url": "https://emitennews.com/news/ptba-manfaatkan-dhe-sda-rp6t-dari-mandiri-dan-bri-untuk-modal-kerja",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Sempat Tertunda, Waskita (WSKT) Akhirnya Lunasi Obligasi Rp722 M",
+      "url": "https://emitennews.com/news/sempat-tertunda-waskita-wskt-akhirnya-lunasi-obligasi-rp722-m",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Terus Tambah Porsi, Ram Punjabi Kini Kuasai 68,84 Persen Saham RAAM",
+      "url": "https://emitennews.com/news/terus-tambah-porsi-ram-punjabi-kini-kuasai-6884-persen-saham-raam",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "VKTR Gaspol Right Issue Rp3 Triliun, Cek Jadwalnya",
+      "url": "https://emitennews.com/news/vktr-gaspol-right-issue-rp3-triliun-cek-jadwalnya",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Waskita Karya (WSKT) Lunasi Obligasi Rp722M, Tempuh Mekanisme Ini",
+      "url": "https://emitennews.com/news/waskita-karya-wskt-lunasi-obligasi-rp722m-tempuh-mekanisme-ini",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    }
+  ]
+}
