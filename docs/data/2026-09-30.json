@@ -1,0 +1,212 @@
+{
+  "tanggal": "2026-09-30",
+  "dibuat_pada": "2026-09-30 21:37 WIB",
+  "jumlah_artikel": 28,
+  "saham_disebut": {
+    "BBTN": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BRIS": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BSWD": [
+      "Keuangan (rating 6/7)"
+    ],
+    "DSSA": [
+      "Teknologi (rating 5/7)"
+    ],
+    "TLKM": [
+      "Teknologi (rating 5/7)"
+    ],
+    "BBRM": [
+      "Energi (rating 5/7)"
+    ],
+    "TOWR": [
+      "Infrastruktur (rating 5/7)"
+    ],
+    "KOTA": [
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Dua bank besar, BBTN dan BRIS, mengumumkan rencana penggalangan modal signifikan melalui obligasi sosial dan rights issue, menunjukkan strategi pertumbuhan dan penguatan permodalan.",
+      "alasan": "Berita tentang PT Bank Tabungan Negara (BBTN) yang menerbitkan obligasi sosial Rp2 triliun dan PT Bank Syariah Indonesia (BRIS) yang merencanakan rights issue besar di awal 2027 menunjukkan aktivitas positif dan strategi pertumbuhan dari pemain kunci di sektor perbankan. Ini mengindikasikan kepercayaan diri dalam prospek bisnis dan upaya penguatan struktur permodalan, yang secara keseluruhan memberikan sentimen positif bagi sektor keuangan, ditambah dengan penguatan IHSG secara umum.",
+      "analisis_saham": "BBTN: Rencana penawaran obligasi sosial senilai Rp2 triliun dengan kupon menarik menunjukkan upaya bank dalam penggalangan dana untuk mendukung operasional dan inisiatif sosial, yang dapat meningkatkan kapasitas pinjaman dan kinerja jangka panjang. Berita ini berdampak positif bagi BBTN karena memperlihatkan strategi pendanaan yang aktif."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Berita hari ini menyoroti pertumbuhan kuat platform digital Ajaib Kripto dan peningkatan penjualan internet oleh DSSA, di tengah perubahan manajemen di TLKM.",
+      "alasan": "Pertumbuhan signifikan di segmen platform digital dan layanan internet menunjukkan momentum positif dalam adopsi teknologi di Indonesia. Meskipun perubahan manajemen di pemain besar seperti TLKM dapat membawa ketidakpastian jangka pendek, tren pertumbuhan fundamental di segmen digital memberikan sentimen cenderung positif bagi sektor teknologi.",
+      "analisis_saham": "DSSA (PT Dian Swastatika Sentosa Tbk): Berita menunjukkan lonjakan sales di segmen internet, mengindikasikan diversifikasi bisnis yang sukses ke arah digital. Sentimen ini positif untuk DSSA, menandakan potensi pertumbuhan di luar bisnis tradisionalnya."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bina Buana Raya (BBRM) melakukan investasi dalam armada kapal Anchor Handling Tug Supply (AHTS) yang melayani industri minyak dan gas lepas pantai.",
+      "alasan": "Akuisisi kapal AHTS oleh BBRM, meskipun perusahaan transportasi, mengindikasikan potensi peningkatan aktivitas dan permintaan di segmen pendukung eksplorasi dan produksi energi lepas pantai. Namun, sentimen ini bersifat sangat spesifik dan tidak memiliki dampak langsung yang kuat terhadap seluruh sub-sektor energi yang lebih luas, sehingga pergerakan sektor cenderung positif terbatas.",
+      "analisis_saham": "Pembelian kapal AHTS oleh BBRM menunjukkan ekspansi perusahaan dan kepercayaan terhadap prospek pasar jasa pendukung industri minyak dan gas lepas pantai. Hal ini berpotensi positif bagi kinerja pendapatan BBRM di masa mendatang karena menunjukkan antisipasi peningkatan kontrak dan aktivitas di sektor tersebut."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Sektor infrastruktur mendapatkan sentimen positif dari pembelian kembali saham perusahaan menara telekomunikasi, peningkatan aktivitas pelabuhan, serta dukungan pembiayaan bagi kontraktor, meskipun pasar secara umum mengalami tekanan jual asing.",
+      "alasan": "Berita buyback saham TOWR menunjukkan kepercayaan terhadap valuasi perusahaan di sektor infrastruktur telekomunikasi. Peningkatan layanan di Pelabuhan Patimban mengindikasikan pertumbuhan aktivitas logistik dan pemanfaatan infrastruktur pelabuhan. Kolaborasi Askrindo-Bank Kalsel juga secara langsung mendukung kegiatan kontraktor dan jasa konstruksi, yang merupakan inti dari pengembangan infrastruktur.",
+      "analisis_saham": "TOWR (PT Sarana Menara Nusantara Tbk): Rencana pembelian kembali saham (buyback) senilai Rp500 miliar adalah sentimen positif yang kuat bagi TOWR. Aksi korporasi ini menunjukkan keyakinan manajemen terhadap valuasi dan prospek pertumbuhan perusahaan di sektor menara telekomunikasi. Hal ini berpotensi menopang atau mendorong kenaikan harga saham TOWR pada perdagangan berikutnya."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "10 Hari Dikunci, Saham Terbang Ribuan Persen Ini Jatuh ARB Usai Dibuka",
+      "url": "https://emitennews.com/news/10-hari-dikunci-saham-terbang-ribuan-persen-ini-jatuh-arb-usai-dibuka",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BBTN Mulai Tawarkan 2 Seri Obligasi Sosial, Kupon Bunga hingga 7,25%",
+      "url": "https://emitennews.com/news/bbtn-mulai-tawarkan-2-seri-obligasi-sosial-kupon-bunga-hingga-725",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bina Buana Raya (BBRM) Tambah Armada, Beli Kapal AHTS USD12,1 Juta",
+      "url": "https://emitennews.com/news/bina-buana-raya-bbrm-tambah-armada-beli-kapal-ahts-usd121-juta",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BRIS Rencanakan Rights Issue di Q1 2027, Restu Ada di RUPSLB",
+      "url": "https://emitennews.com/news/bris-rencanakan-rights-issue-di-q1-2027-restu-ada-di-rupslb",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "5 Saham Masuk Radar Pengawasan BEI, Ada BSWD yang ARA hingga SOSS ARB",
+      "url": "https://emitennews.com/news/5-saham-masuk-radar-pengawasan-bei-ada-bswd-yang-ara-hingga-soss-arb",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ajaib Catat 741 Aset Kripto, Terbanyak di Indonesia, Ini Rinciannya!",
+      "url": "https://emitennews.com/news/ajaib-catat-741-aset-kripto-terbanyak-di-indonesia-ini-rinciannya",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bursa Siang Masih Menguat, IHSG Mendarat di 6.130",
+      "url": "https://emitennews.com/news/bursa-siang-masih-menguat-ihsg-mendarat-di-6130",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Efek Minyak Turun, Rupiah Menguat 82 Poin Pagi Ini",
+      "url": "https://emitennews.com/news/efek-minyak-turun-rupiah-menguat-82-poin-pagi-ini",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Emiten Grup Djarum (TOWR) Buyback Saham Rp500 Miliar Mulai Hari Ini",
+      "url": "https://emitennews.com/news/emiten-grup-djarum-towr-buyback-saham-rp500-miliar-mulai-hari-ini",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "GGRM Kini Mandiri Kelola Bandara Dhoho Kediri, Ini Tahapan Transisinya",
+      "url": "https://emitennews.com/news/ggrm-kini-mandiri-kelola-bandara-dhoho-kediri-ini-tahapan-transisinya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Emiten Prajogo (CDIA) Cum Dividen Hari Ini, Nilainya Segini",
+      "url": "https://emitennews.com/news/emiten-prajogo-cdia-cum-dividen-hari-ini-nilainya-segini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "DMS Propertindo (KOTA) dan CLIEC Mulai Eksekusi Urbana Hub di Surabaya",
+      "url": "https://emitennews.com/news/dms-propertindo-kota-dan-cliec-mulai-eksekusi-urbana-hub-di-surabaya",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Layanan Pelabuhan Patimban, Jepang Perluas Ekspor Kendaraan ke Meksiko",
+      "url": "https://emitennews.com/news/layanan-pelabuhan-patimban-jepang-perluas-ekspor-kendaraan-ke-meksiko",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Lonjakan Sales Energi Hijau & Internet, DSSA Lepas Bayang Batu Bara?",
+      "url": "https://emitennews.com/news/lonjakan-sales-energi-hijau-internet-dssa-lepas-bayang-batu-bara",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kolaborasi Askrindo-Bank Kalsel, Untuk Kontraktor dan Jasa Konstruksi",
+      "url": "https://emitennews.com/news/kolaborasi-askrindo-bank-kalsel-untuk-kontraktor-dan-jasa-konstruksi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pemegang Saham Terbesar PEGE Kurangi Kepemilikan, Raup Rp29,64 Miliar",
+      "url": "https://emitennews.com/news/pemegang-saham-terbesar-pege-kurangi-kepemilikan-raup-rp2964-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Net Sell Rp677,4 Miliar di Sesi I, Asing Kembali Seret IHSG di Sesi II",
+      "url": "https://emitennews.com/news/net-sell-rp6774-miliar-di-sesi-i-asing-kembali-seret-ihsg-di-sesi-ii",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pelaporan Pajak jadi Kendala Pekerja Industri Kreatif, Ini Masalahnya",
+      "url": "https://emitennews.com/news/pelaporan-pajak-jadi-kendala-pekerja-industri-kreatif-ini-masalahnya",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Perkuat Investasi, Direktur Ini Akumulasi Saham Paragon Karya (PKPK)",
+      "url": "https://emitennews.com/news/perkuat-investasi-direktur-ini-akumulasi-saham-paragon-karya-pkpk",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Produk Emas BCA Syariah Melejit 81%, Kinerja Konsumer Tumbuh 34 Persen",
+      "url": "https://emitennews.com/news/produk-emas-bca-syariah-melejit-81-kinerja-konsumer-tumbuh-34-persen",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Saham Edwin Soeryadjaya Berbalik Laba, Nikel Jadi Tulang Punggung MDKA",
+      "url": "https://emitennews.com/news/saham-edwin-soeryadjaya-berbalik-laba-nikel-jadi-tulang-punggung-mdka",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Sambut Buyback, Saham Emiten Tower Grup Djarum Melesat 3,06 Persen",
+      "url": "https://emitennews.com/news/sambut-buyback-saham-emiten-tower-grup-djarum-melesat-306-persen",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Target Merger KAI Dibayangi Utang INKA Rp4,7T, Ini Solusi Danantara",
+      "url": "https://emitennews.com/news/target-merger-kai-dibayangi-utang-inka-rp47t-ini-solusi-danantara",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tersangka Kelima Kasus Korupsi Nikel Rp401M, Ternyata Komisaris AMMN",
+      "url": "https://emitennews.com/news/tersangka-kelima-kasus-korupsi-nikel-rp401m-ternyata-komisaris-ammn",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tiga Hari Beruntun Saham GOTO Bawah Gocap, Apa Kabar Fundamentalnya?",
+      "url": "https://emitennews.com/news/tiga-hari-beruntun-saham-goto-bawah-gocap-apa-kabar-fundamentalnya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "TLKM Ubah Pengurus, Dian Siswarini Diganti Nanang Hendarno",
+      "url": "https://emitennews.com/news/tlkm-ubah-pengurus-dian-siswarini-diganti-nanang-hendarno",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Tutup September, IHSG Merosot ke 6.071, Emiten Hary Tanoe Top Losers",
+      "url": "https://emitennews.com/news/tutup-september-ihsg-merosot-ke-6071-emiten-hary-tanoe-top-losers",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Untuk Modal Kerja, PTBA Tambah Utang Jumbo Rp6T dari BRI dan BMRI",
+      "url": "https://emitennews.com/news/untuk-modal-kerja-ptba-tambah-utang-jumbo-rp6t-dari-bri-dan-bmri",
+      "sektor": "Keuangan, Energi"
+    }
+  ]
+}
