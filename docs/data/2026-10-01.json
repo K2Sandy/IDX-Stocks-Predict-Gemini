@@ -1,0 +1,203 @@
+{
+  "tanggal": "2026-10-01",
+  "dibuat_pada": "2026-10-01 22:06 WIB",
+  "jumlah_artikel": 27,
+  "saham_disebut": {
+    "BSWD": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BMRI": [
+      "Keuangan (rating 6/7)",
+      "Teknologi (rating 5/7)"
+    ],
+    "TLKM": [
+      "Teknologi (rating 5/7)",
+      "Infrastruktur (rating 5/7)"
+    ],
+    "SMMT": [
+      "Energi (rating 3/7)"
+    ],
+    "TEBE": [
+      "Energi (rating 3/7)"
+    ],
+    "ADHI": [
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Sektor keuangan didukung oleh pertumbuhan signifikan jumlah investor, keberhasilan inovasi digital perbankan, dan rencana pemerintah untuk stimulus KPR, meskipun ada satu bank yang tersuspensi.",
+      "alasan": "Peningkatan jumlah investor hingga 32 juta dan minat sekuritas pada short selling menunjukkan aktivitas pasar modal yang meningkat, berpotensi menaikkan pendapatan biaya bagi AB dan manajer aset. Keberhasilan Livin’ by Mandiri dan program KPR subsidi pemerintah juga akan mendorong pertumbuhan kredit serta basis nasabah perbankan, memberikan sentimen positif yang kuat bagi sektor secara keseluruhan.",
+      "analisis_saham": "PT Bank Of India Indonesia Tbk (BSWD) tersuspensi dari perdagangan akibat kenaikan harga masif, yang berarti likuiditas saham ini akan terhenti sementara, namun underlying reasonnya menunjukkan minat investor sebelumnya. PT Bank Mandiri (Persero) Tbk (BMRI) menerima sentimen sangat positif dari keberhasilan platform digital Livin' by Mandiri yang mencapai 42,1 juta pengguna dan memperluas solusi investasi serta pembiayaan, menunjukkan pertumbuhan bisnis digital yang kuat dan potensi peningkatan pendapatan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Inovasi digital di sektor keuangan melalui Livin’ by Mandiri menunjukkan pertumbuhan pengguna yang kuat, sementara Telkom (TLKM) mengalami perubahan kepemimpinan.",
+      "alasan": "Pertumbuhan signifikan pengguna Livin’ by Mandiri mencerminkan adopsi teknologi finansial yang positif dan mendukung sentimen pasar terhadap inovasi digital di Indonesia. Keberhasilan platform digital ini memberikan dorongan positif terhadap ekosistem teknologi secara keseluruhan, meskipun berita perubahan kepemimpinan TLKM bersifat netral.",
+      "analisis_saham": "TLKM:** Penunjukan Direktur Utama baru oleh RUPSLB Telkom Indonesia (TLKM) merupakan peristiwa korporasi yang penting. Meskipun belum ada rincian strategis baru, pergantian kepemimpinan dapat memicu harapan akan arah baru atau peningkatan kinerja, memberikan sentimen netral hingga sedikit positif."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Bursa Efek Indonesia menangguhkan perdagangan saham dua emiten terkait sektor energi, SMMT dan TEBE, setelah keduanya mencatat kenaikan harga yang signifikan secara berhari-hari.",
+      "alasan": "Penangguhan saham-saham yang melonjak tinggi di sektor energi, meskipun disebabkan oleh kenaikan masif, dapat memicu sentimen kehati-hatian di kalangan investor. Hal ini berpotensi meredam antusiasme spekulatif dan mendorong konsolidasi atau profit taking pada saham-saham energi lainnya yang telah mengalami kenaikan serupa.",
+      "analisis_saham": "SMMT (PT Golden Eagle Energy Tbk):** Saham perusahaan tambang batu bara ini telah ditangguhkan perdagangannya oleh BEI karena kenaikan harga yang signifikan secara berhari-hari. Hal ini berarti tidak ada perdagangan untuk saham SMMT hingga pengumuman lebih lanjut, menghentikan momentum kenaikan sementara."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "PT Adhi Karya (ADHI) melakukan divestasi aset yang signifikan, sementara isu pendanaan infrastruktur Jakarta melalui obligasi daerah menjadi kurang pasti.",
+      "alasan": "Divestasi saham minoritas oleh ADHI menunjukkan upaya monetisasi aset dan perbaikan struktur permodalan bagi salah satu pemain kunci di sektor infrastruktur, memberikan sentimen positif. Meskipun terdapat ketidakpastian mengenai rencana penerbitan obligasi daerah Jakarta sebagai alternatif pendanaan, dampak positif dari aksi korporasi ADHI cenderung lebih langsung terasa.",
+      "analisis_saham": "ADHI: Penjualan saham minoritas PT Jasamarga Jogja Solo senilai Rp1,76 triliun akan memperkuat posisi keuangan ADHI, meningkatkan likuiditas, dan berpotensi mengurangi beban utang, sehingga memberikan sentimen positif bagi harga sahamnya."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "5 Saham Kompak Tersuspensi Usai Catatkan Kenaikan Berhari-hari",
+      "url": "https://emitennews.com/news/5-saham-kompak-tersuspensi-usai-catatkan-kenaikan-berhari-hari",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bos BEI Ungkap Ada 2 Sekuritas Lagi yang Berminat Adopsi Short Selling",
+      "url": "https://emitennews.com/news/bos-bei-ungkap-ada-2-sekuritas-lagi-yang-berminat-adopsi-short-selling",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bisnis Tiket Pesawat GIAA Rugi, Bengkel & Katering Justru Moncer",
+      "url": "https://emitennews.com/news/bisnis-tiket-pesawat-giaa-rugi-bengkel-katering-justru-moncer",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Adhi Karya (ADHI) Jual Saham Senilai Rp1,9 Triliun",
+      "url": "https://emitennews.com/news/adhi-karya-adhi-jual-saham-senilai-rp19-triliun",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "5 Tahun Inovasi, Livin’ by Mandiri Beri Solusi Investasi & Pembiayaan",
+      "url": "https://emitennews.com/news/5-tahun-inovasi-livin-by-mandiri-beri-solusi-investasi-pembiayaan",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "2027, Ada KPR Subsidi Bunga 6% Untuk Pekerja Berpenghasilan Rp17 Juta",
+      "url": "https://emitennews.com/news/2027-ada-kpr-subsidi-bunga-6-untuk-pekerja-berpenghasilan-rp17-juta",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dekati Target, BEI Sebut Per September Jumlah Investor Nyaris 32 Juta",
+      "url": "https://emitennews.com/news/dekati-target-bei-sebut-per-september-jumlah-investor-nyaris-32-juta",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ditunjuk Pimpin Telkom (TLKM) Begini Jejak Profesional Nanang Hendarno",
+      "url": "https://emitennews.com/news/ditunjuk-pimpin-telkom-tlkm-begini-jejak-profesional-nanang-hendarno",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BRNA Siapkan Rights Issue Rp372,6 Miliar, Ada Bonus Waran Seri I",
+      "url": "https://emitennews.com/news/brna-siapkan-rights-issue-rp3726-miliar-ada-bonus-waran-seri-i",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Emiten Sarang Walet (RLCO) Mulai Jajaki Ekspansi di Pasar Domestik",
+      "url": "https://emitennews.com/news/emiten-sarang-walet-rlco-mulai-jajaki-ekspansi-di-pasar-domestik",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Hari Pertama Short Selling, Baru 1 dari 5 Saham Aktif Ditransaksikan",
+      "url": "https://emitennews.com/news/hari-pertama-short-selling-baru-1-dari-5-saham-aktif-ditransaksikan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Diproyeksi Rebound Awal Oktober, Perbankan & Energi Jadi Sorotan",
+      "url": "https://emitennews.com/news/ihsg-diproyeksi-rebound-awal-oktober-perbankan-energi-jadi-sorotan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Sempat Sentuh Level 5.973, BBCA Turun ke Rp6.000, GOTO Teraktif",
+      "url": "https://emitennews.com/news/ihsg-sempat-sentuh-level-5973-bbca-turun-ke-rp6000-goto-teraktif",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Terseak-seok, Ditutup Anjlok 1% Lebih Kala Ada Reshuffle Kabinet",
+      "url": "https://emitennews.com/news/ihsg-terseak-seok-ditutup-anjlok-1-lebih-kala-ada-reshuffle-kabinet",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Inflasi, Bursa Siang Awal Oktober Melengos Turun ke Dasar Level 6.000!",
+      "url": "https://emitennews.com/news/inflasi-bursa-siang-awal-oktober-melengos-turun-ke-dasar-level-6000",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Ini Masalah Serius, Industri Batik Indonesia Hadapi Regenerasi Perajin",
+      "url": "https://emitennews.com/news/ini-masalah-serius-industri-batik-indonesia-hadapi-regenerasi-perajin",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Jembatan Modal Korea-RI, KISI Catat Kenaikan Jumlah Rekening Saham",
+      "url": "https://emitennews.com/news/jembatan-modal-korea-ri-kisi-catat-kenaikan-jumlah-rekening-saham",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Jual Kestrel, AADI Raup USD735 juta dan Potensi Tambahan USD550 Juta",
+      "url": "https://emitennews.com/news/jual-kestrel-aadi-raup-usd735-juta-dan-potensi-tambahan-usd550-juta",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Lepas 3,7 Juta Lembar, Pengendali Ini Masih Miliki 10,40% Saham MPRO",
+      "url": "https://emitennews.com/news/lepas-37-juta-lembar-pengendali-ini-masih-miliki-1040-saham-mpro",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Mantan Gubernur BI Ini Lepas Kursi Dirut Sinar Mas Multiartha (SMMA)",
+      "url": "https://emitennews.com/news/mantan-gubernur-bi-ini-lepas-kursi-dirut-sinar-mas-multiartha-smma",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Pekerja Bergaji di Bawah Rp10 Juta, Ini Insentif Pemerintah di 2027",
+      "url": "https://emitennews.com/news/pekerja-bergaji-di-bawah-rp10-juta-ini-insentif-pemerintah-di-2027",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pendapatan Gacor di Semester I 2026, Kok Garuda Indonesia Masih Tekor?",
+      "url": "https://emitennews.com/news/pendapatan-gacor-di-semester-i-2026-kok-garuda-indonesia-masih-tekor",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Perusahaan Terkendali CNKO Suntik Modal ke Dua Anak Usaha",
+      "url": "https://emitennews.com/news/perusahaan-terkendali-cnko-suntik-modal-ke-dua-anak-usaha",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Presiden Lantik Kapolri Pengganti Listyo Sigit Prabowo Siang Ini",
+      "url": "https://emitennews.com/news/presiden-lantik-kapolri-pengganti-listyo-sigit-prabowo-siang-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Preskom dan Direktur LINK Ajukan Resign Bareng di Awal Oktober",
+      "url": "https://emitennews.com/news/preskom-dan-direktur-link-ajukan-resign-bareng-di-awal-oktober",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Soal Rencana Penerbitan Jakarta Bond, Gubernur Pramono Mulai Melunak",
+      "url": "https://emitennews.com/news/soal-rencana-penerbitan-jakarta-bond-gubernur-pramono-mulai-melunak",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tahir Jual 45,17 Juta Saham MPRO di Sepanjang September, Serok Rp548M!",
+      "url": "https://emitennews.com/news/tahir-jual-4517-juta-saham-mpro-di-sepanjang-september-serok-rp548m",
+      "sektor": "Keuangan, Teknologi, Energi"
+    }
+  ]
+}
