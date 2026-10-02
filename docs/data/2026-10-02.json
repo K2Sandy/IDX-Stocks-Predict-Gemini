@@ -1,0 +1,310 @@
+{
+  "tanggal": "2026-10-02",
+  "dibuat_pada": "2026-10-02 21:32 WIB",
+  "jumlah_artikel": 47,
+  "saham_disebut": {
+    "AMAR": [
+      "Keuangan (rating 5/7)"
+    ],
+    "TUGU": [
+      "Keuangan (rating 5/7)"
+    ],
+    "OBAT": [
+      "Teknologi (rating 6/7)"
+    ],
+    "GOTO": [
+      "Teknologi (rating 6/7)"
+    ],
+    "WIFI": [
+      "Teknologi (rating 6/7)"
+    ],
+    "ADHI": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "SEMA": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "FUTR": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bursa Efek Indonesia mulai menerapkan Intraday Short Selling (IDSS) yang berpotensi meningkatkan likuiditas pasar, diiringi dengan restrukturisasi strategis dan penguatan tata kelola di beberapa entitas keuangan.",
+      "alasan": "Penerapan IDSS oleh BEI dapat mendorong peningkatan volume transaksi di pasar, yang secara umum menguntungkan sektor keuangan, terutama perusahaan sekuritas. Selain itu, langkah-langkah korporasi seperti pengangkatan direktur baru dan pengalihan portofolio syariah menunjukkan adaptasi dan perbaikan tata kelola yang positif.",
+      "analisis_saham": "AMAR: Pengangkatan Direktur Kepatuhan baru di PT Bank Amar Indonesia Tbk menunjukkan komitmen terhadap tata kelola perusahaan yang baik dan kepatuhan regulasi, memberikan sentimen positif terhadap kredibilitas dan stabilitas perusahaan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Sentimen positif yang kuat dari kenaikan harga dan volume transaksi masif GOTO, ditambah aksi korporasi positif OBAT, mendominasi berita sektor teknologi hari ini.",
+      "alasan": "Kinerja GOTO yang signifikan dengan volume transaksi yang tinggi memberikan dorongan momentum yang kuat bagi indeks sektor teknologi secara keseluruhan. Dukungan dari berita positif OBAT turut memperkuat sentimen kenaikan sektor, mengesampingkan potensi ketidakpastian minor dari WIFI.",
+      "analisis_saham": "OBAT: PT Brigit Biofarmaka Teknologi Tbk (OBAT) diperkirakan akan mendapat sentimen positif. Penambahan modal untuk anak usaha akan memperkuat struktur permodalan dan operasional, yang bisa meningkatkan kepercayaan investor."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Tidak ada berita spesifik yang berkaitan langsung dengan sektor Energi (minyak, gas, batubara, energi terbarukan) dalam kumpulan berita hari ini.",
+      "alasan": "Tanpa adanya berita yang secara langsung mempengaruhi fundamental atau sentimen pasar untuk perusahaan-perusahaan di sektor energi, tidak ada pendorong yang jelas untuk pergerakan indeks sektor ini. Oleh karena itu, diperkirakan akan bergerak netral.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Emiten infrastruktur utama seperti ADHI melakukan restrukturisasi untuk perbaikan finansial, sementara perusahaan lain seperti SEMA dan FUTR menunjukkan pertumbuhan dan ekspansi signifikan di segmen digital dan air bersih.",
+      "alasan": "Berita hari ini menyoroti perbaikan fundamental pada emiten infrastruktur besar melalui restrukturisasi dan penjualan aset strategis, serta pertumbuhan yang kuat di segmen infrastruktur digital dan ekspansi ke bisnis air bersih. Ini menciptakan sentimen optimis terhadap prospek dan investasi di sektor infrastruktur secara keseluruhan.",
+      "analisis_saham": "ADHI: PT Adhi Karya (Persero) Tbk (ADHI) mendapat sentimen sangat positif. Perseroan menjual dua aset (Jasamarga Jogja Solo dan Dumai Tirta Persada) untuk merampingkan portofolio dan memperkuat likuiditas, sekaligus mendapatkan restu investor atas restrukturisasi dan penyehatan. Langkah ini menunjukkan upaya perbaikan fundamental dan fokus pada bisnis inti."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pelaksanaan program-program prioritas pemerintah terkait kesejahteraan sosial dan perumahan menunjukkan kemajuan dan penerimaan positif dari masyarakat.",
+      "alasan": "Berita mengenai peninjauan program Bantuan Stimulan Perumahan Swadaya oleh Mendagri dan perubahan insentif program Makan Bergizi Gratis yang dinilai lebih adil, menunjukkan komitmen pemerintah dalam menjaga stabilitas sosial dan meningkatkan kesejahteraan. Hal ini berpotensi membangun kepercayaan publik dan memberikan sentimen positif bagi stabilitas ekonomi secara makro.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Kata Mantan Wasit FIFA soal Tambahan Waktu Timnas Indonesia vs Bangladesh",
+      "url": "https://bola.kompas.com/read/2026/10/02/21250048/kata-mantan-wasit-fifa-soal-tambahan-waktu-timnas-indonesia-vs-bangladesh",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "ADHI Jual 2 Aset Sekaligus, Rampingkan Portofolio & Perkuat Likuiditas",
+      "url": "https://emitennews.com/news/adhi-jual-2-aset-sekaligus-rampingkan-portofolio-perkuat-likuiditas",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bank Amar Indonesia (AMAR) Angkat Direktur Kepatuhan Baru",
+      "url": "https://emitennews.com/news/bank-amar-indonesia-amar-angkat-direktur-kepatuhan-baru",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Akuisisi DOOH Cuma Rp50, Pengendali Baru Siapkan MTO Rp148 per Saham",
+      "url": "https://emitennews.com/news/akuisisi-dooh-cuma-rp50-pengendali-baru-siapkan-mto-rp148-per-saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ada Rocky Gerung dalam Wantimpres yang Dipimpin Eks Menko Pratikno",
+      "url": "https://emitennews.com/news/ada-rocky-gerung-dalam-wantimpres-yang-dipimpin-eks-menko-pratikno",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Akhirnya, Asuransi Tugu (TUGU) Alihkan Portofolio UUS ke Danantara",
+      "url": "https://emitennews.com/news/akhirnya-asuransi-tugu-tugu-alihkan-portofolio-uus-ke-danantara",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BEI Terapkan Intraday Short Selling (IDSS), Telisik Mekanismenya",
+      "url": "https://emitennews.com/news/bei-terapkan-intraday-short-selling-idss-telisik-mekanismenya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Brigit Biofarmaka (OBAT) Tambah Modal Denbo Higienis Rp5,4 Miliar",
+      "url": "https://emitennews.com/news/brigit-biofarmaka-obat-tambah-modal-denbo-higienis-rp54-miliar",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bukan Sekadar Estetik, Desain Hunian Harus Bernilai Bisnis",
+      "url": "https://emitennews.com/news/bukan-sekadar-estetik-desain-hunian-harus-bernilai-bisnis",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Berkah Proyek Data Center, Laba & Pendapatan SEMA Diproyeksi Meningkat",
+      "url": "https://emitennews.com/news/berkah-proyek-data-center-laba-pendapatan-sema-diproyeksi-meningkat",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Diumumkan UMA, BEI Pantau Saham-Saham Ini",
+      "url": "https://emitennews.com/news/diumumkan-uma-bei-pantau-saham-saham-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Debut Asesmen S&P Global, AVIA Raih Skor ESG Lewati Rata-Rata Industri",
+      "url": "https://emitennews.com/news/debut-asesmen-sp-global-avia-raih-skor-esg-lewati-rata-rata-industri",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ekonom Senior Ini Perkuat Kemenko Perekonomian, Kita Tunggu Kiprahnya",
+      "url": "https://emitennews.com/news/ekonom-senior-ini-perkuat-kemenko-perekonomian-kita-tunggu-kiprahnya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ekspansi ke Bisnis Air Bersih, FUTR Bidik Pendapatan Stabil & Berulang",
+      "url": "https://emitennews.com/news/ekspansi-ke-bisnis-air-bersih-futr-bidik-pendapatan-stabil-berulang",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Empat Saham Lepas Kuncian BEI: 3 Lanjut Menguat, 1 ARA",
+      "url": "https://emitennews.com/news/empat-saham-lepas-kuncian-bei-3-lanjut-menguat-1-ara",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "HUT ke-28, Bank Mandiri (BMRI) Bayar Dividen Interim Rp6,16 Triliun",
+      "url": "https://emitennews.com/news/hut-ke-28-bank-mandiri-bmri-bayar-dividen-interim-rp616-triliun",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Rebound ke 6.036, GOTO Rajai Transaksi, Harganya Terbang!",
+      "url": "https://emitennews.com/news/ihsg-rebound-ke-6036-goto-rajai-transaksi-harganya-terbang",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IHSG Siang (2/10) Jebol ke Bawah 6.000, GOTO Terbebas–DADA Masih ARB",
+      "url": "https://emitennews.com/news/ihsg-siang-210-jebol-ke-bawah-6000-goto-terbebasdada-masih-arb",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Investor Restui Restrukturisasi, dan Penyehatan ADHI",
+      "url": "https://emitennews.com/news/investor-restui-restrukturisasi-dan-penyehatan-adhi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Komut Hashim Mundur dari WIFI, Perseroan Ungkap Ini",
+      "url": "https://emitennews.com/news/komut-hashim-mundur-dari-wifi-perseroan-ungkap-ini",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kapolri Baru Suyudi, Perisai Biaya Siluman Agar Investasi Nyaman",
+      "url": "https://emitennews.com/news/kapolri-baru-suyudi-perisai-biaya-siluman-agar-investasi-nyaman",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Noel Jual 125 Ribu Saham DRMA, Begini Kronologinya",
+      "url": "https://emitennews.com/news/noel-jual-125-ribu-saham-drma-begini-kronologinya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pengendali Boyong 22,84 Juta Saham PACK, H Isam Masih Pegang?",
+      "url": "https://emitennews.com/news/pengendali-boyong-2284-juta-saham-pack-h-isam-masih-pegang",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Saham HSC Kini Jadi 61, Kenapa Dikuasai Bank & Bisnis Keluarga?",
+      "url": "https://emitennews.com/news/saham-hsc-kini-jadi-61-kenapa-dikuasai-bank-bisnis-keluarga",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Sidang Perdana Febrie Adriansyah 7 Oktober, Kasus Korupsi dan TPPU",
+      "url": "https://emitennews.com/news/sidang-perdana-febrie-adriansyah-7-oktober-kasus-korupsi-dan-tppu",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Tambah Porsi, Eco Energi Beli 22,84 Juta Saham Abadi Nusantara (PACK)",
+      "url": "https://emitennews.com/news/tambah-porsi-eco-energi-beli-2284-juta-saham-abadi-nusantara-pack",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "\"Sedih, Masa Perempuan Didorong Laki Ramai-ramai\" Pilu Keluarga Wanita Dituduh Curi Amplop Hajatan",
+      "url": "https://megapolitan.kompas.com/read/2026/10/02/21164331/sedih-masa-perempuan-didorong-laki-ramai-ramai-pilu-keluarga-wanita",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Tambah Porsi, Tunggal Jaya Kini Kuasai 38,49 Persen Saham IMPC",
+      "url": "https://emitennews.com/news/tambah-porsi-tunggal-jaya-kini-kuasai-3849-persen-saham-impc",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kasus Keributan di Cikunir Bekasi Berakhir Restorative Justice, 2 Tersangka Dibebaskan",
+      "url": "https://megapolitan.kompas.com/read/2026/10/02/21122581/kasus-keributan-di-cikunir-bekasi-berakhir-restorative-justice-2",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Dokumen Resmi dari Bupati Sigi Ditemukan Jadi Bungkus Nasi Pecel di Jakarta",
+      "url": "https://megapolitan.kompas.com/read/2026/10/02/21193741/dokumen-resmi-dari-bupati-sigi-ditemukan-jadi-bungkus-nasi-pecel-di",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Tax Holiday Berakhir, Pemerintah Siapkan Skema Baru Insentif Investasi",
+      "url": "https://emitennews.com/news/tax-holiday-berakhir-pemerintah-siapkan-skema-baru-insentif-investasi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bukan Tak Mau Punya Rumah, Ini Alasan Gen Z Menunda Beli Rumah",
+      "url": "https://megapolitan.kompas.com/read/2026/10/02/21233341/bukan-tak-mau-punya-rumah-ini-alasan-gen-z-menunda-beli-rumah",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "TLDN Bagi Dividen Interim Rp258,93 Miliar, Ini Jadwalnya!",
+      "url": "https://emitennews.com/news/tldn-bagi-dividen-interim-rp25893-miliar-ini-jadwalnya",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bluebird Perbarui MyBluebird, Pengguna Kini Bisa Pilih Beragam Layanan Mobilitas",
+      "url": "https://money.kompas.com/read/2026/10/02/210449426/bluebird-perbarui-mybluebird-pengguna-kini-bisa-pilih-beragam-layanan",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Gaji Manajer Kopdes Rp 6,8 Juta-Rp 8,3 Juta, Ini Skemanya",
+      "url": "https://money.kompas.com/read/2026/10/02/210530126/gaji-manajer-kopdes-rp-68-juta-rp-83-juta-ini-skemanya",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Apindo Khawatir Pembatasan Outsourcing Akan Dorong Pekerja ke Sektor Informal",
+      "url": "https://money.kompas.com/read/2026/10/02/211200826/apindo-khawatir-pembatasan-outsourcing-akan-dorong-pekerja-ke-sektor-informal",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Valuasi Terdiskon, GOTO Rebound",
+      "url": "https://emitennews.com/news/valuasi-terdiskon-goto-rebound",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Tingkat Pengangguran AS Naik Jadi 4,2 Persen pada September 2026",
+      "url": "https://money.kompas.com/read/2026/10/02/212526526/tingkat-pengangguran-as-naik-jadi-42-persen-pada-september-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Lima Tahun Merger Pelindo, Standardisasi Jadi Kunci Efisiensi",
+      "url": "https://money.kompas.com/read/2026/10/02/211744326/lima-tahun-merger-pelindo-standardisasi-jadi-kunci-efisiensi",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "Lantik 26 Wantimpres, Pengamat: Politik Prabowo Merangkul Semua Kalangan",
+      "url": "https://nasional.kompas.com/read/2026/10/02/21171421/lantik-26-wantimpres-pengamat-politik-prabowo-merangkul-semua-kalangan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Sukseskan Program Prioritas Presiden, Mendagri Tito Cek Langsung Program BSPS di Purwakarta",
+      "url": "https://nasional.kompas.com/read/2026/10/02/21183991/sukseskan-program-prioritas-presiden-mendagri-tito-cek-langsung-program-bsps",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Sengkarut Kecelakaan Kereta: Posisi Masinis, Masalah Sinyal, hingga Evaluasi Total",
+      "url": "https://nasional.kompas.com/read/2026/10/02/21141391/sengkarut-kecelakaan-kereta-posisi-masinis-masalah-sinyal-hingga-evaluasi",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "71 Hektar Lahan Padi di Rembang dan Brebes Gagal Panen Akibat Kekeringan, Kerugian Rp2,5 M",
+      "url": "https://regional.kompas.com/read/2026/10/02/211038078/71-hektar-lahan-padi-di-rembang-dan-brebes-gagal-panen-akibat-kekeringan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Pegawai Ngopi hingga Ngobrol Saat Upacara, Sekda Banten: Bakal Ditegur dan Dibina",
+      "url": "https://regional.kompas.com/read/2026/10/02/211317178/pegawai-ngopi-hingga-ngobrol-saat-upacara-sekda-banten-bakal-ditegur-dan",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Insentif SPPG Diganti Rp 2.000 Per Porsi, Mitra di Bangkalan: Itu Lebih Adil",
+      "url": "https://surabaya.kompas.com/read/2026/10/02/211221678/insentif-sppg-diganti-rp-2000-per-porsi-mitra-di-bangkalan-itu-lebih-adil",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Pelajar SD di Banyuwangi Diduga Jadi Korban Bullying, Video Kekerasan Viral",
+      "url": "https://surabaya.kompas.com/read/2026/10/02/212222078/pelajar-sd-di-banyuwangi-diduga-jadi-korban-bullying-video-kekerasan-viral",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Taman Hiburan Berusia 130 Tahun di Inggris Dinobatkan sebagai yang Terbaik di dunia",
+      "url": "https://travel.kompas.com/read/2026/10/02/210414527/taman-hiburan-berusia-130-tahun-di-inggris-dinobatkan-sebagai-yang-terbaik-di",
+      "sektor": "Keuangan"
+    }
+  ]
+}
