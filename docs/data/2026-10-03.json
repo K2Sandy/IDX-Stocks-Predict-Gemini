@@ -1,0 +1,183 @@
+{
+  "tanggal": "2026-10-03",
+  "dibuat_pada": "2026-10-03 20:01 WIB",
+  "jumlah_artikel": 24,
+  "saham_disebut": {
+    "BSWD": [
+      "Keuangan (rating 5/7)"
+    ],
+    "BMRI": [
+      "Keuangan (rating 5/7)"
+    ],
+    "BBHI": [
+      "Keuangan (rating 5/7)"
+    ],
+    "MEGA": [
+      "Keuangan (rating 5/7)"
+    ],
+    "MAYA": [
+      "Keuangan (rating 5/7)"
+    ],
+    "CMNP": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "DSSA": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bank Mandiri menunjukkan penyaluran KUR yang kuat, beberapa bank menjadi top gainers dan mendapatkan sentimen positif dari penunjukan Wantimpres, serta lembaga keuangan diberi peran baru dalam pemungutan PPN digital, meskipun IHSG secara umum melemah.",
+      "alasan": "Aktivitas pembiayaan yang sehat dari bank besar seperti Bank Mandiri, sentimen positif dari penunjukan tokoh konglomerat dengan kepemilikan bank di Wantimpres, serta peluang baru dalam jasa pemungutan pajak digital, memberikan dorongan positif bagi sektor keuangan. Hal ini mengindikasikan bahwa fundamental beberapa pemain di sektor ini cukup kuat untuk melawan tekanan pasar.",
+      "analisis_saham": "BSWD (Bank Sahabat Sampoerna):** Disebut sebagai top gainer sepekan, menunjukkan sentimen positif yang kuat dan potensi kelanjutan kenaikan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Energi",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Pengesahan APBN 2027 terbesar dalam sejarah dan penguatan infrastruktur digital oleh Grup Sinarmas, didukung oleh kenaikan saham CMNP, memberikan sentimen positif yang kuat bagi sektor infrastruktur.",
+      "alasan": "Anggaran negara yang jumbo di APBN 2027 secara historis mengalokasikan dana besar untuk pembangunan infrastruktur, mendorong pendapatan dan proyek bagi perusahaan di sektor ini. Selain itu, ekspansi ke infrastruktur digital menunjukkan peluang pertumbuhan baru, sementara kinerja saham individual seperti CMNP mengindikasikan kepercayaan investor.",
+      "analisis_saham": "CMNP: Kenaikan saham CMNP yang signifikan disebabkan oleh masuknya Jusuf Hamka ke Wantimpres, meningkatkan sentimen positif terhadap perusahaan dan kemungkinan proyek-proyeknya. DSSA: Grup Sinarmas (pemilik DSSA) memperkuat ekosistem AI dan infrastruktur digital, menunjukkan potensi pertumbuhan dan investasi yang kuat di segmen ini bagi DSSA."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "10 Saham Top Gainers Sepekan, BSWD, CSMI hingga UVCR",
+      "url": "https://emitennews.com/news/10-saham-top-gainers-sepekan-bswd-csmi-hingga-uvcr",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Agustus 2026, Bank Mandiri Gulirkan KUR Rp29,53 Triliun",
+      "url": "https://emitennews.com/news/agustus-2026-bank-mandiri-gulirkan-kur-rp2953-triliun",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "3 Konglo Masuk Wantimpres, Saham Jusuf Hamka (CMNP) Paling Ngegas 5%",
+      "url": "https://emitennews.com/news/3-konglo-masuk-wantimpres-saham-jusuf-hamka-cmnp-paling-ngegas-5",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "APBN Jumbo 2027 & Peta Sektor yang Berpotensi Menuai Buah Kebijakan",
+      "url": "https://emitennews.com/news/apbn-jumbo-2027-peta-sektor-yang-berpotensi-menuai-buah-kebijakan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Emiten Ini Pinjam ke Pemegang Saham untuk Lunasi Utang ke Bank",
+      "url": "https://emitennews.com/news/emiten-ini-pinjam-ke-pemegang-saham-untuk-lunasi-utang-ke-bank",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "DJP Tunjuk Enam Issuer Tarik PPN Digital Luar Negeri",
+      "url": "https://emitennews.com/news/djp-tunjuk-enam-issuer-tarik-ppn-digital-luar-negeri",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Sepekan Melorot 3,28 Persen, Market Cap Bursa Turun Jadi Segini",
+      "url": "https://emitennews.com/news/ihsg-sepekan-melorot-328-persen-market-cap-bursa-turun-jadi-segini",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Grup Sinarmas Perkuat Ekosistem AI, dan Infrastruktur Digital",
+      "url": "https://emitennews.com/news/grup-sinarmas-perkuat-ekosistem-ai-dan-infrastruktur-digital",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Jumlah Mobil Baru Melonjak, ASLC Integrasikan Ekosistem Mobkas",
+      "url": "https://emitennews.com/news/jumlah-mobil-baru-melonjak-aslc-integrasikan-ekosistem-mobkas",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kelola Ekosistem Desa, Manajer KDKMP Digaji Hingga Rp8,3 Juta",
+      "url": "https://emitennews.com/news/kelola-ekosistem-desa-manajer-kdkmp-digaji-hingga-rp83-juta",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Pekan Kedua Oktober Masih Volatil, Mampu Tembus 6.000?",
+      "url": "https://emitennews.com/news/ihsg-pekan-kedua-oktober-masih-volatil-mampu-tembus-6000",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Haji Isam dan Ambisinya Jadi Konglomerat Terkaya RI",
+      "url": "https://emitennews.com/news/haji-isam-dan-ambisinya-jadi-konglomerat-terkaya-ri",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kemenkeu Komit Jaga Defisit 3 Persen dan Rasio Utang 60 Persen",
+      "url": "https://emitennews.com/news/kemenkeu-komit-jaga-defisit-3-persen-dan-rasio-utang-60-persen",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kemerosotan Sektor Industri Nasional Ujian Bagi Menperin Baru",
+      "url": "https://emitennews.com/news/kemerosotan-sektor-industri-nasional-ujian-bagi-menperin-baru",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "KIJA Akuisisi Kawasan Industri di Jawa Tengah",
+      "url": "https://emitennews.com/news/kija-akuisisi-kawasan-industri-di-jawa-tengah",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Marak Lagi, Komdigi-Polri Usut Penyebaran Data Pribadi Ilegal Kementer",
+      "url": "https://emitennews.com/news/marak-lagi-komdigi-polri-usut-penyebaran-data-pribadi-ilegal-kementer",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Menilik dari Dekat Budaya Jepang via Think Japan, Think Sompo!",
+      "url": "https://emitennews.com/news/menilik-dari-dekat-budaya-jepang-via-think-japan-think-sompo",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "OJK Bidik Himpun Dana Rp250T di Pasar Modal, 5 Perusahaan Minat IPO",
+      "url": "https://emitennews.com/news/ojk-bidik-himpun-dana-rp250t-di-pasar-modal-5-perusahaan-minat-ipo",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pefindo Tarik Peringkat OTO Usai Merger dengan SOF",
+      "url": "https://emitennews.com/news/pefindo-tarik-peringkat-oto-usai-merger-dengan-sof",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Top Losers Sepekan, Eks Saham Gocap Dominasi! DADA hingga GOTO",
+      "url": "https://emitennews.com/news/top-losers-sepekan-eks-saham-gocap-dominasi-dada-hingga-goto",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "WTI Anjlok 4 Persen Pasca Isu Eropa Rilis Cadangan Minyak",
+      "url": "https://emitennews.com/news/wti-anjlok-4-persen-pasca-isu-eropa-rilis-cadangan-minyak",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Sabet Best Technology EmitenNews Awards 2026, MTDL Perkuat Inovasi ini",
+      "url": "https://emitennews.com/news/sabet-best-technology-emitennews-awards-2026-mtdl-perkuat-inovasi-ini",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Saham Gocap Jadi Rp1: Dongkrak Likuiditas atau Rekor Saham Sampah?",
+      "url": "https://emitennews.com/news/saham-gocap-jadi-rp1-dongkrak-likuiditas-atau-rekor-saham-sampah",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Transaksi Karbon Masih Lesu, OJK Bidik Kontribusi Voluntary Market",
+      "url": "https://emitennews.com/news/transaksi-karbon-masih-lesu-ojk-bidik-kontribusi-voluntary-market",
+      "sektor": "Keuangan"
+    }
+  ]
+}
