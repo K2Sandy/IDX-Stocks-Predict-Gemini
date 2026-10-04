@@ -1,0 +1,255 @@
+{
+  "tanggal": "2026-10-04",
+  "dibuat_pada": "2026-10-04 20:41 WIB",
+  "jumlah_artikel": 39,
+  "saham_disebut": {
+    "TGUK": [
+      "Keuangan (rating 3/7)"
+    ],
+    "ASBI": [
+      "Keuangan (rating 3/7)"
+    ],
+    "ENRG": [
+      "Infrastruktur (rating 3/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Kekhawatiran terhadap iklim investasi nasional akibat kebijakan pemerintah berpotensi meredam sentimen positif dari aktivitas pasar modal yang stabil dan perubahan manajemen di perusahaan asuransi.",
+      "alasan": "Meskipun aktivitas IPO BEI menunjukkan stabilitas dan ASBI melakukan penyegaran manajemen, pernyataan mengenai kerusakan iklim investasi oleh penghentian proyek data center menciptakan ketidakpastian. Sentimen negatif makro ini dapat menekan minat investor dan volume transaksi secara keseluruhan di sektor keuangan.",
+      "analisis_saham": "TGUK:** Saham Platinum Wahab Nusantara (TGUK) mengalami transaksi besar dengan akuisisi mayoritas oleh Visionary Capital Global Pte Ltd. Aksi korporasi ini dapat memberikan sentimen positif bagi harga saham TGUK karena potensi strategis baru untuk penguatan bisnis frozen food."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Kecerdasan buatan (AI) dan infrastruktur pusat data diakui memiliki potensi pertumbuhan strategis yang besar dan peluang investasi signifikan meskipun menghadapi tantangan pada iklim investasi regional.",
+      "alasan": "Berita menyoroti pengakuan AI sebagai teknologi strategis yang berpotensi menyumbang transaksi besar dan mendorong pembangunan infrastruktur digital. Meskipun ada sentimen negatif terkait penghentian proyek pusat data di Jawa Barat yang merusak iklim investasi, besarnya potensi investasi pusat data nasional senilai Rp360 triliun menunjukkan permintaan yang kuat dan peluang pertumbuhan jangka panjang di sektor ini.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Pelepasan 80% cadangan minyak darurat IEA secara masif berpotensi menekan harga minyak mentah global, meskipun ada sentimen positif dari peningkatan potensi ekspor biomassa dan komoditas energi (CPO, Migas) Indonesia.",
+      "alasan": "Pelepasan cadangan minyak darurat yang mencapai 325 juta barel akan secara signifikan meningkatkan pasokan di pasar global, yang cenderung menekan harga minyak mentah. Penurunan harga minyak ini berpotensi berdampak negatif pada kinerja keuangan emiten sektor energi, terutama yang bergerak di hulu minyak dan gas. Meskipun terdapat kabar baik terkait potensi ekspor briket kayu, CPO, dan migas, dampak bearish dari pasokan minyak global yang melimpah diperkirakan lebih dominan mempengaruhi pergerakan sektor.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Penghentian sepihak proyek pembangunan data center di Jawa Barat berpotensi merusak iklim investasi nasional, khususnya pada sektor infrastruktur.",
+      "alasan": "Pembatalan proyek infrastruktur kunci oleh pemerintah daerah dapat menciptakan ketidakpastian regulasi dan meningkatkan risiko investasi bagi pengembang infrastruktur lainnya. Hal ini dapat menghambat minat investor pada proyek-proyek infrastruktur besar di masa mendatang, sehingga memberikan sentimen negatif pada sektor secara keseluruhan.",
+      "analisis_saham": "PT Energi Mega Persada Tbk (ENRG) menerbitkan obligasi senilai Rp500 miliar untuk kebutuhan modal kerja, yang merupakan sentimen positif bagi perusahaan karena mendapatkan pendanaan operasional. Namun, tidak ada saham spesifik lain yang disebutkan terkait berita penghentian data center."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini meliputi isu olahraga, kasus eksploitasi ABK, serta program pemberdayaan ekonomi masyarakat oleh perusahaan tambang di daerah.",
+      "alasan": "Berita-berita yang tersedia tidak memuat informasi ekonomi makro fundamental (seperti data inflasi, suku bunga, kebijakan moneter/fiskal) yang cukup kuat untuk mendorong pergerakan signifikan pada indeks sektor umum/makro. Kabar mengenai pengembangan ekonomi lokal adalah positif, namun skala dampaknya kecil, dan tidak ada faktor pendorong atau penekan yang dominan secara makro.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "BEI Catat 7 Rencana IPO per Awal Oktober",
+      "url": "https://emitennews.com/news/bei-catat-7-rencana-ipo-per-awal-oktober",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Borong Saham TGUK Rp40,60 Miliar, VCG Siap Perkuat Bisnis Frozen Food",
+      "url": "https://emitennews.com/news/borong-saham-tguk-rp4060-miliar-vcg-siap-perkuat-bisnis-frozen-food",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Briket Kayu RI Laris di Spanyol, Peluang Bagi Industri Olahan Kayu",
+      "url": "https://emitennews.com/news/briket-kayu-ri-laris-di-spanyol-peluang-bagi-industri-olahan-kayu",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Atasi Krisis, 80 Persen Cadangan Minyak Darurat Dilepas ke Pasar",
+      "url": "https://emitennews.com/news/atasi-krisis-80-persen-cadangan-minyak-darurat-dilepas-ke-pasar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Asuransi Bintang (ASBI) Rombak Direksi, Angkat Presiden Direktur Baru",
+      "url": "https://emitennews.com/news/asuransi-bintang-asbi-rombak-direksi-angkat-presiden-direktur-baru",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "CPO, Migas, Hingga AI Sumbang Potensi Rp2,03 T di CAEXPO",
+      "url": "https://emitennews.com/news/cpo-migas-hingga-ai-sumbang-potensi-rp203-t-di-caexpo",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Indonesia Vs Thailand, John Herdman Beri Update Kondisi Ole Romeny",
+      "url": "https://bola.kompas.com/read/2026/10/04/19452148/indonesia-vs-thailand-john-herdman-beri-update-kondisi-ole-romeny",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Didik: Penghentian Data Center Jabar Rusak Investasi",
+      "url": "https://emitennews.com/news/didik-penghentian-data-center-jabar-rusak-investasi",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dividen Interim ASII Rp3,89 Triliun, Recording Date 14 Oktober 2026",
+      "url": "https://emitennews.com/news/dividen-interim-asii-rp389-triliun-recording-date-14-oktober-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dua Direksi Emiten HERO Mengundurkan Diri, Termasuk Presiden Direktur",
+      "url": "https://emitennews.com/news/dua-direksi-emiten-hero-mengundurkan-diri-termasuk-presiden-direktur",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "ENRG Kembali Tawarkan Obligasi Rp500 Miliar, Ini Penggunaan Dananya",
+      "url": "https://emitennews.com/news/enrg-kembali-tawarkan-obligasi-rp500-miliar-ini-penggunaan-dananya",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "HP Capital Resources Borong 189 Juta Saham LUCY Rp59,5 Miliar",
+      "url": "https://emitennews.com/news/hp-capital-resources-borong-189-juta-saham-lucy-rp595-miliar",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Inflasi Terkendali Surutkan Ekspektasi Kenaikan Suku Bunga Fed",
+      "url": "https://emitennews.com/news/inflasi-terkendali-surutkan-ekspektasi-kenaikan-suku-bunga-fed",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kuliah PTN Gratis: Uji Nyali Pertama Menteri Keuangan?",
+      "url": "https://emitennews.com/news/kuliah-ptn-gratis-uji-nyali-pertama-menteri-keuangan",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Modernland (MDLN) Restrukturisasi Notes USD289 Juta Jatuh Tempo 2028",
+      "url": "https://emitennews.com/news/modernland-mdln-restrukturisasi-notes-usd289-juta-jatuh-tempo-2028",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Ingat Tragedi Semikonduktor 1980-an, Kisruh Data Center Jabar",
+      "url": "https://emitennews.com/news/ingat-tragedi-semikonduktor-1980-an-kisruh-data-center-jabar",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Membangun AI Tanpa Menguras Air",
+      "url": "https://emitennews.com/news/membangun-ai-tanpa-menguras-air",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pasar Mobil Baru Mulai Pulih, ASLC Bidik Ledakan Pasokan Mobil Bekas",
+      "url": "https://emitennews.com/news/pasar-mobil-baru-mulai-pulih-aslc-bidik-ledakan-pasokan-mobil-bekas",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pemerintah Incar Rp10 Triliun Dari Lelang Sukuk Selasa (6/10)",
+      "url": "https://emitennews.com/news/pemerintah-incar-rp10-triliun-dari-lelang-sukuk-selasa-610",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pengendali Lego Besar-besaran 10% Saham ABDA, Nominal Mencapai Rp305M",
+      "url": "https://emitennews.com/news/pengendali-lego-besar-besaran-10-saham-abda-nominal-mencapai-rp305m",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "OpenPayd Kejar Valuasi USD1,1 Miliar, Incar Listing Nasdaq",
+      "url": "https://emitennews.com/news/openpayd-kejar-valuasi-usd11-miliar-incar-listing-nasdaq",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Produk Sampel Nestle Dinyatakan tidak Aman oleh Regulator Pangan",
+      "url": "https://emitennews.com/news/produk-sampel-nestle-dinyatakan-tidak-aman-oleh-regulator-pangan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "PLN Gandeng Konsorsium Korea Bangun Stasiun Tukar Baterai EV di Bali",
+      "url": "https://emitennews.com/news/pln-gandeng-konsorsium-korea-bangun-stasiun-tukar-baterai-ev-di-bali",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Stok Beras 4,8 Juta Ton, Bapanas Kawal Distribusi di Ritel Modern",
+      "url": "https://emitennews.com/news/stok-beras-48-juta-ton-bapanas-kawal-distribusi-di-ritel-modern",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tersandung Kasus Hukum, Komisaris AMMN Ini Dinonaktifkan Sementara",
+      "url": "https://emitennews.com/news/tersandung-kasus-hukum-komisaris-ammn-ini-dinonaktifkan-sementara",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "TLKM Siapkan Opsi Exit Investor Tolak Spin-Off Fiber, Ini Penawarannya",
+      "url": "https://emitennews.com/news/tlkm-siapkan-opsi-exit-investor-tolak-spin-off-fiber-ini-penawarannya",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tujuh Saham Segera Cum Date Dividen, Ada Grup Astra hingga Sinar Mas!",
+      "url": "https://emitennews.com/news/tujuh-saham-segera-cum-date-dividen-ada-grup-astra-hingga-sinar-mas",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Victoria Investama Lepas 2,78% Saham BIPP usai RUPSLB Tak Capai Kuorum",
+      "url": "https://emitennews.com/news/victoria-investama-lepas-278-saham-bipp-usai-rupslb-tak-capai-kuorum",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Target Pramono untuk KORMI Jakarta di Fornas 2027: Harus Juara Umum",
+      "url": "https://megapolitan.kompas.com/read/2026/10/04/19524551/target-pramono-untuk-kormi-jakarta-di-fornas-2027-harus-juara-umum",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Vietnam Incar Pertumbuhan Ekonomi 10 Persen, Kuartal IV 2026 Jadi Penentu",
+      "url": "https://money.kompas.com/read/2026/10/04/201441126/vietnam-incar-pertumbuhan-ekonomi-10-persen-kuartal-iv-2026-jadi-penentu",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Densus 88 Tangkap 11 Pelaku Terduga Terorisme di 6 Provinsi",
+      "url": "https://nasional.kompas.com/read/2026/10/04/20211811/densus-88-tangkap-11-pelaku-terduga-terorisme-di-6-provinsi",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Disiksa Saat Melaut, ABK Penangkap Cumi Hanya Dibayar Rp 500.000, Padahal Dijanjikan Rp 10 Juta",
+      "url": "https://megapolitan.kompas.com/read/2026/10/04/19472991/disiksa-saat-melaut-abk-penangkap-cumi-hanya-dibayar-rp-500000-padahal",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Pakar UGM Sorot Potensi Tumpang Tindih Wantimpres dan Penasihat Khusus Prabowo",
+      "url": "https://nasional.kompas.com/read/2026/10/04/20292261/pakar-ugm-sorot-potensi-tumpang-tindih-wantimpres-dan-penasihat-khusus",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "BMKG Juanda Bantah Suhu di Surabaya Tembus 48 Derajat Celcius, Ini Penjelasannya",
+      "url": "https://surabaya.kompas.com/read/2026/10/04/193846678/bmkg-juanda-bantah-suhu-di-surabaya-tembus-48-derajat-celcius-ini",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Gubernur NTT Kenang Sosok Wakil Bupati Nagekeo sebagai Pemimpin Sederhana",
+      "url": "https://regional.kompas.com/read/2026/10/04/203415578/gubernur-ntt-kenang-sosok-wakil-bupati-nagekeo-sebagai-pemimpin-sederhana",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Menjajal Toko Koboy Keramik Pasar Mayestik, Kini Jadi Destinasi Foto Anak Muda di Jaksel",
+      "url": "https://megapolitan.kompas.com/read/2026/10/04/20002361/menjajal-toko-koboy-keramik-pasar-mayestik-kini-jadi-destinasi-foto-anak",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Kampung Kambing di Kukar Dorong Ekonomi Warga Lingkar Tambang",
+      "url": "https://money.kompas.com/read/2026/10/04/200359826/kampung-kambing-di-kukar-dorong-ekonomi-warga-lingkar-tambang",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Dorong Pertumbuhan 2027, Pemerintah Gulirkan Rangkaian Program Pelindungan Masyarakat dan Stimulus Ekonomi",
+      "url": "https://nasional.kompas.com/read/2026/10/04/19491181/dorong-pertumbuhan-2027-pemerintah-gulirkan-rangkaian-program-pelindungan",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Tiga Indikator Ekonomi Menguat, Fundamental Perekonomian Indonesia Tetap  Terjaga",
+      "url": "https://nasional.kompas.com/read/2026/10/04/19575571/tiga-indikator-ekonomi-menguat-fundamental-perekonomian-indonesia-tetap",
+      "sektor": "Energi"
+    }
+  ]
+}
