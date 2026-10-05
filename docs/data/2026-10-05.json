@@ -1,0 +1,289 @@
+{
+  "tanggal": "2026-10-05",
+  "dibuat_pada": "2026-10-05 23:44 WIB",
+  "jumlah_artikel": 44,
+  "saham_disebut": {
+    "BMRI": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BRIS": [
+      "Keuangan (rating 6/7)"
+    ],
+    "CASH": [
+      "Teknologi (rating 2/7)"
+    ],
+    "BBTN": [
+      "Infrastruktur (rating 3/7)"
+    ],
+    "TPIA": [
+      "Infrastruktur (rating 3/7)"
+    ],
+    "NAYZ": [
+      "Infrastruktur (rating 3/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Bank Syariah Indonesia (BRIS) membukukan pertumbuhan laba yang kuat sebesar 10,07% YoY mencapai Rp5,30 triliun hingga Agustus 2026, didukung oleh ekspansi bisnis dan penguatan dana murah.",
+      "alasan": "Kinerja laba yang signifikan dari salah satu bank syariah terbesar seperti BRIS memberikan sentimen positif yang kuat bagi sub-sektor perbankan dan keseluruhan sektor keuangan. Ini menunjukkan kondisi industri yang sehat dan prospek pertumbuhan yang baik, terutama dengan dukungan dari strategi bisnis yang solid.",
+      "analisis_saham": "Bank Mandiri (BMRI)**: Berita mengenai kegiatan sosial dan TJSL BMRI adalah positif untuk citra dan reputasi perusahaan, namun dampaknya terhadap pergerakan harga saham cenderung netral karena tidak secara langsung berkaitan dengan kinerja keuangan atau prospek bisnis."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Ancaman investasi data center AI senilai Rp360 triliun terancam oleh kisruh regulasi dan pembekuan proyek di Jatiluhur, sementara Cashlez (CASH) mengumumkan penyesuaian kegiatan usaha.",
+      "alasan": "Pembekuan proyek fasilitas data center di Jatiluhur dan ancaman terhadap investasi besar di pusat data berbasis AI menciptakan ketidakpastian regulasi dan sentimen negatif. Hal ini berpotensi menghambat pertumbuhan infrastruktur teknologi esensial di Indonesia secara keseluruhan.",
+      "analisis_saham": "PT Cashlez Worldwide Indonesia Tbk (CASH) mengumumkan langkah strategis untuk menyesuaikan kegiatan usaha dan penggunaan dana demi memperkuat bisnis dan struktur keuangan. Sentimen untuk CASH cenderung netral hingga sedikit positif karena menunjukkan upaya proaktif manajemen dalam beradaptasi dan menjaga keberlanjutan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Investasi pusat data berkapasitas 1,3 GW terancam akibat kisruh regulasi di Jatiluhur, sementara ada apresiasi terhadap proyek biodigester penghasil energi biogas.",
+      "alasan": "Potensi hilangnya permintaan energi yang besar dari proyek data center berkapasitas 1,3 Gigawatt akibat masalah regulasi memiliki dampak negatif yang signifikan terhadap prospek pertumbuhan permintaan listrik di sektor energi. Meskipun ada berita positif mengenai pengembangan energi biogas dari sampah, dampaknya tidak cukup besar untuk mengimbangi potensi kerugian permintaan energi skala gigawatt tersebut.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Proyek data center senilai Rp3,5 triliun di Jatiluhur dihentikan dan investasi potensial digital infrastruktur Rp360 triliun terancam akibat masalah regulasi, menimbulkan ketidakpastian investasi.",
+      "alasan": "Kabar mengenai penghentian proyek data center dan ancaman terhadap potensi investasi jumbo akibat masalah regulasi menciptakan sentimen negatif yang signifikan. Ketidakpastian regulasi dan kepastian investasi berpotensi menghambat minat investor pada proyek-proyek infrastruktur di masa mendatang, khususnya di sektor digital, sehingga membebani pergerakan sektor secara keseluruhan.",
+      "analisis_saham": "PT Bank Tabungan Negara (Persero) Tbk (BBTN): Fitch Ratings mempertahankan peringkat AAA(idn) dengan prospek stabil, didukung oleh negara. Ini merupakan sentimen positif bagi BBTN karena menunjukkan stabilitas keuangan dan risiko gagal bayar yang rendah, yang dapat memperkuat kepercayaan investor terhadap bank."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kemenangan Timnas Indonesia di FIFA ASEAN Cup memberikan sentimen positif nasional yang terbatas, sementara berita lain terkait penundaan sidang praperadilan dan artikel gaya hidup tidak memiliki dampak signifikan terhadap ekonomi makro.",
+      "alasan": "Kemenangan dalam ajang olahraga regional, meskipun meningkatkan kebanggaan nasional, tidak memiliki dampak langsung atau signifikan terhadap fundamental ekonomi makro. Berita mengenai penundaan sidang hukum dan artikel gaya hidup juga tidak memberikan indikasi kuat terhadap arah pergerakan pasar secara keseluruhan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Warga Cium Bau Menyengat, Perempuan Ditemukan Meninggal di Rumahnya di Bogor",
+      "url": "https://bandung.kompas.com/read/2026/10/05/232609078/warga-cium-bau-menyengat-perempuan-ditemukan-meninggal-di-rumahnya-di-bogor",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "LIVE Timnas Indonesia Vs Thailand 2-2: Elkan Baggott Beri Harapan Garuda",
+      "url": "https://bola.kompas.com/read/2026/10/05/22390398/live-timnas-indonesia-vs-thailand-2-2-elkan-baggott-beri-harapan-garuda",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Hasil Timnas Indonesia Vs Thailand 2-2 (ap 4-2): Indonesia Juara FIFA ASEAN Cup!",
+      "url": "https://bola.kompas.com/read/2026/10/05/23011398/hasil-timnas-indonesia-vs-thailand-2-2-ap-4-2-indonesia-juara-fifa-asean-cup",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Timnas Indonesia Juara FIFA ASEAN Cup 2026, Penantian 35 Tahun Berakhir",
+      "url": "https://bola.kompas.com/read/2026/10/05/23175408/timnas-indonesia-juara-fifa-asean-cup-2026-penantian-35-tahun-berakhir",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Rekap Hasil FIFA ASEAN Cup 2026: Indonesia Juara, Malaysia Peringkat 3",
+      "url": "https://bola.kompas.com/read/2026/10/05/23185028/rekap-hasil-fifa-asean-cup-2026-indonesia-juara-malaysia-peringkat-3",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "28 Tahun Bank Mandiri (BMRI), Hadir Berbagi Manfaat Untuk Masyarakat",
+      "url": "https://emitennews.com/news/28-tahun-bank-mandiri-bmri-hadir-berbagi-manfaat-untuk-masyarakat",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ancaman Rp360 T Dari Kisruh Investasi di Jatiluhur",
+      "url": "https://emitennews.com/news/ancaman-rp360-t-dari-kisruh-investasi-di-jatiluhur",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Apresiasi Untuk Olah Sampah Berbasis Biodigester di Rusunawa Rorotan",
+      "url": "https://emitennews.com/news/apresiasi-untuk-olah-sampah-berbasis-biodigester-di-rusunawa-rorotan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Cerita Anak, Petrus Pallangan Korban Pembunuhan di Sukabumi Punya Rekam Jejak di Dunia Pendidikan",
+      "url": "https://bandung.kompas.com/read/2026/10/05/223631278/cerita-anak-petrus-pallangan-korban-pembunuhan-di-sukabumi-punya-rekam-jejak",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "APEX Buru Restu Private Placement untuk Konversi Utang USD4,1 Juta",
+      "url": "https://emitennews.com/news/apex-buru-restu-private-placement-untuk-konversi-utang-usd41-juta",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "LIVE Timnas Indonesia Vs Thailand 1-2: Gol Kejutan Peeradol, Garuda Tertinggal",
+      "url": "https://bola.kompas.com/read/2026/10/05/22343268/live-timnas-indonesia-vs-thailand-1-2-gol-kejutan-peeradol-garuda-tertinggal",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "BEI Umumkan Saham HSC Baru, INDO Jadi Anggota Ke-62",
+      "url": "https://emitennews.com/news/bei-umumkan-saham-hsc-baru-indo-jadi-anggota-ke-62",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BSI (BRIS ) Laba Rp5,30 T, NFF 1,8%, Fee Based Rasio 23,07%",
+      "url": "https://emitennews.com/news/bsi-bris-laba-rp530-t-nff-18-fee-based-rasio-2307",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dapat Restu OJK, AHAP Melaju Rights Issue 3,5 Miliar Saham Harga Rp50",
+      "url": "https://emitennews.com/news/dapat-restu-ojk-ahap-melaju-rights-issue-35-miliar-saham-harga-rp50",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dikendalikan Sang Putri, Dapur Hulu Kerajaan Sawit Haji Isam Lesu",
+      "url": "https://emitennews.com/news/dikendalikan-sang-putri-dapur-hulu-kerajaan-sawit-haji-isam-lesu",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Ditopang Negara Lewat Danantara, Fitch Pertahankan BBTN di AAA(idn)",
+      "url": "https://emitennews.com/news/ditopang-negara-lewat-danantara-fitch-pertahankan-bbtn-di-aaaidn",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Divonis UMA, Saham Ini Justru Melesat ARA 4 Hari Berturut-Turut",
+      "url": "https://emitennews.com/news/divonis-uma-saham-ini-justru-melesat-ara-4-hari-berturut-turut",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dua Saham Ini Tergembok Akibat ARA Beruntun & Suspensi Khusus BEI",
+      "url": "https://emitennews.com/news/dua-saham-ini-tergembok-akibat-ara-beruntun-suspensi-khusus-bei",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ekspansi Global, GMF AeroAsia (GMFI) Kembangan Fasilitas MRO di Oman",
+      "url": "https://emitennews.com/news/ekspansi-global-gmf-aeroasia-gmfi-kembangan-fasilitas-mro-di-oman",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Melesat ke 6.118, Big Banks Menghijau, GOTO Teraktif",
+      "url": "https://emitennews.com/news/ihsg-melesat-ke-6118-big-banks-menghijau-goto-teraktif",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Sesi I (5/10) Nyaris Sideways, Naik Tipis 0,03% ke 6.038",
+      "url": "https://emitennews.com/news/ihsg-sesi-i-510-nyaris-sideways-naik-tipis-003-ke-6038",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kasus Korupsi Iklan Bank BJB, KPK Telusuri Aset Ridwan Kamil",
+      "url": "https://emitennews.com/news/kasus-korupsi-iklan-bank-bjb-kpk-telusuri-aset-ridwan-kamil",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Kerajaan Sawit Haji Isam & Bisnis \"Numpang Rahim\" Kebijakan Negara",
+      "url": "https://emitennews.com/news/kerajaan-sawit-haji-isam-bisnis-numpang-rahim-kebijakan-negara",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kuasai 56,84%, Perusahaan Singapura itu jadi Pengendali Saham TGUK",
+      "url": "https://emitennews.com/news/kuasai-5684-perusahaan-singapura-itu-jadi-pengendali-saham-tguk",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Lunasi Obligasi, Chandra Asri Pacific (TPIA) Siapkan Rp266,9 Miliar",
+      "url": "https://emitennews.com/news/lunasi-obligasi-chandra-asri-pacific-tpia-siapkan-rp2669-miliar",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "NAYZ Akuisisi Bangkok Tellink, Bisnis Makanan Bayi Dilepas Bertahap",
+      "url": "https://emitennews.com/news/nayz-akuisisi-bangkok-tellink-bisnis-makanan-bayi-dilepas-bertahap",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Nippon Paint Akuisisi Dulux untuk Pasar Indonesia",
+      "url": "https://emitennews.com/news/nippon-paint-akuisisi-dulux-untuk-pasar-indonesia",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Perluas Jangkauan Global, GMF (GMFI) Operasikan MRO di Bandara Oman",
+      "url": "https://emitennews.com/news/perluas-jangkauan-global-gmf-gmfi-operasikan-mro-di-bandara-oman",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "PSSI Tambah 6 Kapal Baru, Direktur Ungkap Tujuannya",
+      "url": "https://emitennews.com/news/pssi-tambah-6-kapal-baru-direktur-ungkap-tujuannya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Risiko Gagal Bayar Rendah, Fitch Afirmasi Peringkat BJBR AA-(idn)",
+      "url": "https://emitennews.com/news/risiko-gagal-bayar-rendah-fitch-afirmasi-peringkat-bjbr-aa-idn",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Rupiah Melemah ke Rp17.917, Pengamat Soroti Pasokan BBM",
+      "url": "https://emitennews.com/news/rupiah-melemah-ke-rp17917-pengamat-soroti-pasokan-bbm",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Rupiah Tertekan Defisit Ganda, BI Dikritisi Jadi \"Mesin Utang\"",
+      "url": "https://emitennews.com/news/rupiah-tertekan-defisit-ganda-bi-dikritisi-jadi-mesin-utang",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Sesuaikan Kegiatan Usaha, Cashlez (CASH) Umumkan Langkah Strategis",
+      "url": "https://emitennews.com/news/sesuaikan-kegiatan-usaha-cashlez-cash-umumkan-langkah-strategis",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Tambah Porsi, Komisaris Emiten TP Rachmat (DRMA) Ini Beli 5 Juta Saham",
+      "url": "https://emitennews.com/news/tambah-porsi-komisaris-emiten-tp-rachmat-drma-ini-beli-5-juta-saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "TPIA Siapkan Dana Pelunasan Obligasi Rp266,95M, Jatuh Tempo 29 Oktober",
+      "url": "https://emitennews.com/news/tpia-siapkan-dana-pelunasan-obligasi-rp26695m-jatuh-tempo-29-oktober",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "\"Kami Perlu Memastikan...\", Hakim Tunda Sidang Praperadilan Tahanan Demo Agustus karena 2 Surat Kuasa",
+      "url": "https://megapolitan.kompas.com/read/2026/10/05/22293181/kami-perlu-memastikan-hakim-tunda-sidang-praperadilan-tahanan-demo",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "\"Emangnya Ini Pestapora?\", Warga Keluhkan Dentuman Petasan Maulid Nabi di Jaksel Bikin Anak Kejang",
+      "url": "https://megapolitan.kompas.com/read/2026/10/05/23234201/emangnya-ini-pestapora-warga-keluhkan-dentuman-petasan-maulid-nabi-di",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Usai Lompat 8,33 Persen, Saham CRAB Kini Susuri Zona Merah",
+      "url": "https://emitennews.com/news/usai-lompat-833-persen-saham-crab-kini-susuri-zona-merah",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Wali Kota Depok Terima Aduan Penimbunan Solar, Kapolres: Akan Ditindak Sesuai SOP",
+      "url": "https://megapolitan.kompas.com/read/2026/10/05/23374361/wali-kota-depok-terima-aduan-penimbunan-solar-kapolres-akan-ditindak",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Pemotor Terjatuh Usai Leher Tersangkut Kabel Melintang di Tangsel, Polisi Turun Tangan",
+      "url": "https://megapolitan.kompas.com/read/2026/10/05/22480541/pemotor-terjatuh-usai-leher-tersangkut-kabel-melintang-di-tangsel-polisi",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "30 Kata-kata Malam yang Tenang untuk Renungan Sebelum Tidur",
+      "url": "https://lifestyle.kompas.com/read/2026/10/05/225500620/30-kata-kata-malam-yang-tenang-untuk-renungan-sebelum-tidur",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Usai 2 Kali Erupsi, Abu Vulkanik Gunung Anak Krakatau Terdeteksi di Atas Teluk Lampung",
+      "url": "https://regional.kompas.com/read/2026/10/05/231606078/usai-2-kali-erupsi-abu-vulkanik-gunung-anak-krakatau-terdeteksi-di-atas",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Tarif Transjakarta Segera Naik, Jalur Busway Diminta Steril agar Waktu Tempuh Lebih Cepat",
+      "url": "https://megapolitan.kompas.com/read/2026/10/05/22412581/tarif-transjakarta-segera-naik-jalur-busway-diminta-steril-agar-waktu",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Gantikan Pratikno, Sugiono Janji Bakal Sempurnakan Program Kemenko PMK",
+      "url": "https://nasional.kompas.com/read/2026/10/05/22284101/gantikan-pratikno-sugiono-janji-bakal-sempurnakan-program-kemenko-pmk",
+      "sektor": "Energi"
+    }
+  ]
+}
