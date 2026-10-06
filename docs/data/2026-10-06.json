@@ -1,0 +1,283 @@
+{
+  "tanggal": "2026-10-06",
+  "dibuat_pada": "2026-10-06 21:44 WIB",
+  "jumlah_artikel": 44,
+  "saham_disebut": {
+    "BBNI": [
+      "Teknologi (rating 6/7)"
+    ],
+    "AMRT": [
+      "Energi (rating 4/7)"
+    ],
+    "BUVA": [
+      "Infrastruktur (rating 3/7)"
+    ],
+    "BBCA": [
+      "Umum/Makro (rating 4/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Platform investasi Ajaib mencatat lonjakan signifikan pengguna saham AS, menunjukkan peningkatan aktivitas investor ritel di Indonesia.",
+      "alasan": "Peningkatan minat dan aktivitas investor ritel, terutama melalui platform digital, mengindikasikan pertumbuhan potensi volume transaksi dan penggunaan layanan keuangan. Tren ini dapat memberikan dampak positif pada kinerja perusahaan broker, perbankan investasi, dan fintech yang berada di bawah sektor keuangan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Pertumbuhan platform investasi digital dan adopsi teknologi oleh institusi keuangan tradisional, didukung oleh investasi asing di perusahaan teknologi, menunjukkan tren positif bagi sektor Teknologi.",
+      "alasan": "Berita hari ini menyoroti lonjakan pengguna pada platform investasi berbasis teknologi seperti Ajaib, serta upaya bank besar seperti BNI yang memperluas layanan digitalnya. Adanya transaksi dengan melibatkan perusahaan teknologi asal Singapura juga mengindikasikan minat investor terhadap ekosistem teknologi di Indonesia.",
+      "analisis_saham": "PT Bank Negara Indonesia (Persero) Tbk (BBNI) menunjukkan komitmen terhadap transformasi digital dengan memasarkan produk investasi melalui aplikasi \"wondr by BNI\". Inisiatif ini dapat meningkatkan jangkauan layanan dan efisiensi operasional BBNI, memberikan sentimen positif terhadap prospek digitalisasi perbankan dan kinerja sahamnya."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Berita iklim global yang mempertegas tekanan pada emisi gas rumah kaca serta upaya hilirisasi komoditas silika memberikan sentimen tematik jangka panjang bagi sektor energi, namun tanpa katalis kuat untuk pergerakan jangka pendek.",
+      "alasan": "Berita tentang pencairan es Antarktika menekankan urgensi transisi energi, yang secara jangka panjang dapat menekan sektor energi berbasis fosil dan mendukung energi terbarukan. Namun, tidak ada katalis jangka pendek yang spesifik untuk mendorong pergerakan indeks sektor secara keseluruhan. Berita mengenai silika bersifat spesifik pada rantai pasok dan belum menjadi pendorong utama bagi sektor energi secara luas.",
+      "analisis_saham": "Berita mengenai Alfamart (AMRT) yang membagikan dividen merupakan sentimen positif bagi perusahaan, menunjukkan profitabilitas yang sehat dan pengembalian kepada pemegang saham. Hal ini dapat menarik minat investor yang mencari dividen, berpotensi mendorong kenaikan atau stabilitas harga saham AMRT. Namun, berita ini spesifik untuk sektor ritel dan tidak memiliki dampak langsung pada sektor Energi."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Berita hari ini menyoroti dampak kerusakan infrastruktur akibat bencana alam dan ancaman jangka panjang dari perubahan iklim, tanpa adanya katalis positif untuk sektor ini.",
+      "alasan": "Gempa bumi di Sumba Barat Daya telah menyebabkan kerusakan pada sejumlah fasilitas umum dan infrastruktur. Selain itu, ancaman pelelehan es Antarktika yang berpotensi merusak infrastruktur pesisir menambah sentimen negatif terhadap sektor ini, mengindikasikan risiko dan biaya pemeliharaan yang meningkat tanpa adanya pendorong pertumbuhan yang jelas.",
+      "analisis_saham": "Emiten Bukit Uluwatu (BUVA) berencana melakukan right issue besar yang berpotensi menimbulkan dilusi kepemilikan hingga 20% bagi pemegang saham yang tidak mengeksekusi haknya. Meskipun ada pembeli siaga, rencana dilusi signifikan ini seringkali memberikan tekanan negatif pada harga saham dalam jangka pendek."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini didominasi oleh laporan insiden kriminal yang bersifat lokal dan pengumuman rekayasa lalu lintas untuk acara regional.",
+      "alasan": "Berita-berita ini tidak mengandung indikator ekonomi makro yang signifikan, perubahan kebijakan pemerintah, atau peristiwa berskala besar yang dapat mempengaruhi sentimen pasar secara keseluruhan. Dampak dari insiden yang dilaporkan bersifat lokal dan tidak mencerminkan tren yang dapat menggerakkan sektor umum/makro.",
+      "analisis_saham": "Berita mengenai sopir taksi \"Green SM\" yang ditusuk merujuk pada layanan premium dari PT Blue Bird Tbk (BBCA). Insiden keamanan ini dapat menimbulkan sentimen negatif minor terkait citra perusahaan dan kekhawatiran keselamatan bagi pengemudi, meskipun dampak finansial langsungnya mungkin terbatas karena ini adalah kejadian yang terisolasi."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Bursa Cabut 3 Suspensi Saham: 2 Melesat ke Harga Atas, Sisanya Junam",
+      "url": "https://emitennews.com/news/bursa-cabut-3-suspensi-saham-2-melesat-ke-harga-atas-sisanya-junam",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Dihantam Perang Tarif, Daya Saing Ekspor Baja Indonesia Terancam",
+      "url": "https://emitennews.com/news/dihantam-perang-tarif-daya-saing-ekspor-baja-indonesia-terancam",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "16 Saham Siap Bagi Dividen, Intip Siapa yang Kasih Yield Paling Jumbo!",
+      "url": "https://emitennews.com/news/16-saham-siap-bagi-dividen-intip-siapa-yang-kasih-yield-paling-jumbo",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "BLOG Sudah Pakai Semua Dana IPO, Terbesar Rp92M Simpan Sini Aja",
+      "url": "https://emitennews.com/news/blog-sudah-pakai-semua-dana-ipo-terbesar-rp92m-simpan-sini-aja",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ajaib Catat Lonjakan Pengguna Saham AS Hingga 2,5 Kali Lipat",
+      "url": "https://emitennews.com/news/ajaib-catat-lonjakan-pengguna-saham-as-hingga-25-kali-lipat",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Alfamart Tebar Dividen Rp14,5/Saham: Cek Yield & Rahasia Cuannya!",
+      "url": "https://emitennews.com/news/alfamart-tebar-dividen-rp145saham-cek-yield-rahasia-cuannya",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Dirut IKAI Borong 5 Juta Lembar Saham, Harganya Kini Melejit 15%",
+      "url": "https://emitennews.com/news/dirut-ikai-borong-5-juta-lembar-saham-harganya-kini-melejit-15",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Dirut Intikeramik (IKAI) Perdana Borong 5 Juta Saham, Saham Ikut Naik",
+      "url": "https://emitennews.com/news/dirut-intikeramik-ikai-perdana-borong-5-juta-saham-saham-ikut-naik",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Dirut Paperocks (PPRI) Berangsur Lepas 18 Juta Saham Berkocek Rp3,21M",
+      "url": "https://emitennews.com/news/dirut-paperocks-ppri-berangsur-lepas-18-juta-saham-berkocek-rp321m",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Disorot Bursa, 3 Saham UMA Ini Lanjut Melorot—Salah Satunya ARB",
+      "url": "https://emitennews.com/news/disorot-bursa-3-saham-uma-ini-lanjut-melorotsalah-satunya-arb",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Tempel Level 6.200, BBCA Ditekan Aksi Jual, GOTO Bersinar",
+      "url": "https://emitennews.com/news/ihsg-tempel-level-6200-bbca-ditekan-aksi-jual-goto-bersinar",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Empat Saham Masuk Suspensi BEI, Satu Terjerat Kasus Going Concern",
+      "url": "https://emitennews.com/news/empat-saham-masuk-suspensi-bei-satu-terjerat-kasus-going-concern",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Intip Kinerja Royalindo Investa (INDO), Pasien Baru Saham HSC BEI",
+      "url": "https://emitennews.com/news/intip-kinerja-royalindo-investa-indo-pasien-baru-saham-hsc-bei",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kasus ATR/BPN, KPK Jadwalkan Pemeriksaan Nusron Wahid Pekan Ini",
+      "url": "https://emitennews.com/news/kasus-atrbpn-kpk-jadwalkan-pemeriksaan-nusron-wahid-pekan-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Jadi Induk Otomotif Roda 3, INPS Caplok Dealer APPKTM Rp5,8 Miliar",
+      "url": "https://emitennews.com/news/jadi-induk-otomotif-roda-3-inps-caplok-dealer-appktm-rp58-miliar",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kendali Tak Berganti, POOL Jual 30% Saham POLA ke Investor Singapura",
+      "url": "https://emitennews.com/news/kendali-tak-berganti-pool-jual-30-saham-pola-ke-investor-singapura",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Kinerja PSSI di 2026, Ada Kemajuan?",
+      "url": "https://emitennews.com/news/kinerja-pssi-di-2026-ada-kemajuan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Pembeli Siaga, Hapsoro Siap Eksekusi Right Issue BUVA",
+      "url": "https://emitennews.com/news/pembeli-siaga-hapsoro-siap-eksekusi-right-issue-buva",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Pembiayaan BSI (BRIS) Tumbuh Lebih Agresif, Capai Rp344 Triliun",
+      "url": "https://emitennews.com/news/pembiayaan-bsi-bris-tumbuh-lebih-agresif-capai-rp344-triliun",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Perluas Akses Nasabah, BNI (BBNI) Pasarkan SBR015 Lewat wondr by BNI",
+      "url": "https://emitennews.com/news/perluas-akses-nasabah-bni-bbni-pasarkan-sbr015-lewat-wondr-by-bni",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Penerimaan Bea Cukai Capai 71,51 Persen, CPO Berperan Besar",
+      "url": "https://emitennews.com/news/penerimaan-bea-cukai-capai-7151-persen-cpo-berperan-besar",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Perkuat Hilirisasi, Pertamisi Dorong Ekspor dan Kepastian Harga Silika",
+      "url": "https://emitennews.com/news/perkuat-hilirisasi-pertamisi-dorong-ekspor-dan-kepastian-harga-silika",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "PSSI Minta Restu Bagikan Saham Bonus, Cek Jadwal Eksekusinya",
+      "url": "https://emitennews.com/news/pssi-minta-restu-bagikan-saham-bonus-cek-jadwal-eksekusinya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Rights Issue BUVA Dibeking Hapsoro, Incar Dana Rp1,53 Triliun",
+      "url": "https://emitennews.com/news/rights-issue-buva-dibeking-hapsoro-incar-dana-rp153-triliun",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Lapisan Es Antarktika Terus Meleleh Sepanjang Abad meski Emisi Dipangkas",
+      "url": "https://lestari.kompas.com/read/2026/10/06/212100286/lapisan-es-antarktika-terus-meleleh-sepanjang-abad-meski-emisi-dipangkas",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "3 Zodiak yang Diprediksi Beruntung pada 7 Oktober 2026, Ada Virgo",
+      "url": "https://lifestyle.kompas.com/read/2026/10/06/213000620/3-zodiak-yang-diprediksi-beruntung-pada-7-oktober-2026-ada-virgo-",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sopir Taksi Green SM Ditusuk Wanita di Pademangan Jakut, Pelaku Ditangkap Polisi",
+      "url": "https://megapolitan.kompas.com/read/2026/10/06/21355571/sopir-taksi-green-sm-ditusuk-wanita-di-pademangan-jakut-pelaku-ditangkap",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "SMMA Suntik Modal Anak Usaha Bank di Timor Leste USD3,6 Juta",
+      "url": "https://emitennews.com/news/smma-suntik-modal-anak-usaha-bank-di-timor-leste-usd36-juta",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tambah Modal Simas Bank Timor Leste, SMMA Perkuat Operasional",
+      "url": "https://emitennews.com/news/tambah-modal-simas-bank-timor-leste-smma-perkuat-operasional",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ruwatan Trunojoyo: Mutasi 19 Kapolda Amankan Investasi Rp 13.000 T",
+      "url": "https://emitennews.com/news/ruwatan-trunojoyo-mutasi-19-kapolda-amankan-investasi-rp-13000-t",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Seluruh Sektor Bersemi, IHSG Sesi I (6/10) Sempat Tembus Level 6.200",
+      "url": "https://emitennews.com/news/seluruh-sektor-bersemi-ihsg-sesi-i-610-sempat-tembus-level-6200",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kasus Warga Protes Petasan Maulid Nabi di Jaksel Tak Berkaitan dengan SARA",
+      "url": "https://megapolitan.kompas.com/read/2026/10/06/21241751/kasus-warga-protes-petasan-maulid-nabi-di-jaksel-tak-berkaitan-dengan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Danamon dan MUFG Indonesia Integrasi, Siapkan Identitas Baru",
+      "url": "https://money.kompas.com/read/2026/10/06/212526926/danamon-dan-mufg-indonesia-integrasi-siapkan-identitas-baru",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "KB Bank Buka Suara soal Saham yang Akan Diambil Alih Koperasi",
+      "url": "https://money.kompas.com/read/2026/10/06/213912126/kb-bank-buka-suara-soal-saham-yang-akan-diambil-alih-koperasi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "MK Tak Temukan Bukti Meyakinkan Gibran Memiliki Ijazah Setara SMA Sederajat",
+      "url": "https://nasional.kompas.com/read/2026/10/06/21382151/mk-tak-temukan-bukti-meyakinkan-gibran-memiliki-ijazah-setara-sma-sederajat",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "MK Tegaskan Berwenang Adili Sengketa PHPU, Sebut Eksepsi Termohon Tidak Berdasar",
+      "url": "https://nasional.kompas.com/read/2026/10/06/21195651/mk-tegaskan-berwenang-adili-sengketa-phpu-sebut-eksepsi-termohon-tidak",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Alasan MK Nyatakan Gugatan Syarat Pencalonan Gibran Tidak Dapat Diterima",
+      "url": "https://nasional.kompas.com/read/2026/10/06/21324561/alasan-mk-nyatakan-gugatan-syarat-pencalonan-gibran-tidak-dapat-diterima",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Kronologis Video Viral Penumpang KA Lembah Anai Tegur Rombongan Bising hingga Terjadi Adu Mulut",
+      "url": "https://regional.kompas.com/read/2026/10/06/213517278/kronologis-video-viral-penumpang-ka-lembah-anai-tegur-rombongan-bising",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Guru SMK di Cilacap Jadi Tersangka, Peluk Siswi 17 Tahun dengan Dalih Merasa Iba",
+      "url": "https://regional.kompas.com/read/2026/10/06/212154978/guru-smk-di-cilacap-jadi-tersangka-peluk-siswi-17-tahun-dengan-dalih-merasa",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Terombang Ambing Sehari Semalam, Nelayan di Bangka Barat Dievakuasi Tim SAR",
+      "url": "https://regional.kompas.com/read/2026/10/06/214004278/terombang-ambing-sehari-semalam-nelayan-di-bangka-barat-dievakuasi-tim-sar",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "5 Fakta Santri Pamekasan Diduga Dianiaya 7 Orang Pakai Kawat Panas hingga Patah Tulang Pinggul",
+      "url": "https://surabaya.kompas.com/read/2026/10/06/211450378/5-fakta-santri-pamekasan-diduga-dianiaya-7-orang-pakai-kawat-panas-hingga",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "13 Bangunan Liar di Frontage Road Waru Sidoarjo Dibongkar, Penertiban Lanjut hingga Buduran",
+      "url": "https://surabaya.kompas.com/read/2026/10/06/211719178/13-bangunan-liar-di-frontage-road-waru-sidoarjo-dibongkar-penertiban-lanjut",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Dampak Gempa M 6,1 Sumba Barat Daya, 299 Rumah dan 24 Fasilitas Umum Rusak",
+      "url": "https://regional.kompas.com/read/2026/10/06/211018678/dampak-gempa-m-61-sumba-barat-daya-299-rumah-dan-24-fasilitas-umum-rusak",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Rekayasa Lalu Lintas Saat Wayang Jogja Night Carnival, Malioboro Tak Bisa Dilewati",
+      "url": "https://travel.kompas.com/read/2026/10/06/213433627/rekayasa-lalu-lintas-saat-wayang-jogja-night-carnival-malioboro-tak-bisa",
+      "sektor": "Umum/Makro"
+    }
+  ]
+}
