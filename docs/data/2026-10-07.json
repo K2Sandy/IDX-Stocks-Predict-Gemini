@@ -1,0 +1,269 @@
+{
+  "tanggal": "2026-10-07",
+  "dibuat_pada": "2026-10-07 22:03 WIB",
+  "jumlah_artikel": 40,
+  "saham_disebut": {
+    "BMRI": [
+      "Keuangan (rating 5/7)"
+    ],
+    "POLA": [
+      "Keuangan (rating 5/7)"
+    ],
+    "BSWD": [
+      "Keuangan (rating 5/7)"
+    ],
+    "GOTO": [
+      "Teknologi (rating 3/7)"
+    ],
+    "RSCH": [
+      "Teknologi (rating 3/7)"
+    ],
+    "CHEK": [
+      "Teknologi (rating 3/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Rencana IPO BUMN sektor finansial dan aktivitas penyaluran kredit oleh bank besar memberikan sentimen positif, meskipun ada isu suspensi dan konsentrasi saham pada beberapa emiten.",
+      "alasan": "Rencana IPO BUMN dari sektor finansial menunjukkan prospek pertumbuhan dan potensi peningkatan kapitalisasi pasar sektor. Selain itu, aktifnya bank besar seperti BMRI dalam menyalurkan kredit mengindikasikan permintaan kredit yang sehat dan aktivitas bisnis perbankan yang solid. Meskipun ada beberapa isu spesifik seperti suspensi saham atau konsentrasi kepemilikan, sentimen positif dari pertumbuhan dan aktivitas inti sektor lebih dominan.",
+      "analisis_saham": "BMRI: Berita mengenai penerimaan jaminan saham dari JARR dan PGUN menunjukkan aktivitas penyaluran kredit yang aktif oleh Bank Mandiri. Hal ini adalah sentimen positif karena mencerminkan pertumbuhan bisnis pinjaman dan portofolio aset bank."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Saham raksasa teknologi GOTO ambruk ke level Rp1 akibat aturan batas bawah, sementara adopsi AI di sektor kesehatan dan inovasi SSD NVMe Gen 4 menunjukkan tren positif teknologi.",
+      "alasan": "Penurunan drastis saham GOTO sebagai salah satu emiten teknologi terbesar berpotensi menyeret sentimen negatif ke seluruh sektor teknologi karena melemahnya kepercayaan investor terhadap emiten big cap di bidang ini. Meskipun ada berita positif tentang adopsi AI dan teknologi penyimpanan baru, dampak dari ambruknya saham big cap lebih dominan dalam mempengaruhi persepsi investor.",
+      "analisis_saham": "GOTO: Berita \"GOTO Runtuh\" dan ambruknya saham ke level Rp1 menandakan sentimen yang sangat negatif dan tekanan jual yang masif, yang kemungkinan besar akan membuat harga saham GOTO tetap tertekan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Rencana IPO BUMN dari sektor pertambangan yang disiapkan Danantara untuk 2027 menciptakan sentimen positif jangka panjang bagi sektor energi dan sumber daya alam.",
+      "alasan": "Meskipun IPO direncanakan pada tahun 2027, pengumuman ini mengindikasikan fokus pemerintah pada pengembangan sektor pertambangan, yang dapat memberikan sentimen positif bagi prospek pertumbuhan sektor energi secara keseluruhan. Tidak adanya berita negatif spesifik untuk sektor ini juga mendukung kemungkinan pergerakan yang cenderung stabil atau sedikit menguat.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Rencana IPO BUMN sektor infrastruktur dan efisiensi operasional bus listrik Transjakarta menunjukkan prospek pertumbuhan dan inovasi positif.",
+      "alasan": "Rencana IPO BUMN di sektor infrastruktur mengisyaratkan adanya suntikan modal baru dan dukungan pemerintah yang kuat, memicu pertumbuhan dan pengembangan proyek. Ditambah dengan efisiensi operasional bus listrik Transjakarta, sektor ini menunjukkan potensi inovasi, keberlanjutan, dan peningkatan profitabilitas di masa depan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Berita hari ini didominasi oleh isu sosial seperti kompensasi korban terorisme dan pembebasan WNI dari penyanderaan, serta dinamika politik terkait proses gugatan di Mahkamah Konstitusi.",
+      "alasan": "Kumpulan berita ini tidak memuat sentimen ekonomi makro yang kuat, baik positif maupun negatif, seperti data inflasi, kebijakan moneter, atau indikator pertumbuhan PDB. Isu politik yang disorot, meskipun menarik perhatian, tidak menghasilkan dampak langsung yang signifikan terhadap pergerakan indeks sektor secara keseluruhan pada esok hari.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Pedro Rodriguez Resmi Gantung Sepatu dengan Koleksi 25 Trofi",
+      "url": "https://bola.kompas.com/read/2026/10/07/21452738/pedro-rodriguez-resmi-gantung-sepatu-dengan-koleksi-25-trofi",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "MAXBY MAX7200 Tawarkan SSD NVMe Gen 4 untuk Kreator Konten dan Gamer",
+      "url": "https://biz.kompas.com/read/2026/10/07/215406828/maxby-max7200-tawarkan-ssd-nvme-gen-4-untuk-kreator-konten-dan-gamer",
+      "sektor": "Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "7,99 Miliar Saham JARR Jadi Jaminan Kredit Pihak Terafiliasi ke BMRI",
+      "url": "https://emitennews.com/news/799-miliar-saham-jarr-jadi-jaminan-kredit-pihak-terafiliasi-ke-bmri",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BEI Gembok Dua Saham yang Ngegas",
+      "url": "https://emitennews.com/news/bei-gembok-dua-saham-yang-ngegas",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "5,3 Miliar Saham Pradiksi Gunatama (PGUN) Digadaikan ke Bank Mandiri",
+      "url": "https://emitennews.com/news/53-miliar-saham-pradiksi-gunatama-pgun-digadaikan-ke-bank-mandiri",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BEI Temukan Saham Bank Ini Terkonsentrasi di Segelintir Pihak",
+      "url": "https://emitennews.com/news/bei-temukan-saham-bank-ini-terkonsentrasi-di-segelintir-pihak",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Bursa Era 1 Perak: GOTO Runtuh, Gocapers Pesta Pora Rajai Transaksi",
+      "url": "https://emitennews.com/news/bursa-era-1-perak-goto-runtuh-gocapers-pesta-pora-rajai-transaksi",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Charlie Hospital (RSCH) Bangun Growth Driver Baru Lewat AI Healthcare",
+      "url": "https://emitennews.com/news/charlie-hospital-rsch-bangun-growth-driver-baru-lewat-ai-healthcare",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Danantara Siapkan BUMN Masuk Bursa, Ada Sektor Finansial dan Tambang",
+      "url": "https://emitennews.com/news/danantara-siapkan-bumn-masuk-bursa-ada-sektor-finansial-dan-tambang",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Direktur Lego Saham MPIX, Transaksi di Harga Rp75",
+      "url": "https://emitennews.com/news/direktur-lego-saham-mpix-transaksi-di-harga-rp75",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "CHEK Gandeng KALGen Innolab Percepat Ekosistem Genomik RI",
+      "url": "https://emitennews.com/news/chek-gandeng-kalgen-innolab-percepat-ekosistem-genomik-ri",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Disuspensi Cuma Sehari, BEI Buka Lagi Gembok 3 Saham",
+      "url": "https://emitennews.com/news/disuspensi-cuma-sehari-bei-buka-lagi-gembok-3-saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Emiten Nikel & Emiten Pasir Silika Milik Sandiaga Uno Disorot BEI",
+      "url": "https://emitennews.com/news/emiten-nikel-emiten-pasir-silika-milik-sandiaga-uno-disorot-bei",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Gibran Pasca Putusan MK, Masih Kuat tapi Ada \"Cacat\" ?",
+      "url": "https://emitennews.com/news/gibran-pasca-putusan-mk-masih-kuat-tapi-ada-cacat",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Hadapi Sidang Perdana, Febrie Adriansyah Sempat Lemparkan Senyum Tipis",
+      "url": "https://emitennews.com/news/hadapi-sidang-perdana-febrie-adriansyah-sempat-lemparkan-senyum-tipis",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Melemah ke 6.146, Saham Diakusisi Haji Isam ke Deretan Top Losers",
+      "url": "https://emitennews.com/news/ihsg-melemah-ke-6146-saham-diakusisi-haji-isam-ke-deretan-top-losers",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Indonesia Tak Turun Kasta, PR Menanti Saat Vietnam Naik Kelas di FTSE",
+      "url": "https://emitennews.com/news/indonesia-tak-turun-kasta-pr-menanti-saat-vietnam-naik-kelas-di-ftse",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Jelang Pengalihan Jumbo ke Haji Isam, Dato' Low Jual Saham BYAN Rp367M",
+      "url": "https://emitennews.com/news/jelang-pengalihan-jumbo-ke-haji-isam-dato-low-jual-saham-byan-rp367m",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kurangi Porsi, Direktur ITSEC Asia (CYBR) Ini Jual 11,5 Ribu Sahamnya",
+      "url": "https://emitennews.com/news/kurangi-porsi-direktur-itsec-asia-cybr-ini-jual-115-ribu-sahamnya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Minyak di Atas USD100 Guncang Saham Eropa, KISI Jagokan 3 Saham RI Ini",
+      "url": "https://emitennews.com/news/minyak-di-atas-usd100-guncang-saham-eropa-kisi-jagokan-3-saham-ri-ini",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Nego Jumbo BYAN Rp26,09 Triliun, H Isam Resmi Akuisisi?",
+      "url": "https://emitennews.com/news/nego-jumbo-byan-rp2609-triliun-h-isam-resmi-akuisisi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pengendali DKFT Borong 1,95 Persen Saham, Kocek Mencapai Rp77 Miliar",
+      "url": "https://emitennews.com/news/pengendali-dkft-borong-195-persen-saham-kocek-mencapai-rp77-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Perkuat Modal Kerja, Buana Finance (BBLD) Raih Kredit Rp150M dari BGTG",
+      "url": "https://emitennews.com/news/perkuat-modal-kerja-buana-finance-bbld-raih-kredit-rp150m-dari-bgtg",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Rupiah Pagi ini Menguat 11 Poin, Jauhi Level Rp18.000",
+      "url": "https://emitennews.com/news/rupiah-pagi-ini-menguat-11-poin-jauhi-level-rp18000",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "SDPC Perpanjang Kredit BCA Rp335 Miliar, Pacu Ekspansi Distribusi",
+      "url": "https://emitennews.com/news/sdpc-perpanjang-kredit-bca-rp335-miliar-pacu-ekspansi-distribusi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Sempat Hijau di Awal, IHSG Sesi I (7/10) Berakhir Tersungkur ke 6.158",
+      "url": "https://emitennews.com/news/sempat-hijau-di-awal-ihsg-sesi-i-710-berakhir-tersungkur-ke-6158",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Disimpan dalam Plastik di Kamar, Uang Rp 100 Juta Istri Bos Rongsok di Bekasi Digasak Perampok",
+      "url": "https://megapolitan.kompas.com/read/2026/10/07/21443481/disimpan-dalam-plastik-di-kamar-uang-rp-100-juta-istri-bos-rongsok-di",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "5 Bulan Disandera Perompak Somalia, Bagaimana Pembebasan 4 WNI ABK MT Honour 25?",
+      "url": "https://megapolitan.kompas.com/read/2026/10/07/21413611/5-bulan-disandera-perompak-somalia-bagaimana-pembebasan-4-wni-abk-mt",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Transjakarta Sebut Bus Listrik Lebih Hemat 5 Persen per Km Dibanding Bus Konvensional",
+      "url": "https://megapolitan.kompas.com/read/2026/10/07/21270301/transjakarta-sebut-bus-listrik-lebih-hemat-5-persen-per-km-dibanding-bus",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "KDM Kumpulkan 27 Kepala Daerah Se-Jabar di Balaikota Depok, Bahas Apa?",
+      "url": "https://megapolitan.kompas.com/read/2026/10/07/21592601/kdm-kumpulkan-27-kepala-daerah-se-jabar-di-balaikota-depok-bahas-apa",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "LPSK Ungkap Besaran Kompensasi Korban Terorisme hingga Rp 250 Juta",
+      "url": "https://nasional.kompas.com/read/2026/10/07/21215681/lpsk-ungkap-besaran-kompensasi-korban-terorisme-hingga-rp-250-juta",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Tambah Porsi, Jinsheng Mining Mantapkan Posisi Pengendali Saham DKFT",
+      "url": "https://emitennews.com/news/tambah-porsi-jinsheng-mining-mantapkan-posisi-pengendali-saham-dkft",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Turnover Sesi I (7/10) Capai Rp31,67T, Asing Cuma Net Sell Rp663,34M!",
+      "url": "https://emitennews.com/news/turnover-sesi-i-710-capai-rp3167t-asing-cuma-net-sell-rp66334m",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "PSI Sayangkan MK Proses Gugatan Ijazah Gibran: Sudah Tahu Tak Punya \"Legal Standing\"",
+      "url": "https://nasional.kompas.com/read/2026/10/07/21495341/psi-sayangkan-mk-proses-gugatan-ijazah-gibran-sudah-tahu-tak-punya-legal",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Tekad Satgas PKH Kejar Tunggakan Denda Perusahaan, Ancam Pidana",
+      "url": "https://emitennews.com/news/tekad-satgas-pkh-kejar-tunggakan-denda-perusahaan-ancam-pidana",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Denny Indrayana Akan Sambangi Para Ketum Partai, Bahas Putusan MK Soal Ijazah Gibran",
+      "url": "https://nasional.kompas.com/read/2026/10/07/21504771/denny-indrayana-akan-sambangi-para-ketum-partai-bahas-putusan-mk-soal-ijazah",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Alasan Pengemudi Truk Kabur Usai Tabrak Pasutri hingga Tewas di Tol Jogja-Solo",
+      "url": "https://regional.kompas.com/read/2026/10/07/212618678/alasan-pengemudi-truk-kabur-usai-tabrak-pasutri-hingga-tewas-di-tol-jogja",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Karhutla Dekati Pemukiman di Barito Kuala Kalsel, Warga Panik Asap Berwarna Oranye Masuk Rumah",
+      "url": "https://regional.kompas.com/read/2026/10/07/213400078/karhutla-dekati-pemukiman-di-barito-kuala-kalsel-warga-panik-asap-berwarna",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Perempuan di Gresik Mengaku Jadi Korban Pinjol Ilegal, Menangis Saat Lapor Polisi",
+      "url": "https://surabaya.kompas.com/read/2026/10/07/213527678/perempuan-di-gresik-mengaku-jadi-korban-pinjol-ilegal-menangis-saat-lapor",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "LPSK Ungkap Cara Korban Terorisme Mendapatkan Kompensasi dan Pemulihan",
+      "url": "https://nasional.kompas.com/read/2026/10/07/21313081/lpsk-ungkap-cara-korban-terorisme-mendapatkan-kompensasi-dan-pemulihan",
+      "sektor": "Umum/Makro"
+    }
+  ]
+}
