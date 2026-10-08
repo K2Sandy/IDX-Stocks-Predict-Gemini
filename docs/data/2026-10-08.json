@@ -1,0 +1,208 @@
+{
+  "tanggal": "2026-10-08",
+  "dibuat_pada": "2026-10-08 22:14 WIB",
+  "jumlah_artikel": 27,
+  "saham_disebut": {
+    "BBNI": [
+      "Keuangan (rating 2/7)",
+      "Teknologi (rating 3/7)"
+    ],
+    "TLKM": [
+      "Teknologi (rating 3/7)"
+    ],
+    "PTBA": [
+      "Energi (rating 6/7)"
+    ],
+    "ELSA": [
+      "Energi (rating 6/7)"
+    ],
+    "BSDE": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "SEMA": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "WIFI": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "ISAT": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "IHSG anjlok signifikan sebesar 1,88%, diiringi dengan sentimen pelemahan daya beli kelas menengah dan aktivitas IPO yang melambat.",
+      "alasan": "Pelemahan daya beli kelas menengah dapat meningkatkan risiko kredit macet dan menekan pertumbuhan pinjaman bank. Anjloknya IHSG secara signifikan menciptakan sentimen pasar negatif yang kuat, serta aktivitas IPO yang lesu mengurangi potensi pendapatan dari bisnis penjaminan dan broker.",
+      "analisis_saham": "BBNI: Berita tentang pembaruan fitur \"wondr by BNI\" untuk nasabah prioritas adalah positif, menunjukkan upaya bank untuk meningkatkan layanan dan menarik nasabah dengan nilai tinggi. Namun, sentimen pasar negatif secara keseluruhan akibat anjloknya IHSG kemungkinan akan menekan pergerakan saham BBNI di hari berikutnya."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Telkomsel meluncurkan program NextDev ke-12 yang berfokus pada pengembangan solusi digital berbasis AI oleh technopreneurs, menunjukkan komitmen terhadap inovasi teknologi.",
+      "alasan": "Meskipun pasar secara umum mengalami tekanan dengan anjloknya IHSG dan prediksi MSCI freeze, inisiatif Telkomsel ini memberikan sentimen positif yang kuat bagi ekosistem teknologi Indonesia. Fokus pada AI dan dukungan terhadap technopreneurs mengindikasikan investasi pada pertumbuhan dan inovasi masa depan sektor ini, yang dapat memberikan daya tahan atau potensi rebound di tengah kondisi pasar yang menantang.",
+      "analisis_saham": "TLKM (PT Telkom Indonesia (Persero) Tbk):** Telkomsel, anak perusahaan TLKM, memimpin program NextDev ke-12 yang berfokus pada inovasi berbasis AI. Ini adalah berita positif yang menyoroti komitmen TLKM terhadap pengembangan ekosistem digital dan teknologi mutakhir, berpotensi menarik minat investor jangka panjang meski sentimen pasar keseluruhan negatif."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Berita eksplorasi cadangan baru oleh PTBA dan ekspansi pasar non-captive Elnusa, didukung pelemahan rupiah yang menguntungkan eksportir komoditas, menciptakan sentimen positif bagi sektor energi.",
+      "alasan": "Dua emiten besar di sektor energi melaporkan perkembangan positif terkait pertumbuhan bisnis dan operasional mereka. Aksi korporasi seperti eksplorasi cadangan dan ekspansi pasar, ditambah dengan dampak positif pelemahan rupiah terhadap emiten eksportir komoditas, diperkirakan akan mendorong kinerja sektor secara keseluruhan.",
+      "analisis_saham": "PTBA**: Upaya perseroan untuk mengebor 113 titik guna mencari cadangan baru menunjukkan komitmen terhadap keberlanjutan operasi dan potensi peningkatan nilai cadangan di masa depan. Sentimen ini sangat positif bagi saham PTBA."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Berbagai proyek infrastruktur transportasi (MRT), industri (hilirisasi nikel senilai Rp180 T), dan digital (data center serta jaringan internet) menunjukkan ekspansi signifikan yang akan mendorong pertumbuhan sektor.",
+      "alasan": "Berita hari ini menyoroti sejumlah inisiatif dan kemajuan proyek-proyek infrastruktur berskala besar, mulai dari perluasan transportasi publik hingga pembangunan fasilitas pendukung industri dan digital. Ekspansi ini akan meningkatkan permintaan akan bahan baku, jasa konstruksi, energi, dan teknologi, yang secara kolektif berpotensi mengerek kinerja sektor infrastruktur.",
+      "analisis_saham": "PT Bumi Serpong Damai Tbk (BSDE): Proyek MRT yang akan menembus BSD adalah sentimen sangat positif karena akan meningkatkan aksesibilitas dan nilai properti di kawasan BSD City, mendorong penjualan dan harga lahan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Bantuan Pangan 33,2 Juta Keluarga Per 10 Kg Beras Segera Disalurkan",
+      "url": "https://emitennews.com/news/bantuan-pangan-332-juta-keluarga-per-10-kg-beras-segera-disalurkan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bagi Nasabah Prioritas, BNI Sediakan Pembaruan Fitur wondr by BNI",
+      "url": "https://emitennews.com/news/bagi-nasabah-prioritas-bni-sediakan-pembaruan-fitur-wondr-by-bni",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "10 Bulan Berjalan, Baru Tujuh Perusahaan Listing di 2026",
+      "url": "https://emitennews.com/news/10-bulan-berjalan-baru-tujuh-perusahaan-listing-di-2026",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Buru Cadangan Baru, PTBA Bor 113 Titik di Tanjung Enim hingga Ombilin",
+      "url": "https://emitennews.com/news/buru-cadangan-baru-ptba-bor-113-titik-di-tanjung-enim-hingga-ombilin",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Daya Beli Kelas Menengah Melemah, Apindo Ungkap Biang Keroknya",
+      "url": "https://emitennews.com/news/daya-beli-kelas-menengah-melemah-apindo-ungkap-biang-keroknya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Bursa Stop Perdagangan Empat Saham Usai Menguat Beberapa Hari Terakhir",
+      "url": "https://emitennews.com/news/bursa-stop-perdagangan-empat-saham-usai-menguat-beberapa-hari-terakhir",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Anjlok 1,88 Persen, Saham Emiten Haji Isam Turun Paling Dalam",
+      "url": "https://emitennews.com/news/ihsg-anjlok-188-persen-saham-emiten-haji-isam-turun-paling-dalam",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Jaring Solusi Digital Berbasis AI, Telkomsel Geber NextDev ke-12",
+      "url": "https://emitennews.com/news/jaring-solusi-digital-berbasis-ai-telkomsel-geber-nextdev-ke-12",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Gantikan Glenny, Garuda Indonesia (GIAA) Kini Dipimpin Thomas Sugiarto",
+      "url": "https://emitennews.com/news/gantikan-glenny-garuda-indonesia-giaa-kini-dipimpin-thomas-sugiarto",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Jeda Siang (8/10) IHSG Terdepresiasi, Melorot 0,8% ke Level 6.097",
+      "url": "https://emitennews.com/news/jeda-siang-810-ihsg-terdepresiasi-melorot-08-ke-level-6097",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Kabar Gembira, Segar Kumala (BUAH) akan Bagikan Dividen Rp10 Per Saham",
+      "url": "https://emitennews.com/news/kabar-gembira-segar-kumala-buah-akan-bagikan-dividen-rp10-per-saham",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "MRT Bakal Tembus BSD, Kartu Cuan Sakti Raksasa Properti Grup Sinar Mas",
+      "url": "https://emitennews.com/news/mrt-bakal-tembus-bsd-kartu-cuan-sakti-raksasa-properti-grup-sinar-mas",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "MSCI November Diprediksi Masih Freeze Saham Indonesia",
+      "url": "https://emitennews.com/news/msci-november-diprediksi-masih-freeze-saham-indonesia",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Pendapatan Luar Grup Pertamina Capai 22%, Elnusa Jajaki Pasar Irak",
+      "url": "https://emitennews.com/news/pendapatan-luar-grup-pertamina-capai-22-elnusa-jajaki-pasar-irak",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Perkuat Ekosistem Digital, Anak Usaha PRDA Rilis U-Buddy",
+      "url": "https://emitennews.com/news/perkuat-ekosistem-digital-anak-usaha-prda-rilis-u-buddy",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Pengendali dan Direksi MPIX Kompak Jual Saham, Total Rp3,5 Miliar",
+      "url": "https://emitennews.com/news/pengendali-dan-direksi-mpix-kompak-jual-saham-total-rp35-miliar",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Prabowo Resmikan 11 Proyek Hilirisasi Rp180 T dan Ekspor Baterai EV",
+      "url": "https://emitennews.com/news/prabowo-resmikan-11-proyek-hilirisasi-rp180-t-dan-ekspor-baterai-ev",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Rupiah Melemah 28 Poin ke Rp17.915, Besok Rawan ke Rp17.950",
+      "url": "https://emitennews.com/news/rupiah-melemah-28-poin-ke-rp17915-besok-rawan-ke-rp17950",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Sah, BSN Resmi Salurkan KUR",
+      "url": "https://emitennews.com/news/sah-bsn-resmi-salurkan-kur",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Segar Kumala (BUAH) Bagi Dividen Interim Rp20 Miliar, Cek Jadwalnya",
+      "url": "https://emitennews.com/news/segar-kumala-buah-bagi-dividen-interim-rp20-miliar-cek-jadwalnya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "SEMA Kantongi Kontrak Listrik Data Center CGK5 & CGK7, Ini Prospeknya",
+      "url": "https://emitennews.com/news/sema-kantongi-kontrak-listrik-data-center-cgk5-cgk7-ini-prospeknya",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Sesuai Target! WIFI Pamer Data Terbaru IRA Lebih dari 3.100 Site",
+      "url": "https://emitennews.com/news/sesuai-target-wifi-pamer-data-terbaru-ira-lebih-dari-3100-site",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Siap Dana Investasi, Dipastikan Tak ada Dividen Danantara Untuk APBN",
+      "url": "https://emitennews.com/news/siap-dana-investasi-dipastikan-tak-ada-dividen-danantara-untuk-apbn",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Stok Beras Bulog 2026 Capai 5,4 Juta Ton, Tertinggi Sepanjang Sejarah",
+      "url": "https://emitennews.com/news/stok-beras-bulog-2026-capai-54-juta-ton-tertinggi-sepanjang-sejarah",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tak Dapat Disehatkan, OJK Setop Izin Usaha PT Porto Ventura Kapital",
+      "url": "https://emitennews.com/news/tak-dapat-disehatkan-ojk-setop-izin-usaha-pt-porto-ventura-kapital",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Terbit Perpres Ojol 2026, Status Pengemudi Mitra dengan Perlindungan",
+      "url": "https://emitennews.com/news/terbit-perpres-ojol-2026-status-pengemudi-mitra-dengan-perlindungan",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tertekan Dolar AS, Rupiah Kamis (8/10) Ditutup Melemah",
+      "url": "https://emitennews.com/news/tertekan-dolar-as-rupiah-kamis-810-ditutup-melemah",
+      "sektor": "Keuangan"
+    }
+  ]
+}
