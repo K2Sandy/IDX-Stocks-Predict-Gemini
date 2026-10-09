@@ -1,0 +1,298 @@
+{
+  "tanggal": "2026-10-09",
+  "dibuat_pada": "2026-10-09 21:54 WIB",
+  "jumlah_artikel": 47,
+  "saham_disebut": {
+    "SMLE": [
+      "Keuangan (rating 6/7)"
+    ],
+    "CYBR": [
+      "Teknologi (rating 5/7)"
+    ],
+    "TBIG": [
+      "Infrastruktur (rating 5/7)"
+    ],
+    "AREA": [
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Bursa Efek Indonesia (BEI) melakukan reformasi perdagangan dan pendalaman pasar serta menunjukkan komitmen perlindungan investor melalui tindakan suspensi saham.",
+      "alasan": "Reformasi BEI dan upaya pendalaman pasar berpotensi meningkatkan efisiensi dan likuiditas pasar, yang secara positif akan mendukung kinerja lembaga keuangan. Tindakan regulasi BEI juga menunjukkan komitmen terhadap integritas pasar dan perlindungan investor, yang dapat meningkatkan kepercayaan pasar secara keseluruhan.",
+      "analisis_saham": "BEI menjatuhkan suspensi sementara perdagangan saham PT Sinergi Multi Lestarindo Tbk (SMLE) untuk kedua kalinya karena peningkatan harga kumulatif yang signifikan. Hal ini merupakan sentimen sangat negatif bagi SMLE, menandakan kekhawatiran regulasi dan potensi koreksi harga saat suspensi dibuka."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Peningkatan ancaman siber seiring tren penggunaan AI diperkirakan akan mendorong permintaan signifikan untuk layanan keamanan siber.",
+      "alasan": "Berita ini menunjukkan adanya katalis positif bagi perusahaan teknologi di sub-sektor keamanan siber seiring adopsi AI yang terus meluas. Peningkatan risiko siber dapat mendorong investasi lebih lanjut dalam solusi keamanan, memberikan dorongan fundamental bagi segmen teknologi terkait.",
+      "analisis_saham": "CYBR: PT ITSEC Asia Tbk (CYBR) mendapatkan sentimen positif karena Presiden Direktur mereka mengindikasikan peningkatan signifikan permintaan keamanan siber seiring dengan tren penggunaan AI. Hal ini dapat berpotensi meningkatkan pendapatan dan prospek bisnis CYBR ke depan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini tidak mengandung informasi spesifik yang secara langsung mempengaruhi sektor Energi seperti harga komoditas, kebijakan energi, atau kinerja emiten terkait.",
+      "alasan": "Tidak ada berita yang membahas dinamika harga komoditas energi (minyak, gas, batu bara), kebijakan pemerintah terkait energi, atau laporan kinerja emiten yang terdaftar di sektor Energi. Oleh karena itu, sentimen terhadap sektor ini cenderung netral.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Sektor infrastruktur digital menunjukkan pertumbuhan dengan investasi pada AI dan data center oleh AREA, sementara TBIG mengelola keuangan melalui penerbitan obligasi untuk pembayaran utang.",
+      "alasan": "Berita mengenai AREA yang berinvestasi pada infrastruktur AI dan data center mencerminkan potensi pertumbuhan dan inovasi dalam segmen digital infrastruktur. Meskipun TBIG menerbitkan obligasi untuk pembayaran utang, keberhasilan penerbitan ini menunjukkan stabilitas keuangan dan kepercayaan pasar terhadap perusahaan di sektor telekomunikasi.",
+      "analisis_saham": "Ada dua saham spesifik yang disebutkan dalam kategori Infrastruktur. PT Tower Bersama Infrastructure Tbk (TBIG) berhasil menerbitkan obligasi sebesar Rp2,37 triliun untuk membayar utang, yang menandakan kemampuan perusahaan dalam mengelola keuangan dan berpotensi memberikan sentimen netral hingga sedikit positif pada sahamnya. PT Dunia Virtual Online Tbk (AREA) melakukan investasi signifikan pada infrastruktur AI dan fasilitas data center melalui kolaborasi, menunjukkan langkah ekspansif di bidang digital infrastruktur yang dapat mendorong sentimen positif pada harga sahamnya."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Kenaikan harga jagung yang signifikan menyebabkan kerugian bagi peternak ayam petelur, menandakan tekanan inflasi dan masalah profitabilitas di sektor pangan.",
+      "alasan": "Lonjakan harga komoditas input seperti jagung secara langsung meningkatkan biaya produksi pangan, yang dapat memicu tekanan inflasi dan mengurangi daya beli konsumen. Kerugian yang dialami peternak juga menunjukkan adanya ketidakstabilan dan tantangan dalam sektor pertanian, komponen penting ekonomi makro, yang dapat berdampak negatif pada sentimen pasar secara keseluruhan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Harapan Mees Hilgers soal Peluang Comeback ke Timnas di FIFA Matchday November 2026",
+      "url": "https://bola.kompas.com/read/2026/10/09/21501968/harapan-mees-hilgers-soal-peluang-comeback-ke-timnas-di-fifa-matchday-november",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Bangga dan Sesal Mees Hilgers Usai Timnas Indonesia Juara FIFA ASEAN Cup 2026",
+      "url": "https://bola.kompas.com/read/2026/10/09/21374718/bangga-dan-sesal-mees-hilgers-usai-timnas-indonesia-juara-fifa-asean-cup-2026",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Dedi Mulyadi Siapkan Kampung Bahasa Asing untuk Perluas Peluang Kerja Warga",
+      "url": "https://bandung.kompas.com/read/2026/10/09/214603778/dedi-mulyadi-siapkan-kampung-bahasa-asing-untuk-perluas-peluang-kerja-warga",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Secara Nasional Pemerintah Targetkan 40.000 PMI Terserap pada 2026, Jawa Barat Kebagian 7.000 Pekerja",
+      "url": "https://bandung.kompas.com/read/2026/10/09/213810278/secara-nasional-pemerintah-targetkan-40000-pmi-terserap-pada-2026-jawa-barat",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "100 Hari Direksi Baru BEI, Pakar UGM Junjung Kinerja Reformasi Pasar",
+      "url": "https://emitennews.com/news/100-hari-direksi-baru-bei-pakar-ugm-junjung-kinerja-reformasi-pasar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "AMMN Genjot Pengeboran di NTB, Perkuat Cadangan Tembaga dan Emas",
+      "url": "https://emitennews.com/news/ammn-genjot-pengeboran-di-ntb-perkuat-cadangan-tembaga-dan-emas",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "ANTM Habiskan Rp134,4M untuk Berburu Cadangan Emas, Nikel, dan Bauksit",
+      "url": "https://emitennews.com/news/antm-habiskan-rp1344m-untuk-berburu-cadangan-emas-nikel-dan-bauksit",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "BEI Jatuhkan Suspensi Kedua Kalinya Saham Ini, Bakal Berapa Lama?",
+      "url": "https://emitennews.com/news/bei-jatuhkan-suspensi-kedua-kalinya-saham-ini-bakal-berapa-lama",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Buat Bayar Utang, TBIG Terbitkan Obligasi Rp2,37 Triliun",
+      "url": "https://emitennews.com/news/buat-bayar-utang-tbig-terbitkan-obligasi-rp237-triliun",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BYD Atto 1 Generasi ke-2 Sudah Bisa Dipesan dengan Rp 5 Juta",
+      "url": "https://emitennews.com/news/byd-atto-1-generasi-ke-2-sudah-bisa-dipesan-dengan-rp-5-juta",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "CYBR Ungkap Ancaman Siber Meningkat Seiring Tren Penggunaan AI",
+      "url": "https://emitennews.com/news/cybr-ungkap-ancaman-siber-meningkat-seiring-tren-penggunaan-ai",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dorong Adopsi AI Enterprise, AREA dan CloudSigma Hadirkan AiPintar",
+      "url": "https://emitennews.com/news/dorong-adopsi-ai-enterprise-area-dan-cloudsigma-hadirkan-aipintar",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dua Dekade IRN, Dorong Inovasi Pangan Lokal",
+      "url": "https://emitennews.com/news/dua-dekade-irn-dorong-inovasi-pangan-lokal",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Eks Ketua Ombudsman Ini Minta Dibebaskan dari Tuntutan 5,6 Tahun",
+      "url": "https://emitennews.com/news/eks-ketua-ombudsman-ini-minta-dibebaskan-dari-tuntutan-56-tahun",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Eksplorasi Vale Indonesia (INCO) Fokus Wilayah IUPK, Ini yang Dicari",
+      "url": "https://emitennews.com/news/eksplorasi-vale-indonesia-inco-fokus-wilayah-iupk-ini-yang-dicari",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Empat Saham Kompak Tersungkur Usai Suspensi, Salah Satunya Milik Isam",
+      "url": "https://emitennews.com/news/empat-saham-kompak-tersungkur-usai-suspensi-salah-satunya-milik-isam",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IHSG Menguat ke 6.093, Lima Saham Ini Catat Transaksi Tertinggi",
+      "url": "https://emitennews.com/news/ihsg-menguat-ke-6093-lima-saham-ini-catat-transaksi-tertinggi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kembali Memantul, IHSG Sesi Siang Mendarat di 6.052 Naik 0,35%",
+      "url": "https://emitennews.com/news/kembali-memantul-ihsg-sesi-siang-mendarat-di-6052-naik-035",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Keponakan Prabowo Mundur dari Komisaris Utama TRIN, Ini Kata Dirut",
+      "url": "https://emitennews.com/news/keponakan-prabowo-mundur-dari-komisaris-utama-trin-ini-kata-dirut",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kurangi Porsi, Sang Dirut Kini Hanya Kuasai 10,34 Persen Saham PPRI",
+      "url": "https://emitennews.com/news/kurangi-porsi-sang-dirut-kini-hanya-kuasai-1034-persen-saham-ppri",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "HUMI Tunjuk Darma Mangkuluhur Sebagai Komut, Terima Ari Askhara Mundur",
+      "url": "https://emitennews.com/news/humi-tunjuk-darma-mangkuluhur-sebagai-komut-terima-ari-askhara-mundur",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Pengendali Mandom (TCID) Resmi Ganti Nama jadi Mandom Corporation",
+      "url": "https://emitennews.com/news/pengendali-mandom-tcid-resmi-ganti-nama-jadi-mandom-corporation",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Putra Ketum Partai Hanura Serok 2,38 Juta Saham IKAI",
+      "url": "https://emitennews.com/news/putra-ketum-partai-hanura-serok-238-juta-saham-ikai",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Rahayu Saraswati Tetap Pegang Saham TRIN Meski Mundur, Segini Porsinya",
+      "url": "https://emitennews.com/news/rahayu-saraswati-tetap-pegang-saham-trin-meski-mundur-segini-porsinya",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Perkuat Cadangan Mineral Utama Antam Eksplorasi di Jabar Hingga Kalbar",
+      "url": "https://emitennews.com/news/perkuat-cadangan-mineral-utama-antam-eksplorasi-di-jabar-hingga-kalbar",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Prapenjualan Residensial Melandai, Pendapatan Berulang BSDE Tumbuh 19%",
+      "url": "https://emitennews.com/news/prapenjualan-residensial-melandai-pendapatan-berulang-bsde-tumbuh-19",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Ramaikan MotoGP Mandalika 2026, BNI Hadirkan ini",
+      "url": "https://emitennews.com/news/ramaikan-motogp-mandalika-2026-bni-hadirkan-ini",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Resign dari TRIN, Anak Hashim Dikabarkan Merapat ke VICI",
+      "url": "https://emitennews.com/news/resign-dari-trin-anak-hashim-dikabarkan-merapat-ke-vici",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "3 Zodiak yang Siap Keluar dari Zona Nyaman pada 10 Oktober 2026",
+      "url": "https://lifestyle.kompas.com/read/2026/10/09/213000620/3-zodiak-yang-siap-keluar-dari-zona-nyaman-pada-10-oktober-2026",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Dua Kebakaran Terjadi Bersamaan di Jakarta Barat Hari Ini, Begini Kronologinya",
+      "url": "https://megapolitan.kompas.com/read/2026/10/09/21284521/dua-kebakaran-terjadi-bersamaan-di-jakarta-barat-hari-ini-begini",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Ada Kunjungan Presiden Mesir, Sejumlah Jalan di Jakarta Ditutup Sementara 10-11 Oktober",
+      "url": "https://megapolitan.kompas.com/read/2026/10/09/21412761/ada-kunjungan-presiden-mesir-sejumlah-jalan-di-jakarta-ditutup-sementara",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Siswa Senang JPO Depan SMPN 5 Kota Tangerang Diperbaiki, Tak Takut Tertabrak Lagi",
+      "url": "https://megapolitan.kompas.com/read/2026/10/09/21464661/siswa-senang-jpo-depan-smpn-5-kota-tangerang-diperbaiki-tak-takut",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Tak Hanya Penganiayaan, Polisi Usut Dugaan Perdagangan Orang di Kasus ABK KM Maulana 23",
+      "url": "https://megapolitan.kompas.com/read/2026/10/09/21161901/tak-hanya-penganiayaan-polisi-usut-dugaan-perdagangan-orang-di-kasus-abk",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Revisi Terbaru Peraturan Pencatatan Saham dan IPO di BEI, Ini Poinnya!",
+      "url": "https://emitennews.com/news/revisi-terbaru-peraturan-pencatatan-saham-dan-ipo-di-bei-ini-poinnya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Road to DTIIF 2026, Telkom Ungkap Strategi Percepat Adopsi AI Nasional",
+      "url": "https://emitennews.com/news/road-to-dtiif-2026-telkom-ungkap-strategi-percepat-adopsi-ai-nasional",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Mensos: Siswa Sekolah Rakyat yang Terlibat Perundungan Akan Dimitigasi",
+      "url": "https://megapolitan.kompas.com/read/2026/10/09/21184081/mensos-siswa-sekolah-rakyat-yang-terlibat-perundungan-akan-dimitigasi",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Saham TRIN Mejeng di Urutan Pertama Top Losers usai Rahayu Mundur",
+      "url": "https://emitennews.com/news/saham-trin-mejeng-di-urutan-pertama-top-losers-usai-rahayu-mundur",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BNI (BBNI) Tebar Promo Cashback untuk Nasabah di MotoGP Mandalika 2026",
+      "url": "https://money.kompas.com/read/2026/10/09/213700726/bni-bbni-tebar-promo-cashback-untuk-nasabah-di-motogp-mandalika-2026",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Jasa Marga Andalkan Teknologi dan Data untuk Kelola Operasional Jalan Tol",
+      "url": "https://money.kompas.com/read/2026/10/09/212900926/jasa-marga-andalkan-teknologi-dan-data-untuk-kelola-operasional-jalan-tol",
+      "sektor": "Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "APBN Malaysia Rp 2.014 Triliun untuk 2027, Ekonomi Dibidik Tumbuh 5,2 Persen",
+      "url": "https://money.kompas.com/read/2026/10/09/212100226/apbn-malaysia-rp-2.014-triliun-untuk-2027-ekonomi-dibidik-tumbuh-5-2-persen",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Rapat di Hambalang, Prabowo Instruksikan Percepatan Pembangunan 100 Kampung Nelayan",
+      "url": "https://nasional.kompas.com/read/2026/10/09/21511851/rapat-di-hambalang-prabowo-instruksikan-percepatan-pembangunan-100-kampung",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Kagumi Pelestarian Lingkungan Trenggalek, Delegasi Korea Selatan Undang Bupati ke Konferensi di China",
+      "url": "https://regional.kompas.com/read/2026/10/09/214003778/kagumi-pelestarian-lingkungan-trenggalek-delegasi-korea-selatan-undang",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Said Abdullah Minta PDI-P Bersatu Usung Kader Sendiri di Pilkada",
+      "url": "https://regional.kompas.com/read/2026/10/09/212641978/said-abdullah-minta-pdi-p-bersatu-usung-kader-sendiri-di-pilkada",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Terjerat Kabel Internet hingga Patah Kaki, Korban di Sragen Tolak Kompensasi Ro 16 Juta",
+      "url": "https://regional.kompas.com/read/2026/10/09/213423878/terjerat-kabel-internet-hingga-patah-kaki-korban-di-sragen-tolak-kompensasi",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Marc Marquez, di Antara Kutukan Mandalika dan Bayangan Marco Bezzecchi-Jorge Martin",
+      "url": "https://regional.kompas.com/read/2026/10/09/214433978/marc-marquez-di-antara-kutukan-mandalika-dan-bayangan-marco-bezzecchi-jorge",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Kabel Menjuntai di Bangkalan Jerat Leher Siswa SMA, Korban: Mendadak Jatuh dan Terasa Kesetrum",
+      "url": "https://surabaya.kompas.com/read/2026/10/09/212025578/kabel-menjuntai-di-bangkalan-jerat-leher-siswa-sma-korban-mendadak-jatuh",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Harga Jagung Melonjak, Peternak Blitar Klaim Rugi Rp 4.000 Per Kg Telur",
+      "url": "https://surabaya.kompas.com/read/2026/10/09/213201378/harga-jagung-melonjak-peternak-blitar-klaim-rugi-rp-4000-per-kg-telur",
+      "sektor": "Umum/Makro"
+    }
+  ]
+}
