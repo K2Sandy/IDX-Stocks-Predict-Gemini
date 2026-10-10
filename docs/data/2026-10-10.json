@@ -1,0 +1,220 @@
+{
+  "tanggal": "2026-10-10",
+  "dibuat_pada": "2026-10-10 21:11 WIB",
+  "jumlah_artikel": 35,
+  "saham_disebut": {
+    "JARR": [
+      "Energi (rating 6/7)"
+    ],
+    "PGUN": [
+      "Energi (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Teknologi",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Kenaikan harga minyak mentah Indonesia (ICP) yang signifikan di atas asumsi APBN serta dorongan pemerintah terhadap program biodiesel B50 menciptakan sentimen positif bagi sektor energi.",
+      "alasan": "Lonjakan harga ICP mengindikasikan pendapatan yang lebih tinggi bagi perusahaan hulu minyak dan gas. Sementara itu, komitmen pemerintah pada program B50 akan meningkatkan permintaan untuk biofuel berbasis kelapa sawit, mendukung prospek sub-sektor energi terbarukan.",
+      "analisis_saham": "JARR**: Sebagai perusahaan kelapa sawit, JARR secara tidak langsung dapat diuntungkan oleh peningkatan permintaan kelapa sawit domestik untuk program B50. Meskipun berita utamanya adalah gadai saham, kebijakan energi ini berpotensi mendukung fundamental bisnisnya."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "error",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Remaja Penembak Siswa SMA di Garut Ditangkap, Bersembunyi di Rumah Saudaranya",
+      "url": "https://bandung.kompas.com/read/2026/10/10/205132778/remaja-penembak-siswa-sma-di-garut-ditangkap-bersembunyi-di-rumah-saudaranya",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Hasil Bali United Vs Persijap 6-1: Serdadu Tridatu Ganas! Van Der Sande Hat-Trick",
+      "url": "https://bola.kompas.com/read/2026/10/10/21041838/hasil-bali-united-vs-persijap-6-1-serdadu-tridatu-ganas-van-der-sande-hat-trick",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Link Live Streaming Man United Vs Tottenham di Liga Inggris Malam Ini",
+      "url": "https://bola.kompas.com/read/2026/10/10/20554338/link-live-streaming-man-united-vs-tottenham-di-liga-inggris-malam-ini",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Emil Audero Dapat Penghormatan Rayo Vallecano Usai Juara FIFA ASEAN Cup 2026",
+      "url": "https://bola.kompas.com/read/2026/10/10/20453568/emil-audero-dapat-penghormatan-rayo-vallecano-usai-juara-fifa-asean-cup-2026",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Kata-kata Shin Tae-yong Usai Hasil PSIM Vs Persija Jakarta 0-4",
+      "url": "https://bola.kompas.com/read/2026/10/10/21035788/kata-kata-shin-tae-yong-usai-hasil-psim-vs-persija-jakarta-0-4",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Astra Berkarya dan Tumbuh Bersama Indonesia",
+      "url": "https://emitennews.com/news/astra-berkarya-dan-tumbuh-bersama-indonesia",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "B50 Bisa Gerus Ekspor Sawit Nasional, Gapki Ungkap ada Masalah Serius",
+      "url": "https://emitennews.com/news/b50-bisa-gerus-ekspor-sawit-nasional-gapki-ungkap-ada-masalah-serius",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BSWD Dicap Saham HSC oleh BEI, Sempat Pimpin Top Gainers Pekan Lalu",
+      "url": "https://emitennews.com/news/bswd-dicap-saham-hsc-oleh-bei-sempat-pimpin-top-gainers-pekan-lalu",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Hasil Arsenal Vs Leeds 2-1: Calafiori dan Guimaraes Tandai Kebangkitan Meriam London",
+      "url": "https://bola.kompas.com/read/2026/10/10/20322908/hasil-arsenal-vs-leeds-2-1-calafiori-dan-guimaraes-tandai-kebangkitan-meriam",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "BEI Perketat Aturan HSC, Saham Rp5T Mulai Kena Pantau",
+      "url": "https://emitennews.com/news/bei-perketat-aturan-hsc-saham-rp5t-mulai-kena-pantau",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Dari Rumor Menjadi Nyata, Haji Isam Kini Genggam 30% Saham BYAN",
+      "url": "https://emitennews.com/news/dari-rumor-menjadi-nyata-haji-isam-kini-genggam-30-saham-byan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Menguat Tipis dalam Sepekan, Kapitalisasi Pasar Sentuh Rp10.701T",
+      "url": "https://emitennews.com/news/ihsg-menguat-tipis-dalam-sepekan-kapitalisasi-pasar-sentuh-rp10701t",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Intip Top Gainers Sepekan, Ada AKKU hingga Saham HSC Ini",
+      "url": "https://emitennews.com/news/intip-top-gainers-sepekan-ada-akku-hingga-saham-hsc-ini",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "ITCEC Nilai Layanan Digital Ubah Pola Kejahatan atas Sektor Perbankan",
+      "url": "https://emitennews.com/news/itcec-nilai-layanan-digital-ubah-pola-kejahatan-atas-sektor-perbankan",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Komisaris Ini Kurangi Porsi Saham Dharma Polimetal (DRMA), Sisa 1,79%",
+      "url": "https://emitennews.com/news/komisaris-ini-kurangi-porsi-saham-dharma-polimetal-drma-sisa-179",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Langkah Kontradiktif Bank Indonesia, Bagaimana Mengatasinya?",
+      "url": "https://emitennews.com/news/langkah-kontradiktif-bank-indonesia-bagaimana-mengatasinya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "ITSEC Asia (CYBR) Gelar AICX 2026 di Bali, Cek Tanggalnya!",
+      "url": "https://emitennews.com/news/itsec-asia-cybr-gelar-aicx-2026-di-bali-cek-tanggalnya",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Menimbang Gadai Saham JARR dan PGUN di Lingkaran Haji Isam",
+      "url": "https://emitennews.com/news/menimbang-gadai-saham-jarr-dan-pgun-di-lingkaran-haji-isam",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Menkeu Bersiap Hadapi Lonjakan Subsidi BBM, ICP Sudah Selisih USD21,9",
+      "url": "https://emitennews.com/news/menkeu-bersiap-hadapi-lonjakan-subsidi-bbm-icp-sudah-selisih-usd219",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pembayaran Subsidi dan Kompensasi Naik jadi Rp376,8T, Ini Kata Menkeu",
+      "url": "https://emitennews.com/news/pembayaran-subsidi-dan-kompensasi-naik-jadi-rp3768t-ini-kata-menkeu",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Realisasi Pembiayaan Utang Rp494T, Menkeu Pastikan Masih On Track",
+      "url": "https://emitennews.com/news/realisasi-pembiayaan-utang-rp494t-menkeu-pastikan-masih-on-track",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pimpin Transformasi GIAA, ini Rekam Jejak Thomas Oentoro",
+      "url": "https://emitennews.com/news/pimpin-transformasi-giaa-ini-rekam-jejak-thomas-oentoro",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ponakan Prabowo Cabut, Serap 20 Persen Saham TRIN Tinggal Janji?",
+      "url": "https://emitennews.com/news/ponakan-prabowo-cabut-serap-20-persen-saham-trin-tinggal-janji",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Pelaku dan Wanita yang Tewas Terikat di Kos Jaktim Tak Saling Kenal, Polisi Dalami Motif",
+      "url": "https://megapolitan.kompas.com/read/2026/10/10/20570531/pelaku-dan-wanita-yang-tewas-terikat-di-kos-jaktim-tak-saling-kenal",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Dokter Ungkap  Kondisi 17 Siswa SD di Medan yang Keracunan MBG, 2 Orang Sempat Gangguan Irama Jantung",
+      "url": "https://medan.kompas.com/read/2026/10/10/210403278/dokter-ungkap-kondisi-17-siswa-sd-di-medan-yang-keracunan-mbg-2-orang-sempat",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Index Review MSCI Bisa Picu Gejolak IHSG, Apa Strategi untuk Investor Ritel?",
+      "url": "https://money.kompas.com/read/2026/10/10/210000426/index-review-msci-bisa-picu-gejolak-ihsg-apa-strategi-untuk-investor-ritel-",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Rugi Bengkak 680 Persen, Saham FLMC Terbang ARA",
+      "url": "https://emitennews.com/news/rugi-bengkak-680-persen-saham-flmc-terbang-ara",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Sumber Dana Terbatas, OJK Urai 8 Usaha Modal Ventura Belum Penuhi Ini",
+      "url": "https://emitennews.com/news/sumber-dana-terbatas-ojk-urai-8-usaha-modal-ventura-belum-penuhi-ini",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Dukung Pemulihan Ekonomi, Pertamina Bantu Perajin Tenun Desa Adat Sade Kembali Berkarya",
+      "url": "https://nasional.kompas.com/read/2026/10/10/21031121/dukung-pemulihan-ekonomi-pertamina-bantu-perajin-tenun-desa-adat-sade",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Bintang Pranata Finis Kedua di Moto4 Asia Cup Mandalika",
+      "url": "https://otomotif.kompas.com/read/2026/10/10/204727215/bintang-pranata-finis-kedua-di-moto4-asia-cup-mandalika",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Kelimutu NTT Masuk Daftar Taman Nasional Terbaik Dunia Versi CN Traveller",
+      "url": "https://travel.kompas.com/read/2026/10/10/203115627/kelimutu-ntt-masuk-daftar-taman-nasional-terbaik-dunia-versi-cn-traveller",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "TRIN Masuk Daftar Top Losers Sepekan, Intip Rinciannya!",
+      "url": "https://emitennews.com/news/trin-masuk-daftar-top-losers-sepekan-intip-rinciannya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "The Social Reckoning (1): Saat Algoritma Memecah Belah Masyarakat",
+      "url": "https://emitennews.com/news/the-social-reckoning-1-saat-algoritma-memecah-belah-masyarakat",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Banjir di Padang, 2 Kecamatan Paling Terdampak, Lebih dari 100 Jiwa Dievakuasi",
+      "url": "https://regional.kompas.com/read/2026/10/10/203612378/banjir-di-padang-2-kecamatan-paling-terdampak-lebih-dari-100-jiwa",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pemkot Yogyakarta Masih Buka Beasiswa untuk Mahasiswa Desil 1-5, Simak Persayaratannya",
+      "url": "https://yogyakarta.kompas.com/read/2026/10/10/204414378/pemkot-yogyakarta-masih-buka-beasiswa-untuk-mahasiswa-desil-1-5-simak",
+      "sektor": "Energi"
+    }
+  ]
+}
