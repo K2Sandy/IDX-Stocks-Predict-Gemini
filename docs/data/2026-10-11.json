@@ -1,0 +1,166 @@
+{
+  "tanggal": "2026-10-11",
+  "dibuat_pada": "2026-10-11 21:38 WIB",
+  "jumlah_artikel": 23,
+  "saham_disebut": {
+    "MCOL": [
+      "Energi (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Kinerja perpajakan yang positif memberikan angin segar bagi kesehatan fiskal RI, didukung oleh upaya BEI dalam meningkatkan kualitas pasar modal.",
+      "alasan": "Perbaikan kesehatan fiskal negara dengan penerimaan pajak yang kuat dan defisit APBN yang menyempit menciptakan lingkungan ekonomi yang lebih stabil dan kondusif, secara langsung menguntungkan sektor keuangan, terutama perbankan, melalui potensi pertumbuhan kredit dan kepercayaan investor. Langkah BEI yang proaktif dalam menjaga integritas pasar juga akan menarik investasi jangka panjang, meskipun mungkin ada volatilitas jangka pendek pada saham tertentu.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Otoritas Jasa Keuangan (OJK) menyatakan aset kripto masih jauh dari kriteria cadangan devisa, sementara Yayasan Lembaga Konsumen Indonesia (YLKI) mengingatkan agar biaya platform digital transportasi yang dibatasi 8% tidak membebani konsumen.",
+      "alasan": "Berita mengenai kehati-hatian OJK terhadap aset kripto dan batasan biaya platform digital yang disorot YLKI menciptakan sentimen negatif, menunjukkan peningkatan pengawasan regulasi dan potensi pembatasan pendapatan untuk beberapa segmen perusahaan teknologi. Hal ini dapat menekan optimisme investor terhadap prospek pertumbuhan dan profitabilitas sektor tersebut dalam jangka pendek.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Kebutuhan mendesak akan cadangan listrik di Sumatra mendorong percepatan operasional PLTA baru, didukung oleh investasi eksplorasi tambang batubara dari emiten.",
+      "alasan": "Permintaan listrik yang tinggi dan urgensi penambahan kapasitas pembangkit tenaga air menunjukkan fundamental permintaan energi yang kuat. Aktivitas eksplorasi batubara oleh MCOL juga mengindikasikan komitmen investasi dalam pasokan energi, secara keseluruhan memberikan sentimen positif bagi pertumbuhan sektor.",
+      "analisis_saham": "MCOL: Berita mengenai investasi USD60 ribu untuk mengebor 39 titik eksplorasi tambang batubara menunjukkan komitmen PT Prima Andalan Mandiri Tbk. dalam meningkatkan cadangan dan potensi produksi di masa mendatang. Sentimen ini positif karena dapat berdampak pada prospek kinerja dan nilai aset perusahaan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Investasi baru di sektor material konstruksi dan aktivitas promosi yang berkelanjutan pada infrastruktur pariwisata Mandalika memberikan sentimen positif bagi sektor Infrastruktur.",
+      "alasan": "Investasi senilai Rp710 miliar oleh HSG Material Indonesia di KEK Kendal untuk produksi material konstruksi menunjukkan peningkatan permintaan dan geliat di sub-sektor penunjang infrastruktur. Selain itu, dukungan berkelanjutan Pertamina terhadap sirkuit Mandalika mengindikasikan penggunaan dan pemeliharaan infrastruktur yang ada, yang juga berdampak positif pada ekosistem terkait.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Cadangan Listrik Sumatra Cuma 4%, Operasional PLTA Batang Toru Dikebut",
+      "url": "https://emitennews.com/news/cadangan-listrik-sumatra-cuma-4-operasional-plta-batang-toru-dikebut",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Emerging Market Bukan Zona Nyaman, Bursa Indonesia Harus Berbenah",
+      "url": "https://emitennews.com/news/emerging-market-bukan-zona-nyaman-bursa-indonesia-harus-berbenah",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEI Makin Getol Sikat Saham HSC, Kini Sasar Emiten Kapitalisasi Rp5T",
+      "url": "https://emitennews.com/news/bei-makin-getol-sikat-saham-hsc-kini-sasar-emiten-kapitalisasi-rp5t",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Analis Ungkap Kinerja Perpajakan Jadi Angin Segar Kesehatan Fiskal RI",
+      "url": "https://emitennews.com/news/analis-ungkap-kinerja-perpajakan-jadi-angin-segar-kesehatan-fiskal-ri",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Buru Restu Private Placement, LOPI Gelar Lagi RUPSLB Pada 19 Oktober",
+      "url": "https://emitennews.com/news/buru-restu-private-placement-lopi-gelar-lagi-rupslb-pada-19-oktober",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Diatas Harga Pasar! PIS Lepas 10,07% Saham DOOH ke Investor Strategis",
+      "url": "https://emitennews.com/news/diatas-harga-pasar-pis-lepas-1007-saham-dooh-ke-investor-strategis",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Habiskan USD916,4 Ribu, J Resources (PSAB) Eksplorasi di Triwulan III",
+      "url": "https://emitennews.com/news/habiskan-usd9164-ribu-j-resources-psab-eksplorasi-di-triwulan-iii",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Investasi Rp710M, HSG Material Bangun Pabrik Produksi di KEK Kendal",
+      "url": "https://emitennews.com/news/investasi-rp710m-hsg-material-bangun-pabrik-produksi-di-kek-kendal",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Masih Panjang Jalan Aset Kripto jadi Cadangan Devisa, OJK Urutkan Ini",
+      "url": "https://emitennews.com/news/masih-panjang-jalan-aset-kripto-jadi-cadangan-devisa-ojk-urutkan-ini",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "MAHA Amankan Kontrak Angkut Batu Bara Rp2,2 Triliun Hingga 2030",
+      "url": "https://emitennews.com/news/maha-amankan-kontrak-angkut-batu-bara-rp22-triliun-hingga-2030",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "MBMA Buru Sumber Daya Baru, Pengeboran Tambang SCM Capai 41.289 Meter",
+      "url": "https://emitennews.com/news/mbma-buru-sumber-daya-baru-pengeboran-tambang-scm-capai-41289-meter",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kinerja Emiten Sawit di Tengah Kabut Asap",
+      "url": "https://emitennews.com/news/kinerja-emiten-sawit-di-tengah-kabut-asap",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "MCOL Gelontor USD60 Ribu, Bor 39 Titik Eksplorasi Tambang MIP Q3 2026",
+      "url": "https://emitennews.com/news/mcol-gelontor-usd60-ribu-bor-39-titik-eksplorasi-tambang-mip-q3-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "MNC Vision (MSKY) Ungkap Perkembangan Terbaru PKPU Ascot Group",
+      "url": "https://emitennews.com/news/mnc-vision-msky-ungkap-perkembangan-terbaru-pkpu-ascot-group",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "MotoGP Mandalika 2026, Tekad Pertamina Perkuat Loyalitas Pelanggan",
+      "url": "https://emitennews.com/news/motogp-mandalika-2026-tekad-pertamina-perkuat-loyalitas-pelanggan",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pemicu Merosot Tajam Saham Bank-bank Eropa",
+      "url": "https://emitennews.com/news/pemicu-merosot-tajam-saham-bank-bank-eropa",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Perusahaan Mau IPO di BEI Bertambah Jadi Sembilan, 2 Calon Baru Masuk",
+      "url": "https://emitennews.com/news/perusahaan-mau-ipo-di-bei-bertambah-jadi-sembilan-2-calon-baru-masuk",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Prudential Life Dilarang Jual Produk Asuransi, Ini Penyebabnya",
+      "url": "https://emitennews.com/news/prudential-life-dilarang-jual-produk-asuransi-ini-penyebabnya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Saham HELI Dilego Avia Nusantara 9,2 Juta Lembar, Total Rp3,14 Miliar",
+      "url": "https://emitennews.com/news/saham-heli-dilego-avia-nusantara-92-juta-lembar-total-rp314-miliar",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Siap Bawa Bank Jakarta-PAM Jaya IPO, Pramono Jamin Kendali Saham",
+      "url": "https://emitennews.com/news/siap-bawa-bank-jakarta-pam-jaya-ipo-pramono-jamin-kendali-saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "YLKI Ingatkan Penerapan Biaya Platform 8% Jangan Bebani Konsumen",
+      "url": "https://emitennews.com/news/ylki-ingatkan-penerapan-biaya-platform-8-jangan-bebani-konsumen",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "The Social Reckoning’(2): Dari Cebong–Kampret hingga Radikalisasi",
+      "url": "https://emitennews.com/news/the-social-reckoning2-dari-cebongkampret-hingga-radikalisasi",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "TKD Disunat, Cuma 55 dari 546 Daerah Mampu Tutup Gaji Pegawai dari PAD",
+      "url": "https://emitennews.com/news/tkd-disunat-cuma-55-dari-546-daerah-mampu-tutup-gaji-pegawai-dari-pad",
+      "sektor": "Keuangan"
+    }
+  ]
+}
