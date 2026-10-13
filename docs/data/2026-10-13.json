@@ -1,0 +1,285 @@
+{
+  "tanggal": "2026-10-13",
+  "dibuat_pada": "2026-10-13 22:31 WIB",
+  "jumlah_artikel": 43,
+  "saham_disebut": {
+    "BBCA": [
+      "Keuangan (rating 5/7)",
+      "Teknologi (rating 6/7)"
+    ],
+    "SMMT": [
+      "Energi (rating 3/7)"
+    ],
+    "DEWA": [
+      "Energi (rating 3/7)"
+    ],
+    "TLKM": [
+      "Infrastruktur (rating 5/7)"
+    ],
+    "SBMA": [
+      "Infrastruktur (rating 5/7)"
+    ],
+    "WSKT": [
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "BCA Digital (anak perusahaan Grup BCA) meraih rekor MURI atas kontribusinya dalam literasi keuangan melalui karya jurnalistik, meningkatkan citra positif di sektor perbankan digital.",
+      "alasan": "Berita positif dari entitas yang berafiliasi dengan salah satu bank terbesar di Indonesia ini memberikan sentimen yang baik terhadap sektor keuangan. Meskipun tidak secara langsung mempengaruhi kinerja keuangan, upaya literasi dapat membangun kepercayaan publik dan memperkuat citra industri, memberikan sedikit dorongan sentimen positif secara keseluruhan.",
+      "analisis_saham": "Berita positif mengenai penghargaan MURI untuk BCA Digital, anak perusahaan PT Bank Central Asia Tbk (BBCA), dalam upaya literasi keuangan dapat memperkuat citra merek dan reputasi grup BCA secara keseluruhan. Meskipun dampak langsung pada kinerja finansial BBCA mungkin minimal, sentimen positif ini berpotensi memberikan dorongan kecil pada persepsi investor terhadap saham BBCA."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Peluncuran model AI canggih oleh Meta secara global menciptakan sentimen positif yang kuat bagi sektor teknologi.",
+      "alasan": "Inovasi besar dari pemain teknologi global seperti Meta dalam bidang AI cenderung meningkatkan optimisme investor terhadap prospek pertumbuhan sektor teknologi secara keseluruhan. Sentimen positif ini dapat menular ke pasar lokal, mendorong minat pada saham-saham teknologi di BEI meskipun Meta bukan emiten lokal.",
+      "analisis_saham": "Berita mengenai BCA Digital yang meraih rekor MURI atas buku literasi keuangan adalah sentimen positif untuk citra mereknya. Namun, dampaknya terhadap saham PT Bank Central Asia Tbk (BBCA), sebagai perusahaan induk, diperkirakan minimal karena ini lebih bersifat acara PR dan bukan indikator kinerja keuangan utama bagi bank sebesar BBCA."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Sentimen sektor energi cenderung beragam dengan penambahan porsi saham pengendali SMMT diimbangi oleh tertahannya eksplorasi DEWA akibat perizinan dan biaya.",
+      "alasan": "Kabar dari SMMT tentang peningkatan kepemilikan oleh pengendali Geo Energy Investama dapat memberikan sentimen positif khusus untuk saham tersebut. Namun, berita dari DEWA yang menunjukkan hambatan perizinan dan biaya eksplorasi yang signifikan tanpa kemajuan, dapat menimbulkan kekhawatiran operasional dan beban finansial di sub-sektor pertambangan. Secara agregat, tantangan operasional ini sedikit mengimbangi sentimen positif dari SMMT, sehingga cenderung netral ke arah negatif bagi sektor keseluruhan.",
+      "analisis_saham": "SMMT (PT Golden Eagle Energy Tbk): Penambahan porsi kepemilikan oleh pengendali Geo Energy Investama sebanyak 100 juta saham hingga mencapai 70,16% pasca masuknya SMMT ke klub HSC, mengindikasikan kepercayaan kuat dari pemegang saham mayoritas. Hal ini berpotensi memberikan sentimen positif dan dukungan terhadap harga saham SMMT."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Perusahaan-perusahaan utama di sektor infrastruktur menunjukkan sinyal perbaikan kinerja finansial dan langkah strategis yang positif.",
+      "alasan": "Berita mengenai program streamlining Telkom Group (TLKM) dan penurunan kerugian Waskita Karya (WSKT) mengindikasikan upaya perbaikan dan efisiensi. Hal ini didukung oleh ekspansi bisnis PT Surya Biru Murni Acetylene (SBMA), memberikan sentimen positif yang cenderung mendorong kenaikan sektor secara keseluruhan.",
+      "analisis_saham": "TLKM**: Program akselerasi streamlining dan transisi menuju Strategic Holding menunjukkan komitmen untuk efisiensi dan fokus pada bisnis inti, yang berpotensi positif bagi valuasi jangka panjang."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Pola Super El Niño yang menguat berpotensi menjadikan 2026 sebagai tahun terpanas dalam sejarah, memicu rekor suhu global dan risiko disrupsi iklim.",
+      "alasan": "Kondisi El Niño ekstrem ini dapat menimbulkan dampak negatif signifikan pada berbagai sektor ekonomi, seperti pertanian, sumber daya air, dan energi, yang pada akhirnya menekan pertumbuhan PDB dan meningkatkan inflasi. Prospek makroekonomi yang terganggu cenderung menciptakan sentimen negatif di pasar.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "30 Oktober, IMPC Distribusi Dividen Interim Rp273,43 Miliar",
+      "url": "https://emitennews.com/news/30-oktober-impc-distribusi-dividen-interim-rp27343-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Baru Masuk Klub HSC, Pengendali SMMT Malah Tambah Porsi 100 Juta Saham",
+      "url": "https://emitennews.com/news/baru-masuk-klub-hsc-pengendali-smmt-malah-tambah-porsi-100-juta-saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Akselerasi Streamlining, Pastikan TelkomGroup Fokus pada Bisnis Inti",
+      "url": "https://emitennews.com/news/akselerasi-streamlining-pastikan-telkomgroup-fokus-pada-bisnis-inti",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Abadikan 50 Karya Jurnalistik Terbaik, BCA Digital Raih Rekor MURI",
+      "url": "https://emitennews.com/news/abadikan-50-karya-jurnalistik-terbaik-bca-digital-raih-rekor-muri",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "9 Tahun 1.500 Gerai, Kopi Kenangan Pilih Debut di Bursa Singapura?",
+      "url": "https://emitennews.com/news/9-tahun-1500-gerai-kopi-kenangan-pilih-debut-di-bursa-singapura",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "BEI Tetapkan 80 Emiten Berlabel HSC, Ini Kata Analis",
+      "url": "https://emitennews.com/news/bei-tetapkan-80-emiten-berlabel-hsc-ini-kata-analis",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Mayat Tinggal Tulang Ditemukan di Cianjur, Diduga Anak Berusia 8-10 Tahun",
+      "url": "https://bandung.kompas.com/read/2026/10/13/222257378/mayat-tinggal-tulang-ditemukan-di-cianjur-diduga-anak-berusia-8-10-tahun",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BMAS Masuk 10 Besar Daftar Saham HSC, Intip Kinerja Semester I",
+      "url": "https://emitennews.com/news/bmas-masuk-10-besar-daftar-saham-hsc-intip-kinerja-semester-i",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BTN Buka Suara Soal Kasus Dana Nasabah Rp17 Miliar",
+      "url": "https://emitennews.com/news/btn-buka-suara-soal-kasus-dana-nasabah-rp17-miliar",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Eksplorasi DEWA Tertahan Perizinan, Biaya Tembus Rp14,51M di Q3 2026",
+      "url": "https://emitennews.com/news/eksplorasi-dewa-tertahan-perizinan-biaya-tembus-rp1451m-di-q3-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Data Karhutla BNPB, 639 Hektare Masih Terbakar, Terbesar di Kalteng",
+      "url": "https://emitennews.com/news/data-karhutla-bnpb-639-hektare-masih-terbakar-terbesar-di-kalteng",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Melemah 0,17 Persen, Sempat Sentuh Level Terendah Intraday 5.828",
+      "url": "https://emitennews.com/news/ihsg-melemah-017-persen-sempat-sentuh-level-terendah-intraday-5828",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IMF Proyeksikan Ekonomi Global 3,1%, Tekanan Energi Mengintai",
+      "url": "https://emitennews.com/news/imf-proyeksikan-ekonomi-global-31-tekanan-energi-mengintai",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kemnaker Catat 63.789 Pekerja Kena PHK, Jawa Barat Tertinggi",
+      "url": "https://emitennews.com/news/kemnaker-catat-63789-pekerja-kena-phk-jawa-barat-tertinggi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kurangi Porsi, SSS Kini Kuasai 78,95 Persen Saham Victoria Care (VICI)",
+      "url": "https://emitennews.com/news/kurangi-porsi-sss-kini-kuasai-7895-persen-saham-victoria-care-vici",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Meta Luncurkan Model AI Baru Canggih, OpenAI Lewat",
+      "url": "https://emitennews.com/news/meta-luncurkan-model-ai-baru-canggih-openai-lewat",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Pengendali VICI Anne Vabilia Salim Jual 402,4 Juta Saham, Raup Rp301M",
+      "url": "https://emitennews.com/news/pengendali-vici-anne-vabilia-salim-jual-4024-juta-saham-raup-rp301m",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Penggunaan Dana IPO Harta Djaya (MEJA), Terbesar Untuk Modal Kerja",
+      "url": "https://emitennews.com/news/penggunaan-dana-ipo-harta-djaya-meja-terbesar-untuk-modal-kerja",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Peraih Nobel Beber Pelaku Usaha Indonesia Sulit Naik Kelas",
+      "url": "https://emitennews.com/news/peraih-nobel-beber-pelaku-usaha-indonesia-sulit-naik-kelas",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Perkuat Armada Tanker, SOCI Borong VLGC dan Kapal Minyak 5.300 DWT",
+      "url": "https://emitennews.com/news/perkuat-armada-tanker-soci-borong-vlgc-dan-kapal-minyak-5300-dwt",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Perkuat Peran, Jasindo Lindungi 20.838 Aset Negara Berbasis Risiko",
+      "url": "https://emitennews.com/news/perkuat-peran-jasindo-lindungi-20838-aset-negara-berbasis-risiko",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Prambanan Investasi Sukses Rampungkan Divestasi Seluruh Saham DOOH",
+      "url": "https://emitennews.com/news/prambanan-investasi-sukses-rampungkan-divestasi-seluruh-saham-dooh",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Repower Asia (REAL) Tancap Gas di Rumah Subsidi via KSO di Bogor",
+      "url": "https://emitennews.com/news/repower-asia-real-tancap-gas-di-rumah-subsidi-via-kso-di-bogor",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Super El Niño Berpotensi Jadikan 2026 Tahun Terpanas dalam Sejarah",
+      "url": "https://lestari.kompas.com/read/2026/10/13/221301586/super-el-nio-berpotensi-jadikan-2026-tahun-terpanas-dalam-sejarah",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "SBMA Gaet KPI Perluas Distribusi Gas, Sahamnya Tetiba Ngegas!",
+      "url": "https://emitennews.com/news/sbma-gaet-kpi-perluas-distribusi-gas-sahamnya-tetiba-ngegas",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BRIN Kembangkan Enzim dari Jamur Lokal untuk Urai Limbah Pewarna Tekstil",
+      "url": "https://lestari.kompas.com/read/2026/10/13/222710986/brin-kembangkan-enzim-dari-jamur-lokal-untuk-urai-limbah-pewarna-tekstil",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Sempat Drop 1,8% Kala Pagi, IHSG Siang Perlahan Bangkit ke Atas 5.900",
+      "url": "https://emitennews.com/news/sempat-drop-18-kala-pagi-ihsg-siang-perlahan-bangkit-ke-atas-5900",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Tambah 100 Juta Saham, Geo Energy Investama Gelontor Rp380 Miliar",
+      "url": "https://emitennews.com/news/tambah-100-juta-saham-geo-energy-investama-gelontor-rp380-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "UMA Menjerat Lima Saham, Dua di Antaranya Mepet Harga ARA!",
+      "url": "https://emitennews.com/news/uma-menjerat-lima-saham-dua-di-antaranya-mepet-harga-ara",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "WSKT Laporkan Rugi Menyusut 9,46% Jadi Rp2,87T per Kuartal III 2026",
+      "url": "https://emitennews.com/news/wskt-laporkan-rugi-menyusut-946-jadi-rp287t-per-kuartal-iii-2026",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Buruh Akan Demo Bergelombang 15-30 Oktober, Tuntut UMP 2027 Naik 9,5 Persen",
+      "url": "https://megapolitan.kompas.com/read/2026/10/13/22052741/buruh-akan-demo-bergelombang-15-30-oktober-tuntut-ump-2027-naik-95-persen",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "5 Zodiak Paling Cinta Damai dan Tidak Suka Bertengkar, Ada Libra",
+      "url": "https://lifestyle.kompas.com/read/2026/10/13/220000320/5-zodiak-paling-cinta-damai-dan-tidak-suka-bertengkar-ada-libra",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "KPK Tangkap 14 Orang Terkait OTT BNPB",
+      "url": "https://nasional.kompas.com/read/2026/10/13/22035411/kpk-tangkap-14-orang-terkait-ott-bnpb",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pengendara Motor Lawan Arah Tewas Tabrak Taksi di Tol Cijago Depok",
+      "url": "https://megapolitan.kompas.com/read/2026/10/13/22125991/pengendara-motor-lawan-arah-tewas-tabrak-taksi-di-tol-cijago-depok",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Aksi Baku Tembak Polisi Jakbar dan Curanmor di Lampung, Berakhir dengan Timah Panas",
+      "url": "https://megapolitan.kompas.com/read/2026/10/13/22143401/aksi-baku-tembak-polisi-jakbar-dan-curanmor-di-lampung-berakhir-dengan",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "BNPB Janji Kooperatif Usai OTT KPK, Siap Buka Akses Data dan Informasi",
+      "url": "https://nasional.kompas.com/read/2026/10/13/22140091/bnpb-janji-kooperatif-usai-ott-kpk-siap-buka-akses-data-dan-informasi",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "KPK Sita Uang Tunai Rp 1,4 Miliar dan Logam Mulia Terkait OTT BNPB",
+      "url": "https://nasional.kompas.com/read/2026/10/13/22170711/kpk-sita-uang-tunai-rp-14-miliar-dan-logam-mulia-terkait-ott-bnpb",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Raline Shah Mundur dari Jabatan Stafsus Menkomdigi",
+      "url": "https://nasional.kompas.com/read/2026/10/13/22211271/raline-shah-mundur-dari-jabatan-stafsus-menkomdigi",
+      "sektor": "Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Petani Aceh Tamiang Panen Padi Perdana Pascabencana",
+      "url": "https://regional.kompas.com/read/2026/10/13/220917478/petani-aceh-tamiang-panen-padi-perdana-pascabencana",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Jalur Pendakian Gunung Lawu Masih Ditutup, Wilayah Utara Terjadi Kebakaran",
+      "url": "https://surabaya.kompas.com/read/2026/10/13/221036478/jalur-pendakian-gunung-lawu-masih-ditutup-wilayah-utara-terjadi-kebakaran",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Gunung Anak Krakatau Masih Siaga, Asap Kawah Sempat Capai 100 Meter",
+      "url": "https://regional.kompas.com/read/2026/10/13/222834578/gunung-anak-krakatau-masih-siaga-asap-kawah-sempat-capai-100-meter",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "ODGJ Diduga Penyebab Kebakaran di Gunung Lokon",
+      "url": "https://regional.kompas.com/read/2026/10/13/222923178/odgj-diduga-penyebab-kebakaran-di-gunung-lokon",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kebakaran TPA di Blitar, 2 Personel Damkar Kelahan 2 Hari Bekerja di Bawah Terik Matahari",
+      "url": "https://surabaya.kompas.com/read/2026/10/13/222922378/kebakaran-tpa-di-blitar-2-personel-damkar-kelahan-2-hari-bekerja-di-bawah",
+      "sektor": "Energi"
+    }
+  ]
+}
