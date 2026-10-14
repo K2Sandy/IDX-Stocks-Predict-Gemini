@@ -1,0 +1,201 @@
+{
+  "tanggal": "2026-10-14",
+  "dibuat_pada": "2026-10-14 20:21 WIB",
+  "jumlah_artikel": 27,
+  "saham_disebut": {
+    "BBCA": [
+      "Keuangan (rating 5/7)"
+    ],
+    "PART": [
+      "Teknologi (rating 5/7)"
+    ],
+    "SMKM": [
+      "Infrastruktur (rating 5/7)"
+    ],
+    "CLEO": [
+      "Infrastruktur (rating 5/7)"
+    ],
+    "MKNT": [
+      "Infrastruktur (rating 5/7)"
+    ],
+    "ARII": [
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Ajaib memperkuat layanan margin trading dengan bunga kompetitif dan pilihan efek margin yang lebih luas, mengindikasikan potensi peningkatan aktivitas di pasar modal.",
+      "alasan": "Berita penguatan layanan margin trading oleh Ajaib Sekuritas mengindikasikan prospek pertumbuhan aktivitas transaksi di pasar modal, yang secara positif akan mendukung kinerja perusahaan sekuritas dan sub-sektor keuangan secara keseluruhan. Peningkatan ini dapat menghasilkan pendapatan berbasis biaya yang lebih tinggi bagi pialang saham.",
+      "analisis_saham": "PT Bank Central Asia Tbk (BBCA) menyelenggarakan program Bakti Sosial berupa operasi katarak gratis. Meskipun ini adalah inisiatif positif untuk citra perusahaan dan tanggung jawab sosial, berita ini tidak memiliki dampak langsung yang signifikan terhadap fundamental keuangan atau pergerakan harga saham BBCA dalam jangka pendek."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "PT Cipta Perdana Lancar (PART) berinovasi dengan menjajaki sektor pengelolaan sampah menggunakan teknologi lingkungan, didukung rencana rights issue.",
+      "alasan": "Ekspansi PART ke sektor pengelolaan sampah dengan basis teknologi lingkungan menunjukkan adopsi dan investasi dalam solusi teknologi di berbagai bidang. Sentimen inovasi dan pertumbuhan yang didorong teknologi ini dapat memberikan dorongan positif secara sektoral, meski dari satu emiten.",
+      "analisis_saham": "PT Cipta Perdana Lancar Tbk (PART) diperkirakan akan mendapatkan sentimen positif karena diversifikasi bisnis ke sektor pengelolaan sampah berbasis teknologi lingkungan. Rencana rights issue untuk mendanai proyek ini menunjukkan komitmen dan potensi pertumbuhan baru bagi perusahaan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Tidak ada berita spesifik hari ini yang secara langsung relevan dengan sektor Energi.",
+      "alasan": "Kumpulan berita yang diberikan tidak memuat informasi terkait kinerja, kebijakan, harga komoditas (minyak, gas, batu bara), atau peristiwa lain yang secara langsung memengaruhi perusahaan-perusahaan di sektor energi. Oleh karena itu, sentimen terhadap sektor ini diperkirakan netral, tanpa adanya pendorong atau penekan yang jelas dari berita yang ada.",
+      "analisis_saham": "Tidak ada saham spesifik dari sektor energi yang disebutkan dalam kumpulan berita ini. Artikel-artikel yang ada membahas sektor lain seperti perbankan (BBCA), pertambangan logam mulia (ANTM), manufaktur (GPSO), serta isu karhutla di sektor perkebunan kelapa sawit, yang tidak termasuk dalam sektor Energi BEI."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pemprov DKI Jakarta mendorong sinergi BUMD dan BUMN untuk percepatan transformasi kota, sementara emiten konstruksi SMKM menunjukkan kepercayaan investor dengan peningkatan kepemilikan saham.",
+      "alasan": "Sinergi antara Pemprov DKI, BUMD, dan BUMN mengindikasikan percepatan proyek pembangunan infrastruktur di Jakarta, yang akan menciptakan peluang bagi perusahaan sektor ini. Peningkatan kepemilikan saham oleh pemegang saham besar di emiten konstruksi juga mencerminkan kepercayaan terhadap prospek industri infrastruktur.",
+      "analisis_saham": "SMKM: Pemegang saham besar (Bondra Uji Pratama) menambah porsi kepemilikannya, sebuah sinyal positif yang menunjukkan kepercayaan investor terhadap prospek dan kinerja SMKM sebagai emiten jasa konstruksi. Hal ini dapat memberikan dorongan positif pada harga saham SMKM."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Beli 284 Ribu Helai, Pemegang Saham SMKM Ini Perbesar Porsinya",
+      "url": "https://emitennews.com/news/beli-284-ribu-helai-pemegang-saham-smkm-ini-perbesar-porsinya",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Bakti BCA Hadirkan Operasi Katarak Gratis Bagi 261 Warga Cianjur",
+      "url": "https://emitennews.com/news/bakti-bca-hadirkan-operasi-katarak-gratis-bagi-261-warga-cianjur",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ajaib Perkuat Layanan Margin Trading, Tersedia Hingga 349 Efek Margin",
+      "url": "https://emitennews.com/news/ajaib-perkuat-layanan-margin-trading-tersedia-hingga-349-efek-margin",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Emiten Perhiasan HRTA Cari Modal Tambahan untuk Borong Bahan Baku Emas",
+      "url": "https://emitennews.com/news/emiten-perhiasan-hrta-cari-modal-tambahan-untuk-borong-bahan-baku-emas",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "CLEO Bidik Pertumbuhan Dobel Digit, Ditopang Inovasi dan Ekspansi",
+      "url": "https://emitennews.com/news/cleo-bidik-pertumbuhan-dobel-digit-ditopang-inovasi-dan-ekspansi",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Emas Dunia Tertahan, Emas Antam Ikut Stagnan",
+      "url": "https://emitennews.com/news/emas-dunia-tertahan-emas-antam-ikut-stagnan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "GPSO Siap Tangkap Peluang Pertumbuhan Manufaktur Nasional",
+      "url": "https://emitennews.com/news/gpso-siap-tangkap-peluang-pertumbuhan-manufaktur-nasional",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Harapan Besar dari TEI 2026, Mendag Bidik Transaksi Rp313,25 Triliun",
+      "url": "https://emitennews.com/news/harapan-besar-dari-tei-2026-mendag-bidik-transaksi-rp31325-triliun",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Rabu Naik Tipis 17 Poin ke 5.943, Sempat Tembus Level Psikologis",
+      "url": "https://emitennews.com/news/ihsg-rabu-naik-tipis-17-poin-ke-5943-sempat-tembus-level-psikologis",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Siang Berhasil Rebound, Tapi Asing Justru Net Sell Rp1,16T",
+      "url": "https://emitennews.com/news/ihsg-siang-berhasil-rebound-tapi-asing-justru-net-sell-rp116t",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Sesi I (14/10) Sukses Rebound 0,82%, Pepet Lagi Level 6.000",
+      "url": "https://emitennews.com/news/ihsg-sesi-i-1410-sukses-rebound-082-pepet-lagi-level-6000",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Pagi Dibuka Memantul 0,38% Usai Tertekan Dua Hari Berturut-Turut",
+      "url": "https://emitennews.com/news/ihsg-pagi-dibuka-memantul-038-usai-tertekan-dua-hari-berturut-turut",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Low Tuck Kwong Borong Lagi Saham BYAN, Gelontor Rp5,6 Miliar",
+      "url": "https://emitennews.com/news/low-tuck-kwong-borong-lagi-saham-byan-gelontor-rp56-miliar",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "ITMG Gelontor Rp7,86M untuk Eksplorasi Batu Bara di Kuartal III 2026",
+      "url": "https://emitennews.com/news/itmg-gelontor-rp786m-untuk-eksplorasi-batu-bara-di-kuartal-iii-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kasus Karhutla, Polri Tetapkan 9 Tersangka Korporasi Sektor Sawit",
+      "url": "https://emitennews.com/news/kasus-karhutla-polri-tetapkan-9-tersangka-korporasi-sektor-sawit",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "MERI Serap Habis Dana IPO, Suntik Rp27,4 Miliar ke Dua Anak Usaha",
+      "url": "https://emitennews.com/news/meri-serap-habis-dana-ipo-suntik-rp274-miliar-ke-dua-anak-usaha",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "MKNT Buka Suara Soal Suspensi Saham, Bakal Tempuh Ini",
+      "url": "https://emitennews.com/news/mknt-buka-suara-soal-suspensi-saham-bakal-tempuh-ini",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Kontrak P&G Hampir Habis, Merck (MERK) Bidik Ekspansi ke Filipina",
+      "url": "https://emitennews.com/news/kontrak-pg-hampir-habis-merck-merk-bidik-ekspansi-ke-filipina",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Perkuat Modal Kerja, TAF Rilis Obligasi Rp419,9 Miliar",
+      "url": "https://emitennews.com/news/perkuat-modal-kerja-taf-rilis-obligasi-rp4199-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "PART Jajaki Sektor Baru, Minta Restu RUPSLB Gelar Rights Issue Rp200M",
+      "url": "https://emitennews.com/news/part-jajaki-sektor-baru-minta-restu-rupslb-gelar-rights-issue-rp200m",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Reli ARA Tiga Hari Beruntun, BEI Lanjut Gembok Saham Ini",
+      "url": "https://emitennews.com/news/reli-ara-tiga-hari-beruntun-bei-lanjut-gembok-saham-ini",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Reverse Repo, Broker Boy Thohir Borong Saham ENRG Rp206,85 Miliar",
+      "url": "https://emitennews.com/news/reverse-repo-broker-boy-thohir-borong-saham-enrg-rp20685-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pemprov DKI Sinergikan BUMD, BUMN dan Perangkat Daerah",
+      "url": "https://emitennews.com/news/pemprov-dki-sinergikan-bumd-bumn-dan-perangkat-daerah",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "PPATK-MIND ID, Cegah Transaksi Pencucian Uang Tambang Rp684 Triliun",
+      "url": "https://emitennews.com/news/ppatk-mind-id-cegah-transaksi-pencucian-uang-tambang-rp684-triliun",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Samudra Investment Borong 1,13% Saham MAPI Senilai Rp285,5 Miliar",
+      "url": "https://emitennews.com/news/samudra-investment-borong-113-saham-mapi-senilai-rp2855-miliar",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Sambut Pemodal Besar, ARII Gaspol Penerbitan 10 Persen Saham Baru",
+      "url": "https://emitennews.com/news/sambut-pemodal-besar-arii-gaspol-penerbitan-10-persen-saham-baru",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "TC Bali United (BOLA) Sumbang 6% Pendapatan, Saham Naik 9,5%",
+      "url": "https://emitennews.com/news/tc-bali-united-bola-sumbang-6-pendapatan-saham-naik-95",
+      "sektor": "Keuangan"
+    }
+  ]
+}
