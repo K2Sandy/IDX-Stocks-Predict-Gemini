@@ -1,0 +1,206 @@
+{
+  "tanggal": "2026-10-15",
+  "dibuat_pada": "2026-10-15 20:07 WIB",
+  "jumlah_artikel": 27,
+  "saham_disebut": {
+    "VICO": [
+      "Keuangan (rating 3/7)"
+    ],
+    "VINS": [
+      "Keuangan (rating 3/7)"
+    ],
+    "DIGI": [
+      "Teknologi (rating 2/7)"
+    ],
+    "ADMR": [
+      "Energi (rating 5/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "BYAN": [
+      "Energi (rating 5/7)"
+    ],
+    "TPIA": [
+      "Energi (rating 5/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "PTRO": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Penguatan modal pada perusahaan asuransi lokal (VINS) oleh induknya (VICO) memberikan sentimen positif internal, namun sentimen pasar secara keseluruhan diperkirakan cenderung negatif akibat anjloknya bursa saham Korea Selatan lebih dari 8%.",
+      "alasan": "Meskipun ada berita positif spesifik mengenai stabilitas perusahaan asuransi (VINS) melalui penguatan modal, kekhawatiran terhadap gejolak pasar global yang ditunjukkan oleh crash bursa Korea Selatan kemungkinan besar akan menciptakan sentimen risk-off di pasar domestik. Investor cenderung menarik diri atau berhati-hati, yang dapat menekan kinerja sektor keuangan secara umum.",
+      "analisis_saham": "VICO (PT Victoria Investama Tbk):** Sebagai perusahaan induk yang memperkuat modal anak usahanya, VINS, ini menunjukkan komitmen terhadap pertumbuhan dan stabilitas entitas anaknya, yang bisa menjadi sentimen positif bagi VICO secara individual."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Bursa Korea Selatan anjlok signifikan akibat kekhawatiran investasi AI dan produsen chip, sementara emiten teknologi lokal DIGI melaporkan penurunan pendapatan dan ekuitas negatif yang berpotensi memperpanjang suspensi sahamnya.",
+      "alasan": "Sentimen negatif global dari bursa Korsel yang crash karena kekhawatiran chip dan AI, ditambah dengan kinerja buruk emiten teknologi lokal seperti DIGI yang mengalami penurunan pendapatan dan ekuitas negatif, menciptakan tekanan yang kuat pada sektor teknologi secara keseluruhan. Kondisi pasar global dan lokal yang memburuk ini kemungkinan besar akan menyeret kinerja saham teknologi ke bawah.",
+      "analisis_saham": "Saham PT Arkadia Digital Media Tbk (DIGI) berada dalam kondisi yang sangat tertekan. Penurunan pendapatan dan ekuitas yang masih negatif mengancam kelanjutan suspensi sahamnya, menunjukkan kondisi keuangan yang tidak sehat dan memberikan sentimen sangat negatif terhadap prospek harga sahamnya."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Perusahaan-perusahaan di sub-sektor batubara dan petrokimia menunjukkan aksi korporasi yang ekspansif dan strategis melalui penerbitan obligasi untuk pengembangan serta investasi proyek berskala besar.",
+      "alasan": "Berita positif dari ADMR terkait penerbitan obligasi untuk ekspansi CHPP 2 dan investasi strategis Chandra Asri Group dalam proyek petrokimia baru memberikan dorongan optimisme. Perkembangan ini menunjukkan adanya pertumbuhan dan komitmen investasi di sektor energi, yang dapat menarik minat investor dan secara umum memberikan sentimen cenderung naik.",
+      "analisis_saham": "ADMR**: Penerbitan obligasi Rp2 triliun oleh anak usahanya untuk pembangunan CHPP 2 merupakan langkah ekspansi yang jelas. Ini mengindikasikan prospek pertumbuhan kapasitas produksi dan efisiensi, sehingga memberikan sentimen positif terhadap harga saham ADMR."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Perusahaan-perusahaan yang memiliki kaitan dengan infrastruktur melaporkan kemajuan proyek skala besar dan upaya penggalangan dana untuk ekspansi.",
+      "alasan": "Beberapa perusahaan yang aktivitasnya erat dengan pembangunan infrastruktur, baik secara langsung maupun tidak langsung (misalnya melalui proyek industri besar atau layanan pertambangan yang membutuhkan fasilitas besar), menunjukkan adanya investasi dan progres proyek yang signifikan. Ini mengindikasikan aktivitas ekonomi dan kepercayaan terhadap pertumbuhan di sektor infrastruktur.",
+      "analisis_saham": "ADMR: Penerbitan obligasi sebesar Rp2 triliun untuk membangun CHPP 2 merupakan investasi signifikan yang menunjukkan ekspansi bisnis dan potensi peningkatan kapasitas produksi di masa depan. Sentimen ini positif karena menunjukkan pertumbuhan, meskipun ADMR bukan murni perusahaan infrastruktur, pembangunan CHPP adalah proyek infrastruktur dalam operasional mereka."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "ADMR Rilis Obligasi Rp2 Triliun Lewat Anak Usaha untuk Bangun CHPP 2",
+      "url": "https://emitennews.com/news/admr-rilis-obligasi-rp2-triliun-lewat-anak-usaha-untuk-bangun-chpp-2",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BYAN Sebelum vs Sesudah Dicaplok Haji Isam",
+      "url": "https://emitennews.com/news/byan-sebelum-vs-sesudah-dicaplok-haji-isam",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Danantara, INA, Chandra Asri Bangun Industri Pertrokimia Kelas Dunia",
+      "url": "https://emitennews.com/news/danantara-ina-chandra-asri-bangun-industri-pertrokimia-kelas-dunia",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dikonfirmasi OJK, VICO Perkuat Modal VINS Rp13 Miliar Lewat PMTHMETD",
+      "url": "https://emitennews.com/news/dikonfirmasi-ojk-vico-perkuat-modal-vins-rp13-miliar-lewat-pmthmetd",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Avian (AVIA) Masuk Daftar Forbes Asia “200 Best Under A Billion 2026”",
+      "url": "https://emitennews.com/news/avian-avia-masuk-daftar-forbes-asia-200-best-under-a-billion-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bursa Korsel Crash, Transaksi Distop, Anjlok Lebih 8%",
+      "url": "https://emitennews.com/news/bursa-korsel-crash-transaksi-distop-anjlok-lebih-8",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Emiten Portal Web (DIGI) Ini Raih Pendapatan Rp26,47M, Turun Tipis",
+      "url": "https://emitennews.com/news/emiten-portal-web-digi-ini-raih-pendapatan-rp2647m-turun-tipis",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Eratex Djaja (ERTX) Kantongi Tambahan Kredit dari HSBC, Ini Alokasinya",
+      "url": "https://emitennews.com/news/eratex-djaja-ertx-kantongi-tambahan-kredit-dari-hsbc-ini-alokasinya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "ERTX Dapat Kelonggaran Limit Kredit HSBC hingga USD9 Juta",
+      "url": "https://emitennews.com/news/ertx-dapat-kelonggaran-limit-kredit-hsbc-hingga-usd9-juta",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ekuitas Masih Minus Rp4,6M, Saham DIGI Terancam Lanjut Suspensi",
+      "url": "https://emitennews.com/news/ekuitas-masih-minus-rp46m-saham-digi-terancam-lanjut-suspensi",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Emiten Sawit TP Rachmat (TLDN) Ungkap Tak Terdampak Karhutla di Kaltim",
+      "url": "https://emitennews.com/news/emiten-sawit-tp-rachmat-tldn-ungkap-tak-terdampak-karhutla-di-kaltim",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Kamis Anjlok 1,33 Persen, 567 Saham Memerah, Hanya 108 yang Hijau",
+      "url": "https://emitennews.com/news/ihsg-kamis-anjlok-133-persen-567-saham-memerah-hanya-108-yang-hijau",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Keuangan Syariah Jadi Isu Sentral Forum Islamic Global",
+      "url": "https://emitennews.com/news/keuangan-syariah-jadi-isu-sentral-forum-islamic-global",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kurangi Porsi, CGS Jual 43,7 Juta Saham Energi Mega Persada (ENRG)",
+      "url": "https://emitennews.com/news/kurangi-porsi-cgs-jual-437-juta-saham-energi-mega-persada-enrg",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kopra Mobile Dukung Mobilitas Bisnis Nasabah yang Kian Dinamis",
+      "url": "https://emitennews.com/news/kopra-mobile-dukung-mobilitas-bisnis-nasabah-yang-kian-dinamis",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Low Tuck Kwong Borong Lagi Saham BYAN",
+      "url": "https://emitennews.com/news/low-tuck-kwong-borong-lagi-saham-byan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Low Tuck Kwong Tergeser dari Orang Terkaya Indonesia, Diganti H Isam?",
+      "url": "https://emitennews.com/news/low-tuck-kwong-tergeser-dari-orang-terkaya-indonesia-diganti-h-isam",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Martha Tilaar, Founder Emiten Lulur & Kosmetik (MBTO) Tutup Usia",
+      "url": "https://emitennews.com/news/martha-tilaar-founder-emiten-lulur-kosmetik-mbto-tutup-usia",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pengendali BYAN Beli Saham Sendiri Rp1,12 Triliun pada 14 Oktober 2026",
+      "url": "https://emitennews.com/news/pengendali-byan-beli-saham-sendiri-rp112-triliun-pada-14-oktober-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Maybank (BNII)–NIUM Luncurkan Fast Remittance, Bidik CASA Double Digit",
+      "url": "https://emitennews.com/news/maybank-bniinium-luncurkan-fast-remittance-bidik-casa-double-digit",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pengalaman Unik, Asthara Skyfront City Hadirkan Show Unit Terbaru",
+      "url": "https://emitennews.com/news/pengalaman-unik-asthara-skyfront-city-hadirkan-show-unit-terbaru",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Proyek CA-EDC Capai Progres 80 Persen, TPIA Target Operasi di 2027",
+      "url": "https://emitennews.com/news/proyek-ca-edc-capai-progres-80-persen-tpia-target-operasi-di-2027",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Prodia (PRDA) Rencanakan Stock Split 1:5, Harga Sekarang Segini",
+      "url": "https://emitennews.com/news/prodia-prda-rencanakan-stock-split-15-harga-sekarang-segini",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "PTRO Mau Rights Issue 170 Juta Saham, Bidik Restu RUPSLB November",
+      "url": "https://emitennews.com/news/ptro-mau-rights-issue-170-juta-saham-bidik-restu-rupslb-november",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sabar Menanti Dividen ASGR, Tunggu Restu RUPSLB November",
+      "url": "https://emitennews.com/news/sabar-menanti-dividen-asgr-tunggu-restu-rupslb-november",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Transaksi Afiliasi, Fore Kopi (FORE) Teken Jual Beli Bahan Baku Rp5M",
+      "url": "https://emitennews.com/news/transaksi-afiliasi-fore-kopi-fore-teken-jual-beli-bahan-baku-rp5m",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Urgensi Literasi Keuangan! Mitigasi Risiko lewat Pemanfaatan Teknologi",
+      "url": "https://emitennews.com/news/urgensi-literasi-keuangan-mitigasi-risiko-lewat-pemanfaatan-teknologi",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    }
+  ]
+}
