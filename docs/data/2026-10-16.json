@@ -1,0 +1,267 @@
+{
+  "tanggal": "2026-10-16",
+  "dibuat_pada": "2026-10-16 20:00 WIB",
+  "jumlah_artikel": 45,
+  "saham_disebut": {
+    "BMRI": [
+      "Keuangan (rating 2/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Ancaman reklasifikasi Indonesia dari Emerging Market menjadi Standalone Market oleh MSCI memicu penjualan besar-besaran di pasar saham, menyebabkan IHSG anjlok dan trading halt.",
+      "alasan": "Prospek perubahan status pasar oleh MSCI mengindikasikan potensi arus keluar modal asing yang signifikan, yang secara langsung akan menekan saham-saham keuangan berkapitalisasi besar. Kondisi pasar yang sangat bearish dan koreksi IHSG yang dalam akan semakin memperparah sentimen negatif terhadap sektor ini.",
+      "analisis_saham": "PT Bank Mandiri (Persero) Tbk (BMRI) menegaskan pemberian kreditnya sesuai ketentuan OJK, yang berpotensi meredakan kekhawatiran spesifik terkait kualitas aset. Namun, sentimen positif ini kemungkinan besar akan tergerus oleh tekanan jual yang masif akibat kekhawatiran MSCI dan koreksi pasar secara keseluruhan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Energi",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "error",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Lebih Komunikatif, Tekad Caicedo Kunci Tempat di Chelsea",
+      "url": "https://bola.kompas.com/read/2026/10/16/19441028/lebih-komunikatif-tekad-caicedo-kunci-tempat-di-chelsea",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Vinicius Jr: Saya Sudah Dilanggar 500 Kali, tapi Hanya Berujung 5 Kartu Merah",
+      "url": "https://bola.kompas.com/read/2026/10/16/19462058/vinicius-jr-saya-sudah-dilanggar-500-kali-tapi-hanya-berujung-5-kartu-merah",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Timnas Futsal Indonesia Takluk dari Brasil, Hector Souto Puas Lihat Perlawanan Garuda",
+      "url": "https://bola.kompas.com/read/2026/10/16/19461008/timnas-futsal-indonesia-takluk-dari-brasil-hector-souto-puas-lihat-perlawanan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Anomali, Saham Baru Lepas Suspensi Ini Melesat ARA Kala yang Lain ARB",
+      "url": "https://emitennews.com/news/anomali-saham-baru-lepas-suspensi-ini-melesat-ara-kala-yang-lain-arb",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "3 Negara yang Dilempar MSCI dari Emerging Market ke Standalone Market",
+      "url": "https://emitennews.com/news/3-negara-yang-dilempar-msci-dari-emerging-market-ke-standalone-market",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Anomali, 10 Saham Menguat Kala IHSG Jebol 11,57 Persen",
+      "url": "https://emitennews.com/news/anomali-10-saham-menguat-kala-ihsg-jebol-1157-persen",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bank Mandiri Tegaskan Pemberian Kredit ke Jhonlin Sesuai Ketentuan OJK",
+      "url": "https://emitennews.com/news/bank-mandiri-tegaskan-pemberian-kredit-ke-jhonlin-sesuai-ketentuan-ojk",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Baru Dibuka, IHSG Seketika Trading Halt 8% Usai Kronik MSCI",
+      "url": "https://emitennews.com/news/baru-dibuka-ihsg-seketika-trading-halt-8-usai-kronik-msci",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "BEI Ngaku Kaget MSCI Umumkan Ancaman Standalone Market",
+      "url": "https://emitennews.com/news/bei-ngaku-kaget-msci-umumkan-ancaman-standalone-market",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Bos BYAN & Putri Lego Jutaan Lembar, Setor ke H Isam?",
+      "url": "https://emitennews.com/news/bos-byan-putri-lego-jutaan-lembar-setor-ke-h-isam",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Emiten Sinar Mas dan Prajogo Didenda Total Rp2,1 Triliun",
+      "url": "https://emitennews.com/news/emiten-sinar-mas-dan-prajogo-didenda-total-rp21-triliun",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "FAST Resmi Tunjuk Mantan Dirut BNI sebagai Pengganti Dalimin Juwono",
+      "url": "https://emitennews.com/news/fast-resmi-tunjuk-mantan-dirut-bni-sebagai-pengganti-dalimin-juwono",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Gaduh Standalone Market, Investor Perhatikan ini",
+      "url": "https://emitennews.com/news/gaduh-standalone-market-investor-perhatikan-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Ambruk 10 Persen Jelang Ulang Tahun Prabowo",
+      "url": "https://emitennews.com/news/ihsg-ambruk-10-persen-jelang-ulang-tahun-prabowo",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IGAR Bersiap Say Goodbye saat Pasar Indonesia Berpotensi Turun Kasta",
+      "url": "https://emitennews.com/news/igar-bersiap-say-goodbye-saat-pasar-indonesia-berpotensi-turun-kasta",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Investasi Langsung, Direktur BRMS Ini Tambah 100 Ribu Lembar Saham",
+      "url": "https://emitennews.com/news/investasi-langsung-direktur-brms-ini-tambah-100-ribu-lembar-saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Dibayangi Pengumuman MSCI, Waspada Koreksi",
+      "url": "https://emitennews.com/news/ihsg-dibayangi-pengumuman-msci-waspada-koreksi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Terjun Bebas 11,57% Dekati 5.100 Usai Pengumuman MSCI",
+      "url": "https://emitennews.com/news/ihsg-terjun-bebas-1157-dekati-5100-usai-pengumuman-msci",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "In this Economy: Nyaris Rp1000 T Perputaran Dana PETI,Rp50 T ke Negara",
+      "url": "https://emitennews.com/news/in-this-economy-nyaris-rp1000-t-perputaran-dana-petirp50-t-ke-negara",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Istirahat Siang, IHSG Tengkurap -10,76% ke 5.233, Sentuh All-Time Low!",
+      "url": "https://emitennews.com/news/istirahat-siang-ihsg-tengkurap-1076-ke-5233-sentuh-all-time-low",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Konsultasi MSCI Dimulai, Rekam Jejak Hanya Peru & Nigeria yang Selamat",
+      "url": "https://emitennews.com/news/konsultasi-msci-dimulai-rekam-jejak-hanya-peru-nigeria-yang-selamat",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "MSCI Kecam Indonesia ke Standalone Market, BEI & Pelaku Pasar Bersuara",
+      "url": "https://emitennews.com/news/msci-kecam-indonesia-ke-standalone-market-bei-pelaku-pasar-bersuara",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "OJK Bongkar Pelanggaran DSSA, BREN dan CUAN",
+      "url": "https://emitennews.com/news/ojk-bongkar-pelanggaran-dssa-bren-dan-cuan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "OJK-DPR-Polri-Danantara di BEI Singgung MSCI, Denda Rp2,1T & Bareskrim",
+      "url": "https://emitennews.com/news/ojk-dpr-polri-danantara-di-bei-singgung-msci-denda-rp21t-bareskrim",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pemerintah: MSCI tak Selalu Benar, Investor tak Perlu Panik",
+      "url": "https://emitennews.com/news/pemerintah-msci-tak-selalu-benar-investor-tak-perlu-panik",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Program Mesop, Direktur Ini Tambah Saham Erajaya Swasembada (ERAA)",
+      "url": "https://emitennews.com/news/program-mesop-direktur-ini-tambah-saham-erajaya-swasembada-eraa",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Jubir Baru Trump Akui Tak Lulus Tes Pengacara, Salahkan Kepindahan ke China",
+      "url": "https://internasional.kompas.com/read/2026/10/16/194232770/jubir-baru-trump-akui-tak-lulus-tes-pengacara-salahkan-kepindahan-ke",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Potensi Turun Kasta, BEI Bakal Kejar Klarifikasi MSCI",
+      "url": "https://emitennews.com/news/potensi-turun-kasta-bei-bakal-kejar-klarifikasi-msci",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Diperiksa 2 Jam, Amanda Beberkan Kronologi Penganiayaan Petasan Maulid ke Polisi",
+      "url": "https://megapolitan.kompas.com/read/2026/10/16/19444221/diperiksa-2-jam-amanda-beberkan-kronologi-penganiayaan-petasan-maulid-ke",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Kota Medan Masih Diselimuti Kabut Asap, Waspadai Kenaikan Kasus ISPA",
+      "url": "https://medan.kompas.com/read/2026/10/16/195204278/kota-medan-masih-diselimuti-kabut-asap-waspadai-kenaikan-kasus-ispa",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Akses Rumah Lansia di Jaktim Tertutup, \"Lahan Sudah Ditawarkan, tapi Tak Tertarik\"",
+      "url": "https://megapolitan.kompas.com/read/2026/10/16/19471971/akses-rumah-lansia-di-jaktim-tertutup-lahan-sudah-ditawarkan-tapi-tak",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Tumpukan Sampah Rumah Pasutri di Depok Berkurang Usai Dibersihkan, Belum Terangkut Semua",
+      "url": "https://megapolitan.kompas.com/read/2026/10/16/19565871/tumpukan-sampah-rumah-pasutri-di-depok-berkurang-usai-dibersihkan-belum",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Rupiah Terus Melemah Tertekan Penguatan USD Hari Ini",
+      "url": "https://emitennews.com/news/rupiah-terus-melemah-tertekan-penguatan-usd-hari-ini",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Rela Antre 6 Jam demi Hadiah Rp 13,5 Juta, Pembeli iPhone 18 Pro Justru Pulang Tanpa Hadiah",
+      "url": "https://megapolitan.kompas.com/read/2026/10/16/19505441/rela-antre-6-jam-demi-hadiah-rp-135-juta-pembeli-iphone-18-pro-justru",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Rencana MSCI Tidak Tepat, Reformasi Pasar Modal On The Right Track",
+      "url": "https://emitennews.com/news/rencana-msci-tidak-tepat-reformasi-pasar-modal-on-the-right-track",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "MSCI Usulkan RI Turun Kelas, Analis Soroti Kapitalisasi Pasar Saham RI",
+      "url": "https://money.kompas.com/read/2026/10/16/195600926/msci-usulkan-ri-turun-kelas-analis-soroti-kapitalisasi-pasar-saham-ri",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Usut Dugaan Pelanggaran Pasar Modal, Kapolri akan Kirim Tim Bareskrim",
+      "url": "https://emitennews.com/news/usut-dugaan-pelanggaran-pasar-modal-kapolri-akan-kirim-tim-bareskrim",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Standalone Masih Wacana, OJK dan BEI Hargai Proses Konsultasi MSCI",
+      "url": "https://emitennews.com/news/standalone-masih-wacana-ojk-dan-bei-hargai-proses-konsultasi-msci",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Uang Saku hingga Investasi, Ini 5 Cara Ajarkan Warisan Finansial pada Anak",
+      "url": "https://money.kompas.com/read/2026/10/16/194800326/uang-saku-hingga-investasi-ini-5-cara-ajarkan-warisan-finansial-pada-anak",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Sertijab, Letjen TNI Kristomei Sianturi Siap Bertugas Pimpin BNPB",
+      "url": "https://nasional.kompas.com/read/2026/10/16/19485191/sertijab-letjen-tni-kristomei-sianturi-siap-bertugas-pimpin-bnpb",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Panglima TNI Pimpin Sertijab: Maruli Resmi Jadi Wakil Panglima, Tandyo KSAD",
+      "url": "https://nasional.kompas.com/read/2026/10/16/19534131/panglima-tni-pimpin-sertijab-maruli-resmi-jadi-wakil-panglima-tandyo-ksad",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kekeringan di Pati Makin Parah: 7 Kecamatan Masuk Zona Hitam, 69 Desa Terdampak",
+      "url": "https://regional.kompas.com/read/2026/10/16/195331678/kekeringan-di-pati-makin-parah-7-kecamatan-masuk-zona-hitam-69-desa",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Bangkit di Tengah Bencana Kabut Asap, 30 UMKM di Banjarmasin Terima Bantuan Rp 5,3 Juta",
+      "url": "https://regional.kompas.com/read/2026/10/16/194634178/bangkit-di-tengah-bencana-kabut-asap-30-umkm-di-banjarmasin-terima-bantuan",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Tanaman Mati Imbas 3 Bulan Kekeringan, Petani di Pati Merugi Saat Harga Cabai Naik",
+      "url": "https://regional.kompas.com/read/2026/10/16/195404678/tanaman-mati-imbas-3-bulan-kekeringan-petani-di-pati-merugi-saat-harga",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Titik Api di Taliabu Mereda, Bupati Ubah Status Darurat Karhutla ke Transisi Pemulihan",
+      "url": "https://regional.kompas.com/read/2026/10/16/194814478/titik-api-di-taliabu-mereda-bupati-ubah-status-darurat-karhutla-ke-transisi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    }
+  ]
+}
