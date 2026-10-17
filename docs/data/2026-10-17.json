@@ -1,0 +1,173 @@
+{
+  "tanggal": "2026-10-17",
+  "dibuat_pada": "2026-10-17 19:02 WIB",
+  "jumlah_artikel": 27,
+  "saham_disebut": {},
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Kementerian Perindustrian mengkaji kewajiban penggunaan teknologi hijau Carbon Capture and Utilization (CCU) bagi industri, memberikan potensi pasar baru bagi sektor teknologi hijau.",
+      "alasan": "Dorongan dari pemerintah untuk mewajibkan teknologi CCU pada sektor industri dan PLTU akan menciptakan permintaan dan peluang bisnis yang besar bagi perusahaan teknologi yang fokus pada solusi berkelanjutan dan industri. Meskipun ada berita tentang regulasi AI di Jepang yang bisa memicu kewaspadaan, potensi pasar domestik dari kebijakan CCU memberikan sentimen positif yang lebih kuat untuk pergerakan sektor secara keseluruhan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Asa Baru Jurnalis TV Menjadi Wirausaha Ayam Petelur",
+      "url": "https://emitennews.com/news/asa-baru-jurnalis-tv-menjadi-wirausaha-ayam-petelur",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bursa Saham Korban Terbaru MSCI Ini Hancur-hancuran",
+      "url": "https://emitennews.com/news/bursa-saham-korban-terbaru-msci-ini-hancur-hancuran",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BREN dan CUAN Ungkap Ini Usai Kena Sanksi",
+      "url": "https://emitennews.com/news/bren-dan-cuan-ungkap-ini-usai-kena-sanksi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Banting Setir BIKE, Dari Bisnis Sepeda ke Tambang",
+      "url": "https://emitennews.com/news/banting-setir-bike-dari-bisnis-sepeda-ke-tambang",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "AI Tiru Suara Artis, Serikat Aktor Jepang Rilis Aturan",
+      "url": "https://emitennews.com/news/ai-tiru-suara-artis-serikat-aktor-jepang-rilis-aturan",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "CIMB Niaga Business Summit 2026 Usung Vision Made Possible",
+      "url": "https://emitennews.com/news/cimb-niaga-business-summit-2026-usung-vision-made-possible",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Efek Kejut MSCI, Market Cap 10 Emiten Terjun Bebas, DSSA?",
+      "url": "https://emitennews.com/news/efek-kejut-msci-market-cap-10-emiten-terjun-bebas-dssa",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Emiten Sinar Mas (DSSA) Jadi Top Losers Sepekan, Intip Lainnya!",
+      "url": "https://emitennews.com/news/emiten-sinar-mas-dssa-jadi-top-losers-sepekan-intip-lainnya",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Daftar Saham HSC Terus Bertambah, Di Mana Langkah Perbaikannya?",
+      "url": "https://emitennews.com/news/daftar-saham-hsc-terus-bertambah-di-mana-langkah-perbaikannya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Imbas Shifting Konsumsi, Stok Pertalite Menipis",
+      "url": "https://emitennews.com/news/imbas-shifting-konsumsi-stok-pertalite-menipis",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dividen Bank Dipangkas OJK, Mesin Cuan Investor Terancam?",
+      "url": "https://emitennews.com/news/dividen-bank-dipangkas-ojk-mesin-cuan-investor-terancam",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Jebol 14,91 Persen, Saatnya Investor Serok? Cek Ini Dulu",
+      "url": "https://emitennews.com/news/ihsg-jebol-1491-persen-saatnya-investor-serok-cek-ini-dulu",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Kemenperin Kaji Wajib Teknologi CCU untuk Industri dan PLTU",
+      "url": "https://emitennews.com/news/kemenperin-kaji-wajib-teknologi-ccu-untuk-industri-dan-pltu",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Ledakan Data Center, DMAS Naikkan Target Prapenjualan 42 Persen",
+      "url": "https://emitennews.com/news/ledakan-data-center-dmas-naikkan-target-prapenjualan-42-persen",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Manuver Morgan Stanley Sebelum MSCI Tebar Ancaman",
+      "url": "https://emitennews.com/news/manuver-morgan-stanley-sebelum-msci-tebar-ancaman",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Intip Kinerja MDLA, Saham yang Diborong Tersangka Korupsi BNPB",
+      "url": "https://emitennews.com/news/intip-kinerja-mdla-saham-yang-diborong-tersangka-korupsi-bnpb",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Jejak Yagi Forest, Menjaga Hutan Aceh, dan Memikat Pasar Global",
+      "url": "https://emitennews.com/news/jejak-yagi-forest-menjaga-hutan-aceh-dan-memikat-pasar-global",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Nasib DSSA, BREN, dan CUAN Setelah Kena Sanksi Rp2,1 Triliun",
+      "url": "https://emitennews.com/news/nasib-dssa-bren-dan-cuan-setelah-kena-sanksi-rp21-triliun",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Pasar USD1 Triliun, IKM Elektronika Dipacu Masuk Rantai Pasok",
+      "url": "https://emitennews.com/news/pasar-usd1-triliun-ikm-elektronika-dipacu-masuk-rantai-pasok",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pertamina Genjot PDS dan Pasokan Laut, Antrean BBM Bali Pulih",
+      "url": "https://emitennews.com/news/pertamina-genjot-pds-dan-pasokan-laut-antrean-bbm-bali-pulih",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Papan HSC Tembus 81 Emiten: Sinyal Bahaya atau BEI Makin Transparan?",
+      "url": "https://emitennews.com/news/papan-hsc-tembus-81-emiten-sinyal-bahaya-atau-bei-makin-transparan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pasar Modal Terancam Turun Kasta, CELIOS Sentil Akuisisi BYAN",
+      "url": "https://emitennews.com/news/pasar-modal-terancam-turun-kasta-celios-sentil-akuisisi-byan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Perluas Pasar Ekspor UMKM, Astra Hadirkan Produk Unggulan di TEI 2026",
+      "url": "https://emitennews.com/news/perluas-pasar-ekspor-umkm-astra-hadirkan-produk-unggulan-di-tei-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Proyeksi IHSG Pekan Depan Usai Badai MSCI, Rawan Koreksi ke 4.880",
+      "url": "https://emitennews.com/news/proyeksi-ihsg-pekan-depan-usai-badai-msci-rawan-koreksi-ke-4880",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tarif Trump Kerek Harga Baja AS ke Rekor Tertinggi 4 Tahun",
+      "url": "https://emitennews.com/news/tarif-trump-kerek-harga-baja-as-ke-rekor-tertinggi-4-tahun",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Standalone Market: MSCI Telanjangi Krisis Transparansi Pasar Saham RI",
+      "url": "https://emitennews.com/news/standalone-market-msci-telanjangi-krisis-transparansi-pasar-saham-ri",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Top Gainers Sepekan Di Kala IHSG Ambruk, BIKE Memimpin!",
+      "url": "https://emitennews.com/news/top-gainers-sepekan-di-kala-ihsg-ambruk-bike-memimpin",
+      "sektor": "Keuangan, Energi"
+    }
+  ]
+}
