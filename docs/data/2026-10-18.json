@@ -1,0 +1,168 @@
+{
+  "tanggal": "2026-10-18",
+  "dibuat_pada": "2026-10-18 19:29 WIB",
+  "jumlah_artikel": 22,
+  "saham_disebut": {
+    "BVIC": [
+      "Keuangan (rating 1/7)",
+      "Infrastruktur (rating 3/7)"
+    ],
+    "VKTR": [
+      "Teknologi (rating 6/7)"
+    ],
+    "VTNY": [
+      "Teknologi (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 1,
+      "key_sentiment": "Indeks Harga Saham Gabungan (IHSG) mencetak rekor All-Time Low baru setelah anjlok tajam, sementara Otoritas Jasa Keuangan (OJK) menemukan indikasi pelanggaran pidana pada 31 emiten.",
+      "alasan": "Sektor keuangan akan sangat terpukul oleh sentimen pasar yang sangat negatif akibat IHSG yang mencetak rekor terendah baru dan anjlok drastis dalam sehari, mencerminkan kepanikan investor. Selain itu, pengumuman OJK mengenai adanya indikasi pelanggaran pidana pada puluhan emiten akan semakin mengikis kepercayaan investor terhadap integritas pasar dan meningkatkan risiko regulasi bagi institusi keuangan.",
+      "analisis_saham": "PT Bank Victoria International Tbk (BVIC) menunjukkan komitmen finansial dengan menyiapkan dana sebesar Rp154,2 miliar untuk melunasi obligasi yang akan jatuh tempo. Hal ini merupakan sentimen positif spesifik bagi BVIC yang menunjukkan kesehatan keuangan dan manajemen kewajiban yang baik, namun pergerakan harga sahamnya kemungkinan besar akan tetap tertekan oleh sentimen pasar yang sangat negatif secara keseluruhan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Pemerintah menempatkan ekonomi digital sebagai mesin pertumbuhan utama dengan target investasi besar, didukung ekspansi perusahaan teknologi mobilitas (VKTR), sementara ada juga berita internal Venteny (VTNY) dan kekhawatiran pinjol.",
+      "alasan": "Fokus pemerintah pada ekonomi digital sebagai pendorong pertumbuhan utama dengan target investasi signifikan memberikan sentimen sangat positif bagi sektor teknologi secara keseluruhan. Selain itu, langkah VKTR memperkuat rantai pasok baterai EV menunjukkan pertumbuhan dan inovasi di sub-sektor kendaraan listrik. Meskipun ada kekhawatiran mengenai pinjaman online, sentimen positif dari dukungan pemerintah dan pengembangan industri jauh lebih dominan untuk mendorong sektor.",
+      "analisis_saham": "VKTR (PT VKTR Teknologi Mobilitas Tbk.) menerima sentimen sangat positif dengan pendirian anak usaha baru untuk memperkuat rantai pasok mineral kritis bahan baku baterai kendaraan listrik. Langkah ini menunjukkan strategi ekspansi yang jelas di sektor EV yang prospektif, berpotensi meningkatkan kepercayaan investor dan prospek pertumbuhan perusahaan. VTNY (PT Venteny Fortuna International Tbk.) mengalami sentimen netral hingga sedikit positif dengan pengangkatan direksi baru yang fokus pada pengawasan audit dan aset, menunjukkan upaya penguatan tata kelola internal."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pemerintah terus mematangkan penyusunan Rancangan Undang-Undang Minyak dan Gas Bumi (RUU Migas) dengan rencana pembentukan Badan Usaha Khusus (BUK) untuk memperkuat tata kelola sektor energi nasional.",
+      "alasan": "Perkembangan RUU Migas dan rencana pembentukan BUK menunjukkan komitmen pemerintah untuk memperjelas dan memperkuat kerangka regulasi sektor energi. Hal ini dapat mengurangi ketidakpastian dan menciptakan lingkungan investasi yang lebih stabil dan efisien, memberikan sentimen positif bagi emiten di sektor energi, khususnya minyak dan gas.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Minat 13 perusahaan untuk membuka Kawasan Berikat baru memberikan potensi positif bagi infrastruktur industri dan logistik, namun sentimen pasar yang sangat negatif akibat rekor All-Time Low IHSG kemungkinan akan menekan sektor ini.",
+      "alasan": "Minat terhadap pembukaan Kawasan Berikat baru merupakan indikator positif bagi pertumbuhan infrastruktur industri dan logistik, berpotensi meningkatkan permintaan lahan industri dan fasilitas terkait. Namun, anjloknya IHSG ke rekor All-Time Low menciptakan sentimen pasar yang sangat bearish secara keseluruhan. Kondisi pasar yang sangat negatif ini diperkirakan akan menekan pergerakan sektor infrastruktur, mengalahkan dampak positif dari berita spesifik.",
+      "analisis_saham": "PT Bank Victoria International Tbk (BVIC) disebutkan dalam berita terkait kesiapan dana Rp154,2 miliar untuk melunasi obligasi yang akan jatuh tempo. Berita ini memiliki sentimen netral cenderung positif bagi BVIC karena menunjukkan kemampuan perusahaan dalam memenuhi kewajiban keuangannya. Hal ini dapat menjaga kepercayaan investor terhadap solvabilitas bank, namun tidak memiliki dampak langsung pada sektor Infrastruktur."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "All-Time Low Baru di 5.185, Koreksi IHSG di Sepanjang Tahun Tembus 40%",
+      "url": "https://emitennews.com/news/all-time-low-baru-di-5185-koreksi-ihsg-di-sepanjang-tahun-tembus-40",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "5 Komoditas ini Siap Nikmati Tarif Preferensi I-EU CEPA",
+      "url": "https://emitennews.com/news/5-komoditas-ini-siap-nikmati-tarif-preferensi-i-eu-cepa",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Aljazair Prioritaskan BUMN Indonesia Garap Sektor Fosfat",
+      "url": "https://emitennews.com/news/aljazair-prioritaskan-bumn-indonesia-garap-sektor-fosfat",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Bahlil Bocorkan Pembentukan BUK Dalam RUU Migas Baru",
+      "url": "https://emitennews.com/news/bahlil-bocorkan-pembentukan-buk-dalam-ruu-migas-baru",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "13 Perusahaan dari 6 Sektor Berminat Buka Kawasan Berikat",
+      "url": "https://emitennews.com/news/13-perusahaan-dari-6-sektor-berminat-buka-kawasan-berikat",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "31 Emiten HSC Berpotensi Ditindakpidanakan OJK hingga Polri",
+      "url": "https://emitennews.com/news/31-emiten-hsc-berpotensi-ditindakpidanakan-ojk-hingga-polri",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BVIC Siapkan Rp154,2M untuk Lunasi Obligasi Jatuh Tempo 8 November",
+      "url": "https://emitennews.com/news/bvic-siapkan-rp1542m-untuk-lunasi-obligasi-jatuh-tempo-8-november",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Danantara Siapkan IPO BUMN: Mending Fokus Bereskan BUMN Bermasalah?",
+      "url": "https://emitennews.com/news/danantara-siapkan-ipo-bumn-mending-fokus-bereskan-bumn-bermasalah",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Ekonomi Digital Jadi Mesin Kejar Investasi Rp2.258 T",
+      "url": "https://emitennews.com/news/ekonomi-digital-jadi-mesin-kejar-investasi-rp2258-t",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEI Tegaskan Fundamental dan Integritas Pasar Ditengah Dinamika MSCI",
+      "url": "https://emitennews.com/news/bei-tegaskan-fundamental-dan-integritas-pasar-ditengah-dinamika-msci",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "DPR Siap Panggil OJK, BEI, Kemenkeu, dan BI Soal Ancaman MSCI",
+      "url": "https://emitennews.com/news/dpr-siap-panggil-ojk-bei-kemenkeu-dan-bi-soal-ancaman-msci",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG -11,57%, Investor Asing Ramai Tarik Diri & Borong Saham–Saham RI",
+      "url": "https://emitennews.com/news/ihsg-1157-investor-asing-ramai-tarik-diri-borong-sahamsaham-ri",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Investor Ini Borong 5,75% Porsi Saham Bank Ganesha (BGTG) Rp172,31M!",
+      "url": "https://emitennews.com/news/investor-ini-borong-575-porsi-saham-bank-ganesha-bgtg-rp17231m",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "ITMG Dirikan Cucu Usaha Baru ITM Mineral Investama, Dukung Ekspansi",
+      "url": "https://emitennews.com/news/itmg-dirikan-cucu-usaha-baru-itm-mineral-investama-dukung-ekspansi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Mengapa Investor Asing Ragukan Reformasi Pasar Modal RI?",
+      "url": "https://emitennews.com/news/mengapa-investor-asing-ragukan-reformasi-pasar-modal-ri",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Jebakan Pinjol Jadi Sinyal Darurat Tekanan Daya Beli Masyarakat",
+      "url": "https://emitennews.com/news/jebakan-pinjol-jadi-sinyal-darurat-tekanan-daya-beli-masyarakat",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Karut Marut Pasar Modal Indonesia, Reformasi atau Sekadar Janji?",
+      "url": "https://emitennews.com/news/karut-marut-pasar-modal-indonesia-reformasi-atau-sekadar-janji",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Langgar Aturan Bursa, OJK Sanksi Pratama Capital dan Direksinya",
+      "url": "https://emitennews.com/news/langgar-aturan-bursa-ojk-sanksi-pratama-capital-dan-direksinya",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Perkuat Rantai Pasok Baterai EV, VKTR Dirikan Anak Usaha Baru",
+      "url": "https://emitennews.com/news/perkuat-rantai-pasok-baterai-ev-vktr-dirikan-anak-usaha-baru",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pemerintah Obral Insentif Kaca Lembaran, Gas USD7 Hingga Bebas BM",
+      "url": "https://emitennews.com/news/pemerintah-obral-insentif-kaca-lembaran-gas-usd7-hingga-bebas-bm",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Venteny (VTNY) Angkat 2 Direksi Baru, Fokus Kawal Audit & Aset",
+      "url": "https://emitennews.com/news/venteny-vtny-angkat-2-direksi-baru-fokus-kawal-audit-aset",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Transaksi Emas Digital Melejit 641%, 8 Bulan Tembus Rp299,49 Triliun",
+      "url": "https://emitennews.com/news/transaksi-emas-digital-melejit-641-8-bulan-tembus-rp29949-triliun",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    }
+  ]
+}
