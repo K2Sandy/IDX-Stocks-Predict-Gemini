@@ -1,0 +1,273 @@
+{
+  "tanggal": "2026-10-19",
+  "dibuat_pada": "2026-10-19 22:16 WIB",
+  "jumlah_artikel": 47,
+  "saham_disebut": {},
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Teknologi",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Energi",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Berita hari ini didominasi oleh kasus-kasus hukum dan etik spesifik yang tidak memiliki implikasi makroekonomi luas.",
+      "alasan": "Tiga berita yang disajikan fokus pada isu-isu hukum dan etik individu atau lembaga spesifik (internal BGN, kasus korupsi bupati, kasus hukum selebriti). Tidak ada berita mengenai kebijakan ekonomi makro, data ekonomi penting, atau peristiwa geopolitik yang dapat menggerakkan indeks sektor Umum/Makro secara keseluruhan. Oleh karena itu, sentimen terhadap sektor ini cenderung netral.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Wacana Persija Dihukum Pengurangan Poin Diprotes Keras Eks Ketum Jakmania",
+      "url": "https://bola.kompas.com/read/2026/10/19/22010318/wacana-persija-dihukum-pengurangan-poin-diprotes-keras-eks-ketum-jakmania",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "BBCA Lanjutkan Buyback Saham, Eksekusi Periode 19-21 Oktober 2026",
+      "url": "https://emitennews.com/news/bbca-lanjutkan-buyback-saham-eksekusi-periode-19-20-oktober-2026",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Anomali, Saham Ini Meroket 100 Persen Usai Bebas Suspensi",
+      "url": "https://emitennews.com/news/anomali-saham-ini-meroket-100-persen-usai-bebas-suspensi",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "BEI Akan Hapus Saham HSC dari IHSG, Total Ada 80!",
+      "url": "https://emitennews.com/news/bei-akan-hapus-saham-hsc-dari-ihsg-total-ada-80",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Aksi Korporasi Bhuwanatala Indah (BIPP) Setujui Private Placement",
+      "url": "https://emitennews.com/news/aksi-korporasi-bhuwanatala-indah-bipp-setujui-private-placement",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "4 dari 5 Saham Bebas Suspensi Jatuh ARB -7%, 1 Sisanya ARA Mentok 100%",
+      "url": "https://emitennews.com/news/4-dari-5-saham-bebas-suspensi-jatuh-arb-7-1-sisanya-ara-mentok-100",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "BEI: Pasar Boleh Turun, Tapi Jangan Karena Ketakutan & Ketidakpastian",
+      "url": "https://emitennews.com/news/bei-pasar-boleh-turun-tapi-jangan-karena-ketakutan-ketidakpastian",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEI Temui MSCI, Ada 2 Inisiatif Baru: Hapus Saham HSC dari IHSG",
+      "url": "https://emitennews.com/news/bei-temui-msci-ada-2-inisiatif-baru-hapus-saham-hsc-dari-ihsg",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BIPP Kantongi Restu Private Placement, Saham Anjlok 13,64% Sepekan",
+      "url": "https://emitennews.com/news/bipp-kantongi-restu-private-placement-saham-anjlok-1364-sepekan",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "BEI Ungkap Investor Global Juga Kaget MSCI Wacanakan IDX di Standalone",
+      "url": "https://emitennews.com/news/bei-ungkap-investor-global-juga-kaget-msci-wacanakan-idx-di-standalone",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bukaka Teknik Utama (BUKK), Dirikan Tiga Anak Usaha Baru",
+      "url": "https://emitennews.com/news/bukaka-teknik-utama-bukk-dirikan-tiga-anak-usaha-baru",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Buyback, Emiten Prajogo Pangestu (TPIA) Ini Siapkan Rp1 Triliun",
+      "url": "https://emitennews.com/news/buyback-emiten-prajogo-pangestu-tpia-ini-siapkan-rp1-triliun",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Bukan Delisting, Saham HSC Hanya Dihapus dari Hitungan IHSG",
+      "url": "https://emitennews.com/news/bukan-delisting-saham-hsc-hanya-dihapus-dari-hitungan-ihsg",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dirut Indocement Christian Kartawijaya Mundur, Ini Calon Penggantinya",
+      "url": "https://emitennews.com/news/dirut-indocement-christian-kartawijaya-mundur-ini-calon-penggantinya",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Dolar AS Menguat, Rupiah Senin Pagi ini Melemah 12 Poin",
+      "url": "https://emitennews.com/news/dolar-as-menguat-rupiah-senin-pagi-ini-melemah-12-poin",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Evaluasi MSCI, AEI Dukung Pembenahan Pasar Modal Indonesia Dipercepat",
+      "url": "https://emitennews.com/news/evaluasi-msci-aei-dukung-pembenahan-pasar-modal-indonesia-dipercepat",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Senin Merosot ke Bawah 5.000, Cek Saham-Saham Penggerak Transaksi",
+      "url": "https://emitennews.com/news/ihsg-senin-merosot-ke-bawah-5000-cek-saham-saham-penggerak-transaksi",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Sesi I Terjun 5,05% ke Level 4.923, Asing Net Sell Rp1,05 Triliun",
+      "url": "https://emitennews.com/news/ihsg-sesi-i-terjun-505-ke-level-4923-asing-net-sell-rp105-triliun",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Terkapar di Bawah 5.000, BEI Buat Keputusan Bersejarah",
+      "url": "https://emitennews.com/news/ihsg-terkapar-di-bawah-5000-bei-buat-keputusan-bersejarah",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Isu MSCI, Bos BEI Imbau Fund Institusi Domestik Ramaikan Bursa",
+      "url": "https://emitennews.com/news/isu-msci-bos-bei-imbau-fund-institusi-domestik-ramaikan-bursa",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Kala IHSG Tersudut, Saham Asuransi Umum ini Menjadi Buruan Investor",
+      "url": "https://emitennews.com/news/kala-ihsg-tersudut-saham-asuransi-umum-ini-menjadi-buruan-investor",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Karhutla di 7 Provinsi, Kemenhut Jatuhkan Sanksi Untuk 32 Perusahaan",
+      "url": "https://emitennews.com/news/karhutla-di-7-provinsi-kemenhut-jatuhkan-sanksi-untuk-32-perusahaan",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "OJK Denda Pihak Terkait Saham DSSA Rp1,5T, Begini Respons Emiten",
+      "url": "https://emitennews.com/news/ojk-denda-pihak-terkait-saham-dssa-rp15t-begini-respons-emiten",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Kilasan: IHSG Ambles 14,91%, MSCI Ancam Kasta Bursa, Rupiah Letoy",
+      "url": "https://emitennews.com/news/kilasan-ihsg-ambles-1491-msci-ancam-kasta-bursa-rupiah-letoy",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Perkuat Efisiensi, PGAS Implementasi Dekarbonisasi Berkelanjutan",
+      "url": "https://emitennews.com/news/perkuat-efisiensi-pgas-implementasi-dekarbonisasi-berkelanjutan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "AI, Energi Hijau, dan Transisi Ekonomi Berisiko Tinggalkan Komunitas Rentan",
+      "url": "https://lestari.kompas.com/read/2026/10/19/215900686/ai-energi-hijau-dan-transisi-ekonomi-berisiko-tinggalkan-komunitas-rentan",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Produksi Industri Dan Penjualan Ritel China Catat Rekor",
+      "url": "https://emitennews.com/news/produksi-industri-dan-penjualan-ritel-china-catat-rekor",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Karhutla di Bua Luwu Meluas hingga 20 Hektar, Api Ancam Permukiman",
+      "url": "https://makassar.kompas.com/read/2026/10/19/214957878/karhutla-di-bua-luwu-meluas-hingga-20-hektar-api-ancam-permukiman",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Saham BIKE Melesat 22,62 Persen Kala IHSG Jebol ke 4.996",
+      "url": "https://emitennews.com/news/saham-bike-melesat-2262-persen-kala-ihsg-jebol-ke-4996",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sengketa Gunvor Belum Tuntas, PGAS Kaji Dampak Putusan Arbitrase",
+      "url": "https://emitennews.com/news/sengketa-gunvor-belum-tuntas-pgas-kaji-dampak-putusan-arbitrase",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Terhalang Kabut Asap, Nelayan Polman Waswas Melaut Jauh dan Takut Tersesat",
+      "url": "https://makassar.kompas.com/read/2026/10/19/215655878/terhalang-kabut-asap-nelayan-polman-waswas-melaut-jauh-dan-takut-tersesat",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Beli Pertalite Pakai Barcode Orang Lain untuk Dijual Lagi, 2 Pria di Kendari Ditangkap",
+      "url": "https://makassar.kompas.com/read/2026/10/19/220408678/beli-pertalite-pakai-barcode-orang-lain-untuk-dijual-lagi-2-pria-di-kendari",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Usai Dialog Strategis, BEI–OJK Akan Minta Klarifikasi MSCI Sore Ini",
+      "url": "https://emitennews.com/news/usai-dialog-strategis-beiojk-akan-minta-klarifikasi-msci-sore-ini",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sempat Melawan Petugas, Pria yang Tidur di Got Pasar Serpong Kini Dirawat di Rumah Singgah",
+      "url": "https://megapolitan.kompas.com/read/2026/10/19/21481711/sempat-melawan-petugas-pria-yang-tidur-di-got-pasar-serpong-kini-dirawat",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Jalan Ambles di Sipirok Sudah Bisa Dilintasi dengan Sistem Buka-Tutup",
+      "url": "https://medan.kompas.com/read/2026/10/19/214816778/jalan-ambles-di-sipirok-sudah-bisa-dilintasi-dengan-sistem-buka-tutup",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kepala SPPG Purwakarta Dicambuk, Sudaryono Dukung Proses Hukum",
+      "url": "https://money.kompas.com/read/2026/10/19/220000426/kepala-sppg-purwakarta-dicambuk-sudaryono-dukung-proses-hukum",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Kepala Bakom Minta Kementerian Terbuka soal Capaian di 2 Tahun Prabowo-Gibran",
+      "url": "https://nasional.kompas.com/read/2026/10/19/21543271/kepala-bakom-minta-kementerian-terbuka-soal-capaian-di-2-tahun-prabowo",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Gaspol Hari Ini: Pinjol Bukan Solusi, Para Ibu Punya Cara Sendiri",
+      "url": "https://nasional.kompas.com/read/2026/10/19/21475871/gaspol-hari-ini-pinjol-bukan-solusi-para-ibu-punya-cara-sendiri",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bertemu Prabowo, Ketua OJK Bahas Reformasi Pasar Modal dan Penegakan Hukum",
+      "url": "https://nasional.kompas.com/read/2026/10/19/22055881/bertemu-prabowo-ketua-ojk-bahas-reformasi-pasar-modal-dan-penegakan-hukum",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Polisi Bongkar Peredaran Sabu dan Obat Keras di Manado, Dua Orang Diamankan",
+      "url": "https://regional.kompas.com/read/2026/10/19/220929578/polisi-bongkar-peredaran-sabu-dan-obat-keras-di-manado-dua-orang-diamankan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Jelang Sidang Vonis Sudewo: Warga Siapkan Ruwatan di Pati, Loyalis Pasang Spanduk",
+      "url": "https://regional.kompas.com/read/2026/10/19/215627878/jelang-sidang-vonis-sudewo-warga-siapkan-ruwatan-di-pati-loyalis-pasang",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Penyebar CCTV Inara Rusli Ditetapkan sebagai Tersangka dan Ditahan",
+      "url": "https://entertainment.kompas.com/read/2026/10/19/220752666/penyebar-cctv-inara-rusli-ditetapkan-sebagai-tersangka-dan-ditahan",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Tujuh Hari Belum Ditemukan, Pencarian Korban KM Feronia di Labuan Bajo Diperpanjang",
+      "url": "https://regional.kompas.com/read/2026/10/19/221145678/tujuh-hari-belum-ditemukan-pencarian-korban-km-feronia-di-labuan-bajo",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Petisi Kegiatan PKK di Semarang dan Keluhan Para Kadernya...",
+      "url": "https://regional.kompas.com/read/2026/10/19/214713478/petisi-kegiatan-pkk-di-semarang-dan-keluhan-para-kadernya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Peran 3 Tersangka Penganiayaan dan Perusakan Bus Persib U-18 di Tol Batang",
+      "url": "https://regional.kompas.com/read/2026/10/19/220156478/peran-3-tersangka-penganiayaan-dan-perusakan-bus-persib-u-18-di-tol-batang",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Angin Kencang Rusak Masjid dan 3 Rumah di Pamekasan, Teras Masjid Ambruk 25 Meter",
+      "url": "https://surabaya.kompas.com/read/2026/10/19/214944678/angin-kencang-rusak-masjid-dan-3-rumah-di-pamekasan-teras-masjid-ambruk-25",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Listrik di Monkasel dan Mall Delta Plaza Surabaya Sempat Padam, Aktivitas Kembali Normal",
+      "url": "https://surabaya.kompas.com/read/2026/10/19/215336178/listrik-di-monkasel-dan-mall-delta-plaza-surabaya-sempat-padam-aktivitas",
+      "sektor": "Energi"
+    }
+  ]
+}
