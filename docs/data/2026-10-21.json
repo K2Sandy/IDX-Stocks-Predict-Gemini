@@ -1,0 +1,205 @@
+{
+  "tanggal": "2026-10-21",
+  "dibuat_pada": "2026-10-21 20:28 WIB",
+  "jumlah_artikel": 27,
+  "saham_disebut": {
+    "BSWD": [
+      "Keuangan (rating 6/7)"
+    ],
+    "MSIN": [
+      "Teknologi (rating 3/7)"
+    ],
+    "VKTR": [
+      "Teknologi (rating 3/7)"
+    ],
+    "DOOH": [
+      "Energi (rating 6/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "SOLA": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "CENT": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "MBSS": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Bank Indonesia memangkas Giro Wajib Minimum (GWM) perbankan secara bertahap dan mempertahankan BI-Rate, meningkatkan likuiditas dan stabilitas suku bunga di sektor keuangan.",
+      "alasan": "Penurunan GWM oleh Bank Indonesia akan memperkuat likuiditas perbankan, berpotensi mendorong penyaluran kredit yang lebih besar dan meningkatkan profitabilitas bank. Stabilitas BI-Rate pada 5,75% juga memberikan kepastian bagi perencanaan bisnis bank terkait biaya dana dan pendapatan bunga, secara keseluruhan mendukung sentimen positif untuk sektor keuangan.",
+      "analisis_saham": "Bursa Efek Indonesia mengumumkan suspensi perdagangan saham PT Bank Of India Indonesia Tbk. (BSWD). Suspensi ini adalah sentimen negatif yang kuat bagi BSWD, mengindikasikan adanya ketidakberesan atau volatilitas ekstrem yang memerlukan perlindungan investor, dan dapat menekan harga saham setelah suspensi dicabut."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Meskipun terdapat dukungan likuiditas dari BI dan prospek positif adopsi AI, sektor Teknologi menghadapi sentimen negatif jangka pendek dari suspensi dan pantauan UMA terhadap dua emiten teknologi.",
+      "alasan": "Berita mengenai suspensi saham PT MNC Digital Entertainment Tbk. (MSIN) dan pantauan UMA untuk PT VKTR Teknologi Mobilitas Tbk. (VKTR) menciptakan sentimen negatif yang spesifik dan langsung terhadap emiten di sektor ini. Hal ini dapat memicu kehati-hatian investor atau potensi aksi jual yang menekan indeks sektor Teknologi pada perdagangan esok hari, meskipun kebijakan moneter BI cenderung suportif dan ada prospek pertumbuhan jangka panjang dari adopsi AI.",
+      "analisis_saham": "MSIN (PT MNC Digital Entertainment Tbk.): Saham ini disuspensi oleh BEI karena aktivitas pasar yang tidak wajar (UMA), yang mengindikasikan risiko tinggi dan dapat memicu koreksi harga atau menahan minat beli investor ketika perdagangan dibuka kembali."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "PT Era Media Sejahtera Tbk (DOOH) menjalin kerjasama strategis untuk mengembangkan proyek energi surya (PLTS hingga 2 GW) dan pasokan energi untuk AI data center, menandakan investasi besar di sektor energi terbarukan.",
+      "alasan": "Kerjasama DOOH untuk proyek PLTS sebesar 2 GW dan pengembangan pasokan energi untuk AI data center menunjukkan potensi pertumbuhan yang signifikan di sub-sektor energi terbarukan dan infrastruktur energi. Ini mengindikasikan adanya investasi besar dan ekspansi, yang secara keseluruhan dapat menarik minat investor ke sektor energi.",
+      "analisis_saham": "PT Era Media Sejahtera Tbk (DOOH) akan mendapatkan sentimen sangat positif dari berita ini karena menandatangani MoU untuk proyek energi surya (PLTS 2 GW) dan pasokan energi AI data center. Ini adalah diversifikasi bisnis yang substansial dan membuka potensi pendapatan baru di sektor yang sedang berkembang, yang kemungkinan besar akan mendorong kenaikan harga sahamnya."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Investasi besar dalam pembangunan infrastruktur digital (AI data center, telekomunikasi) dan fisik (jalan, energi terbarukan) menunjukkan prospek pertumbuhan yang kuat.",
+      "alasan": "Berita hari ini menyoroti sejumlah inisiatif dan pendanaan signifikan di sektor infrastruktur, baik untuk mendukung kebutuhan AI dan digitalisasi maupun pembangunan fisik seperti jalan dan pembangkit listrik. Hal ini menciptakan sentimen positif yang kuat terhadap permintaan layanan dan produk di sektor infrastruktur secara keseluruhan, mendorong aktivitas bisnis dan ekspansi.",
+      "analisis_saham": "SOLA (Xolare RCR Energy Tbk): Keterlibatan anak usahanya dalam pembangunan jalan hauling batu bara merupakan sentimen positif yang menunjukkan peran perusahaan dalam infrastruktur pertambangan dan potensi peningkatan proyek di masa depan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "BI Pangkas GWM Hingga 2% Demi Guyur Likuiditas Perbankan",
+      "url": "https://emitennews.com/news/bi-pangkas-gwm-hingga-2-demi-guyur-likuiditas-perbankan",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "BEI Suspensi Dua Saham, Ada Emiten HSC",
+      "url": "https://emitennews.com/news/bei-suspensi-dua-saham-ada-emiten-hsc",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Borong Tiga Saham Emiten, Boy Thohir Tambah Investasi Langsung",
+      "url": "https://emitennews.com/news/borong-tiga-saham-emiten-boy-thohir-tambah-investasi-langsung",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "BEI Umumkan 2 Saham Suspensi & 2 Saham Masuk Daftar Pantau UMA",
+      "url": "https://emitennews.com/news/bei-umumkan-2-saham-suspensi-2-saham-masuk-daftar-pantau-uma",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Adopsi AI Melonjak, Synology Soroti Kesiapan Infrastruktur ini",
+      "url": "https://emitennews.com/news/adopsi-ai-melonjak-synology-soroti-kesiapan-infrastruktur-ini",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "BI Pertahankan BI-Rate Sebesar 5,75%",
+      "url": "https://emitennews.com/news/bi-pertahankan-bi-rate-sebesar-575",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Borong Tiga Sekaligus, Trinugraha Thohir Serok Saham ESSA, AADI, ADRO",
+      "url": "https://emitennews.com/news/borong-tiga-sekaligus-trinugraha-thohir-serok-saham-essa-aadi-adro",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Dua Saham Kena Cap UMA, Kompak Turun di Sesi I, Salah Satunya ARB!",
+      "url": "https://emitennews.com/news/dua-saham-kena-cap-uma-kompak-turun-di-sesi-i-salah-satunya-arb",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Entitas SOLA Kebut Infrastruktur Jalan Hauling Batu Bara 10 KM",
+      "url": "https://emitennews.com/news/entitas-sola-kebut-infrastruktur-jalan-hauling-batu-bara-10-km",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "DOOH Teken MoU Garap Energi, Pembangunan dan AI Data Center",
+      "url": "https://emitennews.com/news/dooh-teken-mou-garap-energi-pembangunan-dan-ai-data-center",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Emiten Penyewaan Tower Tarik Pinjaman Rp12,48 Triliun, ini Alokasinya",
+      "url": "https://emitennews.com/news/emiten-penyewaan-tower-tarik-pinjaman-rp1248-triliun-ini-alokasinya",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Free Float Kurang, Induk CIMB Niaga Pertimbangkan Opsi Delisting BNGA",
+      "url": "https://emitennews.com/news/free-float-kurang-induk-cimb-niaga-pertimbangkan-opsi-delisting-bnga",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Belanja Truk, GTRA Raih Kredit Investasi Rp195M dari Bank Mandiri",
+      "url": "https://emitennews.com/news/gtra-raih-kredit-investasi-rp195m-dari-bank-mandiri-untuk-belanja-truk",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IHSG Rabu Menguat 0,94 Persen ke 5.328,36, LQ45 Terbang Lebih Tinggi",
+      "url": "https://emitennews.com/news/ihsg-rabu-menguat-094-persen-ke-532836-lq45-terbang-lebih-tinggi",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "MBSS Siapkan Rp200 Miliar untuk Buyback 42,17 Juta Saham",
+      "url": "https://emitennews.com/news/mbss-siapkan-rp200-miliar-untuk-buyback-4217-juta-saham",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Sesi I (21/10) Terkoreksi 0,84% ke Level 5.234",
+      "url": "https://emitennews.com/news/ihsg-sesi-i-2110-terkoreksi-084-ke-level-5234",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Investasi KEK Rp382 Triliun, Luasnya Kalah dari Vietnam dan Malaysia",
+      "url": "https://emitennews.com/news/investasi-kek-rp382-triliun-luasan-kalah-dari-vietnam-dan-malaysia",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Morgan Stanley di Balik Go Private IPAC, Saham Publik Ditawar Rp250",
+      "url": "https://emitennews.com/news/morgan-stanley-di-balik-go-private-ipac-saham-publik-ditawar-rp250",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Net Sell Sesi I Sentuh Rp581M, Bank Pelat Merah Ramai Dilepas Asing",
+      "url": "https://emitennews.com/news/net-sell-sesi-i-sentuh-rp581m-bank-pelat-merah-ramai-dilepas-asing",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Optimistis, Batavia Pasang Target Dana Kelolaan jadi Rp60 Triliun",
+      "url": "https://emitennews.com/news/optimistis-batavia-pasang-target-dana-kelolaan-jadi-rp60-triliun",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Perkuat Komitmen Bank Raya Hadirkan Inovasi Produk Digital di Aplikasi",
+      "url": "https://emitennews.com/news/perkuat-komitmen-bank-raya-hadirkan-inovasi-produk-digital-di-aplikasi",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Perluas Kredit, Easycash dan Krom Bank Jalin Kemitraan Loan Channeling",
+      "url": "https://emitennews.com/news/perluas-kredit-easycash-dan-krom-bank-jalin-kemitraan-loan-channeling",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Republika Beri Penghargaan ESG ke Lembaga Pemerintah dan Swasta",
+      "url": "https://emitennews.com/news/republika-beri-penghargaan-esg-ke-lembaga-pemerintah-dan-swasta",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Respons Ancaman MSCI, BI Perkuat Insentif Tarik Inflow",
+      "url": "https://emitennews.com/news/respons-ancaman-msci-bi-perkuat-insentif-tarik-inflow",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "RUPSLB Surge (WIFI) Tunjuk Fadel Muhammad Komut dan Shannedy Ong Dirut",
+      "url": "https://emitennews.com/news/rupslb-surge-wifi-tunjuk-fadel-muhammad-komut-dan-shannedy-ong-dirut",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Saham Bergejolak, Emiten Babah Alun (CMNP) Sentil Isu Rights Issue",
+      "url": "https://emitennews.com/news/saham-bergejolak-emiten-babah-alun-cmnp-sentil-isu-rights-issue",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Saham PBV di Bawah 1 Masuk Radar Diskon, Ini Prospek Emiten PEHA",
+      "url": "https://emitennews.com/news/saham-pbv-di-bawah-1-masuk-radar-diskon-ini-prospek-emiten-peha",
+      "sektor": "Keuangan, Teknologi"
+    }
+  ]
+}
