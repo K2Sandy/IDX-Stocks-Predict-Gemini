@@ -1,0 +1,202 @@
+{
+  "tanggal": "2026-10-22",
+  "dibuat_pada": "2026-10-22 20:28 WIB",
+  "jumlah_artikel": 27,
+  "saham_disebut": {
+    "BBRI": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BMRI": [
+      "Keuangan (rating 6/7)",
+      "Teknologi (rating 5/7)"
+    ],
+    "BNGA": [
+      "Keuangan (rating 6/7)"
+    ],
+    "ANTM": [
+      "Energi (rating 6/7)"
+    ],
+    "PTPP": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "ASII": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Mayoritas bank besar di sektor keuangan (BBRI, BMRI, BNGA) menunjukkan sentimen positif melalui aksi korporasi strategis, pertumbuhan digital, dan klarifikasi isu negatif, didukung oleh penguatan IHSG dan pembelian saham BUMN.",
+      "alasan": "Berita positif dari bank-bank berkapitalisasi pasar besar seperti buyback BBRI dan pertumbuhan digital BMRI memberikan dorongan kuat. Klarifikasi isu delisting oleh BNGA menghilangkan ketidakpastian, sementara pembelian saham BUMN oleh Danantara secara tidak langsung mendukung bank-bank BUMN. Gabungan sentimen ini, ditambah penguatan IHSG secara umum, menciptakan momentum positif yang kuat untuk sektor keuangan.",
+      "analisis_saham": "BBRI (PT Bank Rakyat Indonesia (Persero) Tbk.): Sentimen positif. Rencana buyback saham senilai Rp1 triliun untuk MESOP menunjukkan kepercayaan manajemen terhadap valuasi perusahaan dan dapat memberikan dukungan harga, serta mengurangi jumlah saham beredar."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bank Mandiri menunjukkan pertumbuhan signifikan dalam layanan digitalnya melalui Livin' by Mandiri, mengindikasikan peningkatan adopsi ekosistem digital di Indonesia.",
+      "alasan": "Meskipun berita ini berfokus pada perbankan, pertumbuhan masif pengguna dan frekuensi transaksi Livin' by Mandiri menunjukkan peningkatan adopsi teknologi dan digitalisasi di masyarakat. Hal ini secara tidak langsung menciptakan lingkungan yang positif bagi perusahaan di sektor Teknologi, karena meningkatkan permintaan akan infrastruktur dan solusi digital.",
+      "analisis_saham": "Berita ini menyebutkan PT Bank Mandiri (Persero) Tbk (BMRI). Fokus pada peningkatan mutu layanan dan keandalan ekosistem digital, serta pertumbuhan pengguna Livin' by Mandiri yang signifikan, memberikan sentimen positif bagi BMRI. Ini menunjukkan keberhasilan strategi digital bank yang dapat mendukung pertumbuhan kinerja dan daya saing di masa depan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Kenaikan harga energi global dilaporkan menekan harga emas, menunjukkan kondisi pasar energi yang kuat.",
+      "alasan": "Sentimen \"lonjakan harga energi\" global secara langsung mengindikasikan harga komoditas energi yang lebih tinggi. Hal ini merupakan katalis positif bagi perusahaan di sektor energi, berpotensi mendorong peningkatan pendapatan dan profitabilitas.",
+      "analisis_saham": "Meskipun berita menyebutkan PT Aneka Tambang Tbk (ANTM), dampaknya adalah negatif bagi saham tersebut karena harga emasnya merosot sejalan dengan pelemahan emas global yang disebabkan oleh lonjakan harga energi dan kekhawatiran inflasi. Perlu dicatat bahwa ANTM beroperasi di sektor pertambangan logam, bukan energi."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Restrukturisasi utang PTPP senilai Rp18,2 triliun menjadi efektif, diiringi minat Danantara untuk memborong saham BUMN dan pertemuan dengan pengendali ASII.",
+      "alasan": "Berita restrukturisasi utang PT PP (Persero) Tbk (PTPP) secara signifikan mengurangi beban keuangan salah satu pemain utama di sektor infrastruktur, meningkatkan kepercayaan investor terhadap stabilitas keuangan BUMN sektor ini. Ditambah minat institusi seperti Danantara pada saham BUMN dan sentimen positif terhadap ASII, secara kolektif menciptakan pandangan bullish untuk sektor infrastruktur secara keseluruhan.",
+      "analisis_saham": "PT Pembangunan Perumahan (Persero) Tbk (PTPP): Restrukturisasi utang senilai Rp18,2 triliun dengan perpanjangan tenor hingga 15 tahun dan pelunasan sebagian melalui divestasi aset adalah katalis positif yang sangat kuat. Ini akan secara drastis memperbaiki kesehatan keuangan PTPP, mengurangi risiko gagal bayar, dan meningkatkan kemampuan perusahaan untuk fokus pada operasional serta proyek-proyek mendatang, sehingga berpotensi mendorong harga saham naik signifikan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "BRI (BBRI) Buyback Rp1 Triliun Tahap II, Akan Dialokasikan Untuk MESOP",
+      "url": "https://emitennews.com/news/bri-bbri-buyback-rp1-triliun-tahap-ii-akan-dialokasikan-untuk-mesop",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bank Mandiri Tingkatkan Mutu Layanan dan Keandalan Ekosistem Digital",
+      "url": "https://emitennews.com/news/bank-mandiri-tingkatkan-mutu-layanan-dan-keandalan-ekosistem-digital",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bukan Sekadar Olah Angka, Ini Sosok di Balik Transformasi Bank Jakarta",
+      "url": "https://emitennews.com/news/bukan-sekadar-olah-angka-ini-sosok-di-balik-transformasi-bank-jakarta",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "BEI Gembok 2 Saham ARA Beruntun, Emiten Influencer Disuspensi Jilid IV",
+      "url": "https://emitennews.com/news/bei-gembok-2-saham-ara-beruntun-emiten-influencer-disuspensi-jilid-iv",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Cerah! IHSG Sesi Siang Bangkit 1,7% Sambut Positif Reformasi Pasar",
+      "url": "https://emitennews.com/news/cerah-ihsg-sesi-siang-bangkit-17-sambut-positif-reformasi-pasar",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bantah Delisting, BNGA Pilih Kejar Minimum Free Float",
+      "url": "https://emitennews.com/news/bantah-delisting-bnga-pilih-kejar-minimum-free-float",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Danantara Mulai Borong Saham BUMN, Fokusnya Tiga Sektor Ini",
+      "url": "https://emitennews.com/news/danantara-mulai-borong-saham-bumn-fokusnya-tiga-sektor-ini",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Ekonom PIER Ungkap Efek Domino Jika RI Diturunkan ke Standalone Market",
+      "url": "https://emitennews.com/news/ekonom-pier-ungkap-efek-domino-jika-ri-diturunkan-ke-standalone-market",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Ekspansif! Laba FORE Kuartal III Melangit 50 Persen",
+      "url": "https://emitennews.com/news/ekspansif-laba-fore-kuartal-iii-melangit-50-persen",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Emas Global Tertekan Minyak, Harga Antam Ikut Merosot",
+      "url": "https://emitennews.com/news/emas-global-tertekan-minyak-harga-antam-ikut-merosot",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Emiten Afiliasi Salim (AMMN) Berencana Buyback Saham hingga Rp1T",
+      "url": "https://emitennews.com/news/emiten-afiliasi-salim-ammn-berencana-buyback-saham-hingga-rp1t",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Emiten Data Center (DCII) Kemas Pendapatan Rp2,5T, Laba Naik 11%!",
+      "url": "https://emitennews.com/news/emiten-data-center-dcii-kemas-pendapatan-rp25t-laba-naik-11",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Lanjut Menguat ke 5.387, Big Banks Ini Rajai Transaksi",
+      "url": "https://emitennews.com/news/ihsg-lanjut-menguat-ke-5387-big-banks-ini-rajai-transaksi",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Imbas Tensi Timur Tengah, Rupiah Melemah Bersama Uang Regional",
+      "url": "https://emitennews.com/news/imbas-tensi-timur-tengah-rupiah-melemah-bersama-uang-regional",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Emiten Migas Hapsoro–Prajogo Masuk Pantauan Bursa",
+      "url": "https://emitennews.com/news/emiten-migas-hapsoroprajogo-masuk-pantauan-bursa",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Jeblok 1,5% di Awal Perdagangan usai Celoteh Prabowo ke MSCI",
+      "url": "https://emitennews.com/news/ihsg-jeblok-15-di-awal-perdagangan-usai-celoteh-prabowo-ke-msci",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Investor Wajib Kedepankan Pemahaman dan Manajemen Risiko",
+      "url": "https://emitennews.com/news/investor-wajib-kedepankan-pemahaman-dan-manajemen-risiko",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Ke Hongkong, Bos Danantara Temui Pengendali Saham Astra (ASII)",
+      "url": "https://emitennews.com/news/ke-hongkong-bos-danantara-temui-pengendali-saham-astra-asii",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pengendali SPMA Jual 22,5 Juta Saham Senilai Rp3,28 Miliar",
+      "url": "https://emitennews.com/news/pengendali-spma-jual-225-juta-saham-senilai-rp328-miliar",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Korupsi, Vonis 5 Tahun Untuk Eks Wali Kota Madiun, Hak Politik Dicabut",
+      "url": "https://emitennews.com/news/korupsi-vonis-5-tahun-untuk-eks-wali-kota-madiun-hak-politik-dicabut",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Nihil Utang Bank, Laba UNVR Naik 25% Meski Ditagih Pajak Triliunan",
+      "url": "https://emitennews.com/news/nihil-utang-bank-laba-unvr-naik-25-meski-ditagih-pajak-triliunan",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Rajin Ekspansi Gerai, FORE Cetak Laba Kuartal III Rp90 Miliar!",
+      "url": "https://emitennews.com/news/rajin-ekspansi-gerai-fore-cetak-laba-kuartal-iii-rp90-miliar",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Restrukturisasi Utang Rp18,2T PTPP Efektif, Tenor hingga 15 Tahun",
+      "url": "https://emitennews.com/news/restrukturisasi-utang-rp182t-ptpp-efektif-tenor-hingga-15-tahun",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Saham HSC Keluar dari IHSG Mulai November 2026, Intip Daftarnya",
+      "url": "https://emitennews.com/news/saham-hsc-keluar-dari-ihsg-mulai-november-2026-intip-daftarnya",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "TLDN Segera Kucurkan Dividen Interim Rp258 Miliar, Cek Jadwalnya",
+      "url": "https://emitennews.com/news/tldn-segera-kucurkan-dividen-interim-rp258-miliar-cek-jadwalnya",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "UNSP Dirikan Anak Usaha Baru, Begerak di Perdagangan Minyak Nabati",
+      "url": "https://emitennews.com/news/unsp-dirikan-anak-usaha-baru-begerak-di-perdagangan-minyak-nabati",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Saham Pengendali Digadai ke Bank, Laba Emiten Haji Isam Meroket 33%",
+      "url": "https://emitennews.com/news/saham-pengendali-digadai-ke-bank-laba-emiten-haji-isam-meroket-33",
+      "sektor": "Keuangan, Teknologi, Energi"
+    }
+  ]
+}
