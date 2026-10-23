@@ -1,0 +1,188 @@
+{
+  "tanggal": "2026-10-23",
+  "dibuat_pada": "2026-10-23 20:07 WIB",
+  "jumlah_artikel": 26,
+  "saham_disebut": {
+    "ARTO": [
+      "Keuangan (rating 5/7)",
+      "Teknologi (rating 5/7)"
+    ],
+    "AKRA": [
+      "Energi (rating 6/7)"
+    ],
+    "PTPP": [
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bank Jago (ARTO) mengumumkan jadwal pelaksanaan program Management and Employee Stock Option Program (MESOP) 2025-2030 Tahap I Periode II Tahun 2026.",
+      "alasan": "Sentimen pasar secara keseluruhan positif dengan penguatan signifikan IHSG, yang turut memberikan dorongan bagi seluruh sektor, termasuk keuangan. Meskipun berita spesifik sektor hanya terkait program MESOP ARTO, langkah ini dapat mendukung persepsi positif terhadap komitmen internal perusahaan dan stabilitas perbankan digital.",
+      "analisis_saham": "ARTO (Bank Jago Tbk.): Pengumuman jadwal pelaksanaan MESOP dengan harga Rp1.550 per saham merupakan langkah tata kelola perusahaan untuk menyelaraskan kepentingan manajemen dan karyawan dengan pemegang saham. Berita ini cenderung memberikan sentimen netral hingga sedikit positif bagi saham ARTO karena mengindikasikan rencana jangka panjang perusahaan meskipun implementasinya masih di masa depan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pengumuman jadwal pelaksanaan MESOP Bank Jago (ARTO) dan sentimen pasar yang positif dari penguatan IHSG menjadi sorotan utama dalam kumpulan berita hari ini.",
+      "alasan": "Meskipun tidak ada berita spesifik yang secara langsung mendorong seluruh sektor teknologi, penguatan IHSG memberikan latar belakang positif yang dapat menarik sentimen beli. Berita operasional Bank Jago (ARTO) terkait MESOP juga tidak menimbulkan sentimen negatif dan menunjukkan komitmen manajemen, sehingga dapat menjaga kepercayaan investor terhadap saham-saham terkait teknologi.",
+      "analisis_saham": "PT Bank Jago Tbk (ARTO) mengumumkan jadwal pelaksanaan MESOP Tahap I Periode II Tahun 2026 dengan harga Rp1.550 per saham. Pengumuman ini menunjukkan langkah korporasi yang bertujuan meningkatkan motivasi dan loyalitas manajemen serta karyawan, yang secara umum dapat dipandang positif bagi stabilitas internal perusahaan. Dampak langsung terhadap harga saham ARTO mungkin cenderung netral hingga sedikit positif, karena ini adalah pelaksanaan program yang telah ada dan bukan katalis fundamental baru."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Kinerja keuangan positif distributor BBM (AKRA) dan indikasi kenaikan harga minyak global dari wacana penghapusan subsidi bensin di Jepang memberikan sentimen positif bagi sektor energi.",
+      "alasan": "Laporan kinerja AKR Corporindo (AKRA) menunjukkan pertumbuhan pendapatan yang signifikan, sebagian besar didorong oleh bisnis BBM, menandakan permintaan yang kuat di segmen ini. Di sisi lain, pertimbangan Jepang untuk mengakhiri subsidi bensin akibat tingginya harga minyak dunia mengindikasikan tren harga komoditas energi yang tetap tinggi, yang menguntungkan bagi perusahaan di sektor ini.",
+      "analisis_saham": "PT AKR Corporindo Tbk (AKRA) mencatatkan performa keuangan yang sangat memuaskan hingga kuartal ketiga tahun 2026, dengan pendapatan naik 43,63% menjadi Rp46,53 triliun, didorong oleh bisnis inti termasuk BBM. Berita ini sangat positif dan berpotensi mendukung kenaikan harga saham AKRA karena menunjukkan pertumbuhan yang kuat dan profitabilitas yang meningkat."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "PT PP (Persero) Tbk terlibat dalam penanganan mendesak infrastruktur jalan terdampak bencana di Sumatera Utara, menunjukkan aktivitas berkelanjutan di sektor konstruksi.",
+      "alasan": "Keterlibatan PTPP dalam proyek penanganan darurat infrastruktur jalan menunjukkan adanya kesinambungan proyek pemerintah di sektor konstruksi. Hal ini mengindikasikan adanya aliran kerja dan dukungan pemerintah untuk pemeliharaan serta pembangunan infrastruktur, yang dapat memberikan sentimen positif bagi prospek perusahaan konstruksi lainnya.",
+      "analisis_saham": "PT PP (Persero) Tbk (PTPP) terlibat langsung dalam proyek penanganan darurat infrastruktur jalan di Sumatera Utara. Keterlibatan ini menunjukkan kepercayaan pemerintah terhadap kapabilitas PTPP dan potensi pendapatan dari proyek-proyek konstruksi yang berkelanjutan, memberikan sentimen positif pada saham PTPP."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "IHSG Lanjut Melesat ke 5.439,25, Saham TOBA Naik Paling Tinggi!",
+      "url": "https://emitennews.com/news/ihsg-lanjut-melesat-ke-543925-saham-toba-naik-paling-tinggi",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Cuan Melimpah dari Lahan Industri & BBM, Mana yang Bikin AKRA Kaya?",
+      "url": "https://emitennews.com/news/cuan-melimpah-dari-lahan-industri-bbm-mana-yang-bikin-akra-kaya",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bank Jago (ARTO) Geber MESOP Tahap I Jilid II, Harga Rp1.550 per Saham",
+      "url": "https://emitennews.com/news/bank-jago-arto-geber-mesop-tahap-i-jilid-ii-harga-rp1550-per-saham",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Anggaran Terkuras, Negara Ini Pertimbangkan Akhiri Subsidi Bensin",
+      "url": "https://emitennews.com/news/anggaran-terkuras-negara-ini-pertimbangkan-akhiri-subsidi-bensin",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Dua Saham Bergerak Kontras Usai Disorot Bursa",
+      "url": "https://emitennews.com/news/dua-saham-bergerak-kontras-usai-disorot-bursa",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Caplok 2 Perusahaan, Emiten H Isam Cari Modal Rp8,19 Triliun",
+      "url": "https://emitennews.com/news/caplok-2-perusahaan-emiten-h-isam-cari-modal-rp819-triliun",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Sesi I (23/10) Tembus Naik 1 Persen Lebih ke Level 5.446",
+      "url": "https://emitennews.com/news/ihsg-sesi-i-2310-tembus-naik-1-persen-lebih-ke-level-5446",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "INDF dan ICBP Akan Gelar Buyback, Totalnya Rp1,5 Triliun",
+      "url": "https://emitennews.com/news/indf-dan-icbp-akan-gelar-buyback-totalnya-rp15-triliun",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Inisiatif dan Aktif, MKTR Tanggulangi Karhutla Wilayah Operasional",
+      "url": "https://emitennews.com/news/inisiatif-dan-aktif-mktr-tanggulangi-karhutla-wilayah-operasional",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IPO Persib Bandung Meluncur di Tahun 2027",
+      "url": "https://emitennews.com/news/ipo-persib-bandung-meluncur-di-tahun-2027",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IRSX dan YouTube Perkuat Sinergi Konten Micro Drama dan Kreator Global",
+      "url": "https://emitennews.com/news/irsx-dan-youtube-perkuat-sinergi-konten-micro-drama-dan-kreator-global",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Kementerian PU Bersama PTPP Tangani 31 Titik Longsoran di Sumut",
+      "url": "https://emitennews.com/news/kementerian-pu-bersama-ptpp-tangani-31-titik-longsoran-di-sumut",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Kurangi Porsi, Sang Komut Kini Kuasai 75 Persen Saham Suparma (SPMA)",
+      "url": "https://emitennews.com/news/kurangi-porsi-sang-komut-kini-kuasai-75-persen-saham-suparma-spma",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "MD Entertainment (FILM) Masuk Daftar HSC Lagi, Total jadi 82 Emiten",
+      "url": "https://emitennews.com/news/md-entertainment-film-masuk-daftar-hsc-lagi-total-jadi-81-emiten",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Siapa Saja Pelaku Pelanggar Bursa yang Didenda OJK Rp2,52 Triliun?",
+      "url": "https://emitennews.com/news/ojk-jatuhkan-denda-rp252-triliun-ke-pelanggar-bursa-ini-rinciannya",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Pemprov DKI Buka 12 Ribu Lowongan Kerja, Disabilitas dapat Perhatian",
+      "url": "https://emitennews.com/news/pemprov-dki-buka-12-ribu-lowongan-kerja-disabilitas-dapat-perhatian",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Presdir Emiten Sawit TAPG Divestasi 700 Ribu Saham, Total Rp1,33M",
+      "url": "https://emitennews.com/news/presdir-emiten-sawit-tapg-divestasi-700-ribu-saham-total-rp133m",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "PTSN Raup Omzet Rp3,2T di Paruh Pertama 2026, PBV di Bawah 1 Kali",
+      "url": "https://emitennews.com/news/ptsn-raup-omzet-rp32t-di-paruh-pertama-2026-pbv-di-bawah-1-kali",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "SIDO Tebar Dividen Interim Rp300M, Jatah Investor Rp10 per Saham",
+      "url": "https://emitennews.com/news/sido-tebar-dividen-interim-rp300m-jatah-investor-rp10-per-saham",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Rupiah Menguat Tipis Terhadap Dolar AS Pagi Ini",
+      "url": "https://emitennews.com/news/rupiah-menguat-tipis-terhadap-dolar-as-pagi-ini",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Sido Muncul (SIDO) Siap Bagikan Dividen Rp300 Miliar, Cek Jadwalnya",
+      "url": "https://emitennews.com/news/sido-muncul-sido-siap-bagikan-dividen-rp300-miliar-cek-jadwalnya",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Sinyal Pengendali Baru STRK, Sahamnya Melejit Usai Bebas Suspensi!",
+      "url": "https://emitennews.com/news/sinyal-pengendali-baru-strk-sahamnya-melejit-usai-bebas-suspensi",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Songsong Dividen, 3 Pemegang Saham IMPC Borong Rp127 Miliar",
+      "url": "https://emitennews.com/news/songsong-dividen-3-pemegang-saham-impc-borong-rp127-miliar",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Sukses di Singapura, Kopi & Donat Laris Manis, Omzet FORE Rp1,59 T",
+      "url": "https://emitennews.com/news/sukses-di-singapura-kopi-donat-laris-manis-omzet-fore-rp159-t",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Tambah Lagi, Kini Ada 82 Saham HSC!",
+      "url": "https://emitennews.com/news/tambah-lagi-kini-ada-82-saham-hsc",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Tambah Portofolio, Komut Ini Investasi di Saham Estetika Tata (BEEF)",
+      "url": "https://emitennews.com/news/tambah-portofolio-komut-ini-investasi-di-saham-estetika-tata-beef",
+      "sektor": "Keuangan, Teknologi"
+    }
+  ]
+}
