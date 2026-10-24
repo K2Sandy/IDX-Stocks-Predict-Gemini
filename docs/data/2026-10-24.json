@@ -1,0 +1,185 @@
+{
+  "tanggal": "2026-10-24",
+  "dibuat_pada": "2026-10-24 19:30 WIB",
+  "jumlah_artikel": 24,
+  "saham_disebut": {
+    "BMRI": [
+      "Keuangan (rating 6/7)",
+      "Infrastruktur (rating 5/7)"
+    ],
+    "TRIM": [
+      "Keuangan (rating 6/7)"
+    ],
+    "FILM": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BIKE": [
+      "Energi (rating 6/7)",
+      "Infrastruktur (rating 5/7)"
+    ],
+    "ENRG": [
+      "Energi (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Bank Mandiri (BMRI) melaporkan kinerja laba bersih Q3 2026 yang kuat dengan pertumbuhan 20,7%, sementara Trimegah Sekuritas (TRIM) menunjukkan aktivitas agresif dalam transaksi pasar.",
+      "alasan": "Laporan laba yang sangat positif dari BMRI, salah satu bank terbesar di Indonesia, memberikan dorongan kuat bagi sektor perbankan dan secara keseluruhan sektor keuangan. Aktivitas positif dari perusahaan sekuritas juga menunjukkan dinamika pasar yang sehat dan potensi peningkatan pendapatan dari transaksi.",
+      "analisis_saham": "BMRI:** Kinerja laba bersih konsolidasi sebesar Rp45,5 triliun dengan pertumbuhan 20,7% YoY adalah katalis positif yang sangat kuat. Hal ini akan meningkatkan kepercayaan investor dan kemungkinan besar mendorong kenaikan harga saham BMRI."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Indonesia dan Singapura meluncurkan Proyek NUSA untuk mempercepat pemanfaatan Kecerdasan Buatan (AI) di dunia usaha, menciptakan peluang ekonomi baru.",
+      "alasan": "Berita tentang kolaborasi strategis antara Indonesia dan Singapura dalam pengembangan serta adopsi teknologi AI melalui Proyek NUSA memberikan sentimen yang sangat positif bagi sektor teknologi. Inisiatif ini menunjukkan komitmen terhadap inovasi dan potensi pertumbuhan adopsi AI yang akan menguntungkan perusahaan-perusahaan teknologi.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Sentimen positif muncul dari akumulasi saham Energi Mega Persada (ENRG) secara agresif oleh broker Trimegah Sekuritas dan rencana pengembangan properti oleh PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE).",
+      "alasan": "Aktivitas pembelian saham ENRG dalam jumlah besar oleh institusi mencerminkan kepercayaan investor terhadap prospek emiten migas, yang dapat memberikan dorongan positif bagi sektor energi secara keseluruhan. Ditambah dengan strategi pertumbuhan BIKE, sentimen positif ini berpotensi menarik minat lebih lanjut pada saham-saham energi.",
+      "analisis_saham": "BIKE**: Rencana pengembangan kawasan Transit-Oriented Development (TOD) di Pasar Minggu oleh BIKE merupakan sinyal positif yang menunjukkan strategi diversifikasi dan potensi pertumbuhan perusahaan di luar bisnis inti energi. Hal ini dapat meningkatkan kepercayaan investor dan berpotensi mendukung kenaikan harga saham dalam jangka menengah."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) berencana mengembangkan kawasan Transit-Oriented Development (TOD) di Pasar Minggu dengan konstruksi dimulai tahun 2027.",
+      "alasan": "Rencana pengembangan TOD oleh BIKE menunjukkan adanya pipeline proyek di sub-sektor properti dan urbanisasi yang berkaitan erat dengan infrastruktur perkotaan. Meskipun realisasi konstruksi baru dimulai beberapa tahun ke depan, sentimen ini memberikan pandangan positif terhadap prospek investasi dan pembangunan di sektor infrastruktur.",
+      "analisis_saham": "BIKE:** Rencana pengembangan kawasan TOD di Pasar Minggu merupakan langkah strategis yang positif untuk prospek bisnis BIKE di masa depan, berpotensi meningkatkan nilai aset dan pendapatan jangka panjang. Sentimen ini cenderung mendorong minat investor dan mendukung kenaikan harga saham BIKE."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Bebas Suspend, ARA Brutal, Pendapatan Emiten ini Melangit 8.397 Persen",
+      "url": "https://emitennews.com/news/bebas-suspend-ara-brutal-pendapatan-emiten-ini-melangit-8397-persen",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BIKE Usung Konsep TOD di Pasar Minggu, Tahap Konstruksi Mulai 2027",
+      "url": "https://emitennews.com/news/bike-usung-konsep-tod-di-pasar-minggu-tahap-konstruksi-mulai-2027",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BMRI Kemas Laba Rp45,5 Triliun, Tumbuh 20,7 Persen di Q3 2026",
+      "url": "https://emitennews.com/news/bmri-kemas-laba-rp455-triiun-tumbuh-207-persen-di-q3-2026",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Bongkar HSC FILM, Taktik Gadai Repo Hingga Morgan Stanley Nyangkut",
+      "url": "https://emitennews.com/news/bongkar-hsc-film-taktik-gadai-repo-hingga-morgan-stanley-nyangkut",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "9 Perusahaan Antre IPO, Sektor Kesehatan Dominan!",
+      "url": "https://emitennews.com/news/9-perusahaan-antre-ipo-sektor-kesehatan-dominan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "9 Perusahaan Antre IPO, 3 di Antaranya Aset Skala Besar, Cek Daftarnya",
+      "url": "https://emitennews.com/news/9-perusahaan-antre-ipo-3-di-antaranya-aset-skala-besar-cek-daftarnya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Broker Boy Thohir Agresif Borong, Saham Grup Bakrie Terbang",
+      "url": "https://emitennews.com/news/broker-boy-thohir-agresif-borong-saham-grup-bakrie-terbang",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Cek! Top Losers Sepekan, ALDO hingga MSIN",
+      "url": "https://emitennews.com/news/cek-top-losers-sepekan-aldo-hingga-msin",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Data Kemendag, Ekspor Kecap Nasional Rp340M, Terbesar ke Australia",
+      "url": "https://emitennews.com/news/data-kemendag-ekspor-kecap-nasional-rp340m-terbesar-ke-australia",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Sepekan Bangkit 4,90 Persen, Market Cap Rp9.583 Triliun",
+      "url": "https://emitennews.com/news/ihsg-sepekan-bangkit-490-persen-market-cap-rp9583-triliun",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ekonom Ini Nilai Penyaluran Kredit Rp400T Berisiko Picu Kredit Macet",
+      "url": "https://emitennews.com/news/ekonomi-ini-nilai-penyaluran-kredit-rp400t-berisiko-picu-kredit-macet",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Era Baru Risiko Perbankan",
+      "url": "https://emitennews.com/news/era-baru-risiko-perbankan",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "LSIP Siapkan Rp750 Miliar untuk Buyback, Cek Jadwalnya!",
+      "url": "https://emitennews.com/news/lsip-siapkan-rp750-miliar-untuk-buyback-cek-jadwalnya",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Lunasi Obligasi, Sumber Global Energy (SGER) Rogoh Kocek Rp273,64M",
+      "url": "https://emitennews.com/news/lunasi-obligasi-sumber-global-energy-sger-rogoh-kocek-rp27364m",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pendapatan Positif, BUKA Berbalik Boncos Rp885,88 Miliar",
+      "url": "https://emitennews.com/news/pendapatan-positif-buka-berbalik-boncos-rp88588-miliar",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Memprediksi Nasib Investor Ritel di Tengah Gonjang-ganjing IHSG",
+      "url": "https://emitennews.com/news/memprediksi-nasib-investor-ritel-di-tengah-gonjang-ganjing-ihsg",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Perkuat Transformasi, BTN Perluas Akses Hunian, dan Layanan Digital",
+      "url": "https://emitennews.com/news/perkuat-transformasi-btn-perluas-akses-hunian-dan-layanan-digital",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "PHK 2.500 Karyawan, Volvo: Mobil Eropa tak Laku di China",
+      "url": "https://emitennews.com/news/phk-2500-karyawan-volvo-mobil-eropa-tak-laku-di-china",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Proyek NUSA, Indonesia-Singapura Incar Peluang Ekonomi Baru dari AI",
+      "url": "https://emitennews.com/news/proyek-nusa-indonesia-singapura-incar-peluang-ekonomi-baru-dari-ai",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "PSGO Ungkap Ini Pasca Kebakaran Pabrik Kelapa Sawit NUSA",
+      "url": "https://emitennews.com/news/psgo-ungkap-ini-pasca-kebakaran-pabrik-kelapa-sawit-nusa",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tambah Porsi, Raja Sinetron Itu Kini Kuasai 68,84 Persen Saham RAAM",
+      "url": "https://emitennews.com/news/tambah-porsi-raja-sinetron-itu-kini-kuasai-6884-persen-saham-raam",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Sawit Indonesia dan Laba yang Singgah di Singapura",
+      "url": "https://emitennews.com/news/sawit-indonesia-dan-laba-yang-singgah-di-singapura",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Top Gainers Sepekan, TRUK Memimpin Disusul WMUU hingga TOBA",
+      "url": "https://emitennews.com/news/top-gainers-sepekan-truk-memimpin-disusul-wmuu-hingga-toba",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Target 2027, Pemerintah Rancang Penyaluran Kredit Produktif Rp400T",
+      "url": "https://emitennews.com/news/target-2027-pemerintah-rancang-penyaluran-kredit-produktif-rp400t",
+      "sektor": "Keuangan"
+    }
+  ]
+}
