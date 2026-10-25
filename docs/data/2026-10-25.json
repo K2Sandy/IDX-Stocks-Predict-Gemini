@@ -1,0 +1,258 @@
+{
+  "tanggal": "2026-10-25",
+  "dibuat_pada": "2026-10-25 19:56 WIB",
+  "jumlah_artikel": 39,
+  "saham_disebut": {
+    "BTPS": [
+      "Keuangan (rating 5/7)"
+    ],
+    "PTSN": [
+      "Teknologi (rating 3/7)"
+    ],
+    "ANTM": [
+      "Energi (rating 6/7)"
+    ],
+    "TOWR": [
+      "Infrastruktur (rating 3/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "BTPN Syariah (BTPS) membukukan laba bersih Rp1,01 triliun, aset Rp24 triliun, dan pembiayaan Rp11 triliun hingga Kuartal III 2026, menunjukkan kinerja keuangan yang solid.",
+      "alasan": "Kinerja positif dari salah satu emiten perbankan syariah ini dapat memberikan sentimen yang baik bagi sub-sektor perbankan, meskipun dampaknya terhadap indeks sektor keuangan secara keseluruhan mungkin terbatas. Hasil ini menunjukkan adanya titik terang pertumbuhan dalam industri perbankan.",
+      "analisis_saham": "Laporan laba bersih BTPS yang mencapai Rp1,01 triliun serta pertumbuhan aset sebesar 8% dan pembiayaan sebesar 13% secara tahunan menunjukkan fundamental perusahaan yang kuat. Sentimen positif dari kinerja cemerlang ini berpotensi menarik minat investor dan mendorong kenaikan harga saham BTPS pada hari perdagangan berikutnya."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Meskipun emiten manufaktur teknologi Sat Nusa Persada (PTSN) mencatat pertumbuhan pendapatan yang signifikan, sentimen negatif dari arus modal asing keluar yang meluas di pasar keuangan domestik diperkirakan akan membebani sektor ini.",
+      "alasan": "Kinerja positif PTSN menunjukkan kekuatan di segmen manufaktur teknologi, namun tekanan makroekonomi dari keluarnya modal asing cenderung akan menekan seluruh pasar, termasuk sektor Teknologi yang sensitif terhadap likuiditas dan sentimen investor. Oleh karena itu, faktor negatif pasar secara luas lebih dominan dibandingkan berita positif spesifik.",
+      "analisis_saham": "PT Sat Nusapersada Tbk (PTSN) melaporkan pertumbuhan pendapatan yang sangat kuat sebesar 65,2% year-on-year menjadi USD182,28 juta di Semester I-2026. Sentimen positif dari kinerja fundamental yang solid ini diperkirakan akan mendukung pergerakan harga saham PTSN, bahkan di tengah kondisi pasar yang kurang menguntungkan secara umum."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Pemerintah Indonesia menunjukkan komitmen kuat terhadap keamanan energi domestik dengan memprioritaskan pasokan gas dan BBM di dalam negeri.",
+      "alasan": "Berita menunjukkan fokus pemerintah untuk menjamin ketersediaan energi bagi masyarakat dan industri domestik, yang dapat mendukung permintaan stabil dan pertumbuhan bagi perusahaan energi yang beroperasi di pasar lokal. Prioritas domestik ini juga mengindikasikan dukungan kebijakan yang kuat terhadap sektor energi nasional.",
+      "analisis_saham": "PT Aneka Tambang Tbk. (ANTM) berpeluang memperoleh tambahan wilayah pengelolaan tambang emas, yang merupakan sentimen positif bagi prospek bisnis dan nilai aset perusahaan. Potensi peningkatan cadangan dan produksi dapat berdampak baik pada kinerja keuangan ANTM di masa mendatang."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Kekhawatiran akan potensi penurunan status pasar modal Indonesia oleh MSCI menjadi sentimen negatif yang kuat, meskipun ada berita positif mengenai dividen interim Protelindo untuk TOWR dan jaminan pasokan BBM oleh Pertamina.",
+      "alasan": "Sektor infrastruktur sangat bergantung pada investasi dan sentimen pasar yang stabil. Meskipun berita dividen Protelindo kepada TOWR menunjukkan kinerja positif di subsektor telekomunikasi dan jaminan pasokan BBM oleh Pertamina penting untuk stabilitas, ancaman downgrade pasar modal oleh MSCI berpotensi memicu capital outflow dan menekan valuasi saham di seluruh pasar, termasuk sektor infrastruktur.",
+      "analisis_saham": "TOWR: Berita bahwa Protelindo akan menyetor dividen interim sebesar Rp176 miliar ke TOWR merupakan sentimen positif langsung. Ini menunjukkan kesehatan finansial anak perusahaan dan akan meningkatkan pendapatan TOWR, berpotensi memberikan dorongan positif pada harga sahamnya di tengah sentimen pasar yang kurang baik."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Berita hari ini sebagian besar tidak relevan dengan makroekonomi, dengan satu berita menyoroti peningkatan acara dan pariwisata lokal di Jakarta.",
+      "alasan": "Sebagian besar berita yang diberikan bersifat non-ekonomi (gaya hidup, lingkungan, tips otomotif) dan tidak memiliki implikasi langsung terhadap arah pergerakan indeks sektor umum/makro. Berita tentang peningkatan acara di Jakarta bersifat positif namun sangat lokal dan tidak cukup signifikan untuk menggerakkan indeks makro secara nasional.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Analis Ini Soroti Pendapatan Rp3,2 Triliun Sat Nusa Persada (PTSN)",
+      "url": "https://emitennews.com/news/analis-ini-soroti-pendapatan-rp32-triliun-sat-nusa-persada-ptsn",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Antam (ANTM) Berpeluang dapat Tambahan Wilayah Tambang Emas",
+      "url": "https://emitennews.com/news/antam-antm-berpeluang-dapat-tambahan-wilayah-tambang-emas",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Anggap Singapura tak Kooperatif, Indonesia Pangkas Ekspor Gas",
+      "url": "https://emitennews.com/news/anggap-singapura-tak-kooperatif-indonesia-pangkas-ekspor-gas",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "5 Saham Masuk Cum Dividen Pekan Ini, Yield Tertinggi di Grup Sinar Mas",
+      "url": "https://emitennews.com/news/5-saham-sajikan-cum-dividen-pekan-ini-yield-tertinggi-di-grup-sinarma",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "3x Borong Saham Sepanjang Oktober, Pengendali HRTA Rogoh Kocek Rp8,31M",
+      "url": "https://emitennews.com/news/3x-borong-saham-sepanjang-oktober-pengendali-hrta-rogoh-kocek-rp831m",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Hasil HT Garudayaksa Vs Persib 0-1: Peralta Jadi Pembeda di Babak I",
+      "url": "https://bola.kompas.com/read/2026/10/25/19524198/hasil-ht-garudayaksa-vs-persib-0-1-peralta-jadi-pembeda-di-babak-i",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Dunross And Co Borong Saham SPTO, Kini Jadi Pemegang Saham 5 Persen",
+      "url": "https://emitennews.com/news/dunross-and-co-borong-saham-spto-kini-jadi-pemegang-saham-5-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BTPN Syariah (BTPS) Toreh Laba Rp1,01 Triliun hingga Kuartal III 2026",
+      "url": "https://emitennews.com/news/btpn-syariah-btps-toreh-laba-rp101-triliun-hingga-kuartal-iii-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Dunross Tambah Porsi Saham SPTO, Kepercayaan Investor Asing Meningkat",
+      "url": "https://emitennews.com/news/dunross-tambah-porsi-saham-spto-kepercayaan-investor-asing-meningkat",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BEI Helat RUPSLB 28 Oktober, Bahas Demutualisasi hingga Wacana Dividen",
+      "url": "https://emitennews.com/news/bei-helat-rupslb-28-oktober-bahas-demutualisasi-hingga-wacana-dividen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Dua Tahun Prabowo di Pasar Modal: Perlu Reformasi Jilid 2",
+      "url": "https://emitennews.com/news/dua-tahun-prabowo-di-pasar-modal-perlu-reformasi-jilid-2",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Efek MSCI Meluas, BI Ungkap Asing Keluar dari Saham Hingga SBN & SRBI",
+      "url": "https://emitennews.com/news/efek-msci-meluas-bi-ungkap-asing-keluar-dari-saham-hingga-sbn-srbi",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Tutup Pekan di 5.439, Asing Net Sell Rp1,29T dari Saham-Saham Ini",
+      "url": "https://emitennews.com/news/ihsg-tutup-pekan-di-5439-asing-net-sell-rp129t-dari-saham-saham-ini",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "OCBC NISP Perkuat Bisnis Wealth Management, AUM Tembus Rp374 Triliun",
+      "url": "https://emitennews.com/news/ocbc-nisp-perkuat-bisnis-wealth-management-aum-tembus-rp374-triliun",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Pertamina Jamin Pasokan BBM Memadai di Tiap Daerah, Ini yang Dilakukan",
+      "url": "https://emitennews.com/news/pertamina-jamin-pasokan-bbm-memadai-di-tiap-daerah-ini-yang-dilakukan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pasokan Gas Dikurangi Sepihak RI, Ini Langkah yang Diambil Singapura",
+      "url": "https://emitennews.com/news/pasokan-gas-dikurangi-sepihak-ri-ini-langkah-yang-diambil-singapura",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Pidato Presiden Soal MSCI, Salah Membaca Masalah?",
+      "url": "https://emitennews.com/news/pidato-presiden-soal-msci-salah-membaca-masalah",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Protelindo Siap Setor Dividen Interim Sekitar Rp176 Miliar ke TOWR",
+      "url": "https://emitennews.com/news/protelindo-siap-setor-dividen-interim-sekitar-rp176-miliar-ke-towr",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Siap Right Issue, Emiten Haji Isam (PACK) Ini Gelar RUPSLB 30 November",
+      "url": "https://emitennews.com/news/pilih-right-issue-emiten-haji-isam-pack-gelar-rupslb-30-november",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Prancis Selamat dari Penurunan Peringkat Moody’s",
+      "url": "https://emitennews.com/news/prancis-selamat-dari-penurunan-peringkat-moodys",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Profitabilitas BMRI Menguat, Laba Naik 20,7% Jadi Rp45,5T di Q3 2026",
+      "url": "https://emitennews.com/news/profitabilitas-bmri-menguat-laba-naik-207-jadi-rp455t-di-q3-2026",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "PSSI Alihkan 172 Juta Saham Treasuri ke Pemegang Saham, Rasio 30:1",
+      "url": "https://emitennews.com/news/pssi-alihkan-172-juta-saham-treasuri-ke-pemegang-saham-rasio-301",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Yakup Hasibuan dan Jessica Mila Gelar Gender Reveal, Bakal Dikaruniai Anak Perempuan",
+      "url": "https://entertainment.kompas.com/read/2026/10/25/192224566/yakup-hasibuan-dan-jessica-mila-gelar-gender-reveal-bakal-dikaruniai",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Rupiah Diprediksi Tembus Rp 18.200 per Dollar AS Pekan Depan",
+      "url": "https://money.kompas.com/read/2026/10/25/192500826/rupiah-diprediksi-tembus-rp-18.200-per-dollar-as-pekan-depan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Sikapi Ancaman MSCI, Pemerintah Diminta Jaga Disiplin Komunikasi",
+      "url": "https://emitennews.com/news/sikapi-ancaman-msci-pemerintah-diminta-jaga-disiplin-komunikasi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Respons PM Singapura Usai Indonesia Pangkas Ekspor Gas Alam",
+      "url": "https://money.kompas.com/read/2026/10/25/193459226/respons-pm-singapura-usai-indonesia-pangkas-ekspor-gas-alam",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "WIKA Lepas Seluruh Saham Winner Senilai Rp641 Juta ke WIKA Recon",
+      "url": "https://emitennews.com/news/wika-lepas-seluruh-saham-winner-senilai-rp641-juta-ke-wika-recon",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Banjir di Tapsel Sumut Rusak Rumah dan Fasilitas Wisata, Kerugian Capai Rp 96 Juta",
+      "url": "https://medan.kompas.com/read/2026/10/25/192351578/banjir-di-tapsel-sumut-rusak-rumah-dan-fasilitas-wisata-kerugian-capai-rp-96",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "PDI-P soal Karhutla: Hutan Terbakar Tak Boleh Dijadikan Lahan Sawit",
+      "url": "https://nasional.kompas.com/read/2026/10/25/19200951/pdi-p-soal-karhutla-hutan-terbakar-tak-boleh-dijadikan-lahan-sawit",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Pemerintah Buka Lowongan Pengawal Energi 2026, Ini Link Daftarnya",
+      "url": "https://money.kompas.com/read/2026/10/25/191332826/pemerintah-buka-lowongan-pengawal-energi-2026-ini-link-daftarnya",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Pramono Sebut Jakarta Makin Berwarna Berkat Konser Musisi Dunia dan Ajang Internasional",
+      "url": "https://megapolitan.kompas.com/read/2026/10/25/19184841/pramono-sebut-jakarta-makin-berwarna-berkat-konser-musisi-dunia-dan-ajang",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Petani di Prabumulih Sumsel Temukan Anakan Lutung Kelabu, Diduga Terpisah dari Induk",
+      "url": "https://regional.kompas.com/read/2026/10/25/193925278/petani-di-prabumulih-sumsel-temukan-anakan-lutung-kelabu-diduga-terpisah",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Kebakaran Gunung Sumbing Padam, Gubernur Jateng Prioritaskan Reboisasi",
+      "url": "https://regional.kompas.com/read/2026/10/25/193115278/kebakaran-gunung-sumbing-padam-gubernur-jateng-prioritaskan-reboisasi",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Orangtua Kena Kanker, Apakah Anak Pasti Berisiko Mengalami Penyakit yang Sama?",
+      "url": "https://regional.kompas.com/read/2026/10/25/192900478/orangtua-kena-kanker-apakah-anak-pasti-berisiko-mengalami-penyakit-yang",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Lemhannas Ajak Pers Membangun Jurnalisme Kebangsaan, Apa Itu?",
+      "url": "https://nasional.kompas.com/read/2026/10/25/19533471/lemhannas-ajak-pers-membangun-jurnalisme-kebangsaan-apa-itu",
+      "sektor": "Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Diduga Tak Fokus karena Ambil Ponsel, Pengemudi di Batam Tewaskan Mahasiswi Politeknik Negeri Padang",
+      "url": "https://regional.kompas.com/read/2026/10/25/192916078/diduga-tak-fokus-karena-ambil-ponsel-pengemudi-di-batam-tewaskan-mahasiswi",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Oli Mesin Mobil Kurang atau Berlebih, Mana yang Lebih Berbahaya?",
+      "url": "https://otomotif.kompas.com/read/2026/10/25/191100215/oli-mesin-mobil-kurang-atau-berlebih-mana-yang-lebih-berbahaya-",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Kebakaran TPA Supit Urang Malang Diduga Berawal dari Pembakaran Lahan untuk Kebun Jeruk",
+      "url": "https://surabaya.kompas.com/read/2026/10/25/192634078/kebakaran-tpa-supit-urang-malang-diduga-berawal-dari-pembakaran-lahan-untuk",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Hujan Deras Padamkan Karhutla Gunung Arjuno-Welirang, Patroli Tetap Dilakukan",
+      "url": "https://surabaya.kompas.com/read/2026/10/25/193502978/hujan-deras-padamkan-karhutla-gunung-arjuno-welirang-patroli-tetap",
+      "sektor": "Keuangan, Energi"
+    }
+  ]
+}
