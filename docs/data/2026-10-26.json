@@ -1,0 +1,207 @@
+{
+  "tanggal": "2026-10-26",
+  "dibuat_pada": "2026-10-26 21:52 WIB",
+  "jumlah_artikel": 28,
+  "saham_disebut": {
+    "BREN": [
+      "Energi (rating 6/7)"
+    ],
+    "OKAS": [
+      "Energi (rating 6/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "SSIA": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "BACH": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "KIJA": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "PTRO": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Otoritas Jasa Keuangan (OJK) dan Bursa Efek Indonesia (BEI) mengambil langkah proaktif untuk memperkuat integritas pasar modal melalui penindakan perdagangan saham tidak wajar dan eksklusi saham dengan konsentrasi kepemilikan tinggi dari perhitungan IHSG.",
+      "alasan": "Kebijakan OJK dan BEI ini secara signifikan meningkatkan kepercayaan investor dan transparansi pasar, yang merupakan fondasi penting bagi stabilitas dan pertumbuhan sektor keuangan. Lingkungan pasar yang lebih sehat dan terpercaya cenderung menarik partisipasi investor yang lebih besar, menguntungkan lembaga keuangan seperti bank, perusahaan sekuritas, dan manajer investasi.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini tidak menyajikan informasi spesifik yang secara langsung memengaruhi sektor Teknologi di Bursa Efek Indonesia.",
+      "alasan": "Berita yang tersedia lebih banyak berfokus pada sektor properti, energi, dan transportasi, serta peluncuran produk otomotif listrik dari perusahaan non-IDX. Tidak ada sentimen positif atau negatif yang jelas dari berita-berita tersebut yang dapat mendorong pergerakan indeks sektor teknologi secara keseluruhan di BEI.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Barito Renewables Energy (BREN) berhasil meningkatkan kapasitas pembangkit listrik panas bumi, sementara Ancora Indonesia (OKAS) mengamankan kontrak baru jasa pertambangan.",
+      "alasan": "Peningkatan kapasitas energi terbarukan oleh BREN menunjukkan pertumbuhan dan efisiensi dalam sub-sektor energi bersih, yang merupakan katalis positif bagi investasi di sektor ini. Selain itu, kontrak baru untuk jasa pertambangan dari OKAS menandakan aktivitas yang berkelanjutan di rantai pasok sumber daya, turut mendukung ekosistem sektor energi secara luas.",
+      "analisis_saham": "BREN (Barito Renewables Energy Tbk): Berita rampungnya retrofit PLTP Darajat Unit 3 yang meningkatkan kapasitas menjadi 130,55 MW adalah sentimen sangat positif, menunjukkan ekspansi dan efisiensi operasional yang berpotensi mendorong kenaikan harga saham. OKAS (Ancora Indonesia Resources Tbk): Meskipun pendapatan stagnan, pengumuman kontrak baru jasa peledakan tambang senilai USD67 juta hingga 2029-2030 memberikan prospek pendapatan yang stabil dan berkelanjutan di masa depan, yang positif untuk keberlanjutan bisnisnya."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Pemerintah memberikan stimulus transportasi untuk libur akhir tahun, sementara beberapa emiten di sektor ini memperkuat fokus pada bisnis infrastruktur.",
+      "alasan": "Stimulus transportasi pemerintah akan mendorong aktivitas dan permintaan terhadap layanan infrastruktur transportasi, seperti pelabuhan, bandara, dan jalan tol, yang berpotensi meningkatkan pendapatan perusahaan terkait. Selain itu, strategi emiten seperti KIJA untuk menopang pendapatan dari bisnis infrastruktur menunjukkan prospek pertumbuhan jangka panjang yang positif di sektor ini.",
+      "analisis_saham": "OKAS**: Pendapatan Ancora Indonesia (OKAS) turun tipis, menunjukkan sedikit perlambatan kinerja keuangan yang mungkin berdampak negatif pada sentimen investor terhadap saham ini."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "BREN Rampungkan Retrofit PLPT Darajat, Target 1 GW Makin Dekat",
+      "url": "https://emitennews.com/news/bren-rampungkan-retrofit-plpt-darajat-target-1-gw-makin-dekat",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BYD Seal 7 Generasi Terbaru Sudah Bisa Dipesan, Dibuka Opsi PHEV",
+      "url": "https://emitennews.com/news/byd-seal-7-terbaru-sudah-bisa-dipesan-dibuka-opsi-phev",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Ancora Indonesia (OKAS) Raih Pendapatan USD121,48 Juta, Turun Tipis",
+      "url": "https://emitennews.com/news/ancora-indonesia-okas-raih-pendapatan-usd12148-juta-turun-tipis",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bangun Ekosistem Lengkap Kota Mandiri, Begini Strategi Paramount Land",
+      "url": "https://emitennews.com/news/bangun-ekosistem-lengkap-kota-mandiri-begini-strategi-paramount-land",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Cuan! Surya Semesta (SSIA) Persilakan Karyawan Beli Saham Diskon",
+      "url": "https://emitennews.com/news/cuan-surya-semesta-ssia-persilakan-karyawan-beli-saham-diskon",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Awas! OJK Siap Bawa Kasus Perdagangan Saham tidak Wajar ke Pengadilan",
+      "url": "https://emitennews.com/news/awas-ojk-siap-bawa-kasus-perdagangan-saham-tidak-wajar-ke-pengadilan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Eksklusi Saham HSC per 2 November, BEI Ungkap Efeknya ke Bobot IHSG",
+      "url": "https://emitennews.com/news/eksklusi-saham-hsc-per-2-november-bei-ungkap-efeknya-ke-bobot-ihsg",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Rebound 4,9% Sepekan, Sudah Balik Arah atau Rawan? Awasi Kuncinya",
+      "url": "https://emitennews.com/news/ihsg-rebound-49-sepekan-sudah-balik-arah-atau-rawan-awasi-kuncinya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Emiten Gita Wirjawan Cetak Revenue Stagnan, Kontrak Baru Jadi Andalan",
+      "url": "https://emitennews.com/news/emiten-gita-wirjawan-cetak-revenue-stagnan-kontrak-baru-jadi-andalan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Rontok ke Bawah Level 5.400, TMPO Top Gainer, VKTR Turun Terdalam",
+      "url": "https://emitennews.com/news/ihsg-rontok-ke-bawah-level-5400-tmpo-top-gainer-vktr-turun-terdalam",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Siang (26/10) Tertekan, Asing Net Sell Rp1,14T di Saham Big Bank",
+      "url": "https://emitennews.com/news/ihsg-siang-2610-tertekan-asing-net-sell-rp114t-di-saham-big-bank",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Siang (26/10) Tertekan ke Bawah Level 5.400, Anjlok 1% ke 5.384",
+      "url": "https://emitennews.com/news/ihsg-siang-2610-tertekan-ke-bawah-level-5400-anjlok-1-ke-5384",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kapitalisasi Terus Merosot Sejak IPO, BACH Tambah Utang Jadi Rp350M",
+      "url": "https://emitennews.com/news/kapitalisasi-terus-merosot-sejak-ipo-bach-tambah-utang-jadi-rp350m",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "KIJA Andalkan Bisnis Infrastruktur, Dukung Pertumbuhan Jangka Panjang",
+      "url": "https://emitennews.com/news/kija-andalkan-bisnis-infrastruktur-dukung-pertumbuhan-jangka-panjang",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "KPK Usul Aset Pejabat yang tidak Dilaporkan ke LHKPN Bisa Disita",
+      "url": "https://emitennews.com/news/kpk-usul-aset-pejabat-yang-tidak-dilaporkan-ke-lhkpn-bisa-disita",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kucurkan Kredit Rp40T, BMRI Beberkan Sumber Bayar dan Jaminan Jhonlin",
+      "url": "https://emitennews.com/news/kucurkan-kredit-rp40t-bmri-beberkan-sumber-bayar-dan-jaminan-jhonlin",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Laba Jaya Sukses (RISE) Melonjak, Sektor Ini Penyumbang Terbesar",
+      "url": "https://emitennews.com/news/laba-jaya-sukses-rise-melonjak-sektor-ini-penyumbang-terbesar",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "MBSS Raih Kontrak Angkut 500.000 MT Material per Bulan Selama 5 Tahun",
+      "url": "https://emitennews.com/news/mbss-raih-kontrak-angkut-500000-mt-material-per-bulan-selama-5-tahun",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Media Singapura Beritakan Indonesia Bela Diri Kurangi Ekspor Gas",
+      "url": "https://emitennews.com/news/media-singapura-beritakan-indonesia-bela-diri-kurangi-ekspor-gas",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "PSKT Umumkan Rencana Buyback Rp5 Miliar, Mulai Besok hingga 2027",
+      "url": "https://emitennews.com/news/pskt-umumkan-rencana-buyback-rp5-miliar-mulai-besok-hingga-2027",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "OJK Tanggapi Usulan Dasco Bikin Rating Pasar Modal Sendiri",
+      "url": "https://emitennews.com/news/ojk-tanggapi-usulan-dasco-bikin-rating-pasar-modal-sendiri",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Pacu Transformasi, PP Properti Rombak Susunan Direksi",
+      "url": "https://emitennews.com/news/pacu-transformasi-pp-properti-rombak-susunan-direksi",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Pengendali PART Borong 1,88 Juta Saham Jelang Aksi Korporasi Besar Ini",
+      "url": "https://emitennews.com/news/pengendali-part-borong-188-juta-saham-jelang-aksi-korporasi-besar-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Per November, BEI Terapkan Kebijakan Pengganti Suspensi dan UMA Saham",
+      "url": "https://emitennews.com/news/per-november-bei-terapkan-kebijakan-pengganti-suspensi-dan-uma-saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "PTRO Ungkap Transaksi Afiliasi, Ada Jual Beli Kapal Rp5,46 Miliar",
+      "url": "https://emitennews.com/news/ptro-ungkap-transaksi-afiliasi-ada-jual-beli-kapal-rp546-miliar",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Siapkan Libur Akhir Tahun, Pemerintah Berikan Stimulus Transportasi",
+      "url": "https://emitennews.com/news/siapkan-libur-akhir-tahun-pemerintah-berikan-stimulus-transportasi",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Singapura Luncurkan Program Energi Lima Tahun, Singgung Gas Indonesia",
+      "url": "https://emitennews.com/news/singapura-luncurkan-program-energi-lima-tahun-singgung-gas-indonesia",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Singapura Naikkan Usia Pensiun Menjadi 65 Tahun",
+      "url": "https://emitennews.com/news/singapura-naikkan-usia-pensiun-menjadi-65-tahun",
+      "sektor": "Keuangan"
+    }
+  ]
+}
