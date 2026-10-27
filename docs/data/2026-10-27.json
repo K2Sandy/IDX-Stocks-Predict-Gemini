@@ -1,0 +1,194 @@
+{
+  "tanggal": "2026-10-27",
+  "dibuat_pada": "2026-10-27 20:58 WIB",
+  "jumlah_artikel": 27,
+  "saham_disebut": {
+    "BBNI": [
+      "Keuangan (rating 5/7)"
+    ],
+    "TLKM": [
+      "Teknologi (rating 6/7)",
+      "Infrastruktur (rating 5/7)"
+    ],
+    "ELSA": [
+      "Energi (rating 5/7)",
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bank BNI (BBNI) mencatat kinerja keuangan yang sangat positif dengan laba operasional sebelum pencadangan tertinggi dalam sejarah dan pertumbuhan laba bersih yang solid, meskipun ada tekanan jual asing pada bank-bank besar.",
+      "alasan": "Kinerja kuat dari salah satu bank terbesar seperti BBNI memberikan sentimen positif yang signifikan bagi sub-sektor perbankan dan sektor keuangan secara keseluruhan, menunjukkan ketahanan dan potensi pertumbuhan. Meskipun ada tekanan jual asing terhadap bank-bank besar, hasil fundamental BBNI yang positif dapat menjadi katalis yang menopang sektor ini dari potensi penurunan yang lebih dalam.",
+      "analisis_saham": "Terdapat dua berita yang sangat positif mengenai PT Bank Negara Indonesia (Persero) Tbk (BBNI), melaporkan laba operasional sebelum pencadangan tertinggi dalam sejarah serta pertumbuhan laba bersih yang solid sebesar 6,6% di Q3 2026. Sentimen ini sangat positif dan berpotensi mendorong kenaikan harga saham BBNI pada perdagangan berikutnya, karena menunjukkan fundamental perseroan yang kuat dan kemampuan menghasilkan profitabilitas di tengah dinamika ekonomi."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "TelkomGroup meluncurkan pengembangan Sovereign Digital Technology yang mencakup AI Ready Data Center, AI ModelHub, National IoT Platform, dan PaDiSera.",
+      "alasan": "Berita positif dari TelkomGroup, salah satu pemain besar di sektor teknologi, mengenai pengembangan kapabilitas digital strategis akan menciptakan sentimen positif. Inisiatif ini menandakan investasi dan inovasi berkelanjutan di area AI dan IoT, yang berpotensi menarik perhatian investor ke saham-saham teknologi yang berorientasi pertumbuhan.",
+      "analisis_saham": "TLKM: Peluncuran Sovereign Digital Technology ini adalah katalis positif bagi TLKM. Inisiatif ini menunjukkan komitmen perseroan dalam mengembangkan kapabilitas teknologi masa depan seperti AI dan IoT, yang dapat mendukung pertumbuhan pendapatan jangka panjang dan memperkuat posisi perusahaan di era ekonomi digital. Hal ini berpotensi meningkatkan kepercayaan investor dan mendorong kenaikan harga saham TLKM."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "PT Elnusa Tbk (ELSA) terus memperkuat kontribusinya dalam mendukung produktivitas migas dan ketahanan energi nasional melalui inovasi dan kolaborasi industri.",
+      "alasan": "Berita ini menunjukkan komitmen kuat dari ELSA, sebagai bagian dari Subholding Upstream Pertamina, dalam menjaga ketahanan energi nasional dan produktivitas migas. Hal ini dapat memberikan sentimen positif bagi sub-sektor minyak dan gas, menandakan aktivitas operasional yang stabil dan strategis di tengah upaya menjaga pasokan energi.",
+      "analisis_saham": "ELSA: PT Elnusa Tbk (ELSA) menunjukkan komitmen untuk memperkuat kontribusinya pada ketahanan energi melalui inovasi dan kolaborasi. Sentimen ini positif karena menandakan keberlanjutan proyek dan layanan dalam sektor migas, berpotensi mendukung kinerja operasional dan keuangan perusahaan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pengembangan teknologi digital oleh Telkom dan penguatan kontribusi ketahanan energi oleh Elnusa menjadi sentimen positif di sektor infrastruktur.",
+      "alasan": "Inovasi dan investasi strategis yang dilakukan oleh pemain besar di sub-sektor telekomunikasi (digital) dan energi menunjukkan komitmen terhadap pertumbuhan dan efisiensi. Hal ini memberikan sentimen positif yang berpotensi mendorong kenaikan indeks sektor secara keseluruhan.",
+      "analisis_saham": "TLKM: Peluncuran Sovereign Digital Technology, termasuk AI Ready Data Center dan National IoT Platform, merupakan katalis positif kuat bagi TLKM. Ini menunjukkan komitmen perusahaan dalam mengembangkan infrastruktur digital masa depan dan berpotensi menarik minat investor."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "BEI Rombak Penghuni Indeks LQ45, IDX30, IDX80, dan Depak Saham HSC",
+      "url": "https://emitennews.com/news/bei-rombak-penghuni-indeks-lq45-idx30-idx80-dan-depak-saham-hsc",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Bidik Pasar Eskpor, INAF Teliti Kratom untuk Tingkatkan Nilai Tambah",
+      "url": "https://emitennews.com/news/bidik-pasar-eskpor-inaf-teliti-kratom-untuk-tingkatkan-nilai-tambah",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Di DTIIF, Telkom Luncurkan Pengembangan Sovereign Digital Technology",
+      "url": "https://emitennews.com/news/di-dtiif-telkom-luncurkan-pengembangan-sovereign-digital-technology",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BNI Catat Laba Operasional Sebelum Pencadangan Tertinggi dalam Sejarah",
+      "url": "https://emitennews.com/news/bni-catat-laba-operasional-sebelum-pencadangan-tertinggi-dalam-sejarah",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Big Banks Jadi Sasaran Jual Asing, Net Sell Rp578,3M di Sesi I (27/10)",
+      "url": "https://emitennews.com/news/big-banks-jadi-sasaran-jual-asing-net-sell-rp5783m-di-sesi-i-2710",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BBNI Raup Laba Rp16,12 Triliun, Tumbuh 6,6 Persen di Q3 2026",
+      "url": "https://emitennews.com/news/bbni-raup-laba-rp1612-triliun-tumbuh-66-persen-di-q3-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Ditopang XPeng, ERAL Raup Laba Rp193,8M & Sales Rp6,21T Hingga Q3 2026",
+      "url": "https://emitennews.com/news/ditopang-xpeng-eral-raup-laba-rp1938m-sales-rp621t-hingga-q3-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "ELSA Perkuat Kontribusi Ketahanan Energi Lewat Inovasi Industri",
+      "url": "https://emitennews.com/news/elsa-perkuat-kontribusi-ketahanan-energi-lewat-inovasi-industri",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IMPC Raup Laba Bersih Rp640 Miliar, Lampaui Capaian 2025",
+      "url": "https://emitennews.com/news/impc-raup-laba-bersih-rp640-miliar-lampaui-capaian-2025",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Lanjutkan Penurunan ke 5.266,13, Big Banks Jadi Pemberat Utama",
+      "url": "https://emitennews.com/news/ihsg-lanjutkan-penurunan-ke-526613-big-banks-jadi-pemberat-utama",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Kasus Suap HGB Summarecon Agung, MAKI Desak KPK Jemput Paksa Nusron",
+      "url": "https://emitennews.com/news/kasus-suap-hgb-summarecon-agung-maki-desak-kpk-jemput-paksa-nusron",
+      "sektor": "Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kredit Tumbuh 12,6 Persen, BBCA Kemas Laba Rp45,2 Triliun di Q326",
+      "url": "https://emitennews.com/news/kredit-tumbuh-126-persen-bbca-kemas-laba-rp452-triliun-di-q326",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Laba Wilmar (CEKA) Tumbuh 52,26 Persen Hingga Kuartal III-2026",
+      "url": "https://emitennews.com/news/laba-wilmar-ceka-tumbuh-5226-persen-hingga-kuartal-iii-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Melejit 14,7 Persen, AUTO Raup Laba Rp1,80 Triliun",
+      "url": "https://emitennews.com/news/melejit-147-persen-auto-raup-laba-rp180-triliun",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Outflow Deras Imbas MSCI, Kepercayaan Investor Masih Jadi Tantangan",
+      "url": "https://emitennews.com/news/outflow-deras-imbas-msci-kepercayaan-investor-masih-jadi-tantangan",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Pendapatan Lautan Luas (LTLS) Rp8,2T, Laba Bersih Meningkat 63,1%",
+      "url": "https://emitennews.com/news/pendapatan-lautan-luas-ltls-rp82t-laba-bersih-meningkat-631",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Penjualan Tembus Rp87,51 Triliun, Laba HMSP Naik 44,35% Hingga Q3 2026",
+      "url": "https://emitennews.com/news/penjualan-tembus-rp8751-triliun-laba-hmsp-naik-4435-hingga-q3-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Raih Persetujuan PMTHMETD, Begini Rencana Besar Ultra Voucher (UVCR)",
+      "url": "https://emitennews.com/news/raih-persetujuan-pmthmetd-begini-rencana-besar-ultra-voucher-uvcr",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Raup USD25,09 Juta, Laba Emiten Hapsoro Terbang 113,21% di Q3 2026",
+      "url": "https://emitennews.com/news/raup-usd2509-juta-laba-emiten-hapsoro-terbang-11321-di-q3-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Sempat Dibuka Tertekan, IHSG Berbalik Naik ke Atas Level 5.400",
+      "url": "https://emitennews.com/news/sempat-dibuka-tertekan-ihsg-berbalik-naik-ke-atas-level-5400",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Revisi Evaluasi Indeks, BEI Depak CUAN dari LQ45 dan IDX80",
+      "url": "https://emitennews.com/news/revisi-evaluasi-indeks-bei-depak-cuan-dari-lq45-dan-idx80",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Revisi Perpres 26/2026, Pemerintah akan Impor Crude dari Banyak Negara",
+      "url": "https://emitennews.com/news/revisi-perpres-262026-pemerintah-akan-impor-crude-dari-banyak-negara",
+      "sektor": "Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Saham HSC Resmi Didepak dari IHSG, BEI Jamin Market Cap Tidak Berubah",
+      "url": "https://emitennews.com/news/saham-hsc-resmi-didepak-dari-ihsg-bei-jamin-market-cap-tidak-berubah",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Suspensi Jilid II, BEI Suspensi Lagi Perdagangan Saham Emiten MNC Ini",
+      "url": "https://emitennews.com/news/suspensi-jilid-ii-bei-suspensi-lagi-perdagangan-saham-emiten-mnc-ini",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Transaksi LCT Meningkat, Gubernur BI Ungkap China Kontributor Utama",
+      "url": "https://emitennews.com/news/transaksi-lct-meningkat-gubernur-bi-ungkap-china-kontributor-utama",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Volatil, IHSG Sesi I (27/10) Loyo 0,32% ke 5.355",
+      "url": "https://emitennews.com/news/volatil-ihsg-sesi-i-2710-loyo-032-ke-5355",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Volatilitas Transaksi Efek Disorot BEI, Ini Jawaban Emiten Hapsoro",
+      "url": "https://emitennews.com/news/volatilitas-transaksi-efek-disorot-bei-ini-jawaban-emiten-hapsoro",
+      "sektor": "Keuangan, Teknologi, Energi"
+    }
+  ]
+}
