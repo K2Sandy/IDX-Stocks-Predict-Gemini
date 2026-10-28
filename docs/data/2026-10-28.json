@@ -1,0 +1,287 @@
+{
+  "tanggal": "2026-10-28",
+  "dibuat_pada": "2026-10-28 21:51 WIB",
+  "jumlah_artikel": 46,
+  "saham_disebut": {
+    "AALI": [
+      "Energi (rating 5/7)"
+    ],
+    "FORE": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "BEI memangkas target IPO 2026 secara signifikan, mengindikasikan perlambatan aktivitas pasar modal, meskipun ada optimisme terhadap stabilitas rupiah dan peningkatan diversifikasi investasi.",
+      "alasan": "Pemangkasan target IPO BEI dari 50 menjadi hanya 15 perusahaan merupakan sinyal negatif yang kuat untuk aktivitas pasar modal, berpotensi mengurangi pendapatan dari layanan penjaminan emisi dan brokerage. Meskipun optimisme terhadap stabilitas nilai tukar rupiah dan tren peningkatan diversifikasi investasi di kalangan ritel memberikan sentimen positif, dampak langsung dari perlambatan IPO cenderung lebih menekan sektor ini secara keseluruhan dalam jangka pendek.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Platform investasi teknologi Ajaib mencatat peningkatan pola diversifikasi investor Indonesia menuju multi-aset.",
+      "alasan": "Berita ini menunjukkan tren positif dalam adopsi teknologi finansial (FinTech) oleh investor Indonesia, dengan semakin banyaknya pengguna yang mendiversifikasi portofolio melalui platform digital. Hal ini mengindikasikan potensi pertumbuhan bagi perusahaan teknologi yang menyediakan layanan serupa atau mendukung ekosistem investasi digital.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pemerintah Bali menjajaki kerja sama di sektor energi hijau, sementara di Pangandaran muncul keluhan terkait sulitnya akses bahan bakar minyak (BBM).",
+      "alasan": "Sentimen positif datang dari potensi pengembangan energi hijau melalui kerja sama Bali dengan Ningxia China, yang mengindikasikan arah pertumbuhan sub-sektor energi terbarukan. Meskipun ada keluhan akses BBM di daerah, hal ini lebih menyoroti tantangan distribusi dan infrastruktur daripada penurunan fundamental sektor energi secara keseluruhan, dan bahkan bisa menjadi peluang investasi.",
+      "analisis_saham": "PT Astra Agro Lestari Tbk (AALI) membukukan laba bersih yang meroket 78,02 persen menjadi Rp1,91 triliun di Q3 2026. Kinerja keuangan yang sangat kuat ini diperkirakan akan memberikan sentimen positif yang signifikan terhadap harga saham AALI secara individual. Meskipun AALI tidak diklasifikasikan dalam sektor Energi di BEI (melainkan Agrikultur/Plantation), pertumbuhan laba ini menunjukkan fundamental perusahaan yang kuat."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Berbagai inisiatif dan kebutuhan infrastruktur baru muncul dari sektor energi hijau, hulu migas, hingga perbaikan layanan publik.",
+      "alasan": "Prospek kerja sama energi hijau di Bali dan target lifting SKK Migas berpotensi mendorong investasi pada infrastruktur terkait. Keluhan warga Pangandaran juga mengindikasikan adanya kebutuhan mendesak untuk perbaikan jalan dan penerangan, yang dapat memicu proyek infrastruktur di masa mendatang.",
+      "analisis_saham": "PT Fore Kopi Indonesia Tbk (FORE) mengalami insiden pembobolan data pelanggan yang berdampak pada sekitar 5,7 juta akun. Sentimen ini sangat negatif bagi saham FORE karena dapat merusak kepercayaan pelanggan dan berpotensi menimbulkan biaya mitigasi serta denda regulasi."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pembubaran demo di Jakarta dan normalisasi layanan transportasi menunjukkan stabilitas internal yang mendukung iklim bisnis lokal.",
+      "alasan": "Berita terkait pembubaran demonstrasi di ibu kota dan kembalinya operasional Transjakarta ke kondisi normal menghilangkan potensi gangguan aktivitas ekonomi lokal. Hal ini memberikan sentimen positif kecil terhadap stabilitas sosial dan kelancaran bisnis, meski tidak ada katalis makroekonomi yang kuat. Berita internasional dan kriminal lainnya memiliki dampak yang sangat minimal terhadap sektor umum/makro Indonesia.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Persib Cueki Status Grup Neraka ACL 2: 3 Kemenangan, Nirbobol, Puncak Klasemen",
+      "url": "https://bola.kompas.com/read/2026/10/28/21432528/persib-cueki-status-grup-neraka-acl-2-3-kemenangan-nirbobol-puncak-klasemen",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Klasemen ACL 2 2026-2027 Usai Persib Tekuk Melbourne Victory 2-0",
+      "url": "https://bola.kompas.com/read/2026/10/28/21153778/klasemen-acl-2-2026-2027-usai-persib-tekuk-melbourne-victory-2-0",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Hasil Persib Vs Melbourne Victory 2-0: Balsa Sekulic Jadi Bintang Usai Catat Brace",
+      "url": "https://bola.kompas.com/read/2026/10/28/21090118/hasil-persib-vs-melbourne-victory-2-0-balsa-sekulic-jadi-bintang-usai-catat",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Warga Pangandaran Unjuk Rasa, Keluhkan Akses BBM dan Jarak SPBU 60 Kilometer",
+      "url": "https://bandung.kompas.com/read/2026/10/28/213041678/warga-pangandaran-unjuk-rasa-keluhkan-akses-bbm-dan-jarak-spbu-60-kilometer",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "AALI Panen Laba Bersih Rp1,9 Triliun, Tumbuh 78 Persen di Q3 2026",
+      "url": "https://emitennews.com/news/aali-panen-laba-bersih-rp19-triliun-tumbuh-78-persen-di-q3-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Airlangga Optimistis Rupiah tak Tembus Rp19.000/USD, Begini Alasannya",
+      "url": "https://emitennews.com/news/airlangga-optimistis-rupiah-tak-tembus-rp19000usd-begini-alasannya",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Ajaib Ungkap Pola Diversifikasi Investor Indonesia",
+      "url": "https://emitennews.com/news/ajaib-ungkap-pola-diversifikasi-investor-indonesia",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bali Jajaki Kerja Sama Energi Hijau dan Pariwisata dengan Ningxia China",
+      "url": "https://denpasar.kompas.com/read/2026/10/28/211654778/bali-jajaki-kerja-sama-energi-hijau-dan-pariwisata-dengan-ningxia-china",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Baru Tujuh yang Melantai, BEI Pangkas Target IPO 2026 Jadi 15 Saham",
+      "url": "https://emitennews.com/news/baru-tujuh-yang-melantai-bei-pangkas-target-ipo-2026-jadi-15-saham",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "BEI Belum Bahas Danantara Jadi Pemegang Saham",
+      "url": "https://emitennews.com/news/bei-belum-bahas-danantara-jadi-pemegang-saham",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Bisnis Biodiesel H. Isam Melejit, Laba Bersih JARR Melonjak 55,9%",
+      "url": "https://emitennews.com/news/bisnis-biodiesel-h-isam-melejit-laba-bersih-jarr-melonjak-559",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bursa Bicara Target 2027: 25 IPO, Capex Rp670M, & Proyeksi Keuangan",
+      "url": "https://emitennews.com/news/bursa-bicara-target-2027-25-ipo-capex-rp670m-proyeksi-keuangan",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "CIMB Niaga (BNGA) Ungkap Perolehan Keuangan 9 Bulan Pertama 2026",
+      "url": "https://emitennews.com/news/cimb-niaga-bnga-ungkap-perolehan-keuangan-9-bulan-pertama-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Data 5,7 Juta Akun Pelanggan Dibobol, FORE Minta Maaf dan Lakukan Ini",
+      "url": "https://emitennews.com/news/data-57-juta-akun-pelanggan-dibobol-fore-minta-maaf-dan-lakukan-ini",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "ENRG Targetkan Investasi di Emiten NASDAQ HighPeak Rampung Akhir 2026",
+      "url": "https://emitennews.com/news/enrg-targetkan-investasi-di-emiten-nasdaq-highpeak-rampung-akhir-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Disokong 3 Lini Bisnis, Elnusa (ELSA) Raih Laba Bersih Rp681,5 Miliar",
+      "url": "https://emitennews.com/news/disokong-3-lini-bisnis-elnusa-elsa-raih-laba-bersih-rp6815-miliar",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Hingga September 2026, Penjualan Energi Mega (ENRG) Capai USD426 Juta",
+      "url": "https://emitennews.com/news/hingga-september-2026-penjualan-energi-mega-enrg-capai-usd426-juta",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Berbalik Menguat ke 5.282,31, BBCA Teraktif Harga Melesat 7,66%",
+      "url": "https://emitennews.com/news/ihsg-berbalik-menguat-ke-528231-bbca-teraktif-harga-melesat-766",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IHSG Siang Ini Anjlok 1,65%, Meski Net Sell Asing Cuma Rp166,73 Miliar",
+      "url": "https://emitennews.com/news/ihsg-siang-ini-anjlok-165-meski-net-sell-asing-cuma-rp16673-miliar",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Kurangi Porsi Sang Komut Tetap Pengendali Saham Atlantis Subsea (ATLA)",
+      "url": "https://emitennews.com/news/kurangi-porsi-sang-komut-tetap-pengendali-saham-atlantis-subsea-atla",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Japfa (JPFA) Tabur Dividen Rp1,05 Triliun, Cair 12 November 2026!",
+      "url": "https://emitennews.com/news/japfa-jpfa-tabur-dividen-rp105-triliun-cair-12-november-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kejar Target Lifting 2027, SKK Migas Siapkan Strategi Produksi Minyak",
+      "url": "https://emitennews.com/news/kejar-target-lifting-2027-skk-migas-siapkan-strategi-produksi-minyak",
+      "sektor": "Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Laba Indosat (ISAT) Melesat 37,2% Jadi Rp4,92 Triliun Hingga Q3 2026",
+      "url": "https://emitennews.com/news/laba-indosat-isat-melesat-372-jadi-rp492-triliun-hingga-q3-2026",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pendapatan Alfamidi (MIDI) Tumbuh 9 Persen, Laba Tembus Rp705 Miliar",
+      "url": "https://emitennews.com/news/pendapatan-alfamidi-midi-tumbuh-9-persen-laba-tembus-rp705-miliar",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Masih Tertekan, TRUK Kantongi Rugi Bersih Rp3,59 Miliar di Q3 2026",
+      "url": "https://emitennews.com/news/masih-tertekan-truk-kantongi-rugi-bersih-rp359-miliar-di-q3-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Masuk UMA, Saham Ini Dipantau BEI Akibat Pola Transaksi Tak Wajar",
+      "url": "https://emitennews.com/news/masuk-uma-saham-ini-dipantau-bei-akibat-pola-transaksi-tak-wajar",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Omzet Produk UMKM Jaringan Toko Kelontong SRC Capai Rp12,9 Triliun",
+      "url": "https://emitennews.com/news/omzet-produk-umkm-jaringan-toko-kelontong-src-capai-rp129-triliun",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Pendapatan Q3-2026 Jasa Armada (IPCM) Tembus Rp1,15 Triliun",
+      "url": "https://emitennews.com/news/pendapatan-q3-2026-jasa-armada-ipcm-tembus-rp115-triliun",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "RUPSLB BEI Setujui Demutualisasi dan Dividen Khusus Rp1,564 Triliun",
+      "url": "https://emitennews.com/news/rupslb-bei-setujui-demutualisasi-dan-dividen-khusus-rp1564-triliun",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Presiden Israel Buka Suara, Minta Pemilu Ulang Dihindari meski Tak Ada Pemenang",
+      "url": "https://internasional.kompas.com/read/2026/10/28/211925070/presiden-israel-buka-suara-minta-pemilu-ulang-dihindari-meski-tak-ada",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Sampah Menumpuk di Takalar Sulsel meski Diangkut Tiap Hari, Petugas Duga Ada Kiriman dari Luar Daerah",
+      "url": "https://makassar.kompas.com/read/2026/10/28/214500878/sampah-menumpuk-di-takalar-sulsel-meski-diangkut-tiap-hari-petugas-duga-ada",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "SMSM Raih Dividen Nyaris Rp3M dari Entitas Anak Tokyo Radiator Selamat",
+      "url": "https://emitennews.com/news/smsm-raih-dividen-nyaris-rp3m-dari-entitas-anak-tokyo-radiator-selamat",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Selain BSI, Banpres Rp 3 Juta untuk UMKM Juga Disalurkan Lewat Bank Aceh",
+      "url": "https://nasional.kompas.com/read/2026/10/28/21083721/selain-bsi-banpres-rp-3-juta-untuk-umkm-juga-disalurkan-lewat-bank-aceh",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Mendagri Siapkan Insentif Rp 1 Triliun untuk Daerah yang Sukseskan MBG",
+      "url": "https://nasional.kompas.com/read/2026/10/28/21150021/mendagri-siapkan-insentif-rp-1-triliun-untuk-daerah-yang-sukseskan-mbg",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Segmen IT Kerek Laba 46%, Astragraphia (ASGR) Bungkus Profit 2 Digit",
+      "url": "https://emitennews.com/news/segmen-it-kerek-laba-46-astragraphia-asgr-bungkus-profit-2-digit",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Tujuan Ekspor, RI Bidik Kesepakatan Dagang dengan AS USD33 Miliar",
+      "url": "https://emitennews.com/news/tujuan-ekspor-ri-bidik-kesepakatan-dagang-dengan-as-usd33-miliar",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Menkomdigi Meutya Hafid: Tanggung Jawab Kita Hadirkan Informasi yang Benar dan Bermanfaat",
+      "url": "https://nasional.kompas.com/read/2026/10/28/21201791/menkomdigi-meutya-hafid-tanggung-jawab-kita-hadirkan-informasi-yang-benar",
+      "sektor": "Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tawuran Antarwarga Pecah di Jembatan Lalove Palu: 1 Orang Tewas, 440 Personel Disiagakan",
+      "url": "https://regional.kompas.com/read/2026/10/28/211908578/tawuran-antarwarga-pecah-di-jembatan-lalove-palu-1-orang-tewas-440-personel",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Massa Demo di Solo Sudah Bubar, Muncul Kelompok Berpakaian Hitam Bakar Ban di Ngarsopuro",
+      "url": "https://regional.kompas.com/read/2026/10/28/214622378/massa-demo-di-solo-sudah-bubar-muncul-kelompok-berpakaian-hitam-bakar-ban",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Hujan Deras Guyur Blitar, BMKG Tegaskan Musim Hujan Belum Tiba",
+      "url": "https://surabaya.kompas.com/read/2026/10/28/211024678/hujan-deras-guyur-blitar-bmkg-tegaskan-musim-hujan-belum-tiba",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Proyek BRT di Medan Bikin Macet, Rico Minta Maaf",
+      "url": "https://medan.kompas.com/read/2026/10/28/210919778/proyek-brt-di-medan-bikin-macet-rico-minta-maaf",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Demo di Bundaran HI Bubar, Seluruh Rute Bus Transjakarta Kembali Normal",
+      "url": "https://megapolitan.kompas.com/read/2026/10/28/21354451/demo-di-bundaran-hi-bubar-seluruh-rute-bus-transjakarta-kembali-normal",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Polisi Bongkar Dugaan Penyelewengan Solar Subsidi di Lampung Selatan, 8.400 Liter Disita",
+      "url": "https://regional.kompas.com/read/2026/10/28/210932278/polisi-bongkar-dugaan-penyelewengan-solar-subsidi-di-lampung-selatan-8400",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "WN Korsel Pelaku Kekerasan Seksual di Gili Trawangan Divonis 8 Bulan, Lebih Ringan dari Tuntutan JPU",
+      "url": "https://regional.kompas.com/read/2026/10/28/214324178/wn-korsel-pelaku-kekerasan-seksual-di-gili-trawangan-divonis-8-bulan-lebih",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Beroperasi dari Rumah di Sidoarjo, 8 WN Vietnam Lakukan Penipuan Online ke Warga Negara Asalnya",
+      "url": "https://surabaya.kompas.com/read/2026/10/28/211305978/beroperasi-dari-rumah-di-sidoarjo-8-wn-vietnam-lakukan-penipuan-online-ke",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Muara Sungai Penuh Sampah, Nelayan Banyuwangi Kesulitan Cari Ikan",
+      "url": "https://surabaya.kompas.com/read/2026/10/28/212520578/muara-sungai-penuh-sampah-nelayan-banyuwangi-kesulitan-cari-ikan",
+      "sektor": "Energi"
+    }
+  ]
+}
