@@ -1,0 +1,206 @@
+{
+  "tanggal": "2026-10-29",
+  "dibuat_pada": "2026-10-29 21:59 WIB",
+  "jumlah_artikel": 27,
+  "saham_disebut": {
+    "BBCA": [
+      "Keuangan (rating 1/7)"
+    ],
+    "GOTO": [
+      "Teknologi (rating 2/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "COIN": [
+      "Teknologi (rating 2/7)"
+    ],
+    "BIKE": [
+      "Energi (rating 3/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "ENRG": [
+      "Energi (rating 3/7)"
+    ],
+    "CDIA": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "SMGR": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 1,
+      "key_sentiment": "Pasar saham Indonesia mengalami tekanan jual yang sangat kuat dengan ambruknya IHSG secara signifikan, disertai aksi jual bersih investor asing, dan kekhawatiran pelemahan nilai tukar Rupiah.",
+      "alasan": "Sektor Keuangan sangat rentan terhadap sentimen pasar keseluruhan dan kondisi makroekonomi yang memburuk. Penurunan tajam IHSG, keluarnya modal asing (net sell), serta potensi pelemahan Rupiah yang dapat memicu capital outflow, secara kolektif menciptakan tekanan bearish yang signifikan terhadap saham-saham di sektor keuangan. Hal ini berpotensi menekan kinerja dan minat investor pada sektor ini keesokan hari.",
+      "analisis_saham": "BBCA disebutkan telah memberikan fasilitas kredit investasi senilai Rp500 miliar kepada PT Habco Trans Maritima Tbk (HATM). Berita ini merupakan katalis positif bagi BBCA karena menunjukkan aktivitas penyaluran kredit yang sehat dan ekspansi portofolio pinjaman. Meskipun demikian, sentimen pasar yang sangat negatif secara keseluruhan (IHSG anjlok, net sell asing) kemungkinan akan menekan harga BBCA, meski katalis ini mungkin bisa memberikan sedikit dukungan dibandingkan saham lain tanpa berita positif individual."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "IHSG ambruk tajam diiringi net sell asing yang besar, menciptakan sentimen pasar bearish yang kuat, meskipun GOTO membukukan laba signifikan, namun dibayangi oleh kerugian COIN.",
+      "alasan": "Sektor Teknologi diperkirakan akan mengalami tekanan jual yang kuat sejalan dengan anjloknya IHSG secara signifikan dan aksi jual bersih oleh investor asing. Meskipun ada berita positif dari GOTO terkait laba, sentimen pasar yang sangat bearish dan kerugian yang dialami COIN kemungkinan besar akan menyeret kinerja sektor ini secara keseluruhan.",
+      "analisis_saham": "GOTO:** Berita mengenai GOTO yang membukukan laba bersih selama tiga kuartal berturut-turut dan menaikkan target kinerja 2026 adalah sentimen yang sangat positif secara fundamental. Hal ini berpotensi memberikan dorongan positif pada harga saham GOTO, atau setidaknya membatasi penurunannya di tengah tekanan pasar yang luas."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Sentimen pasar energi hari ini cenderung negatif akibat tekanan jual kuat pada saham ENRG yang ARB beruntun meski laba positif, ditambah kekhawatiran pelemahan rupiah, diimbangi oleh berita ekspansi BIKE.",
+      "alasan": "Tekanan jual yang signifikan pada Energi Mega Persada (ENRG) yang mencapai ARB tiga hari berturut-turut meskipun laba meledak, menciptakan sentimen negatif untuk sektor energi secara keseluruhan. Kekhawatiran pelemahan rupiah juga menambah ketidakpastian pasar yang dapat mempengaruhi arus modal dan sentimen investor.",
+      "analisis_saham": "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) mendapatkan sentimen positif karena menandatangani MoU untuk proyek pembangunan dan pengembangan kawasan Pasar Minggu senilai Rp1,1 triliun, yang menunjukkan ekspansi bisnis. Namun, Energi Mega Persada (ENRG) menghadapi sentimen sangat negatif dengan ARB 3 hari beruntun, meskipun laporan labanya meledak, menunjukkan adanya faktor lain yang menekan harga sahamnya."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Sektor Infrastruktur menunjukkan sentimen positif dengan adanya proyek baru, kinerja keuangan emiten yang kuat yang didukung bisnis infrastruktur, dan potensi aksi korporasi dari pemasok kunci.",
+      "alasan": "Proyek pengembangan senilai Rp1,1 triliun oleh BIKE dan pertumbuhan pendapatan CDIA yang didorong oleh bisnis infrastruktur secara langsung mengindikasikan aktivitas positif di sektor ini. Rencana buyback saham oleh SMGR, pemasok material utama, juga menunjang sentimen kepercayaan terhadap prospek jangka panjang sektor konstruksi dan infrastruktur.",
+      "analisis_saham": "BIKE:** Penandatanganan MoU untuk proyek pengembangan kawasan Pasar Minggu senilai Rp1,1 triliun adalah sentimen sangat positif bagi BIKE, menunjukkan potensi pertumbuhan pendapatan dan ekspansi bisnisnya di sektor infrastruktur dan properti. Ini berpotensi mendorong kenaikan harga saham BIKE."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "HATM Kantongi Fasilitas Kredit dari BCA, Manajemen Ungkap Tujuannya",
+      "url": "https://emitennews.com/news/hatm-kantongi-fasilitas-kredit-dari-bca-manajemen-ungkap-tujuannya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Siang Mendadak Ambruk 2,64% ke 5.142, Asing Net Sell Nyaris Rp1T",
+      "url": "https://emitennews.com/news/ihsg-siang-mendadak-ambruk-264-ke-5142-asing-net-sell-nyaris-rp1t",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Hashim Djojohadikusumo Ingatkan Risiko Rupiah Melemah, Bisa Rp22.000",
+      "url": "https://emitennews.com/news/hashim-djojohadikusumo-ingatkan-risiko-rupiah-melemah-bisa-rp22000",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BEI Akan Luncurkan IDX Commodity 20, Mulai Efektif 30 Oktober 2026",
+      "url": "https://emitennews.com/news/bei-akan-luncurkan-idx-commodity-20-mulai-efektif-30-oktober-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BIKE Teken MoU dengan Pasar Jaya, Garap Proyek Pasar Minggu Rp1,1T",
+      "url": "https://emitennews.com/news/bike-teken-mou-dengan-pasar-jaya-garap-proyek-pasar-minggu-rp11t",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Anjlok 3,49 Persen, IHSG Dekati Level 5.000",
+      "url": "https://emitennews.com/news/anjlok-349-persen-ihsg-dekati-level-5000",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Laba Q3 BKSL Naik 67,5 Persen, Ditopang Penjualan Lahan dan Bangunan",
+      "url": "https://emitennews.com/news/laba-q3-bksl-naik-675-persen-ditopang-penjualan-lahan-dan-bangunan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Karhutla di Tanah Air, Polri Tetapkan 265 Tersangka, 20 dari Korporasi",
+      "url": "https://emitennews.com/news/karhutla-di-tanah-air-polri-tetapkan-265-tersangka-20-dari-korporasi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kata Pandu Sjahrir Soal Polemik Supra Sekuritas",
+      "url": "https://emitennews.com/news/kata-pandu-sjahrir-soal-polemik-supra-sekuritas",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Konstituen MSCI, Emiten ini ARB 3 Hari Beruntun meski Laba Meledak",
+      "url": "https://emitennews.com/news/konstituen-msci-emiten-ini-arb-3-hari-beruntun-meski-laba-meledak",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Laba Bersih KAQI Tumbuh Kuat 84 Persen di Kuartal III-2026",
+      "url": "https://emitennews.com/news/laba-bersih-kaqi-tumbuh-kuat-84-persen-di-kuartal-iii-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Laba Q3 Rp1,16 Triliun, GOTO Naikkan Target Kinerja 2026",
+      "url": "https://emitennews.com/news/laba-q3-rp116-triliun-goto-naikkan-target-kinerja-2026",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Medio 2026, COIN Berbalik Rugi 259,85 Persen",
+      "url": "https://emitennews.com/news/medio-2026-coin-berbalik-rugi-25985-persen",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Kuartal III 2026, Jantra Grupo Indonesia (KAQI) Raih Laba Bersih",
+      "url": "https://emitennews.com/news/pendapatan-turun-jantra-grupo-kaqi-masih-raih-laba-bersih",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Masih Bertahan di MSCI, Emiten Grup Bakrie Cetak Laba Turun di Q3 2026",
+      "url": "https://emitennews.com/news/masih-bertahan-di-msci-emiten-grup-bakrie-cetak-laba-turun-di-q3-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "MSCI Depak Emiten Ini, Intip Kinerjanya di Kuartal III 2026",
+      "url": "https://emitennews.com/news/msci-depak-emiten-ini-intip-kinerjanya-di-kuartal-iii-2026",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Pendapatan CDIA Tembus USD122 Juta, EBITDA Melonjak 65 Persen",
+      "url": "https://emitennews.com/news/pendapatan-cdia-tembus-usd122-juta-ebitda-melonjak-65-persen",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Raih Pendapatan USD122 Juta, Emiten Prajogo Pangestu (CDIA) Ungkap Ini",
+      "url": "https://emitennews.com/news/raih-pendapatan-usd122-juta-emiten-prajogo-pangestu-cdia-ungkap-ini",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Saham EBT Grup Astra Lanjutkan Reli ARB",
+      "url": "https://emitennews.com/news/saham-ebt-grup-astra-lanjutkan-reli-arb",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Sempat 3 Hari ARB Lalu Berlanjut ARA, Saham PTSP Berakhir Digembok",
+      "url": "https://emitennews.com/news/sempat-3-hari-arb-lalu-berlanjut-ara-saham-ptsp-berakhir-digembok",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "SMGR Kaji Opsi Buyback Saham di Tengah Dinamika Pasar Saham Domestik",
+      "url": "https://emitennews.com/news/smgr-kaji-opsi-buyback-saham-di-tengah-dinamika-pasar-saham-domestik",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tambah Saham, Cakra Bhakti Mantapkan Posisi Pengendali Spindo (ISSP)",
+      "url": "https://emitennews.com/news/tambah-saham-cakra-bhakti-mantapkan-posisi-pengendali-spindo-issp",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Sentul City (BKSL) Raih Pendapatan Rp1,2T, Terbesar Masih Segmen Ini",
+      "url": "https://emitennews.com/news/sentul-city-bksl-raih-pendapatan-rp12t-terbesar-masih-segmen-ini",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Silmy Karim Didakwa Peras Penjamin WNA Rp168,92M, JPU Bongkar Modusnya",
+      "url": "https://emitennews.com/news/silmy-karim-didakwa-peras-penjamin-wna-rp16892m-jpu-bongkar-modusnya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tutup Kuartal III 2026, EMMI Kemas Pendapatan Turun-Rugi Bersih",
+      "url": "https://emitennews.com/news/tutup-kuartal-iii-2026-emmi-kemas-pendapatan-turun-rugi-bersih",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "TLDN Cetak Pendapatan Naik 14,1 Persen, Raup Laba Rp875M di Q3 2026",
+      "url": "https://emitennews.com/news/tldn-cetak-pendapatan-naik-141-persen-raup-laba-rp875m-di-q3-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "VICI Angkat Rahayu Saraswati Jadi Wakomut, Siap Ekspansi Mancanegara",
+      "url": "https://emitennews.com/news/vici-angkat-rahayu-saraswati-jadi-wakomut-siap-ekspansi-mancanegara",
+      "sektor": "Keuangan"
+    }
+  ]
+}
