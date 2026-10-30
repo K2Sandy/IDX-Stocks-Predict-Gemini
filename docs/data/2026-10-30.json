@@ -1,0 +1,287 @@
+{
+  "tanggal": "2026-10-30",
+  "dibuat_pada": "2026-10-30 21:47 WIB",
+  "jumlah_artikel": 44,
+  "saham_disebut": {
+    "BBCA": [
+      "Keuangan (rating 5/7)"
+    ],
+    "MTEL": [
+      "Teknologi (rating 5/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "DOID": [
+      "Energi (rating 4/7)"
+    ],
+    "TBIG": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "TOBA": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "BCA (BBCA) membantah rumor merger, menghilangkan ketidakpastian dan memberikan sentimen positif bagi pasar.",
+      "alasan": "Sebagai salah satu bank terbesar dan dengan bobot signifikan di indeks, klarifikasi dari BBCA mengenai rumor merger mampu mengurangi ketidakpastian di pasar. Hal ini berpotensi memberikan dorongan positif pada sektor Keuangan secara keseluruhan, meningkatkan kepercayaan investor terhadap institusi perbankan.",
+      "analisis_saham": "PT Bank Central Asia Tbk (BBCA) membantah rumor merger. Klarifikasi ini adalah sentimen positif yang menghilangkan spekulasi negatif dan ketidakpastian yang dapat menekan harga saham, sehingga berpotensi mendukung penguatan atau stabilisasi harga saham BBCA."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "PT Dayamitra Telekomunikasi Tbk (MTEL) membukukan laba bersih dan pendapatan yang tumbuh positif, ditopang optimalisasi aset menara dan peningkatan rasio kolokasi.",
+      "alasan": "Kinerja stabil dan pertumbuhan laba MTEL, sebagai salah satu emiten infrastruktur telekomunikasi kunci, memberikan sentimen positif bagi sub-sektor teknologi. Meskipun pertumbuhan laba terbatas, tingginya margin EBITDA menunjukkan efisiensi operasional yang baik dalam sektor ini.",
+      "analisis_saham": "MTEL melaporkan peningkatan laba bersih sebesar 0,8% dan pendapatan 1,8% hingga September 2026, dengan margin EBITDA yang sangat kuat di 82,9%. Kinerja yang stabil dan fundamental yang solid ini dapat menarik perhatian investor dan berpotensi memberikan dorongan positif pada harga saham MTEL."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "BUMA, anak usaha utama DOID yang beroperasi di sektor kontraktor pertambangan batu bara, melanjutkan program CSR pendidikan BUMA School.",
+      "alasan": "Hanya ada satu berita yang relevan dengan sektor Energi, yakni tentang program Corporate Social Responsibility (CSR) BUMA, anak usaha DOID. Berita ini tidak menyajikan informasi finansial, operasional, atau sentimen pasar yang langsung mempengaruhi valuasi atau kinerja sektor Energi secara keseluruhan. Oleh karena itu, sentimen terhadap sektor ini cenderung netral.",
+      "analisis_saham": "PT Delta Dunia Makmur Tbk (DOID) melalui anak usahanya BUMA melanjutkan program BUMA School sebagai inisiatif CSR. Meskipun ini positif untuk citra perusahaan dan pengembangan sumber daya manusia jangka panjang, berita ini tidak memberikan katalis finansial atau operasional yang signifikan untuk menggerakkan harga saham DOID secara individual pada perdagangan esok hari. Dampaknya cenderung netral."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Sejumlah emiten infrastruktur telekomunikasi dan berkelanjutan seperti TBIG, MTEL, dan TOBA melaporkan perkembangan positif berupa buyback saham, peningkatan laba, dan perbaikan profitabilitas.",
+      "alasan": "Sentimen positif muncul dari emiten-emiten kunci di sektor infrastruktur; TBIG menunjukkan kepercayaan manajemen melalui buyback saham, MTEL melaporkan peningkatan kinerja keuangan dan rasio kolokasi, sementara TOBA menunjukkan perbaikan profitabilitas signifikan dalam transformasinya menuju infrastruktur berkelanjutan. Kabar baik ini secara kolektif mengindikasikan fundamental yang solid di beberapa sub-sektor infrastruktur.",
+      "analisis_saham": "TBIG (PT Tower Bersama Infrastructure Tbk):** Pengumuman buyback saham sebesar Rp106 miliar merupakan sinyal kuat dari manajemen mengenai valuasi saham yang menarik dan kepercayaan terhadap prospek perusahaan, yang berpotensi mendorong kenaikan harga saham."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Kenaikan harga gabah memicu kekhawatiran inflasi pangan domestik, meskipun Bulog berupaya menjaga ketersediaan pasokan beras premium.",
+      "alasan": "Kenaikan harga gabah berpotensi mendorong tekanan inflasi pangan yang merupakan komponen utama inflasi umum. Hal ini dapat membebani daya beli masyarakat dan mempengaruhi prospek ekonomi makro, menimbulkan sentimen negatif terhadap pasar meskipun ada upaya stabilisasi pasokan oleh Bulog.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Hasil Persebaya Vs Persijap 1-1: Drama Gol Menit Akhir Selamatkan Bajul Ijo",
+      "url": "https://bola.kompas.com/read/2026/10/30/21143628/hasil-persebaya-vs-persijap-1-1-drama-gol-menit-akhir-selamatkan-bajul-ijo",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Buyback Saham Pilihan Tower Bersama (TBIG), Sedia Dana Rp106 Miliar",
+      "url": "https://emitennews.com/news/buyback-saham-pilihan-tower-bersama-tbig-sedia-dana-rp106-miliar",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Emiten Bagi Dividen Rp2 per Saham, Intip Jadwalnya!",
+      "url": "https://emitennews.com/news/emiten-bagi-dividen-rp2-per-saham-intip-jadwalnya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Bisnis Taksi Tumbuh, Blue Bird (BIRD) Catat Pendapatan Tembus Rp4,57T",
+      "url": "https://emitennews.com/news/bisnis-taksi-tumbuh-blue-bird-bird-catat-pendapatan-tembus-rp457t",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BCA Bantah Rumor Merger, Harga Saham Akhir Oktober Menguat",
+      "url": "https://emitennews.com/news/bca-bantah-rumor-merger-harga-saham-akhir-oktober-menguat",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BUMA Perkuat Kesiapan Kerja Generasi Muda melalui BUMA School",
+      "url": "https://emitennews.com/news/buma-perkuat-kesiapan-kerja-generasi-muda-melalui-buma-school",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Emiten Martua Sitorus Pastikan Bank of Singapore Bukan Pemegang Saham",
+      "url": "https://emitennews.com/news/emiten-martua-sitorus-pastikan-bank-of-singapore-bukan-pemegang-saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Investasi Perdana, Komut RELF Caplok 1,43 Persen Saham",
+      "url": "https://emitennews.com/news/investasi-perdana-komut-relf-caplok-143-persen-saham",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Emiten Nagita Slavina Pacu Akuisisi RS, Kinerja Melemah, Saham Memerah",
+      "url": "https://emitennews.com/news/emiten-nagita-slavina-pacu-akuisisi-rs-kinerja-melemah-saham-memerah",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Emiten Properti Member MSCI Lesu, Profit Disumbang Bisnis Rumah Sakit",
+      "url": "https://emitennews.com/news/emiten-properti-member-msci-lesu-profit-disumbang-bisnis-rumah-sakit",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kinerja Keuangan Solid, Total Aset Emiten Aguan (PANI) Rp51 Triliun",
+      "url": "https://emitennews.com/news/kinerja-keuangan-solid-total-aset-emiten-aguan-pani-rp51-triliun",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Laba BSDE Turun, Tol Masih Rugi, Kapan Proyek MRT BSD Digarap?",
+      "url": "https://emitennews.com/news/laba-bsde-turun-tol-masih-rugi-kapan-proyek-mrt-bsd-digarap",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Laba & Pendapatan Emiten Grup Bakrie (ALII) Kompak Ciut di Q3 2026",
+      "url": "https://emitennews.com/news/laba-pendapatan-emiten-grup-bakrie-alii-kompak-ciut-di-q3-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Lesu, Sidomuncul Catat Penurunan Laba 24,36% Jadi Rp619,09M di Q3 2026",
+      "url": "https://emitennews.com/news/lesu-sidomuncul-catat-penurunan-laba-2436-jadi-rp61909m-di-q3-2026",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Lindungi Masa Depan, Allianz Life Indonesia Sodorkan ini",
+      "url": "https://emitennews.com/news/lindungi-masa-depan-allianz-life-indonesia-sodorkan-ini",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "MTEL Raup Laba Rp1,55 Triliun, Rasio Kolokasi Naik Jadi 1,60 Kali",
+      "url": "https://emitennews.com/news/mtel-raup-laba-rp155-triliun-rasio-kolokasi-naik-jadi-160-kali",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pandu Sjahrir-Supra Sekuritas (SS) dan Paramita Bangun Sarana (PBSA)",
+      "url": "https://emitennews.com/news/pandu-sjahrir-supra-sekuritas-ss-dan-paramita-bangun-sarana-pbsa",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Neraca Kokoh PRDA: Likuiditas Tebal & Valuasi Menarik",
+      "url": "https://emitennews.com/news/neraca-kokoh-prda-likuiditas-tebal-valuasi-menarik",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pastikan Rumor Merger Tidak Benar, BCA (BBCA) Ungkap Fakta Ini",
+      "url": "https://emitennews.com/news/pastikan-rumor-merger-tidak-benar-bca-bbca-ungkap-fakta-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Penjualan Indofood Tembus Rp101,5 Triliun hingga Akhir September 2026",
+      "url": "https://emitennews.com/news/penjualan-indofood-tembus-rp1015-triliun-hingga-akhir-september-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pendapatan Dyandra Media (DYAN) Rp974 Miliar, Terbesar dari MICE",
+      "url": "https://emitennews.com/news/pendapatan-dyandra-media-dyan-rp974-miliar-terbesar-dari-mice",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Perkuat Kinerja, Bank Ganesha (BGTG) Optimalkan Penyaluran Kredit",
+      "url": "https://emitennews.com/news/perkuat-kinerja-bank-ganesha-bgtg-optimalkan-penyaluran-kredit",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Profitabilitas Membaik, Rugi Bersih TBS Energi (TOBA) Susut 72 Persen",
+      "url": "https://emitennews.com/news/profitabilitas-membaik-rugi-bersih-tbs-energi-toba-susut-72-persen",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Produksi Nikel Turun, Vale (INCO) Mampu Cetak Laba Bersih USD147 Juta",
+      "url": "https://emitennews.com/news/produksi-nikel-turun-vale-inco-mampu-cetak-laba-bersih-usd147-juta",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pemilu Israel Buntu, Koalisi Arab Jadi Penentu?",
+      "url": "https://internasional.kompas.com/read/2026/10/30/212706970/pemilu-israel-buntu-koalisi-arab-jadi-penentu",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Tambah Modal! Merdeka Battery (MBMA) Bakal Private Placement Lagi",
+      "url": "https://emitennews.com/news/tambah-modal-merdeka-battery-mbma-bakal-private-placement-lagi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Keluarga Eks Istri Polisi di Medan Bawa Peti Jenazah ke Polrestabes, Minta Otopsi Ulang",
+      "url": "https://medan.kompas.com/read/2026/10/30/211910978/keluarga-eks-istri-polisi-di-medan-bawa-peti-jenazah-ke-polrestabes-minta",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Harga Gabah Naik, Bulog Cari Alternatif Pasokan Beras Premium",
+      "url": "https://money.kompas.com/read/2026/10/30/211000826/harga-gabah-naik-bulog-cari-alternatif-pasokan-beras-premium",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "SMDR Siapkan 9 Kapal Baru, Mulai Beroperasi 2027",
+      "url": "https://money.kompas.com/read/2026/10/30/213100726/smdr-siapkan-9-kapal-baru-mulai-beroperasi-2027",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "TBS Energi (TOBA), 14 Ribu Motor Listrik Beroperasi, Tumbuh 115%",
+      "url": "https://emitennews.com/news/tbs-energi-toba-14-ribu-motor-listrik-beroperasi-tumbuh-115",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tak Perlu Modal Besar, Guru SMK Ini Punya Alat Sulap Botol Plastik Bekas Jadi Sapu",
+      "url": "https://megapolitan.kompas.com/read/2026/10/30/21430071/tak-perlu-modal-besar-guru-smk-ini-punya-alat-sulap-botol-plastik-bekas",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Klinik Kopdes Merah Putih Bisa Layani Peserta BPJS Kesehatan, Ini Ketentuannya",
+      "url": "https://money.kompas.com/read/2026/10/30/214249026/klinik-kopdes-merah-putih-bisa-layani-peserta-bpjs-kesehatan-ini-ketentuannya",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Tutup Perdagangan Oktober IHSG Turun ke 5.057, Market Cap Rp8.862 T",
+      "url": "https://emitennews.com/news/tutup-perdagangan-oktober-ihsg-turun-ke-5057-market-cap-rp88825t",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Transformasi SDM Unggul, Bank BSN Sabet Human Capital Awards 2026",
+      "url": "https://emitennews.com/news/transformasi-sdm-unggul-bank-bsn-sabet-human-capital-awards-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kapolri Mutasi 5 Pejabat Polri, Kepala Pusdokkes dan Puskeu Berganti",
+      "url": "https://nasional.kompas.com/read/2026/10/30/21102581/kapolri-mutasi-5-pejabat-polri-kepala-pusdokkes-dan-puskeu-berganti",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Prabowo Salurkan Bantuan ke Gontor untuk Dukung Belajar Santri",
+      "url": "https://nasional.kompas.com/read/2026/10/30/21243261/prabowo-salurkan-bantuan-ke-gontor-untuk-dukung-belajar-santri",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kejagung Geledah Kantor di Menara Batavia Berkaitan dengan Toba Pulp Lestari",
+      "url": "https://nasional.kompas.com/read/2026/10/30/21125421/kejagung-geledah-kantor-di-menara-batavia-berkaitan-dengan-toba-pulp-lestari",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Rawa TNWK Mengering akibat Kemarau, Populasi Harimau Sumatera Diperkirakan Hampir 20 Ekor",
+      "url": "https://regional.kompas.com/read/2026/10/30/211906478/rawa-tnwk-mengering-akibat-kemarau-populasi-harimau-sumatera-diperkirakan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Proyek Dagang Sembako Fiktif di PT ABM, Pemprov Banten Rugi Rp 6,8 Miliar",
+      "url": "https://regional.kompas.com/read/2026/10/30/211106978/proyek-dagang-sembako-fiktif-di-pt-abm-pemprov-banten-rugi-rp-68-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kolam Buaya Semarang Zoo Kering Terdampak Kemarau, Pengelola Pastikan Satwa Sehat",
+      "url": "https://regional.kompas.com/read/2026/10/30/211802478/kolam-buaya-semarang-zoo-kering-terdampak-kemarau-pengelola-pastikan-satwa",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Menkes Sebut Indonesia Tak Sanggup Layani Kesehatan Seluruh Penduduk, jika...",
+      "url": "https://nasional.kompas.com/read/2026/10/30/21391121/menkes-sebut-indonesia-tak-sanggup-layani-kesehatan-seluruh-penduduk-jika",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Polemik Penataan Sungai Wai Tomu Ambon, Kodam Pattimura: Mendorong Kemajuan Kota",
+      "url": "https://regional.kompas.com/read/2026/10/30/213145278/polemik-penataan-sungai-wai-tomu-ambon-kodam-pattimura-mendorong-kemajuan",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Pascagempa, 34 Orang Muda Disabilitas di Manggarai Mulai Bangun Kepercayaan Diri dan Kemampuan Sosial",
+      "url": "https://regional.kompas.com/read/2026/10/30/214351178/pascagempa-34-orang-muda-disabilitas-di-manggarai-mulai-bangun-kepercayaan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Jadi Penopang APBD, PAD Pariwisata Gunungkidul Tembus Rp 60 Miliar",
+      "url": "https://yogyakarta.kompas.com/read/2026/10/30/214031478/jadi-penopang-apbd-pad-pariwisata-gunungkidul-tembus-rp-60-miliar",
+      "sektor": "Infrastruktur"
+    }
+  ]
+}
