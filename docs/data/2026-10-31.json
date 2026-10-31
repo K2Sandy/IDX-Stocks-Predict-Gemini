@@ -1,0 +1,270 @@
+{
+  "tanggal": "2026-10-31",
+  "dibuat_pada": "2026-10-31 21:13 WIB",
+  "jumlah_artikel": 42,
+  "saham_disebut": {
+    "VKTR": [
+      "Teknologi (rating 2/7)"
+    ],
+    "BIKE": [
+      "Energi (rating 6/7)"
+    ],
+    "SMGR": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini didominasi oleh laporan kinerja keuangan positif dan akuisisi proyek baru dari berbagai emiten di luar sektor keuangan.",
+      "alasan": "Tidak ada berita spesifik yang berkaitan langsung dengan sektor Keuangan dalam kumpulan berita ini. Berita yang ada berfokus pada kinerja emiten di sektor lain seperti teknologi, agrikultur, energi, dan barang konsumsi. Oleh karena itu, tidak ada sentimen langsung yang dapat memengaruhi pergerakan indeks sektor Keuangan.",
+      "analisis_saham": "Tidak ada saham spesifik dari sektor keuangan yang disebutkan. Semua saham yang disebutkan (INET, SSMS, BIKE, SMGR, CPIN, DOOH) berasal dari sektor lain dan menunjukkan kinerja positif atau proyek baru yang tidak memiliki dampak langsung pada sektor keuangan secara spesifik."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Sentimen negatif global terhadap profitabilitas AI dan kinerja buruk saham teknologi mobilitas lokal menekan prospek sektor teknologi.",
+      "alasan": "Keraguan investor global terhadap profitabilitas teknologi AI yang menyebabkan anjloknya saham Intel dapat mempengaruhi sentimen pasar terhadap perusahaan teknologi di Indonesia secara keseluruhan. Ditambah lagi, salah satu saham sektor teknologi lokal, VKTR, menjadi top loser sepekan dengan pelemahan signifikan, menunjukkan tekanan jual yang kuat.",
+      "analisis_saham": "PT VKTR Teknologi Mobilitas Tbk (VKTR) mengalami penurunan drastis sebesar 30% dalam sepekan, menjadikannya salah satu saham yang paling banyak dilepas. Sentimen negatif ini kemungkinan akan berlanjut dan menekan harga sahamnya lebih lanjut."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) memperoleh kontrak EPC PLTMG senilai Rp3,8 triliun dari PLN, didukung oleh percepatan ratifikasi pakta keamanan energi oleh negara-negara ASEAN.",
+      "alasan": "Kontrak besar yang diperoleh BIKE mengindikasikan adanya investasi signifikan di sektor pembangkit listrik, khususnya PLTMG, yang memberikan prospek positif bagi perusahaan penyedia jasa EPC dan energi lainnya. Upaya ASEAN dalam memperkuat keamanan energi regional juga akan memberikan stabilitas pasokan jangka panjang, mengurangi risiko gejolak dan mendukung pertumbuhan sektor secara keseluruhan.",
+      "analisis_saham": "PT Bhineka Inovasi Ketahanan Energi Tbk (BIKE) mendapatkan kontrak EPC PLTMG senilai Rp3,8 triliun dari PLN Indonesia Power, yang merupakan katalis positif sangat kuat untuk kinerja keuangan perusahaan. Proyek ini diharapkan akan meningkatkan pendapatan dan profitabilitas BIKE secara signifikan, sehingga berpotensi mendorong kenaikan harga sahamnya."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Pemerintah berhasil menyelesaikan 250 Proyek Strategis Nasional (PSN) senilai Rp 2.396 triliun, didukung kinerja keuangan positif emiten semen dan lembaga pembiayaan infrastruktur.",
+      "alasan": "Penyelesaian PSN dengan investasi yang masif menunjukkan aktivitas pembangunan infrastruktur yang berkelanjutan dan akan mendorong pertumbuhan di sektor ini. Kinerja laba yang kuat dari emiten semen mengindikasikan permintaan material konstruksi yang tinggi, yang merupakan indikator positif bagi industri pendukung infrastruktur. Selain itu, pelunasan obligasi oleh PT SMI menunjukkan stabilitas dalam pembiayaan proyek infrastruktur.",
+      "analisis_saham": "Semen Indonesia (SMGR) disebutkan mengalami pertumbuhan laba 363 persen, menunjukkan fundamental yang kuat di tengah tantangan industri. Sentimen positif ini kemungkinan besar akan mendorong pergerakan harga saham SMGR ke atas pada perdagangan berikutnya."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Berita hari ini fokus pada destinasi wisata domestik di Indonesia, yaitu pembukaan jalur pendakian Gunung Telomoyo dan pesona Pantai Nusa Dua Bali.",
+      "alasan": "Kedua berita bersifat sangat lokal dan spesifik mengenai destinasi pariwisata. Tidak ada indikator makroekonomi yang jelas seperti inflasi, suku bunga, atau kebijakan pemerintah yang dapat secara signifikan mempengaruhi pergerakan indeks sektor Umum/Makro secara keseluruhan. Oleh karena itu, sentimen terhadap makroekonomi secara luas cenderung netral.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Persib Vs Isenmulang FC, Alasan Pelatih Igor Tolic Dilarang Dampingi Tim",
+      "url": "https://bola.kompas.com/read/2026/10/31/20490128/persib-vs-isenmulang-fc-alasan-pelatih-igor-tolic-dilarang-dampingi-tim",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Hasil Dewa United Vs Persija 2-1, Marukawa Beri Pasukan STY Kekalahan Kedua di BIS",
+      "url": "https://bola.kompas.com/read/2026/10/31/21083068/hasil-dewa-united-vs-persija-2-1-marukawa-beri-pasukan-sty-kekalahan-kedua-di",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Aset Jumbo, Pendapatan INET Melangit Ribuan Persen",
+      "url": "https://emitennews.com/news/aset-jumbo-pendapatan-inet-melangit-ribuan-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Aset Tebal, Kuartal III SSMS Tuai Laba Jumbo",
+      "url": "https://emitennews.com/news/aset-tebal-kuartal-iii-ssms-tuai-laba-jumbo",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Antisipasi Krisis Energi, ASEAN Pacu Ratifikasi Pakta APSA",
+      "url": "https://emitennews.com/news/antisipasi-krisis-energi-asean-pacu-ratifikasi-pakta-apsa",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Puncak Hari Santri 2026, Menag Ajak Santri Kuasai Teknologi Tanpa Tinggalkan Tradisi Pesantren",
+      "url": "https://biz.kompas.com/read/2026/10/31/202448028/puncak-hari-santri-2026-menag-ajak-santri-kuasai-teknologi-tanpa-tinggalkan",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BIKE Kantongi Proyek PLN Rp3,8 Triliun, Garap EPC PLTMG",
+      "url": "https://emitennews.com/news/bike-kantongi-proyek-pln-rp38-triliun-garap-epc-pltmg",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dibuang MSCI, Laba Emiten Semen ini Tumbuh 363 Persen",
+      "url": "https://emitennews.com/news/dibuang-msci-laba-emiten-semen-ini-tumbuh-363-persen",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dua Segmen Usaha CPIN Dongkrak Laba Naik 53,8 Persen, Ini Rinciannya",
+      "url": "https://emitennews.com/news/dua-segmen-usaha-cpin-dongkrak-laba-naik-538-persen-ini-rinciannya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ekuitas Meledak, Laba DOOH Melambung 954,95 Persen",
+      "url": "https://emitennews.com/news/ekuitas-meledak-laba-dooh-melambung-95495-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ekuitas Minus, Rugi Beruntun, ini Nasib Right Issue Emiten Andry Hakim",
+      "url": "https://emitennews.com/news/ekuitas-minus-rugi-beruntun-ini-nasib-right-issue-emiten-andry-hakim",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Turun 7 Persen Sepekan, Market Cap Jebol ke Rp8.862 Triliun",
+      "url": "https://emitennews.com/news/ihsg-turun-7-persen-sepekan-market-cap-jebol-ke-rp8862-triliun",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Investor Ragukan Profit AI, Saham Intel Rontok 28,58%",
+      "url": "https://emitennews.com/news/investor-ragukan-profit-ai-saham-intel-rontok-2858",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Emiten Bali United (BOLA) Cetak Rugi Meski Pendapatan Naik 19% di Q326",
+      "url": "https://emitennews.com/news/emiten-bali-united-bola-cetak-rugi-meski-pendapatan-naik-19-di-q326",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Jumlah Kartu Kredit Turun, Tetapi Nilai Transaksi Tinggi: Apa Artinya?",
+      "url": "https://emitennews.com/news/jumlah-kartu-kredit-turun-tetapi-nilai-transaksi-tinggi-apa-artinya",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kedaulatan Bursa (+/-) Kepercayaan Investor",
+      "url": "https://emitennews.com/news/kedaulatan-bursa-kepercayaan-investor",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Nasdaq Tambah Jam Perdagangan, MSCI tak Masukan Perhitungan Indeks",
+      "url": "https://emitennews.com/news/nasdaq-tambah-jam-perdagangan-msci-tak-masukan-perhitungan-indeks",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "OJK Rinci Identitas Pelanggar dalam Kasus Saham DSSA, BREN, dan CUAN",
+      "url": "https://emitennews.com/news/ojk-rinci-identitas-pelanggar-dalam-kasus-saham-dssa-bren-dan-cuan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pertamina Patra Niaga Gandeng KDKMP Pasok Jelantah untuk Avtur",
+      "url": "https://emitennews.com/news/pertamina-patra-niaga-gandeng-kdkmp-pasok-jelantah-untuk-avtur",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "OJK Sanksi Tegas 24 Pihak Terkait 11 Emiten, Denda Triliun Rupiah",
+      "url": "https://emitennews.com/news/ojk-sanksi-tegas-ke-24-pihak-terkait-11-emiten-denda-triliun-rupiah",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pemerintah Singapura Bantah Tudingan Bahlil Reekspor Impor Gas dari RI",
+      "url": "https://emitennews.com/news/pemerintah-singapura-bantah-tudingan-bahlil-reekspor-impor-gas-dari-ri",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "PT SMI Lunasi Obligasi Rp945,2 Miliar Tepat Waktu",
+      "url": "https://emitennews.com/news/pt-smi-lunasi-obligasi-rp9452-miliar-tepat-waktu",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sawit Anjlok, HR CPO November Dipangkas 6,07 Persen",
+      "url": "https://emitennews.com/news/sawit-anjlok-hr-cpo-november-dipangkas-607-persen",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Stok Afrika Melimpah, HR Biji Kakao Drop ke USD 5.613,6",
+      "url": "https://emitennews.com/news/stok-afrika-melimpah-hr-biji-kakao-drop-ke-usd-56136",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "TAF Rilis Obligasi Rp420 Miliar, Fitch Sematkan Peringkat Tertinggi",
+      "url": "https://emitennews.com/news/taf-rilis-obligasi-rp420-miliar-fitch-sematkan-peringkat-tertinggi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Top Gainers Sepekan, Ada Eks Saham Gocap, MMIX hingga TMPO",
+      "url": "https://emitennews.com/news/top-gainers-sepekan-ada-eks-saham-gocap-mmix-hingga-tmpo",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Top Losers Sepekan, MORA, ENRG, IFSH Kompak Ambles 29 Persen",
+      "url": "https://emitennews.com/news/top-losers-sepekan-mora-enrg-ifsh-kompak-ambles-29-persen",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Ujung Rambut Masih Kasar Usai Pakai Conditioner? Saatnya Hair Mask",
+      "url": "https://lifestyle.kompas.com/read/2026/10/31/210400620/ujung-rambut-masih-kasar-usai-pakai-conditioner-saatnya-hair-mask",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "Tuna dan Gurita RI Laris, Raup Rp522 Miliar di Conxemar 2026",
+      "url": "https://emitennews.com/news/tuna-dan-gurita-ri-laris-raup-rp522-miliar-di-conxemar-2026",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "250 PSN Rampung, Investasi Capai Rp 2.396 Triliun hingga Oktober 2026",
+      "url": "https://money.kompas.com/read/2026/10/31/202501426/250-psn-rampung-investasi-capai-rp-2396-triliun-hingga-oktober-2026",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "BMKG Peringatkan Hujan Lebat di Jabodetabek 1-2 November, Berikut Wilayahnya",
+      "url": "https://megapolitan.kompas.com/read/2026/10/31/20451951/bmkg-peringatkan-hujan-lebat-di-jabodetabek-1-2-november-berikut",
+      "sektor": "Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Menilik Potensi Keuangan Syariah, Dari Rekening Gaji hingga Modal Usaha",
+      "url": "https://money.kompas.com/read/2026/10/31/204300326/menilik-potensi-keuangan-syariah-dari-rekening-gaji-hingga-modal-usaha-",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Mahfud MD Sebut Putusan MA soal Ijazah Gibran Berlaku Surut, Ini Penjelasannya",
+      "url": "https://nasional.kompas.com/read/2026/10/31/20453331/mahfud-md-sebut-putusan-ma-soal-ijazah-gibran-berlaku-surut-ini",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Pengawasan Etik Hakim Perlu Diperkuat, KY Dorong Omnibus Law Peradilan",
+      "url": "https://nasional.kompas.com/read/2026/10/31/20274131/pengawasan-etik-hakim-perlu-diperkuat-ky-dorong-omnibus-law-peradilan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "BNPB Terseret Kasus Korupsi, Kristomei Benahi Tata Kelola Lewat Konsolidasi Internal 100 Hari",
+      "url": "https://nasional.kompas.com/read/2026/10/31/21013531/bnpb-terseret-kasus-korupsi-kristomei-benahi-tata-kelola-lewat-konsolidasi",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "3 Zodiak yang Diprediksi Beruntung pada 1 November 2026, Ada Leo",
+      "url": "https://lifestyle.kompas.com/read/2026/10/31/203000320/3-zodiak-yang-diprediksi-beruntung-pada-1-november-2026-ada-leo",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "575 Kilometer Menembus Lumpur dan Longsor, Perjuangan Sopir Elpiji Menghidupkan Energi di Papua Pegunungan",
+      "url": "https://regional.kompas.com/read/2026/10/31/203704778/575-kilometer-menembus-lumpur-dan-longsor-perjuangan-sopir-elpiji",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Wakapolda Jateng Tegaskan Penggeledahan di Ponpes Sukoharjo Kantongi Izin PN",
+      "url": "https://regional.kompas.com/read/2026/10/31/205213978/wakapolda-jateng-tegaskan-penggeledahan-di-ponpes-sukoharjo-kantongi-izin",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Jalur Aspal Tutup, Pendakian Gunung Telomoyo Tetap Buka",
+      "url": "https://travel.kompas.com/read/2026/10/31/210100827/jalur-aspal-tutup-pendakian-gunung-telomoyo-tetap-buka",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "4.653 Penerima Bansos di Tulungagung Terindikasi Judol, 2.706 Ajukan Sanggahan",
+      "url": "https://surabaya.kompas.com/read/2026/10/31/204726778/4653-penerima-bansos-di-tulungagung-terindikasi-judol-2706-ajukan-sanggahan",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Mengenal Pantai Nusa Dua Bali yang Jadi Salah Satu Pantai Terbaik di Asia",
+      "url": "https://travel.kompas.com/read/2026/10/31/203141727/mengenal-pantai-nusa-dua-bali-yang-jadi-salah-satu-pantai-terbaik-di-asia",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Kronologi Binance Dibobol, Rp 114 Triliun Aset Kripto Terdampak",
+      "url": "https://tekno.kompas.com/read/2026/10/31/11010087/kronologi-binance-dibobol-rp-114-triliun-aset-kripto-terdampak",
+      "sektor": "Teknologi, Energi"
+    }
+  ]
+}
