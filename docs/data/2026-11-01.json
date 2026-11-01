@@ -1,0 +1,166 @@
+{
+  "tanggal": "2026-11-01",
+  "dibuat_pada": "2026-11-01 21:46 WIB",
+  "jumlah_artikel": 21,
+  "saham_disebut": {
+    "MUTU": [
+      "Keuangan (rating 5/7)"
+    ],
+    "PTBA": [
+      "Keuangan (rating 5/7)",
+      "Infrastruktur (rating 5/7)"
+    ],
+    "HAIS": [
+      "Keuangan (rating 5/7)"
+    ],
+    "SMGR": [
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bursa Efek Indonesia (BEI) memperkuat stabilitas dan integritas pasar melalui kebijakan pembatasan UMA, suspensi, dan penegasan perhitungan indeks yang utuh.",
+      "alasan": "Langkah-langkah BEI untuk menciptakan pasar yang lebih teratur dan transparan, seperti pembatasan UMA dan penegasan perhitungan indeks, cenderung meningkatkan kepercayaan investor. Lingkungan pasar yang lebih stabil dan kredibel ini secara tidak langsung mendukung sentimen positif bagi sektor keuangan yang bergantung pada aktivitas dan kepercayaan pasar.",
+      "analisis_saham": "Sandiaga Uno melakukan investasi perdana dengan mengakumulasi saham MUTU, mengindikasikan sentimen positif dari investor terkemuka terhadap prospek perusahaan. PTBA membubarkan anak usaha propertinya demi efisiensi dan fokus pada bisnis inti, langkah strategis yang seringkali disambut baik pasar. HAIS melaporkan peningkatan pendapatan di Kuartal III 2026 yang menunjukkan kinerja operasional yang solid, memberikan sentimen positif bagi saham tersebut."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Sektor ekonomi digital Indonesia menunjukkan aktivitas yang sangat kuat, dibuktikan dengan penerimaan pajak digital sebesar Rp58,75 triliun dari PMSE, aset kripto, dan fintech, meskipun ada insiden peretasan kripto global.",
+      "alasan": "Meskipun terdapat sentimen negatif dari peretasan jembatan kripto global, kabar penerimaan pajak digital yang sangat tinggi menunjukkan aktivitas ekonomi digital yang masif dan terus bertumbuh di Indonesia. Hal ini mengindikasikan fundamental yang kuat dan potensi pertumbuhan berkelanjutan bagi perusahaan teknologi di tanah air, khususnya di segmen ekonomi digital, yang dapat mengimbangi kekhawatiran pasar lainnya.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Harga minyak mentah mendekati USD118 didukung oleh komitmen OPEC+ untuk mempertahankan target produksi dan laba raksasa energi Chevron yang melesat.",
+      "alasan": "Sentimen positif dominan berasal dari kenaikan harga minyak global yang signifikan dan keputusan OPEC+ untuk mempertahankan produksi, yang mengindikasikan pasokan terkontrol. Hal ini sangat menguntungkan emiten energi, khususnya di sub-sektor minyak dan gas, meskipun ada kekhawatiran permintaan dari kontraksi PMI China.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "PT Semen Indonesia (SMGR) membukukan lonjakan laba 363%, mengindikasikan kuatnya permintaan semen yang merupakan bahan baku utama bagi proyek infrastruktur, meskipun pasar secara umum menghadapi sentimen negatif.",
+      "alasan": "Lonjakan laba SMGR secara signifikan menunjukkan adanya aktivitas konstruksi yang solid dan permintaan yang kuat untuk bahan baku infrastruktur. Kinerja positif dari pemain kunci ini dapat memberikan sentimen penopang bagi prospek sektor infrastruktur secara keseluruhan, meskipun sentimen pasar makro dan domestik cenderung negatif.",
+      "analisis_saham": "PT Semen Indonesia Tbk (SMGR) membukukan lonjakan laba 363% yang sangat positif, diperkirakan akan mendorong kenaikan harga saham SMGR karena menunjukkan fundamental perusahaan yang sangat kuat dan permintaan produk yang tinggi. PT Bukit Asam Tbk (PTBA) membubarkan anak usaha properti untuk efisiensi dan fokus pada bisnis inti, yang dapat memberikan sentimen positif jangka panjang bagi saham PTBA meskipun dampaknya terhadap sektor infrastruktur secara langsung terbatas."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "BEI: UMA & Suspensi Saham Akan Dibatasi per 2 November, Belum Dihapus",
+      "url": "https://emitennews.com/news/bei-uma-suspensi-saham-akan-dibatasi-per-2-november-belum-dihapus",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Bobol Jembatan Kripto, Peretas Korut Kuras USD38 Juta Dalam 7 Jam",
+      "url": "https://emitennews.com/news/bobol-jembatan-kripto-peretas-korut-kuras-usd38-juta-dalam-7-jam",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Harga Minyak Melambung, Laba Chevron Melesat Tiga Kali Lipat",
+      "url": "https://emitennews.com/news/harga-minyak-melambung-laba-chevron-melesat-tiga-kali-lipat",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BEI Tegaskan Perhitungan Indeks dan Market Cap Tetap Utuh",
+      "url": "https://emitennews.com/news/bei-tegaskan-perhitungan-indeks-dan-market-cap-tetap-utuh",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Di Luar Dugaan, PMI Manufaktur & Jasa China Anjlok",
+      "url": "https://emitennews.com/news/di-luar-dugaan-pmi-manufaktur-jasa-china-anjlok",
+      "sektor": "Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Harga Minyak Dekati USD118, OPEC+ Sepakat Pertahankan Produksi",
+      "url": "https://emitennews.com/news/harga-minyak-dekati-usd118-opec-sepakat-pertahankan-produksi",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Investasi Perdana Sandiaga Uno Borong 9,51 Juta Saham MUTU Nyaris Rp1M",
+      "url": "https://emitennews.com/news/investasi-perdana-sandiaga-uno-borong-951-juta-saham-mutu-nyaris-rp1m",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ikut Arahan Danantara, PTBA Bubarkan Bisnis Properti",
+      "url": "https://emitennews.com/news/ikut-arahan-danantara-ptba-bubarkan-bisnis-properti",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Hasnur Shipping (HAIS) Kemas Pendapatan Rp221M di Kuartal III 2026",
+      "url": "https://emitennews.com/news/hasnur-shipping-hais-kemas-pendapatan-rp221m-di-kuartal-iii-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Laba 9 Bulan SMMA Turun 23,88 Persen, Sahamnya Naik 41,55 Persen YTD",
+      "url": "https://emitennews.com/news/laba-9-bulan-smma-turun-2388-persen-sahamnya-naik-4155-persen-ytd",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ketika Politik Memanas, Pasar Saham Kehilangan Arah",
+      "url": "https://emitennews.com/news/ketika-politik-memanas-pasar-saham-kehilangan-arah",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kredit BBKP Meningkat 3,07 Persen hingga September 2026",
+      "url": "https://emitennews.com/news/kredit-bbkp-meningkat-307-persen-hingga-september-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Laba SIG (SMGR) Melonjak 363%, Tembus Rp532 Miliar per September 2026",
+      "url": "https://emitennews.com/news/laba-sig-smgr-melonjak-363-tembus-rp532-miliar-per-september-2026",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Lelang Sepi, Yield Menanjak: Saat Pasar Obligasi Bersuara Pelan",
+      "url": "https://emitennews.com/news/lelang-sepi-yield-menanjak-saat-pasar-obligasi-bersuara-pelan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pajak Digital Tembus Rp58,75 Triliun, PMSE Jadi Penyumbang Terbesar",
+      "url": "https://emitennews.com/news/pajak-digital-tembus-rp5875-triliun-pmse-jadi-penyumbang-terbesar",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "OJK Hukum 2 Raksasa Asing di Balik IPO BREN & CUAN, Denda Capai Rp600M",
+      "url": "https://emitennews.com/news/ojk-hukum-2-raksasa-asing-di-balik-ipo-bren-cuan-denda-capai-rp600m",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "MSCI–SWF Singapura Mencuat di Balik Ancaman Downgrade RI, BEI Tanggapi",
+      "url": "https://emitennews.com/news/msciswf-singapura-mencuat-di-balik-ancaman-downgrade-ri-bei-tanggapi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pasar Gonjang-Ganjing, BEI Kosongkan Daftar Short Selling di November",
+      "url": "https://emitennews.com/news/pasar-gonjang-ganjing-bei-kosongkan-daftar-short-selling-di-november",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sokong PLTS 100 GWp, Kemnaker Sertifikasi 60 Asesor",
+      "url": "https://emitennews.com/news/sokong-plts-100-gwp-kemnaker-sertifikasi-60-asesor",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Tertekan Beban Keuangan, PBRX Rugi USD4,98 Juta Meski Top Line Positif",
+      "url": "https://emitennews.com/news/tertekan-beban-keuangan-pbrx-rugi-usd498-juta-meski-top-line-positif",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Wamenkomdigi Ingatkan Risiko AI di Sektor Keuangan dan Kesehatan",
+      "url": "https://emitennews.com/news/wamenkomdigi-ingatkan-risiko-ai-di-sektor-keuangan-dan-kesehatan",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    }
+  ]
+}
