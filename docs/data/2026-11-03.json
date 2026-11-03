@@ -1,0 +1,198 @@
+{
+  "tanggal": "2026-11-03",
+  "dibuat_pada": "2026-11-03 22:47 WIB",
+  "jumlah_artikel": 27,
+  "saham_disebut": {
+    "BABP": [
+      "Keuangan (rating 4/7)"
+    ],
+    "ISAT": [
+      "Teknologi (rating 6/7)"
+    ],
+    "BELI": [
+      "Teknologi (rating 6/7)"
+    ],
+    "JSMR": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "SSIA": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Bank MNC (BABP) mengakui gangguan transaksi digital berdampak pada operasional, sementara AIA Syariah resmi beroperasi penuh memperluas akses perlindungan asuransi syariah.",
+      "alasan": "Gangguan pada layanan transaksi digital Bank MNC (BABP) menimbulkan sentimen negatif spesifik terhadap bank tersebut dan sedikit kekhawatiran operasional di sektor perbankan. Namun, beroperasinya AIA Syariah sebagai entitas asuransi syariah memberikan sentimen positif untuk segmen asuransi. Secara keseluruhan, berita ini menghasilkan dampak yang cukup berimbang, sehingga arah pergerakan indeks sektor keuangan cenderung netral.",
+      "analisis_saham": "PT Bank MNC Internasional Tbk (BABP) akan menghadapi sentimen negatif yang kuat. Gangguan layanan transaksi digital dan dampaknya pada operasional serta antrean nasabah berpotensi menurunkan kepercayaan investor dan menekan harga saham BABP."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Direksi Indosat (ISAT), perusahaan telekomunikasi besar, menambah porsi kepemilikan sahamnya, menunjukkan kepercayaan manajemen terhadap prospek perusahaan.",
+      "alasan": "Aksi pembelian saham oleh direksi ISAT mengirimkan sinyal positif yang kuat tentang kepercayaan internal terhadap kinerja dan prospek pertumbuhan perusahaan telekomunikasi, yang merupakan komponen signifikan dalam sektor Teknologi. Strategi diversifikasi bisnis anak perusahaan Blibli (BELI) juga menunjukkan ekspansi ekosistem pemain teknologi.",
+      "analisis_saham": "ISAT:** Pembelian saham sebanyak 3,65 juta lembar oleh Direktur Utama dan pembelian lainnya oleh direksi merupakan indikator kuat sentimen positif dari manajemen. Hal ini cenderung meningkatkan kepercayaan investor dan berpotensi mendorong kenaikan harga saham ISAT."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Tidak ada berita spesifik terkait sektor Energi yang ditemukan dalam kumpulan berita hari ini.",
+      "alasan": "Karena tidak ada berita yang relevan dengan sektor Energi, sentimen pasar untuk sektor ini cenderung netral, tanpa pemicu yang jelas untuk pergerakan naik atau turun pada hari perdagangan berikutnya.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Emiten infrastruktur JSMR melakukan konsolidasi bisnis tol, sementara SSIA yang terkait properti dan kawasan industri melaporkan kenaikan pendapatan signifikan.",
+      "alasan": "Konsolidasi anak usaha oleh Jasa Marga, pemain besar di sektor jalan tol, dipandang positif untuk efisiensi operasional dan kinerja keuangan perusahaan, yang dapat menjadi sentimen pendorong bagi sektor. Kenaikan pendapatan SSIA juga menunjukkan geliat ekonomi yang dapat berdampak positif pada pembangunan infrastruktur pendukung.",
+      "analisis_saham": "JSMR (PT Jasa Marga (Persero) Tbk): Rencana konsolidasi dua anak usahanya ke JTT adalah langkah strategis yang berpotensi meningkatkan efisiensi dan sinergi dalam pengelolaan aset tol, yang kemungkinan akan direspons positif oleh pasar dan berpotensi mendorong kenaikan harga saham. SSIA (PT Surya Semesta Internusa Tbk): Pertumbuhan pendapatan konsolidasian yang kuat sebesar 44,7% pada Kuartal III-2026, ditopang segmen properti, menunjukkan performa fundamental yang solid dan dapat menarik minat investor, berpotensi meningkatkan harga saham."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Bank MNC (BABP) Akui Gangguan Transaksi Digital, Begini Dampaknya",
+      "url": "https://emitennews.com/news/bank-mnc-babp-akui-gangguan-transaksi-digital-begini-dampaknya",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "AIA Syariah Resmi Beroperasi, Perluas Akses Perlindungan Keluarga",
+      "url": "https://emitennews.com/news/aia-syariah-resmi-beroperasi-perluas-akses-perlindungan-keluarga",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Berkat Ekspansi Gerai Luar Pulau Jawa Laba MIDI Naik 19,44%",
+      "url": "https://emitennews.com/news/berkat-ekspansi-gerai-luar-pulau-jawa-laba-midi-naik-1944",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Bertahan di MSCI Small Cap, Emiten Minimarket Ini Cetak Laba Naik 3,9%",
+      "url": "https://emitennews.com/news/bertahan-di-msci-small-cap-emiten-minimarket-ini-cetak-laba-naik-39",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dikuasai Blibli, Emiten Ini Bidik Bisnis Farmasi & Minuman Beralkohol",
+      "url": "https://emitennews.com/news/dikuasai-blibli-emiten-ini-bidik-bisnis-farmasi-minuman-beralkohol",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dividen Interim Kedua, IFII Tebar Lagi Rp47,06 Miliar Setara Rp5/Saham",
+      "url": "https://emitennews.com/news/dividen-interim-kedua-ifii-tebar-lagi-rp4706-miliar-setara-rp5saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Gerai Luar Jawa Jadi Motor Laba, AMRT Masih Tangguh Jelang Reviu MSCI",
+      "url": "https://emitennews.com/news/gerai-luar-jawa-jadi-motor-laba-amrt-masih-tangguh-jelang-reviu-msci",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Dua Anggota Direksi Indosat (ISAT) Tambah Porsi Sahamnya",
+      "url": "https://emitennews.com/news/dua-anggota-direksi-indosat-isat-tambah-porsi-sahamnya",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Mendadak Jebol ke 4.910 Dekati 3,6% Penurunan, Ada Apa?",
+      "url": "https://emitennews.com/news/ihsg-mendadak-jebol-ke-4910-dekati-36-penurunan-ada-apa",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Rontok ke 4.904, 624 Saham Anjlok, TMPO Malah Naik Paling Tinggi",
+      "url": "https://emitennews.com/news/ihsg-rontok-ke-4904-624-saham-anjlok-tmpo-malah-naik-paling-tinggi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "JSMR Konsolidasikan Bisnis Tol, Dua Anak Usaha Bakal Dilebur ke JTT",
+      "url": "https://emitennews.com/news/jsmr-konsolidasikan-bisnis-tol-dua-anak-usaha-bakal-dilebur-ke-jtt",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Jual 73,6 Juta, Sumber Garam Kini Hanya Kuasai 18,36% Saham FOLK",
+      "url": "https://emitennews.com/news/jual-736-juta-sumber-garam-kini-hanya-kuasai-1836-saham-folk",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Komitmen Dividen 80 Persen, IPCC Perkuat Ekosistem Bisnis Terpadu",
+      "url": "https://emitennews.com/news/komitmen-dividen-80-persen-ipcc-perkuat-ekosistem-bisnis-terpadu",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kuartal III-2026, Bank Neo Commerce (BBYB) Raih Laba Bersih Rp430,98M",
+      "url": "https://emitennews.com/news/kuartal-iii-2026-bank-neo-commerce-bbyb-raih-laba-bersih-rp43098m",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kuartal III-2026, Surya Semesta (SSIA) Raih Pendapatan Rp4,81 Triliun",
+      "url": "https://emitennews.com/news/kuartal-iii-2026-surya-semesta-ssia-raih-pendapatan-rp481-triliun",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Laba Bersih Bank Danamon (BDMN) Naik 19% di Kuartal III 2026",
+      "url": "https://emitennews.com/news/laba-bersih-bank-danamon-bdmn-naik-19-di-kuartal-iii-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "META Akan Tebar Dividen Interim, Intip Besaran dan Jadwalnya!",
+      "url": "https://emitennews.com/news/meta-akan-tebar-dividen-interim-intip-besaran-dan-jadwalnya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Layanan Maklon dan Toll Manufacturing Global PYFA Diakui",
+      "url": "https://emitennews.com/news/layanan-maklon-dan-toll-manufacturing-global-pyfa-diakui",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "MNC Tourism (KPIG) Raih Pendapatan Rp1,66T, Terbesar dari Hospitality",
+      "url": "https://emitennews.com/news/mnc-tourism-kpig-raih-pendapatan-rp166t-terbesar-dari-hospitality",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "OJK Hukum Dua Manajer Investasi Berikut Pelaku, Cek Deretan Sanksinya!",
+      "url": "https://emitennews.com/news/ojk-hukum-dua-manajer-investasi-berikut-pelaku-cek-deretan-sanksinya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pendapatan Bisnis Motor Listrik TBS Energi (TOBA) Naik, Melonjak 120%",
+      "url": "https://emitennews.com/news/pendapatan-bisnis-motor-listrik-tbs-energi-toba-naik-melonjak-120",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Penjualan Snack Meningkat, AISA Catat Penjualan Tumbuh 12 Persen di Q3",
+      "url": "https://emitennews.com/news/penjualan-snack-meningkat-aisa-catat-penjualan-tumbuh-12-persen-di-q3",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "RUPS LAPD Tetapkan JSI Sinergi Mas jadi Pemegang Saham Pengendali",
+      "url": "https://emitennews.com/news/rups-lapd-tetapkan-jsi-sinergi-mas-jadi-pemegang-saham-pengendali",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "RMKO Balikkan Rugi Jadi Laba di Kuartal III 2026",
+      "url": "https://emitennews.com/news/rmko-balikkan-rugi-jadi-laba-di-kuartal-iii-2026",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sadap HP Presiden, Mantan Kapolri Jenderal Listyo Jadi Tersangka",
+      "url": "https://emitennews.com/news/sadap-hp-presiden-mantan-kapolri-jenderal-listyo-jadi-tersangka",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "SSIA Raup Laba Rp344M, Kas Tergerus Ekspansi Subang Smartpolitan",
+      "url": "https://emitennews.com/news/ssia-raup-laba-rp344m-kas-tergerus-ekspansi-subang-smartpolitan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tutup Kuartal III 2026, Emiten Hary Tanoe (MSIN) Ungkap Capaian Ini",
+      "url": "https://emitennews.com/news/tutup-kuartal-iii-2026-emiten-hary-tanoe-msin-ungkap-capaian-ini",
+      "sektor": "Keuangan, Teknologi, Energi"
+    }
+  ]
+}
