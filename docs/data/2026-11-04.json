@@ -1,0 +1,295 @@
+{
+  "tanggal": "2026-11-04",
+  "dibuat_pada": "2026-11-04 22:57 WIB",
+  "jumlah_artikel": 47,
+  "saham_disebut": {
+    "DNAR": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BINA": [
+      "Keuangan (rating 6/7)"
+    ],
+    "DGIK": [
+      "Infrastruktur (rating 4/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Salim Group berencana menyuntikkan modal ke Bank Ina (BINA) melalui private placement, sementara Bank Oke (DNAR) menghimbau pemegang sahamnya untuk segera mengkonversi saham warkat.",
+      "alasan": "Rencana suntikan modal yang signifikan dari investor strategis ke Bank Ina akan memperkuat permodalan bank dan dapat memberikan sentimen positif yang kuat bagi sub-sektor perbankan. Meskipun berita DNAR bersifat administratif, dampak positif dari aksi korporasi BINA lebih menonjol dan berpotensi mengangkat kinerja sektor keuangan secara keseluruhan.",
+      "analisis_saham": "DNAR (Bank Oke Indonesia Tbk): Permintaan konversi saham warkat menjadi scripless merupakan langkah administratif untuk modernisasi dan efisiensi pencatatan saham. Sentimen terhadap harga saham cenderung netral karena tidak secara langsung mempengaruhi kinerja keuangan, namun positif untuk tata kelola jangka panjang."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Tidak ada berita spesifik hari ini yang memberikan sentimen kuat positif atau negatif terhadap kinerja keuangan atau prospek pasar saham sektor Teknologi di BEI.",
+      "alasan": "Kumpulan berita yang diberikan sebagian besar membahas pergerakan IHSG secara umum dan kinerja perusahaan dari sektor konsumen. Tidak ada berita yang secara langsung menyentuh kinerja finansial, inovasi, regulasi, atau sentimen pasar yang dapat menggerakkan sektor Teknologi secara spesifik. Oleh karena itu, prediksinya adalah netral.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Singapura secara drastis menaikkan denda hingga 900% menjadi Rp283 miliar bagi perusahaan penyebab kabut asap lintas batas dari kebakaran hutan di Indonesia.",
+      "alasan": "Kenaikan denda yang substansial ini menandakan peningkatan risiko regulasi dan potensi biaya operasional yang lebih tinggi bagi perusahaan-perusahaan di sektor energi yang mungkin terlibat dalam pembukaan lahan atau aktivitas lain yang menyebabkan kebakaran hutan. Meskipun tidak semua sub-sektor energi terdampak secara langsung, sentimen negatif ini dapat membebani saham-saham tertentu di sektor tersebut yang memiliki eksposur terhadap risiko tersebut.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "PT Nusa Konstruksi Enjiniring Tbk (DGIK) akan mengalihkan saham treasuri hasil pembelian kembali kepada pemegang saham pengendali melalui pasar negosiasi.",
+      "alasan": "Berita yang relevan hanya membahas aksi korporasi internal satu emiten konstruksi (DGIK), yaitu pengalihan saham treasuri. Tidak ada sentimen luas terkait proyek infrastruktur baru, kebijakan pemerintah, atau kondisi makroekonomi yang dapat signifikan menggerakkan indeks sektor secara keseluruhan.",
+      "analisis_saham": "DGIK:** Pengalihan saham treasuri kepada pemegang saham pengendali melalui pasar negosiasi adalah aksi korporasi internal yang cenderung netral terhadap kinerja operasional perusahaan. Tindakan ini dapat memperkuat struktur kepemilikan tanpa memberikan katalis langsung untuk pertumbuhan bisnis atau laba secara signifikan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Sebagian besar berita hari ini melaporkan kejadian atau rencana yang berjangka waktu di masa depan (2026-2027) serta isu sosial dan lokal, sehingga tidak memberikan dorongan sentimen yang kuat untuk pergerakan pasar makro esok hari.",
+      "alasan": "Isu politik dan hukum yang melibatkan mantan pejabat tinggi, meskipun signifikan, mengacu pada penetapan tersangka dan tanggapan menteri yang terjadi di tahun 2026, sehingga mengurangi dampak urgensi terhadap stabilitas ekonomi dan politik jangka pendek. Berita lainnya bersifat sangat lokal, insidental, atau tidak relevan secara ekonomi makro, menyebabkan sentimen sektor secara keseluruhan cenderung netral.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Bank Oke (DNAR) Minta Pemegang Saham Warkat Segera Konversi",
+      "url": "https://emitennews.com/news/bank-oke-dnar-minta-pemegang-saham-warkat-segera-konversi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Alihkan Saham Treasuri ke Global Dinamika, DGIK Pilih Pasar Negosiasi",
+      "url": "https://emitennews.com/news/alihkan-saham-treasuri-ke-global-dinamika-dgik-pilih-pasar-negosiasi",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "ASSA Tebar Dividen Interim Rp20/Saham Setara Rp73,82M, Cek Jadwalnya!",
+      "url": "https://emitennews.com/news/assa-tebar-dividen-interim-rp20saham-setara-rp7382m-cek-jadwalnya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Fundamental Membaik, Mengapa Saham GOTO Masih Tertekan?",
+      "url": "https://emitennews.com/news/fundamental-membaik-mengapa-saham-goto-masih-tertekan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Anthoni Salim & Axton Salim Siapkan Suntikan Modal ke Bank Ina (BINA)",
+      "url": "https://emitennews.com/news/anthoni-salim-axton-salim-siapkan-suntikan-modal-ke-bank-ina-bina",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Arus Kas Operasi HAJJ Berbalik Positif Rp77,96M Pada Kuartal III 2026",
+      "url": "https://emitennews.com/news/arus-kas-operasi-hajj-berbalik-positif-rp7796m-pada-kuartal-iii-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "GDK Siap Serap Saham Buyback DGIK hingga Akhir Desember 2026",
+      "url": "https://emitennews.com/news/gdk-siap-serap-saham-buyback-dgik-hingga-akhir-desember-2026",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Holding Jasa Keuangan Grup Salim Serap 13,8 Juta Saham Baru BINA",
+      "url": "https://emitennews.com/news/holding-jasa-keuangan-grup-salim-serap-138-juta-saham-baru-bina",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Hingga Rp283 Miliar, Singapura Naikkan Denda 900% Penyebab Kabut Asap",
+      "url": "https://emitennews.com/news/hingga-rp283-miliar-singapura-naikkan-denda-900-penyebab-kabut-asap",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Berbalik Menguat ke 4.919, Tiga Big Banks Ini Topang Transaksi",
+      "url": "https://emitennews.com/news/ihsg-berbalik-menguat-ke-4919-tiga-big-banks-ini-topang-transaksi",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Indomaret Distributor ICBP Terbesar, Intip Performa 6 Divisi Bisnisnya",
+      "url": "https://emitennews.com/news/indomaret-distributor-icbp-terbesar-intip-performa-6-divisi-bisnisnya",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Loyo, IHSG Sesi I (4/11) Terkoreksi 0,88 Persen ke 4.860",
+      "url": "https://emitennews.com/news/loyo-ihsg-sesi-i-411-terkoreksi-088-persen-ke-4860",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "MARK Tebar Dividen Interim Kedua Rp20 per Saham, Yield 2 Persen",
+      "url": "https://emitennews.com/news/mark-tebar-dividen-interim-kedua-rp20-per-saham-yield-2-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Miliki Langsung, Sujito Beli 7,1 Juta Saham Dewi Shri Farmindo (DEWI)",
+      "url": "https://emitennews.com/news/miliki-langsung-sujito-beli-71-juta-saham-dewi-shri-farmindo-dewi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Penjualan Ekspor Moncer, DSFI Cetak Laba Melonjak 51 Persen di Q3 2026",
+      "url": "https://emitennews.com/news/penjualan-ekspor-moncer-dsfi-cetak-laba-melonjak-51-persen-di-q3-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "PKPK Gelar Stock Split 1:10 & Akuisisi Tahap Akhir DPAL Rp722,2 Miliar",
+      "url": "https://emitennews.com/news/pkpk-gelar-stock-split-110-akuisisi-tahap-akhir-dpal-rp7222-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Premi Tumbuh 49,7%, Oona Indonesia Masuk Top 7 Perusahaan Asuransi",
+      "url": "https://emitennews.com/news/premi-tumbuh-497-oona-indonesia-masuk-top-7-perusahaan-asuransi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Raih Sertifikasi Kepatuhan KPPU, AVIA Perkuat Komitmen Integritas",
+      "url": "https://emitennews.com/news/raih-sertifikasi-kepatuhan-kppu-avia-perkuat-komitmen-integritas",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Sadap Telepon Presiden, Mensesneg Sebut Arahnya Makar dan Berbahaya",
+      "url": "https://emitennews.com/news/sadap-telepon-presiden-mensesneg-sebut-arahnya-makar-dan-berbahaya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Sapi Ternak Mati Bikin Rugi, Laba Ultrajaya Malah Tembus Rp1,44 T",
+      "url": "https://emitennews.com/news/sapi-ternak-mati-bikin-rugi-laba-ultrajaya-malah-tembus-rp144-t",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Selain Dividen, Emiten Tambang Batu Bara Termal ini Buyback Jumbo",
+      "url": "https://emitennews.com/news/selain-dividen-emiten-tambang-batu-bara-termal-ini-buyback-jumbo",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "SMAR Tetapkan Dividen Interim Rp1,4 Triliun, Cair Akhir November!",
+      "url": "https://emitennews.com/news/smar-tetapkan-dividen-interim-rp14-triliun-cair-akhir-november",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tambah 1 Juta Lembar, Terang Anugrah Kini Kuasai 71,23% Saham HRTA",
+      "url": "https://emitennews.com/news/tambah-1-juta-lembar-terang-anugrah-kini-kuasai-7123-saham-hrta",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tekanan Kuartal IV Tidak Ringan, Telisik Pemicunya",
+      "url": "https://emitennews.com/news/tekanan-kuartal-iv-tidak-ringan-telisik-pemicunya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Women’s March Jakarta Digelar 7 November, Ini 9 Tuntutan yang Akan Disuarakan",
+      "url": "https://megapolitan.kompas.com/read/2026/11/04/22092811/womens-march-jakarta-digelar-7-november-ini-9-tuntutan-yang-akan",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "3 Zodiak yang Diprediksi Tak Lagi Merasa Kesepian pada 5 November 2026",
+      "url": "https://lifestyle.kompas.com/read/2026/11/04/224716220/3-zodiak-yang-diprediksi-tak-lagi-merasa-kesepian-pada-5-november-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bantah Peras Pengusaha Rp 500 Juta, Pengacara Bangun Sebut Palu di Mobil Cuma Pajangan",
+      "url": "https://megapolitan.kompas.com/read/2026/11/04/22183561/bantah-peras-pengusaha-rp-500-juta-pengacara-bangun-sebut-palu-di-mobil",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Trisula (TRIS) Cetak Kinerja Apik di Q3 2026, Siapkan Buyback Rp10M",
+      "url": "https://emitennews.com/news/trisula-tris-cetak-kinerja-apik-di-q3-2026-siapkan-buyback-rp10m",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "AS Tegaskan Terus Dukung ASEAN di Laut China Selatan",
+      "url": "https://internasional.kompas.com/read/2026/11/04/222458770/as-tegaskan-terus-dukung-asean-di-laut-china-selatan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "TMPO Cetak 2x ARA Usai ARB 4 Hari Beruntun, Timothy Ronald Serok 1,26%",
+      "url": "https://emitennews.com/news/tmpo-cetak-2x-ara-usai-arb-4-hari-beruntun-timothy-ronald-serok-126",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Turnaround! WMPP Cetak Laba di Kuartal III-26, Penjualan Melonjak 40%",
+      "url": "https://emitennews.com/news/turnaround-wmpp-cetak-laba-di-kuartal-iii-26-penjualan-melonjak-40",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Jenazah Kepala Bappeda DKI Jakarta Atika Nur Rahmania Akan Dimakamkan Besok",
+      "url": "https://megapolitan.kompas.com/read/2026/11/04/22395701/jenazah-kepala-bappeda-dki-jakarta-atika-nur-rahmania-akan-dimakamkan",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Daftar Perusahaan Peserta Walk In Interview di Jakarta Pusat 11-12 November",
+      "url": "https://megapolitan.kompas.com/read/2026/11/04/22192801/daftar-perusahaan-peserta-walk-in-interview-di-jakarta-pusat-11-12",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Tak Keberatan Bayar Rp 6.000 Naik BisKita Depok, Penumpang Berharap Fasilitas Ditingkatkan",
+      "url": "https://megapolitan.kompas.com/read/2026/11/04/22521411/tak-keberatan-bayar-rp-6000-naik-biskita-depok-penumpang-berharap",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Wamenko Perekonomian Optimistis Ekonomi Indonesia Tumbuh Lebih Tinggi pada Kuartal III 2026",
+      "url": "https://nasional.kompas.com/read/2026/11/04/22265991/wamenko-perekonomian-optimistis-ekonomi-indonesia-tumbuh-lebih-tinggi-pada",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dudung Sebut Kasus Jenderal Listyo Sigit Jadi Momentum Pembenahan Polri",
+      "url": "https://nasional.kompas.com/read/2026/11/04/22464991/dudung-sebut-kasus-jenderal-listyo-sigit-jadi-momentum-pembenahan-polri",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Jalur Diplomatik Bisa Selesaikan Problem Perekrutan WNI Jadi Tentara Rusia?",
+      "url": "https://nasional.kompas.com/read/2026/11/04/22311511/jalur-diplomatik-bisa-selesaikan-problem-perekrutan-wni-jadi-tentara-rusia",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Banjir dan Longsor Terjang Entikong Kalbar, Puluhan Rumah Terendam, 2 Rumah Roboh",
+      "url": "https://regional.kompas.com/read/2026/11/04/224323478/banjir-dan-longsor-terjang-entikong-kalbar-puluhan-rumah-terendam-2-rumah",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Jejak TPPO di Mojokerto: Sempat Pindah Hotel untuk Hindari Polisi, 23 WNA Dipaksa Menyamar Jadi Agen FBI",
+      "url": "https://surabaya.kompas.com/read/2026/11/04/224742378/jejak-tppo-di-mojokerto-sempat-pindah-hotel-untuk-hindari-polisi-23-wna",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Kasus Dugaan Pemerkosaan Siswi PKL di Lombok Barat Masuk Penyidikan, LPA Dampingi Korban",
+      "url": "https://regional.kompas.com/read/2026/11/04/221300478/kasus-dugaan-pemerkosaan-siswi-pkl-di-lombok-barat-masuk-penyidikan-lpa",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Memberanikan Diri Kabur dari Hotel, WNA Filipina Bongkar Jaringan TPPO di Mojokerto",
+      "url": "https://surabaya.kompas.com/read/2026/11/04/223250878/memberanikan-diri-kabur-dari-hotel-wna-filipina-bongkar-jaringan-tppo-di",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Sidang Vonis Pengeroyokan Mata Elang di Jaksel Digelar Besok, Polisi Siapkan Brimob",
+      "url": "https://megapolitan.kompas.com/read/2026/11/04/22233411/sidang-vonis-pengeroyokan-mata-elang-di-jaksel-digelar-besok-polisi",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Kader Gerindra Digerebek Saat Pesta Narkoba hingga 7 Polisi Dimutasi",
+      "url": "https://www.cnnindonesia.com/nasional/20261104063820-12-1422998/kader-gerindra-digerebek-saat-pesta-narkoba-hingga-7-polisi-dimutasi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sidang Militer, Sertu Rafy Tembak Pratu F Jarak Dekat di Palembang",
+      "url": "https://www.cnnindonesia.com/nasional/20261104201643-12-1423405/sidang-militer-sertu-rafy-tembak-pratu-f-jarak-dekat-di-palembang",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Carrick Beber Pesan Tegas di Ruang Ganti yang Buat Pemain MU Menggila",
+      "url": "https://www.cnnindonesia.com/olahraga/20261104150438-142-1423250/carrick-beber-pesan-tegas-di-ruang-ganti-yang-buat-pemain-mu-menggila",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Hasil Chennai Open: Janice Tjen Mengesankan, Lolos ke Perempat Final",
+      "url": "https://www.cnnindonesia.com/olahraga/20261104221203-170-1423430/hasil-chennai-open-janice-tjen-mengesankan-lolos-ke-perempat-final",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Michael Sianipar Pecat Sekjen FFI Budi Setiawan",
+      "url": "https://www.cnnindonesia.com/olahraga/20261104212631-142-1423423/michael-sianipar-pecat-sekjen-ffi-budi-setiawan",
+      "sektor": "Keuangan, Energi"
+    }
+  ]
+}
