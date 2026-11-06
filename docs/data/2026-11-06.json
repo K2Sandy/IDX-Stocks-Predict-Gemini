@@ -1,0 +1,303 @@
+{
+  "tanggal": "2026-11-06",
+  "dibuat_pada": "2026-11-06 22:37 WIB",
+  "jumlah_artikel": 48,
+  "saham_disebut": {
+    "BBSI": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BMAS": [
+      "Keuangan (rating 6/7)"
+    ],
+    "ADRO": [
+      "Energi (rating 5/7)"
+    ],
+    "TOTL": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Bank-bank di Indonesia menunjukkan kinerja keuangan yang solid dengan pertumbuhan laba dan dukungan likuiditas dari induk perusahaan.",
+      "alasan": "Dua berita utama menunjukkan fundamental perbankan yang kuat, baik dari sisi operasional (pertumbuhan laba bersih, kredit, pendapatan bunga bersih) maupun dukungan keuangan eksternal untuk likuiditas. Kinerja positif dari bank-bank ini akan memberikan sentimen optimis bagi sektor Keuangan secara keseluruhan, mengindikasikan potensi peningkatan nilai bagi investor.",
+      "analisis_saham": "BBSI (Krom Bank Indonesia Tbk): Peningkatan laba bersih sebesar 25% dan pertumbuhan kredit sebesar 46% menunjukkan kinerja operasional yang sangat kuat, yang berpotensi menjadi katalis positif signifikan bagi pergerakan harga sahamnya. Investor mungkin akan melihat ini sebagai indikasi pertumbuhan masa depan yang berkelanjutan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Sentimen pasar global yang menekan dan pelemahan IHSG yang signifikan menjadi faktor utama potensi pergerakan sektor Teknologi, tanpa adanya berita spesifik yang menopang.",
+      "alasan": "Kumpulan berita hari ini tidak mencantumkan berita spesifik mengenai kinerja atau prospek emiten di sektor Teknologi. Namun, pelemahan Indeks Harga Saham Gabungan (IHSG) hampir 2% pada sesi I akibat tekanan bursa dunia menunjukkan sentimen pasar yang sangat negatif. Sektor Teknologi, yang umumnya memiliki beta tinggi, cenderung akan mengikuti arah pergerakan pasar secara keseluruhan dan berpotensi mengalami tekanan jual.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Kinerja PT Alamtri Resources Indonesia (ADRO) mencuri perhatian pasar dengan pertumbuhan penjualan dan lonjakan keuntungan signifikan, didukung oleh kontribusi aluminium sebagai mesin cuan baru.",
+      "alasan": "Keberhasilan salah satu emiten terbesar di sektor energi, ADRO, dalam mencatatkan pertumbuhan keuntungan yang luar biasa melalui diversifikasi bisnisnya, memberikan sentimen positif yang terbatas bagi sektor secara keseluruhan. Kinerja kuat dari pemain utama dapat meningkatkan kepercayaan investor terhadap sektor energi meskipun pendorong utamanya bukan dari komoditas energi tradisional.",
+      "analisis_saham": "PT Alamtri Resources Indonesia Tbk (ADRO) diprediksi akan mengalami sentimen positif. Berita ini menyoroti keberhasilan ADRO dalam diversifikasi bisnisnya ke aluminium yang menjadi \"mesin cuan\" baru, menunjukkan pertumbuhan keuntungan yang luar biasa dan mengurangi ketergantungan semata-mata pada batu bara. Hal ini menunjukkan resiliensi dan potensi pertumbuhan perseroan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Progres pembangunan Tol Bocimi dan kenaikan laba signifikan kontraktor TOTL menandakan momentum positif di sektor infrastruktur.",
+      "alasan": "Berita tentang kemajuan proyek tol Bocimi menunjukkan kelanjutan pembangunan infrastruktur. Ditambah dengan lonjakan laba bersih perusahaan kontraktor besar seperti TOTL, ini mengindikasikan kuatnya permintaan proyek dan kemampuan perusahaan di sektor ini untuk mencetak keuntungan, memberikan sentimen positif bagi prospek sektor secara keseluruhan.",
+      "analisis_saham": "PT Total Bangun Persada Tbk (TOTL) mencatatkan laba bersih yang melesat 51,88% berkat proyek. Kinerja keuangan yang sangat positif ini diperkirakan akan menjadi katalis kuat untuk pergerakan harga saham TOTL, menunjukkan fundamental perusahaan yang solid dan kemampuan untuk meningkatkan profitabilitas."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Prediksi musim hujan yang lebih singkat namun berpotensi bencana di Jawa Timur serta penindakan usaha ilegal oli di Mojokerto menjadi fokus berita makro.",
+      "alasan": "Berita yang relevan dengan sektor umum/makro sangat terbatas dalam kumpulan ini. Prediksi cuaca yang menimbulkan potensi risiko hidrometeorologi di Jawa Timur bersifat lokal dan belum menunjukkan dampak signifikan pada ekonomi makro nasional secara keseluruhan. Penindakan usaha ilegal juga merupakan peristiwa spesifik yang tidak memiliki bobot cukup untuk menggerakkan indeks makro secara jelas.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Melihat Progres Tol Bocimi Seksi 3, Ditargetkan Buka Fungsional saat Nataru 2026",
+      "url": "https://bandung.kompas.com/read/2026/11/06/222958978/melihat-progres-tol-bocimi-seksi-3-ditargetkan-buka-fungsional-saat-nataru",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Klasemen Super League: Dewa United Pimpin Puncak, Madura United di Posisi Kedua",
+      "url": "https://bola.kompas.com/read/2026/11/06/21541168/klasemen-super-league-dewa-united-pimpin-puncak-madura-united-di-posisi-kedua",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Borneo FC Punya 23 Pemain Baru, Mauro Jeronimo Minta Suporter Bersabar",
+      "url": "https://bola.kompas.com/read/2026/11/06/22133958/borneo-fc-punya-23-pemain-baru-mauro-jeronimo-minta-suporter-bersabar",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Jadwal PSMS Medan Vs Persiraja, Eko Purdjianto Ingatkan Pemain untuk Waspada",
+      "url": "https://bola.kompas.com/read/2026/11/06/22012168/jadwal-psms-medan-vs-persiraja-eko-purdjianto-ingatkan-pemain-untuk-waspada",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Alfamart Kontributor Utama, BLOG Raup Pendapatan Rp1,13T di Q3 2026",
+      "url": "https://emitennews.com/news/alfamart-kontributor-utama-blog-raup-pendapatan-rp113t-di-q3-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Aluminium Jadi Mesin Cuan ADRO, Swiss Tujuan Ekspor Terbesar Kedua",
+      "url": "https://emitennews.com/news/aluminium-jadi-mesin-cuan-adro-swiss-tujuan-ekspor-terbesar-kedua",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Anggota HSC, Emiten Permen Kenyal Siap Tebar Dividen Interim Rp126,75M",
+      "url": "https://emitennews.com/news/anggota-hsc-emiten-permen-kenyal-siap-tebar-dividen-interim-rp12675m",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Aset Meledak, Laba Bersih Krom Bank Tembus Rp157 Miliar",
+      "url": "https://emitennews.com/news/aset-meledak-laba-bersih-krom-bank-tembus-rp157-miliar",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bidik Investasi, KIJA Gelar ASEAN–China Industrial Cooperation Forum",
+      "url": "https://emitennews.com/news/bidik-investasi-kija-gelar-aseanchina-industrial-cooperation-forum",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BMAS Raih Pinjaman USD10 Juta dari Induk KBank untuk Dukung Likuiditas",
+      "url": "https://emitennews.com/news/bmas-raih-pinjaman-usd10-juta-dari-induk-kbank-untuk-dukung-likuiditas",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bursa Dunia Tertekan, IHSG Sesi I (6/11) Mengekor Anjlok Nyaris 2%",
+      "url": "https://emitennews.com/news/bursa-dunia-tertekan-ihsg-sesi-i-611-mengekor-anjlok-nyaris-2",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "GJTL Catat Penjualan Naik 9,15%, Lo Kheng Hong Masih Koleksi 7% Saham",
+      "url": "https://emitennews.com/news/gjtl-catat-penjualan-naik-915-lo-kheng-hong-masih-koleksi-7-saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kronologi Pembunuhan Perempuan di Kamar Kos Cimahi, Berawal dari Janji Bertemu via MiChat",
+      "url": "https://bandung.kompas.com/read/2026/11/06/220413678/kronologi-pembunuhan-perempuan-di-kamar-kos-cimahi-berawal-dari-janji",
+      "sektor": "Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Hana Bank Gandeng Trinity Airways, Nabung Terbang Gratis ke Korsel",
+      "url": "https://emitennews.com/news/hana-bank-gandeng-trinity-airways-nabung-terbang-gratis-ke-korsel",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Akhir Pekan (6/11) Lanjutkan Penguatan ke 5.050,42",
+      "url": "https://emitennews.com/news/ihsg-akhir-pekan-611-lanjutkan-penguatan-ke-505042",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Indonesia ESG Bond Index Dirilis! Isinya 69 Penerbit Rating AAA – BBB-",
+      "url": "https://emitennews.com/news/indonesia-esg-bond-index-dirilis-isinya-69-penerbit-rating-aaa-bbb",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Jhonlin Terbesar di BYAN, Elaine Tetap, Kepemilikan Dato Low Sisa 8,3%",
+      "url": "https://emitennews.com/news/jhonlin-terbesar-di-byan-elaine-tetap-kepemilikan-dato-low-sisa-83",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kepemimpinan AMOR Solid, Siapkan Dividen Final Rp23 Per Saham",
+      "url": "https://emitennews.com/news/kepemimpinan-amor-solid-siapkan-dividen-final-rp23-per-saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Laba Naik 51% Berkat Proyek, SWF Norway Koleksi Saham Ini 1,14%",
+      "url": "https://emitennews.com/news/laba-naik-51-berkat-proyek-swf-norway-koleksi-saham-ini-114",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "LPEI Pastikan Kesiapan Bayar Pokok Obligasi Seri CRp22,5 Miliar",
+      "url": "https://emitennews.com/news/lpei-pastikan-kesiapan-bayar-pokok-obligasi-seri-crp225-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Masuk OCBC NISP, Kini ada 16 Bank Penampung DHE SDA",
+      "url": "https://emitennews.com/news/masuk-ocbc-nisp-kini-ada-16-bank-penampung-dhe-sda",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Medco Energi (MEDC) Terbitkan Obligasi USD300 Juta, Jatuh Tempo 2032",
+      "url": "https://emitennews.com/news/medco-energi-medc-terbitkan-obligasi-usd300-juta-jatuh-tempo-2032",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Ekspor Satu Pintu Melalui DAI, Mari Dengar Permintaan Gapki",
+      "url": "https://emitennews.com/news/mekanisme-ekspor-satu-pintu-melalui-dai-mari-dengar-permintaan-gapri",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Meski Lewat DSI, Mendag Pastikan Prosedur Ekspor tidak Berubah",
+      "url": "https://emitennews.com/news/meski-lewat-dsi-mendag-pastikan-prosedur-ekspor-tidak-berubah",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "NCKL Tegaskan Tak Terseret Penyelidikan Karhutla Pemerintah Singapura",
+      "url": "https://emitennews.com/news/nckl-tegaskan-tak-terseret-penyelidikan-karhutla-pemerintah-singapura",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "NFCX Ungkap Rencana Buyback, Harga Rp1.775 per Saham",
+      "url": "https://emitennews.com/news/nfcx-ungkap-rencana-buyback-harga-rp1775-per-saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "OKI Pulp & Paper Beber Kronologi Kebakaran Pabrik, Belum Hitung Rugi",
+      "url": "https://emitennews.com/news/oki-pulp-paper-beber-kronologi-kebakaran-pabrik-belum-hitung-rugi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pasang Target Rp2 Triliun, BSI (BRIS) Tawarkan Sukuk Mudharabah",
+      "url": "https://emitennews.com/news/pasang-target-rp2-triliun-bsi-bris-tawarkan-sukuk-mudharabah",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kalah Judi Online Rp 4 Juta, Teknisi AC Nekat Curi Mobil Pikap di Mamuju",
+      "url": "https://makassar.kompas.com/read/2026/11/06/220350178/kalah-judi-online-rp-4-juta-teknisi-ac-nekat-curi-mobil-pikap-di-mamuju",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pengendali Borong 11,57 Juta Saham PTRO Rp25M, Harganya Malah ARB!",
+      "url": "https://emitennews.com/news/pengendali-borong-1157-juta-saham-ptro-rp25m-harganya-malah-arb",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Perusahaan Kertas Sinar Mas di OKI Ungkap Dampak Insiden Kebakaran",
+      "url": "https://emitennews.com/news/perusahaan-kertas-sinar-mas-di-oki-ungkap-dampak-insiden-kebakaran",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "RPTRA Kalijodo Bakal Direvitalisasi Total, Area Bermain hingga Skateboard Akan Ditata Ulang",
+      "url": "https://megapolitan.kompas.com/read/2026/11/06/22312081/rptra-kalijodo-bakal-direvitalisasi-total-area-bermain-hingga-skateboard",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Saham HSC Jadi 83, Emiten ini Anggota Baru",
+      "url": "https://emitennews.com/news/saham-hsc-jadi-83-emiten-ini-anggota-baru",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tambah Modal, Garuda Indonesia (GIAA) Rights Issue 248,71 Miliar Saham",
+      "url": "https://emitennews.com/news/tambah-modal-garuda-indonesia-giaa-rights-issue-24871-miliar-lemb",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "TOTL Tebar Dividen Interim Rp40 per Saham, Yield 2,89%",
+      "url": "https://emitennews.com/news/totl-tebar-dividen-interim-rp40-per-saham-yield-289",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tari Golek Montro dan Bedhaya Soerya Soemirat Meriahkan Royal Wedding Mangkunegaran",
+      "url": "https://regional.kompas.com/read/2026/11/06/214748878/tari-golek-montro-dan-bedhaya-soerya-soemirat-meriahkan-royal-wedding",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Jenguk Prajurit Korban Heli Jatuh, Raja Juli: Akan Ada yang Dibawa ke Semarang dan Jakarta untuk Perawatan",
+      "url": "https://regional.kompas.com/read/2026/11/06/214914978/jenguk-prajurit-korban-heli-jatuh-raja-juli-akan-ada-yang-dibawa-ke",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Polisi Amankan 3 Nelayan yang Diduga Hendak Selundupkan 5 WNA China ke Australia via NTT",
+      "url": "https://regional.kompas.com/read/2026/11/06/221230878/polisi-amankan-3-nelayan-yang-diduga-hendak-selundupkan-5-wna-china-ke",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Musim Hujan di Jatim Diprediksi Hanya 4 Bulan, BPBD Ponorogo Petakan Wilayah Rawan Bencana",
+      "url": "https://surabaya.kompas.com/read/2026/11/06/221204478/musim-hujan-di-jatim-diprediksi-hanya-4-bulan-bpbd-ponorogo-petakan-wilayah",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Pengakuan Pemilik Usaha Oli Ilegal di Mojokerto, Tergiur Untung Besar, Racik Pakai Biji Plastik",
+      "url": "https://surabaya.kompas.com/read/2026/11/06/223052078/pengakuan-pemilik-usaha-oli-ilegal-di-mojokerto-tergiur-untung-besar-racik",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Pertamina Skors Operator SPBU yang Isi BBM ke Jeriken Pakai Barcode di Pamekasan",
+      "url": "https://surabaya.kompas.com/read/2026/11/06/215717278/pertamina-skors-operator-spbu-yang-isi-bbm-ke-jeriken-pakai-barcode-di",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Suahasil Sebut APBN Topang Pertumbuhan Ekonomi Indonesia 5,47 Persen",
+      "url": "https://money.kompas.com/read/2026/11/06/220200426/suahasil-sebut-apbn-topang-pertumbuhan-ekonomi-indonesia-5-47-persen",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "KSPSI Copot Listyo Sigit dari Dewan Penasihat, Andi Gani: Jadi Pelajaran Buat Kami",
+      "url": "https://megapolitan.kompas.com/read/2026/11/06/21571811/kspsi-copot-listyo-sigit-dari-dewan-penasihat-andi-gani-jadi-pelajaran",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Cerita Penjual Singkong di Pekalongan Ditangkap Bareskrim, Wajib Lapor via Video Call",
+      "url": "https://regional.kompas.com/read/2026/11/06/220330778/cerita-penjual-singkong-di-pekalongan-ditangkap-bareskrim-wajib-lapor-via",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Dari Diesel ke Matahari, Jalan Indonesia Menuju Swasembada Energi",
+      "url": "https://money.kompas.com/read/2026/11/06/223532726/dari-diesel-ke-matahari-jalan-indonesia-menuju-swasembada-energi",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Menhan Sjafrie Kumpulkan Pejabat Kemhan, Tekankan Kewaspadaan",
+      "url": "https://www.cnnindonesia.com/nasional/20261106204343-12-1424292/menhan-sjafrie-kumpulkan-pejabat-kemhan-tekankan-kewaspadaan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Gubernur Luthfi: Pertumbuhan Ekonomi Jateng Lampaui Target Nasional",
+      "url": "https://www.cnnindonesia.com/nasional/20261106214830-20-1424303/gubernur-luthfi-pertumbuhan-ekonomi-jateng-lampaui-target-nasional",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Veda Ega Kena Penalti Turun Enam Posisi di Balapan Moto3 Qatar 2026",
+      "url": "https://www.cnnindonesia.com/olahraga/20261106214428-156-1424302/veda-ega-kena-penalti-turun-enam-posisi-di-balapan-moto3-qatar-2026",
+      "sektor": "Umum/Makro"
+    }
+  ]
+}
