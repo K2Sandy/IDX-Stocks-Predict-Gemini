@@ -1,0 +1,267 @@
+{
+  "tanggal": "2026-11-07",
+  "dibuat_pada": "2026-11-07 21:41 WIB",
+  "jumlah_artikel": 42,
+  "saham_disebut": {
+    "AMOR": [
+      "Keuangan (rating 3/7)"
+    ],
+    "MKNT": [
+      "Infrastruktur (rating 3/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Indeks Harga Saham Gabungan (IHSG) terkoreksi sepekan disertai penurunan kapitalisasi pasar, sementara Ashmore Asset Indonesia (AMOR) mengumumkan jadwal dividen final.",
+      "alasan": "Koreksi IHSG dan penurunan kapitalisasi pasar BEI secara umum menciptakan sentimen negatif di pasar, yang cenderung menekan kinerja sektor keuangan secara keseluruhan. Meskipun ada kabar dividen dari AMOR, sentimen negatif pasar lebih dominan dan bisa menyeret sektor.",
+      "analisis_saham": "AMOR (Ashmore Asset Indonesia) akan mendistribusikan dividen final sebesar Rp23 per eksemplar, setelah sebelumnya mencairkan dividen interim. Pembagian dividen ini merupakan sentimen positif bagi pemegang saham AMOR dan dapat mendukung harga sahamnya di tengah kondisi pasar yang melemah."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Kekhawatiran akan potensi pajak digital sebagai beban baru bagi pelaku ekonomi digital serta sentimen pasar global dan domestik yang melemah akan menekan sektor Teknologi.",
+      "alasan": "Diskusi mengenai pajak digital mengindikasikan potensi peningkatan biaya operasional bagi perusahaan teknologi, yang dapat berdampak negatif pada profitabilitas. Selain itu, koreksi IHSG dan tekanan jual asing yang diperkirakan berlanjut menjadi sentimen negatif umum yang akan menyeret kinerja seluruh sektor, termasuk teknologi.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pemerintah merelaksasi aturan Devisa Hasil Ekspor Sumber Daya Alam (DHE SDA) dengan menambah daftar negara penempatan, memberikan fleksibilitas lebih bagi eksportir.",
+      "alasan": "Relaksasi aturan DHE SDA berpotensi memberikan kemudahan dan fleksibilitas finansial bagi perusahaan-perusahaan di sektor energi yang merupakan eksportir sumber daya alam, seperti batubara atau minyak dan gas. Kebijakan ini dapat meningkatkan sentimen positif terhadap kinerja operasional dan keuangan perusahaan, sehingga secara keseluruhan cenderung positif untuk sektor ini.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Proyeksi tekanan jual asing dan sentimen MSCI dapat menekan IHSG secara keseluruhan, sementara isu tata kelola perusahaan pada emiten terkait infrastruktur (telekomunikasi) menyoroti konsentrasi kepemilikan saham.",
+      "alasan": "Tidak ada katalis positif spesifik untuk sektor infrastruktur dalam kumpulan berita hari ini. Sebaliknya, ekspektasi tekanan terhadap Indeks Harga Saham Gabungan (IHSG) akibat sentimen MSCI dan penjualan asing dapat menyeret performa seluruh sektor, termasuk infrastruktur, di tengah ketiadaan berita pendukung.",
+      "analisis_saham": "PT Mitra Komunikasi Nusantara Tbk (MKNT) mendapat label High Shareholding Concentration (HSC) dari BEI karena 99,64% sahamnya dikuasai oleh segelintir elite. Meskipun sahamnya tercatat sebagai top gainers, label HSC ini mengindikasikan risiko tata kelola dan likuiditas, yang dapat menimbulkan kekhawatiran investor terhadap prospek jangka panjang perusahaan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Dominasi berita olahraga dan hiburan, ditambah isu dugaan penyadapan yang melibatkan Menteri Pemuda dan Olahraga tanpa implikasi ekonomi yang jelas.",
+      "alasan": "Kumpulan berita hari ini sebagian besar berfokus pada olahraga dan hiburan, yang tidak memiliki relevansi langsung dengan indikator ekonomi makro atau sentimen pasar saham secara umum. Isu dugaan penyadapan terhadap seorang menteri, meskipun melibatkan pejabat publik, disampaikan secara samar dan tidak menunjukkan adanya dampak sistemik atau perubahan kebijakan ekonomi yang signifikan. Oleh karena itu, sentimen terhadap sektor makro cenderung netral tanpa adanya katalis positif maupun negatif.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Hasil Persija Vs Persebaya 1-0: Gol Larut Mamut Antar Macan Kembali ke Puncak",
+      "url": "https://bola.kompas.com/read/2026/11/07/21033578/hasil-persija-vs-persebaya-1-0-gol-larut-mamut-antar-macan-kembali-ke-puncak",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Alasan Tuchel Lagi-Lagi Tak Panggil Cole Palmer ke Timnas Inggris",
+      "url": "https://bola.kompas.com/read/2026/11/07/21104808/alasan-tuchel-lagi-lagi-tak-panggil-cole-palmer-ke-timnas-inggris",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Hasil Persita Vs Isenmulang 0-1, Gol Adilson Silva Jadi Penentu",
+      "url": "https://bola.kompas.com/read/2026/11/07/20564698/hasil-persita-vs-isenmulang-0-1-gol-adilson-silva-jadi-penentu",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "12 Inovasi Pilihan Ashoka, Dari Kelas Alam hingga Fantasi Tuli",
+      "url": "https://emitennews.com/news/12-inovasi-pilihan-ashoka-dari-kelas-alam-hingga-fantasi-tuli",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "AMOR Jadwal Dividen Final, Cum Date 12 November",
+      "url": "https://emitennews.com/news/amor-jadwal-dividen-final-cum-date-12-november",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BLUE, PTSP hingga RSCH Kompak Ambles 29%, Ini Top Losers Sepekan!",
+      "url": "https://emitennews.com/news/blue-ptsp-hingga-rsch-kompak-ambles-29-ini-top-losers-sepekan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bertambah 3, Kini 8 Negara Penempatan Relaksasi Aturan DHE SDA",
+      "url": "https://emitennews.com/news/bertambah-3-kini-8-negara-penempatan-relaksasi-aturan-dhe-sda",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BPS Punya Perhitungan, Bekerja Satu Jam Sepekan Bukan Pengangguran",
+      "url": "https://emitennews.com/news/bps-punya-perhitungan-bekerja-satu-jam-sepekan-bukan-pengangguran",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Motivasi JJ Gabriel Pilih Real Madrid Usai Tinggalkan Man United",
+      "url": "https://bola.kompas.com/read/2026/11/07/21340058/motivasi-jj-gabriel-pilih-real-madrid-usai-tinggalkan-man-united",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Grup Salim Ungkap Latar dan Fakta Buyback Rp1,5 Triliun",
+      "url": "https://emitennews.com/news/grup-salim-ungkap-latar-dan-fakta-buyback-rp15-triliun",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Koreksi 0,13% Sepekan, Kapitalisasi Pasar BEI Turun ke Rp8.744T",
+      "url": "https://emitennews.com/news/ihsg-koreksi-013-sepekan-kapitalisasi-pasar-bei-turun-ke-rp8744t",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kasus Korupsi Pengadaan Digitalisasi SPBU, Sedihnya Dirut KAI",
+      "url": "https://emitennews.com/news/kasus-korupsi-pengadaan-digitalisasi-spbu-sedihnya-dirut-kai",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Laba Mandiri Melesat 19,6% Capai Rp46,5 Triliun Hingga Oktober 2026",
+      "url": "https://emitennews.com/news/laba-mandiri-melesat-196-capai-rp465-triliun-hingga-oktober-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Laba Menukik, Agoes Projosasmito Makin Intens Jala Saham BRMS",
+      "url": "https://emitennews.com/news/laba-menukik-agoes-projosasmito-makin-intens-jala-saham-brms",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Laba & Saham Naik Brutal, Emiten ini Berujung Pembekuan, dan HSC",
+      "url": "https://emitennews.com/news/laba-saham-naik-brutal-emiten-ini-berujung-pembekuan-dan-hsc",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "LTLS Perkuat Bisnis Food Ingredients via Pengembangan FiberCreme",
+      "url": "https://emitennews.com/news/ltls-perkuat-bisnis-food-ingredients-via-pengembangan-fibercreme",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Menakar Pajak Digital, Sumber Penerimaan atau Beban Baru?",
+      "url": "https://emitennews.com/news/menakar-pajak-digital-sumber-penerimaan-atau-beban-baru",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "MKNT Masuk Saham HSC & Keluar IHSG, Analis: Indeks Jadi Lebih Jujur",
+      "url": "https://emitennews.com/news/mknt-masuk-saham-hsc-keluar-ihsg-analis-indeks-jadi-lebih-jujur",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "MSCI Tekan IHSG Pekan Depan? Ini Kata Analis",
+      "url": "https://emitennews.com/news/msci-tekan-ihsg-pekan-depan-ini-kata-analis",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "RANS Buka Suara Soal Tur Asia D’MASIV, Begini Klarifikasinya",
+      "url": "https://emitennews.com/news/rans-buka-suara-soal-tur-asia-dmasiv-begini-klarifikasinya",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "7 Bulan Nikah, Pasutri AS-China Cerai karena Beda Bahasa dan Makanan",
+      "url": "https://internasional.kompas.com/read/2026/11/07/212834970/7-bulan-nikah-pasutri-as-china-cerai-karena-beda-bahasa-dan-makanan",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "11 Tahun 1.000 Penerbangan, Produsen Mobil Terbang Kawakan Sindir Tesla",
+      "url": "https://internasional.kompas.com/read/2026/11/07/204711470/11-tahun-1000-penerbangan-produsen-mobil-terbang-kawakan-sindir-tesla",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Andien: Hidup Saya Kadang di Panggung, Kadang di Kampung Pemulung",
+      "url": "https://megapolitan.kompas.com/read/2026/11/07/21030851/andien-hidup-saya-kadang-di-panggung-kadang-di-kampung-pemulung",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Saham HSC Pimpin Top Gainers Pekan Ini, Cek Selengkapnya",
+      "url": "https://emitennews.com/news/saham-hsc-pimpin-top-gainers-pekan-ini-cek-selengkapnya",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Rebalancing MSCI: Regulator Belum Belajar, Investor Ritel Harus Siaga",
+      "url": "https://emitennews.com/news/rebalancing-msci-regulator-belum-belajar-investor-ritel-harus-siaga",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ribuan Investor Cabut, Emiten RANS Beber Kerja Sama dengan D’MASIV",
+      "url": "https://emitennews.com/news/ribuan-investor-cabut-emiten-rans-beber-kerja-sama-dengan-dmasiv",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tarif Rp0 Pencatatan Hak Cipta, Peluang Talenta Kreatif Lindungi Karya",
+      "url": "https://emitennews.com/news/tarif-rp0-pencatatan-hak-cipta-peluang-talenta-kreatif-lindungi-karya",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Investor Ritel Waspada Pembobolan Akun Rekening Efek, Saham Bisa Dijual Tanpa Izin",
+      "url": "https://money.kompas.com/read/2026/11/07/210900126/investor-ritel-waspada-pembobolan-akun-rekening-efek-saham-bisa-dijual-tanpa",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Tangis Dian Pecah Saat Ceritakan Perjuangan Raih Emas Kejuaraan Dunia Bulu Tangkis Junior 2026",
+      "url": "https://regional.kompas.com/read/2026/11/07/211639378/tangis-dian-pecah-saat-ceritakan-perjuangan-raih-emas-kejuaraan-dunia-bulu",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Selangor Malaysia Tertarik Padi Biofortifikasi Banyuwangi, Jajaki Kerja Sama Teknologi Pertanian",
+      "url": "https://regional.kompas.com/read/2026/11/07/205407478/selangor-malaysia-tertarik-padi-biofortifikasi-banyuwangi-jajaki-kerja-sama",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "PDI-P: Anak Muda Harus Teladani Perjuangan Bung Karno",
+      "url": "https://nasional.kompas.com/read/2026/11/07/21221481/pdi-p-anak-muda-harus-teladani-perjuangan-bung-karno",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "Pembangunan Taman AA Maramis Jakpus Hampir Selesai, Kapan Dibuka untuk Umum?",
+      "url": "https://megapolitan.kompas.com/read/2026/11/07/20412431/pembangunan-taman-aa-maramis-jakpus-hampir-selesai-kapan-dibuka-untuk",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Stok Gula RI Aman, Asosiasi Petani Tebu Minta Kuota Impor Tak Ditambah",
+      "url": "https://money.kompas.com/read/2026/11/07/210700126/stok-gula-ri-aman-asosiasi-petani-tebu-minta-kuota-impor-tak-ditambah",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Hasto Duga Penyadapan oleh Petinggi Polri Berlangsung sejak 2023, Klaim PDI-P Juga Jadi Korban",
+      "url": "https://surabaya.kompas.com/read/2026/11/07/210400478/hasto-duga-penyadapan-oleh-petinggi-polri-berlangsung-sejak-2023-klaim-pdi",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Erick Thohir Mengaku Masuk Daftar Sadap Listyo Cs",
+      "url": "https://www.cnnindonesia.com/nasional/20261107200243-20-1424504/erick-thohir-mengaku-masuk-daftar-sadap-listyo-cs",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Kementerian ESDM dan SKK Migas Sabet CNN Indonesia Awards 2026",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261107201319-90-1424505/kementerian-esdm-dan-skk-migas-sabet-cnn-indonesia-awards-2026",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sarah Jukaku, Isteri Senator El Sayed Psikiater Keturunan India",
+      "url": "https://www.cnnindonesia.com/internasional/20261107154905-134-1424452/sarah-jukaku-isteri-senator-el-sayed-psikiater-keturunan-india",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Direktur Direktorat Narkoba Polda Sulteng Pribadi Sembiring Meninggal",
+      "url": "https://www.cnnindonesia.com/nasional/20261107203621-20-1424509/direktur-direktorat-narkoba-polda-sulteng-pribadi-sembiring-meninggal",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Pelajar dan Guru di Prancis Kembali Gelar Aksi Selasa Depan",
+      "url": "https://www.cnnindonesia.com/internasional/20261107202346-134-1424507/pelajar-dan-guru-di-prancis-kembali-gelar-aksi-selasa-depan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Hasil Chennai Open 2026: Libas Montgomery, Janice Lolos ke Final",
+      "url": "https://www.cnnindonesia.com/olahraga/20261107210801-170-1424515/hasil-chennai-open-2026-libas-montgomery-janice-lolos-ke-final",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Hasil Super League: Ivan Mamut Pahlawan Persija Gilas Persebaya",
+      "url": "https://www.cnnindonesia.com/olahraga/20261107204050-142-1424511/hasil-super-league-ivan-mamut-pahlawan-persija-gilas-persebaya",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Polda DIY Usut 15 Dugaan Tindak Pidana Saat Demo Ricuh di Malioboro",
+      "url": "https://yogyakarta.kompas.com/read/2026/11/07/205047878/polda-diy-usut-15-dugaan-tindak-pidana-saat-demo-ricuh-di-malioboro",
+      "sektor": "Energi"
+    }
+  ]
+}
