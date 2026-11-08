@@ -1,0 +1,282 @@
+{
+  "tanggal": "2026-11-08",
+  "dibuat_pada": "2026-11-08 21:46 WIB",
+  "jumlah_artikel": 44,
+  "saham_disebut": {
+    "BNBA": [
+      "Keuangan (rating 3/7)",
+      "Teknologi (rating 5/7)"
+    ],
+    "WIFI": [
+      "Teknologi (rating 5/7)"
+    ],
+    "ANTM": [
+      "Energi (rating 5/7)",
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Ajaib Group divestasi 9% saham Bank Bumi Arta (BNBA) senilai Rp236,9 miliar, mengurangi kepemilikan mereka di bank tersebut.",
+      "alasan": "Divestasi kepemilikan saham yang signifikan oleh Ajaib Group pada salah satu bank di sektor keuangan (BNBA) dapat menimbulkan sedikit sentimen negatif. Meskipun hanya melibatkan satu bank, aksi jual oleh investor institusional ini dapat diinterpretasikan sebagai sinyal kehati-hatian terhadap prospek bank tersebut, yang secara agregat dapat sedikit membebani sentimen sektor keuangan.",
+      "analisis_saham": "BNBA: Divestasi 9% saham oleh Ajaib Group merupakan sentimen negatif bagi harga saham BNBA. Hal ini mengindikasikan bahwa Ajaib Group mengurangi eksposur atau mungkin memiliki pandangan kurang optimistis terhadap Bank Bumi Arta. Pelepasan saham dalam jumlah besar berpotensi memberikan tekanan jual pada saham BNBA di sesi perdagangan berikutnya."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Berita hari ini menyoroti peringkat sukuk positif untuk perusahaan teknologi digital (WIFI) serta potensi permintaan dari akselerasi transformasi digital BUMN dan belanja teknologi pengawasan Polri, meskipun ada divestasi saham oleh Ajaib Group dari BNBA.",
+      "alasan": "Peringkat kredit yang kuat untuk PT Solusi Sinergi Digital Tbk (WIFI) memberikan sentimen positif bagi salah satu emiten di sektor ini, menunjukkan stabilitas finansial. Selain itu, adanya dorongan transformasi digital BUMN dan pengeluaran signifikan pemerintah untuk teknologi pengawasan mengindikasikan peningkatan potensi permintaan dan investasi di industri teknologi secara luas. Berita divestasi Ajaib Group lebih bersifat spesifik terhadap kepemilikan saham di sektor perbankan, sehingga tidak secara langsung memberikan sentimen negatif yang kuat untuk keseluruhan sektor teknologi.",
+      "analisis_saham": "BNBA: Divestasi 9% saham oleh Takjub Finansial Teknologi (Ajaib Group), yang merupakan kongsi kepengendalian, adalah sentimen negatif bagi PT Bank Bumi Arta Tbk. Hal ini dapat menimbulkan persepsi pasar tentang berkurangnya minat investor utama dan berpotensi memicu tekanan jual pada saham BNBA."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Kebijakan pengawasan ekspor batu bara melalui DSI dipastikan tidak akan mengurangi kendali eksportir, menjaga stabilitas operasional.",
+      "alasan": "Klarifikasi pemerintah mengenai pengawasan ekspor batu bara oleh DSI yang tidak akan mengubah posisi eksportir sebagai pelaku utama transaksi, memberikan kepastian dan sentimen positif bagi sub-sektor batu bara yang merupakan bagian signifikan dari sektor Energi. Hal ini mengurangi potensi kekhawatiran terkait birokrasi atau gangguan ekspor.",
+      "analisis_saham": "ANTM (PT Aneka Tambang Tbk): Meskipun terdaftar di sektor Bahan Baku, ANTM disebutkan mengakuisisi konsesi tambang emas seluas 3.500 hektare di Nabire. Akuisisi ini berpotensi meningkatkan cadangan dan produksi emas ANTM di masa depan, memberikan sentimen positif bagi kinerja jangka panjang perusahaan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pemerintah menunjukkan komitmen untuk meningkatkan program perumahan rakyat pada tahun 2027 dengan menambah pesanan genteng, memberikan sinyal positif bagi sektor konstruksi dan material bangunan.",
+      "alasan": "Peningkatan pesanan genteng untuk program perumahan rakyat mengindikasikan keberlanjutan proyek pembangunan dan permintaan material konstruksi. Hal ini memberikan sentimen positif bagi perusahaan-perusahaan di sub-sektor konstruksi dan material bangunan yang termasuk dalam kategori infrastruktur. Meskipun fokus pada satu jenis material, ini mencerminkan dukungan pemerintah terhadap sektor properti dan pembangunan.",
+      "analisis_saham": "PT Aneka Tambang (Persero) Tbk. (ANTM) diperkirakan akan mendapatkan sentimen positif dari berita akuisisi konsesi tambang emas seluas 3.500 hektare di Nabire. Ekspansi aset pertambangan ini berpotensi meningkatkan cadangan dan produksi emas perusahaan, yang merupakan katalis positif untuk kinerja saham ANTM ke depan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Sebagian besar berita hari ini berpusat pada topik olahraga dan hiburan, sementara berita politik tingkat tinggi tidak mengungkapkan detail substansial yang dapat mempengaruhi sentimen pasar.",
+      "alasan": "Kumpulan berita yang disediakan tidak mengandung informasi ekonomi makro, kebijakan pemerintah baru, atau sentimen pasar yang signifikan. Pertemuan Presiden dengan mantan Kapolri, meskipun berprofil tinggi, tidak memberikan detail mengenai isu-isu yang dibahas yang bisa menjadi katalis pasar, sehingga sentimen secara keseluruhan cenderung netral dan tidak memberikan arah yang jelas bagi indeks.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Kronologi Kebakaran Pul DAMRI Bandung, Api Diduga dari Permukiman Merembet ke 10 Bus",
+      "url": "https://bandung.kompas.com/read/2026/11/08/211516378/kronologi-kebakaran-pul-damri-bandung-api-diduga-dari-permukiman-merembet-ke",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Menteri PKP Akan Pesan Lagi 3 Juta Genteng Dari Majalengka Untuk Program Gentengisasi Tahun 2027",
+      "url": "https://bandung.kompas.com/read/2026/11/08/212650678/menteri-pkp-akan-pesan-lagi-3-juta-genteng-dari-majalengka-untuk-program",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tanggapan Pertamina Soal Moge Diduga Tak Antre BBM di Ciawi: Tak Ada Mengistimewakan Konsumen Tertentu",
+      "url": "https://bandung.kompas.com/read/2026/11/08/214049978/tanggapan-pertamina-soal-moge-diduga-tak-antre-bbm-di-ciawi-tak-ada",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Viral Pengendara Moge di Ciawi Bogor Diduga Isi BBM Tanpa Antre, Begini Kronologinya",
+      "url": "https://bandung.kompas.com/read/2026/11/08/213104778/viral-pengendara-moge-di-ciawi-bogor-diduga-isi-bbm-tanpa-antre-begini",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Hasil Java United Vs Persib 2-1: Maung Gagal Bangkit meski Sekulic Cetak Gol",
+      "url": "https://bola.kompas.com/read/2026/11/08/20574628/hasil-java-united-vs-persib-2-1-maung-gagal-bangkit-meski-sekulic-cetak-gol",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Klasemen Super League 2026-2027: Kalahkan Persib Bandung, Java United ke Posisi 7",
+      "url": "https://bola.kompas.com/read/2026/11/08/21411168/klasemen-super-league-2026-2027-kalahkan-persib-bandung-java-united-ke-posisi-7",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "14 Saham Cum Dividen Sepekan ke Depan, Top Yield dari Grup Sinarmas",
+      "url": "https://emitennews.com/news/14-saham-cum-dividen-sepekan-ke-depan-top-yield-dari-grup-sinarmas",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "2027, DSI Awasi Ekspor Batu Bara, Eksportir Tidak Kehilangan Kendali",
+      "url": "https://emitennews.com/news/2027-dsi-awasi-ekspor-batu-bara-eksportir-tidak-kehilangan-kendali",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ada Gejolak Baru di Kongsi Saham Tempo Media (TMPO), Tilik Isinya!",
+      "url": "https://emitennews.com/news/ada-gejolak-baru-di-kongsi-saham-tempo-media-tmpo-tilik-isinya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ajaib Group Divestasi 9% Saham Bank Bumi Arta (BNBA), Rp236,9 Miliar",
+      "url": "https://emitennews.com/news/ajaib-group-divestasi-9-saham-bank-bumi-arta-bnba-rp2369-miliar",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Tanggapi Isu Penyadapan, Surya Paloh Tak Khawatir dan Sebut Pemakzulan Gibran Tragis",
+      "url": "https://bandung.kompas.com/read/2026/11/08/210646578/tanggapi-isu-penyadapan-surya-paloh-tak-khawatir-dan-sebut-pemakzulan-gibran",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Antam (ANTM) Ambil Alih Tambang Emas 3.500 Hektare Kristalin di Nabire",
+      "url": "https://emitennews.com/news/antam-antm-ambil-alih-tambang-emas-3500-hektare-kristalin-di-nabire",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEI Membagi Dividen, Menciptakan Iklim Nan Sejuk?",
+      "url": "https://emitennews.com/news/bei-membagi-dividen-menciptakan-iklim-nan-sejuk",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Di Tengah Isu Penyadapan, Prabowo Kumpulkan 10 Mantan Kapolri",
+      "url": "https://emitennews.com/news/di-tengah-isu-penyadapan-prabowo-kumpulkan-10-mantan-kapolri",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Gencar Tarik Utang Bank, Liabilitas ASPR Naik 21% per Kuartal III-2026",
+      "url": "https://emitennews.com/news/gencar-tarik-utang-bank-liabilitas-aspr-naik-21-per-kuartal-iii-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IBOS Hadirkan Sagafredo Caffe Khas Italia di Yogyakarta",
+      "url": "https://emitennews.com/news/ibos-hadirkan-sagafredo-caffe-khas-italia-di-yogyakarta",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "ICW-Trend Asia Ungkap Belanja Alat Sadap, Polri Habiskan Dana Rp35,9T",
+      "url": "https://emitennews.com/news/icw-trend-asia-ungkap-belanja-alat-sadap-polri-habiskan-dana-rp359t",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Jelang Rebalancing MSCI, Muncul Nego Jumbo Saham ENRG Triliunan Rupiah",
+      "url": "https://emitennews.com/news/jelang-rebalancing-msci-muncul-nego-jumbo-saham-enrg-triliunan-rupiah",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kepemilikan Langsung, Sang Dirut Beli 143,6 Ribu Saham KKGI",
+      "url": "https://emitennews.com/news/kepemilikan-langsung-sang-dirut-beli-1436-ribu-saham-kkgi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pefindo Beri Rating idA(sy) untuk Sukuk Surge (WIFI) Rp1,25 Triliun",
+      "url": "https://emitennews.com/news/pefindo-beri-rating-idasy-untuk-sukuk-surge-wifi-rp125-triliun",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Lalui Masa Duka, Emiten Martha Tilaar (MBTO) Ungkap Kinerja Balik Laba",
+      "url": "https://emitennews.com/news/lalui-masa-duka-emiten-martha-tilaar-mbto-ungkap-kinerja-balik-laba",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Oknum & Emiten H Isam (ASLI) Terseret Sanksi OJK, Didenda Total Rp2,1M",
+      "url": "https://emitennews.com/news/oknum-emiten-h-isam-asli-terseret-sanksi-ojk-didenda-total-rp21m",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Langkah Awal Dongkrak Free Float, ROTI Tarik 514 Juta Saham Treasuri",
+      "url": "https://emitennews.com/news/langkah-awal-dongkrak-free-float-roti-tarik-514-juta-saham-treasuri",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Pemegang Saham BUMI Tambah 7.586 SID, Saham Anjlok 30,3% dalam Sebulan",
+      "url": "https://emitennews.com/news/pemegang-saham-bumi-tambah-7586-sid-saham-anjlok-303-dalam-sebulan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Penjualan Ekspor TRIS Tembus Rp802 Miliar, Sumbang 60% Pendapatan",
+      "url": "https://emitennews.com/news/penjualan-ekspor-tris-tembus-rp802-miliar-sumbang-60-pendapatan",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "PORT Bagikan Dividen Interim Rp35,6 per Saham, Total Rp100,25 Miliar",
+      "url": "https://emitennews.com/news/port-bagikan-dividen-interim-rp356-per-saham-total-rp10025-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Utang Pemerintah Capai Rp10.326 Triliun, Terbesar SBN Rp8.962T",
+      "url": "https://emitennews.com/news/utang-pemerintah-capai-rp10326-triliun-terbesar-sbn-rp8962t",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "PMA Jadi Penopang Saat PMDN Loyo, Sektor Jasa Kini Jadi Incaran Asing",
+      "url": "https://emitennews.com/news/pma-jadi-penopang-saat-pmdn-loyo-sektor-jasa-kini-jadi-incaran-asing",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "5 Tren Perawatan Kulit Viral yang Sebaiknya Dihindari",
+      "url": "https://lifestyle.kompas.com/read/2026/11/08/211500620/5-tren-perawatan-kulit-viral-yang-sebaiknya-dihindari",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Tikungan Terjal Transformasi BUMN",
+      "url": "https://emitennews.com/news/tikungan-terjal-transformasi-bumn",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kronologi 3 Jemaah Dibacok di Masjid Jaktim, Berawal dari Padamkan Kobaran Api di Pintu Masuk",
+      "url": "https://megapolitan.kompas.com/read/2026/11/08/21113011/kronologi-3-jemaah-dibacok-di-masjid-jaktim-berawal-dari-padamkan-kobaran",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Sukatani Manggung di Konser Obat Stres untuk Rakyat, Singgung Kebakaran Hutan",
+      "url": "https://entertainment.kompas.com/read/2026/11/08/211451766/sukatani-manggung-di-konser-obat-stres-untuk-rakyat-singgung-kebakaran",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Tiket Kapal Pelni Diskon 30 Persen Saat Nataru 2027, Ini Jadwalnya",
+      "url": "https://money.kompas.com/read/2026/11/08/213853626/tiket-kapal-pelni-diskon-30-persen-saat-nataru-2027-ini-jadwalnya",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Momen Veda Pratama Lewati Tiga Pebalap dan Finis Posisi 4 Moto3 Qatar",
+      "url": "https://otomotif.kompas.com/read/2026/11/08/212355115/momen-veda-pratama-lewati-tiga-pebalap-dan-finis-posisi-4-moto3-qatar",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Gelar Patriot Cilik di 5 SD Bomberay, TEP Unpad Dorong Pelestarian Bahasa Iha Bersama Dewan Adat",
+      "url": "https://nasional.kompas.com/read/2026/11/08/21355661/gelar-patriot-cilik-di-5-sd-bomberay-tep-unpad-dorong-pelestarian-bahasa-iha",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Kecelakaan di Tol Tegal, Hiace Tabrak Bagian Belakang Truk, 1 Penumpang Tewas",
+      "url": "https://regional.kompas.com/read/2026/11/08/211020578/kecelakaan-di-tol-tegal-hiace-tabrak-bagian-belakang-truk-1-penumpang-tewas",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Riset: Media Sosial Optimalkan Penyaluran Bantuan Bencana",
+      "url": "https://lestari.kompas.com/read/2026/11/08/210827886/riset-media-sosial-optimalkan-penyaluran-bantuan-bencana",
+      "sektor": "Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "3 Kapal Tanker Meledak dan Terbakar di Selat Hormuz",
+      "url": "https://www.cnnindonesia.com/internasional/20261108201012-120-1424725/3-kapal-tanker-meledak-dan-terbakar-di-selat-hormuz",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Konser BIGBANG di Bangkok Hari Ini Batal Akibat Cuaca Buruk",
+      "url": "https://www.cnnindonesia.com/hiburan/20261108205314-227-1424728/konser-bigbang-di-bangkok-hari-ini-batal-akibat-cuaca-buruk",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Prabowo dan 10 Mantan Kapolri Tukar Pandangan Soal Isu Terkini",
+      "url": "https://www.cnnindonesia.com/nasional/20261108201057-20-1424726/prabowo-dan-10-mantan-kapolri-tukar-pandangan-soal-isu-terkini",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Link Live Streaming MotoGP Qatar 2026: Kans Marc Marquez Kunci Juara",
+      "url": "https://www.cnnindonesia.com/olahraga/20261108151750-156-1424672/link-live-streaming-motogp-qatar-2026-kans-marc-marquez-kunci-juara",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Hasil Super League: Ciro Alves Cetak Gol, Persib Ditekuk Java United",
+      "url": "https://www.cnnindonesia.com/olahraga/20261108204913-142-1424727/hasil-super-league-ciro-alves-cetak-gol-persib-ditekuk-java-united",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Hasil Moto3 Qatar: Veda Ega Finis 4, Nyaris Podium dan Kalahkan Danish",
+      "url": "https://www.cnnindonesia.com/olahraga/20261108195742-156-1424723/hasil-moto3-qatar-veda-ega-finis-4-nyaris-podium-dan-kalahkan-danish",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Klasemen Moto3 2026: Veda Ega Ke-6 usai Nyaris Podium di Qatar",
+      "url": "https://www.cnnindonesia.com/olahraga/20261108211946-156-1424730/klasemen-moto3-2026-veda-ega-ke-6-usai-nyaris-podium-di-qatar",
+      "sektor": "Umum/Makro"
+    }
+  ]
+}
