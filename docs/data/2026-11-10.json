@@ -1,0 +1,307 @@
+{
+  "tanggal": "2026-11-10",
+  "dibuat_pada": "2026-11-10 23:04 WIB",
+  "jumlah_artikel": 50,
+  "saham_disebut": {
+    "ENRG": [
+      "Energi (rating 4/7)"
+    ],
+    "TLKM": [
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Bursa Efek Indonesia (BEI) memperketat regulasi High Shareholding Concentration (HSC) dengan mengubah metode penentuan dan komposisi komite, serta meningkatkan jumlah saham yang masuk daftar HSC.",
+      "alasan": "Perubahan regulasi oleh BEI yang bertujuan untuk meningkatkan transparansi dan tata kelola pasar saham adalah langkah positif. Meskipun tidak secara langsung berdampak pada kinerja keuangan emiten di sektor ini, lingkungan pasar yang lebih sehat dan teratur cenderung meningkatkan kepercayaan investor, yang pada gilirannya dapat memberikan sentimen positif jangka panjang bagi sektor keuangan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Tidak ada berita spesifik yang relevan dengan sektor Teknologi yang dirilis hari ini.",
+      "alasan": "Kumpulan berita hari ini tidak mencakup informasi, kejadian, atau sentimen yang secara langsung mempengaruhi emiten di sektor Teknologi. Oleh karena itu, diperkirakan indeks sektor Teknologi akan bergerak netral, mengikuti dinamika pasar secara umum tanpa katalis spesifik.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Sebuah pemegang saham utama, Bakrie Kalila Investment, mengurangi kepemilikan sahamnya secara signifikan di PT Energi Mega Persada Tbk (ENRG).",
+      "alasan": "Satu-satunya berita yang relevan untuk sektor energi hari ini adalah divestasi saham ENRG oleh pemegang saham utama. Meskipun berita ini menciptakan sentimen negatif untuk saham ENRG secara individual, dampaknya tidak cukup luas untuk secara signifikan menggerakkan seluruh indeks sektor energi.",
+      "analisis_saham": "Bakrie Kalila Investment secara substansial mengurangi kepemilikan sahamnya di ENRG dengan menjual lebih dari 1,67 miliar lembar saham pada harga Rp550-Rp565. Penjualan besar oleh pemegang saham terafiliasi ini menimbulkan sentimen negatif yang kuat, mengindikasikan potensi tekanan jual pada harga saham ENRG."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "PT Telkom Indonesia (TLKM) melanjutkan program streamlining anak usaha melalui dua merger, menunjukkan komitmen terhadap efisiensi dan transformasi.",
+      "alasan": "Berita positif dari TLKM sebagai salah satu pemain kunci di sektor infrastruktur, khususnya telekomunikasi, mengenai efisiensi operasional melalui merger dapat memberikan sentimen positif. Ini mengindikasikan prospek kinerja yang lebih baik dan pengelolaan aset yang lebih optimal bagi perusahaan besar di sektor tersebut.",
+      "analisis_saham": "TLKM: Program streamlining anak usaha Telkom melalui merger bertujuan meningkatkan efisiensi dan mendukung transformasi strategis, yang berpotensi positif bagi kinerja finansial TLKM dan harga sahamnya. Langkah ini diharapkan dapat menciptakan nilai tambah dan mengoptimalkan aset perusahaan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Berita hari ini didominasi oleh isu sosial-politik jangka panjang dan perkembangan olahraga yang tidak memiliki dampak langsung terhadap sentimen pasar saham makro.",
+      "alasan": "Kumpulan berita tidak mengandung data ekonomi makro, kebijakan pemerintah, atau peristiwa signifikan yang dapat memengaruhi pergerakan indeks sektor Umum/Makro dalam jangka pendek. Informasi yang disajikan lebih bersifat sosial dan olahraga, sehingga tidak memberikan sinyal arah yang jelas bagi pasar.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Masih Ada Siswa SMP di Pangandaran Belum Lancar Membaca dan Menulis",
+      "url": "https://bandung.kompas.com/read/2026/11/10/225831178/masih-ada-siswa-smp-di-pangandaran-belum-lancar-membaca-dan-menulis",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Ragnar Oratmangoen Gabung TC Timnas Indonesia, Tanpa Libur Tak Masalah",
+      "url": "https://bola.kompas.com/read/2026/11/10/22371158/ragnar-oratmangoen-gabung-tc-timnas-indonesia-tanpa-libur-tak-masalah",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Malo Gusto Siap Dijual Chelsea, Como 1907 dan AC Milan Mengintai",
+      "url": "https://bola.kompas.com/read/2026/11/10/22390098/malo-gusto-siap-dijual-chelsea-como-1907-dan-ac-milan-mengintai",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Adu Cuan Emiten Poultry di MSCI, Intip Juga Bekingan Asing di Baliknya",
+      "url": "https://emitennews.com/news/adu-cuan-emiten-poultry-di-msci-intip-juga-bekingan-asing-di-baliknya",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "383 Saham Akan Masuk Daftar Hitam, BEI Ubah Lagi Metode Penentuan HSC",
+      "url": "https://emitennews.com/news/383-saham-akan-masuk-daftar-hitam-bei-ubah-lagi-metode-penentuan-hsc",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "383 Saham HSC Bisa Keluar dari Daftar, Asal Lakukan Ini",
+      "url": "https://emitennews.com/news/383-saham-hsc-bisa-keluar-dari-daftar-asal-lakukan-ini",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "BEI Ubah Komposisi Komite HSC, 3 SRO dan 4 Pihak Independen",
+      "url": "https://emitennews.com/news/bei-ubah-komposisi-komite-hsc-3-sro-dan-4-pihak-independen",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Deli Indonesia Raya Rogoh Rp7,6 Miliar Beli Saham SINI, Harga Terkerek",
+      "url": "https://emitennews.com/news/deli-indonesia-raya-rogoh-rp76-miliar-beli-saham-sini-harga-terkerek",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Entitas Milik UBO Emiten Sawit NSSS Borong Saham Senilai Rp285,23M",
+      "url": "https://emitennews.com/news/entitas-milik-ubo-emiten-sawit-nsss-borong-saham-senilai-rp28523m",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IHSG Melesat 1,02 Persen ke 5.125, AKKU RAJA RATU Top Gainers!",
+      "url": "https://emitennews.com/news/ihsg-melesat-102-persen-ke-5125-akku-raja-ratu-top-gainers",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Investor Asal Hong Kong Serok 3,46% Saham NATO Bernilai Rp235,5 Miliar",
+      "url": "https://emitennews.com/news/investor-asal-hong-kong-serok-346-saham-nato-bernilai-rp2355-miliar",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IHSG Sesi Siang (10/11) Tembus Menguat 1 Persen ke Atas Level 5.100",
+      "url": "https://emitennews.com/news/ihsg-sesi-siang-1011-tembus-menguat-1-persen-ke-atas-level-5100",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Konsolidasi Internal, Bakrie Kalila Kurangi Kepemilikan Saham ENRG",
+      "url": "https://emitennews.com/news/konsolidasi-internal-bakrie-kalila-kurangi-kepemilikan-saham-enrg",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Permudah Transaksi Pelabuhan, Mandiri Optimalkan Kopra Port",
+      "url": "https://emitennews.com/news/kopra-port-solutions-bank-mandiri-dukung-digitalisasi-sektor-pelabuhan",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Kuasai 66,58%, Kini Nawasena Pengendali Saham Idea Indonesia (IDEA)",
+      "url": "https://emitennews.com/news/kuasai-6658-kini-nawasena-pengendali-saham-idea-indonesia-idea",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Likuiditas ANTM Tetap Solid Meski Persediaan Logam Mulia Naik 88%",
+      "url": "https://emitennews.com/news/likuiditas-antm-tetap-solid-meski-persediaan-logam-mulia-naik-88",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Margin Laba Agribisnis INDF Susul ICBP di Q3 2026",
+      "url": "https://emitennews.com/news/margin-laba-agribisnis-indf-susul-icbp-di-q3-2026",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Muncul Transaksi Nego Rp66,81T di Saham ADRO hingga AADI, Ada Apa?",
+      "url": "https://emitennews.com/news/muncul-transaksi-nego-rp6681-t-di-saham-adro-hingga-aadi-ada-apa",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Pendapatan & Laba Naik di Q3, TGKA Siap Bagi Dividen Rp91,8 Miliar",
+      "url": "https://emitennews.com/news/pendapatan-laba-naik-di-q3-tgka-siap-bagi-dividen-rp918-miliar",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Percepat Streamlining, Telkom Rampingkan Anak Usaha Lewat Dua Merger",
+      "url": "https://emitennews.com/news/percepat-streamlining-telkom-rampingkan-anak-usaha-lewat-dua-merger",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Saham HSC Bertambah! Total Kini Akan jadi 383 Saham",
+      "url": "https://emitennews.com/news/saham-hsc-bertambah-total-kini-akan-jadi-383-saham",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Satgas PASTI Hentikan 16 Entitas Keuangan Ilegal, Kenali Modusnya",
+      "url": "https://emitennews.com/news/satgas-pasti-hentikan-16-entitas-keuangan-ilegal-kenali-modusnya",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sekar Bumi (SKBM) Tebar Dividen Interim Rp30,27M Setara Rp17,5/Saham",
+      "url": "https://emitennews.com/news/sekar-bumi-skbm-tebar-dividen-interim-rp3027m-setara-rp175saham",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Tambah Porsi, Direktur Ini Beli 1,2 Juta Saham Bukit Uluwatu (BUVA)",
+      "url": "https://emitennews.com/news/tambah-porsi-direktur-ini-beli-12-juta-saham-bukit-uluwatu-buva",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "TCPI Bentuk Entitas Baru, Fokus Usaha Galangan Kapal",
+      "url": "https://emitennews.com/news/tcpi-bentuk-entitas-baru-fokus-usaha-galangan-kapal",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Tigaraksa (TGKA) Bagikan Dividen Interim Rp91,85M Setara 32,06% Laba!",
+      "url": "https://emitennews.com/news/tigaraksa-tgka-bagikan-dividen-interim-rp9185m-setara-3206-laba",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Transcoal Pacific (TCPI) Dirikan Anak Usaha, Tangani Perbaikan Kapal",
+      "url": "https://emitennews.com/news/transcoal-pacific-tcpi-dirikan-anak-usaha-tangani-perbaikan-kapal",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Truk Tabrak Motor Potong Jalur di Ampera Bekasi, 2 Orang Tewas",
+      "url": "https://megapolitan.kompas.com/read/2026/11/10/22422941/truk-tabrak-motor-potong-jalur-di-ampera-bekasi-2-orang-tewas",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Turun Kasta di MSCI, Laba CPIN Malah Tumbuh Berlipat Berkat Bisnis Ini",
+      "url": "https://emitennews.com/news/turun-kasta-di-msci-laba-cpin-malah-tumbuh-berlipat-berkat-bisnis-ini",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Longsoran Tembok di Kemang Jaksel Mulai Dievakuasi, Area Parkir Lapangan Padel Ikut Dibongkar",
+      "url": "https://megapolitan.kompas.com/read/2026/11/10/22541551/longsoran-tembok-di-kemang-jaksel-mulai-dievakuasi-area-parkir-lapangan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Wapres Gibran Nyatakan Berniat Mundur, Begini Respon Presiden",
+      "url": "https://emitennews.com/news/wapres-gibran-nyatakan-berniat-mundur-begini-respon-presiden",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Wapres Gibran: Saya akan Fight!",
+      "url": "https://emitennews.com/news/wapres-gibran-saya-akan-fight",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Pemerintah Ingin Pariwisata Jadi Sumber Pertumbuhan Ekonomi Baru di Daerah",
+      "url": "https://money.kompas.com/read/2026/11/10/224400326/pemerintah-ingin-pariwisata-jadi-sumber-pertumbuhan-ekonomi-baru-di-daerah",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Momen Ahrie Sonta Jalani Sidang Etik, Tertunduk Sambil Baca Dokumen",
+      "url": "https://nasional.kompas.com/read/2026/11/10/22500491/momen-ahrie-sonta-jalani-sidang-etik-tertunduk-sambil-baca-dokumen",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Tak Terima Dipecat soal Kasus Penyadapan Prabowo, Ahrie Sonta Ajukan Banding",
+      "url": "https://nasional.kompas.com/read/2026/11/10/22364721/tak-terima-dipecat-soal-kasus-penyadapan-prabowo-ahrie-sonta-ajukan-banding",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "Cak Imin Sebut Pesantren Berperan Penting dalam Penanggulangan Kemiskinan",
+      "url": "https://nasional.kompas.com/read/2026/11/10/22534161/cak-imin-sebut-pesantren-berperan-penting-dalam-penanggulangan-kemiskinan",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Tempat Sampah Terpilah Tersedia di Ruang Publik Jakarta, Sudahkah Berfungsi Optimal?",
+      "url": "https://megapolitan.kompas.com/read/2026/11/10/22210051/tempat-sampah-terpilah-tersedia-di-ruang-publik-jakarta-sudahkah",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Lolos dari Hukuman Mati Kasus Sabu, Rizal Divonis 20 Tahun Penjara, Hakim Sebut Bukan Bandar",
+      "url": "https://medan.kompas.com/read/2026/11/10/222551478/lolos-dari-hukuman-mati-kasus-sabu-rizal-divonis-20-tahun-penjara-hakim-sebut",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Kenangan Veteran Trikora asal Pamekasan: Tak Ada Kata Mundur Melawan Belanda",
+      "url": "https://surabaya.kompas.com/read/2026/11/10/224833378/kenangan-veteran-trikora-asal-pamekasan-tak-ada-kata-mundur-melawan-belanda",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kampung di Lumajang Diserbu Lalat, Warga Protes hingga Nyaris Bentrok dengan Pemilik Kandang",
+      "url": "https://surabaya.kompas.com/read/2026/11/10/225319678/kampung-di-lumajang-diserbu-lalat-warga-protes-hingga-nyaris-bentrok-dengan",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "PKS Tunjuk Sohibul Iman Jadi Wakil Ketua MPR Gantikan Hidayat Nur Wahid",
+      "url": "https://nasional.kompas.com/read/2026/11/10/22282391/pks-tunjuk-sohibul-iman-jadi-wakil-ketua-mpr-gantikan-hidayat-nur-wahid",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Demonstrasi di Purwokerto Berakhir, Mahasiswa Kocar-kacir Dikejar PKL yang Ngamuk karena Dagangan Sepi",
+      "url": "https://regional.kompas.com/read/2026/11/10/223813278/demonstrasi-di-purwokerto-berakhir-mahasiswa-kocar-kacir-dikejar-pkl-yang",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Wamenhaj Sebut Pelaku Penipuan Haji dan Umrah Sebagai \"Bandit Agama\"",
+      "url": "https://nasional.kompas.com/read/2026/11/10/22595931/wamenhaj-sebut-pelaku-penipuan-haji-dan-umrah-sebagai-bandit-agama",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Siswa SDN Jaddih 1 Bangkalan Pawai Kenakan Kostum Pahlawan, Ada Pattimura hingga Kartini",
+      "url": "https://surabaya.kompas.com/read/2026/11/10/230034478/siswa-sdn-jaddih-1-bangkalan-pawai-kenakan-kostum-pahlawan-ada-pattimura",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Mahasiswi di Banyuwangi Bersimpuh Saat Demo, Protes Pajak Buku dan Karhutla",
+      "url": "https://surabaya.kompas.com/read/2026/11/10/221850678/mahasiswi-di-banyuwangi-bersimpuh-saat-demo-protes-pajak-buku-dan-karhutla",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kebakaran TPA Supit Urang Belum Padam Total, Petugas Terkendala Tebing Sampah 30 Meter",
+      "url": "https://surabaya.kompas.com/read/2026/11/10/222420178/kebakaran-tpa-supit-urang-belum-padam-total-petugas-terkendala-tebing",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tanpa Laga Uji Coba, Timnas Indonesia Manfaatkan FIFA Matchday untuk TC di Bali",
+      "url": "https://surabaya.kompas.com/read/2026/11/10/225739278/tanpa-laga-uji-coba-timnas-indonesia-manfaatkan-fifa-matchday-untuk-tc-di",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "PKS Ungkap Alasan Hidayat Nur Wahid Mundur dari Wakil Ketua MPR",
+      "url": "https://www.cnnindonesia.com/nasional/20261110213307-32-1425637/pks-ungkap-alasan-hidayat-nur-wahid-mundur-dari-wakil-ketua-mpr",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "2 Klub Super League Paling Banyak Sumbang Pemain ke Timnas Indonesia",
+      "url": "https://www.cnnindonesia.com/olahraga/20261110211240-142-1425636/2-klub-super-league-paling-banyak-sumbang-pemain-ke-timnas-indonesia",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Batal Jumpa Yordania, Timnas Indonesia Uji Coba Lawan Bali United",
+      "url": "https://www.cnnindonesia.com/olahraga/20261110213341-142-1425638/batal-jumpa-yordania-timnas-indonesia-uji-coba-lawan-bali-united",
+      "sektor": "Energi"
+    }
+  ]
+}
