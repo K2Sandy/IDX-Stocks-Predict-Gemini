@@ -1,0 +1,332 @@
+{
+  "tanggal": "2026-11-11",
+  "dibuat_pada": "2026-11-11 22:51 WIB",
+  "jumlah_artikel": 48,
+  "saham_disebut": {
+    "PGEO": [
+      "Keuangan (rating 2/7)",
+      "Energi (rating 2/7)"
+    ],
+    "MAPI": [
+      "Keuangan (rating 2/7)"
+    ],
+    "NCKL": [
+      "Keuangan (rating 2/7)"
+    ],
+    "AMMN": [
+      "Keuangan (rating 2/7)",
+      "Energi (rating 2/7)"
+    ],
+    "BKSL": [
+      "Keuangan (rating 2/7)"
+    ],
+    "GMFI": [
+      "Keuangan (rating 2/7)"
+    ],
+    "ANTAM": [
+      "Keuangan (rating 2/7)"
+    ],
+    "KEEN": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "NRCA": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "DGIK": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "MTEL": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "SSIA": [
+      "Infrastruktur (rating 6/7)"
+    ],
+    "SRTG": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Ketidakpastian politik yang parah akibat berita pengunduran diri dan pengajuan pemakzulan Wakil Presiden diperkirakan akan menciptakan sentimen negatif yang kuat di pasar.",
+      "alasan": "Sektor keuangan sangat bergantung pada stabilitas politik dan kepercayaan investor. Gejolak politik tingkat tinggi seperti ini akan memicu penghindaran risiko, potensi arus keluar modal, dan menekan valuasi serta prospek pertumbuhan perusahaan-perusahaan di sektor perbankan, asuransi, dan jasa keuangan lainnya. Lingkungan ini tidak kondusif untuk investasi dan menyebabkan tekanan jual.",
+      "analisis_saham": "PGEO, MAPI, NCKL**: Dikeluarkannya dari indeks LQ45 akan memicu tekanan jual dari investor pasif atau reksa dana yang mengikuti indeks tersebut, sehingga harga saham ketiganya diperkirakan akan tertekan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Tidak ada berita relevan mengenai sektor Teknologi dalam kumpulan berita hari ini.",
+      "alasan": "Tidak ada satupun berita yang tersedia dalam kumpulan hari ini yang secara langsung atau tidak langsung berkaitan dengan perusahaan maupun dinamika di sektor Teknologi. Oleh karena itu, tidak ada sentimen pendorong yang jelas dari berita-berita tersebut untuk mempengaruhi pergerakan indeks sektor ini secara spesifik.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Dua emiten besar di sektor energi/pertambangan, Pertamina Geothermal Energy (PGEO) dan Amman Mineral (AMMN), menghadapi sentimen negatif terkait penghapusan dari indeks saham likuid (LQ45) dan indeks MSCI, meskipun AMMN menunjukkan fundamental yang kuat.",
+      "alasan": "Penghapusan PGEO dari indeks LQ45 dan AMMN dari indeks MSCI merupakan katalis negatif signifikan yang dapat memicu penjualan oleh dana pasif yang melacak indeks tersebut. Hal ini berpotensi menekan harga saham individual dan menyeret sentimen keseluruhan sektor energi/sumber daya.",
+      "analisis_saham": "PGEO (Pertamina Geothermal Energy Tbk):** Dikeluarkannya PGEO dari indeks LQ45 adalah sentimen negatif kuat yang kemungkinan akan menyebabkan tekanan jual. Dana investasi yang melacak LQ45 akan dipaksa untuk menjual saham PGEO, berpotensi menurunkan harga dan likuiditas saham tersebut di pasar."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Berita-berita positif mendominasi sektor infrastruktur, terutama dari kontrak pembangkit listrik baru, investasi energi terbarukan, dan akumulasi saham oleh pengendali di perusahaan konstruksi.",
+      "alasan": "Prospek pertumbuhan jangka panjang didukung oleh proyek-proyek energi terbarukan baru dan kontrak besar yang mengamankan pendapatan. Kepercayaan investor strategis dan pengendali tercermin dari peningkatan kepemilikan, memberikan sentimen positif bagi valuasi sektor secara keseluruhan.",
+      "analisis_saham": "KEEN**: Mengamankan dua kontrak Perjanjian Jual Beli Tenaga Listrik (PJBL) senilai USD1,2 miliar dari PLN untuk proyek PLTA, menandakan potensi pendapatan jangka panjang dan pertumbuhan signifikan di sektor energi terbarukan. Ini memberikan sentimen sangat positif dan dapat mendorong kenaikan harga saham."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini sebagian besar terdiri dari insiden lokal, tanggapan politik informal, dan acara olahraga yang tidak memiliki dampak langsung terhadap sentimen makroekonomi atau pasar secara keseluruhan.",
+      "alasan": "Berita yang tersedia tidak menyajikan katalis ekonomi makro yang signifikan seperti data ekonomi, kebijakan pemerintah, atau peristiwa global yang dapat menggerakkan pasar. Oleh karena itu, sentimen pasar untuk sektor umum/makro diperkirakan akan tetap netral tanpa arah yang jelas.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Italia Vs Perancis: Mancini Siapkan Taktik Anti-Les Bleus",
+      "url": "https://bola.kompas.com/read/2026/11/11/21561958/italia-vs-perancis-mancini-siapkan-taktik-anti-les-bleus",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Korbankan Waktu Libur Demi Timnas Indonesia, Ragnar Oratmangoen Semangat Jalani TC",
+      "url": "https://bola.kompas.com/read/2026/11/11/21564418/korbankan-waktu-libur-demi-timnas-indonesia-ragnar-oratmangoen-semangat-jalani",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Suara Tembakan Setengah Abad Lalu Masih Membekas, Kisah Veteran Perang Timor Timur Trauma Mendengar Suara Keras",
+      "url": "https://bandung.kompas.com/read/2026/11/11/222942178/suara-tembakan-setengah-abad-lalu-masih-membekas-kisah-veteran-perang-timor",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Akhirnya Wapres Gibran Putuskan Mundur",
+      "url": "https://emitennews.com/news/akhirnya-wapres-gibran-putuskan-mundur",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "120 Anggota DPR RI Resmi Ajukan HMP Pemakzulan Wapres Gibran",
+      "url": "https://emitennews.com/news/120-anggota-dpr-ri-resmi-ajukan-hmp-pemakzulan-wapres-gibran",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BEI Usir Pertamina Geothermal Energi (PGEO) dari Indeks LQ45",
+      "url": "https://emitennews.com/news/bei-usir-pertamina-geothermal-energi-pgeo-dari-indeks-lq45",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BKSL Gandeng Al-Azhar, Siapkan Fasilitas Pendidikan di Sentul City",
+      "url": "https://emitennews.com/news/bksl-gandeng-al-azhar-siapkan-fasilitas-pendidikan-di-sentul-city",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Didepak MSCI & Bukan HSC, Fundamental AMMN Ditopang Glencore dan ANTAM",
+      "url": "https://emitennews.com/news/didepak-msci-bukan-hsc-fundamental-ammn-ditopang-glencore-dan-antam",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Ekspansi Global, GMFI dan Oman Air Resmikan Fasilitas GMF Technic",
+      "url": "https://emitennews.com/news/ekspansi-global-gmfi-dan-oman-air-resmikan-fasilitas-gmf-technic",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Garap 2 PLTA Baru, KEEN Amankan Kontrak PLN Senilai USD1,2 Miliar",
+      "url": "https://emitennews.com/news/garap-2-plta-baru-keen-amankan-kontrak-pln-senilai-usd12-miliar",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Gunakan Dana IPO, Produsen INACO (JELI) Tambah Modal Anak Usaha Rp130M",
+      "url": "https://emitennews.com/news/gunakan-dana-ipo-produsen-inaco-jeli-tambah-modal-anak-usaha-rp130m",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Gelar RUPSLB 2026, United Tractors (UNTR) Setujui Tiga Agenda Ini",
+      "url": "https://emitennews.com/news/gelar-rupslb-2026-united-tractors-untr-setujui-tiga-agenda-ini",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Isu Gibran Mundur & Reli Saham Hapsoro, BEI Imbau Fundamental Investor",
+      "url": "https://emitennews.com/news/isu-gibran-mundur-reli-saham-hapsoro-bei-imbau-fundamental-investor",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Jelang Rebalancing MSCI, BEI Siap-Siap Konferensi Pers?",
+      "url": "https://emitennews.com/news/jelang-rebalancing-msci-bei-siap-siap-konferensi-pers",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Jelang Review MSCI, IHSG Turun Tipis 0,21%, Transaksi BUVA Salip BBCA",
+      "url": "https://emitennews.com/news/jelang-review-msci-ihsg-turun-tipis-021-transaksi-buva-salip-bbca",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Kemitraan INA–Vena Group, Suntik Portofolio 2,8 GW di Dua Lanskap EBT",
+      "url": "https://emitennews.com/news/kemitraan-inavena-group-suntik-portofolio-28-gw-di-dua-lanskap-ebt",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kian Tajir Saja Raffi Ahmad, LHKPN Tunjukkan Hartanya Rp1,14 Triliun",
+      "url": "https://emitennews.com/news/kian-tajir-saja-raffi-ahmad-lhkpn-tunjukkan-hartanya-rp114-triliun",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "MSCI Review November Mengintai Saham Ini, Potensi Outflow Capai Rp1,2T",
+      "url": "https://emitennews.com/news/msci-review-november-mengintai-saham-ini-potensi-outflow-capai-rp12t",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Komisaris IMC Pelita (PSSI) Ini Kurangi Porsi, Jual 36.500 Saham",
+      "url": "https://emitennews.com/news/komisaris-imc-pelita-pssi-ini-kurangi-porsi-jual-36500-saham",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Owner Subang Smartpolitan Tambah Kepemilikan NRCA, Saratoga Punya 5,9%",
+      "url": "https://emitennews.com/news/owner-subang-smartpolitan-tambah-kepemilikan-nrca-saratoga-punya-59",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pemanis Jelang Dilusi, ULTJ Bagi Dividen Rp1 T Sebelum Inbreng",
+      "url": "https://emitennews.com/news/pemanis-jelang-dilusi-ultj-bagi-dividen-rp1-t-sebelum-inbreng",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Pendapatan BIRD Naik 11%, Kas Operasi Mampu Biayai Investasi",
+      "url": "https://emitennews.com/news/pendapatan-bird-naik-11-kas-operasi-mampu-biayai-investasi",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Pengendali DGIK Terpantau Akumulasi 3,76% Saham, Setara Rp27,5 Miliar",
+      "url": "https://emitennews.com/news/pengendali-dgik-terpantau-akumulasi-376-saham-setara-rp275-miliar",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Rebalancing MSCI November, Potensi Passive Outflow Rp3,6 Triliun",
+      "url": "https://emitennews.com/news/rebalancing-msci-november-potensi-passive-outflow-rp36-triliun",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Sektor Barang Konsumen Non Primer Dominasi Daftar 383 Saham HSC",
+      "url": "https://emitennews.com/news/sektor-barang-konsumen-non-primer-dominasi-saham-hsc",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Susul MTEL, 10 BUMN Menyandang Status HSC",
+      "url": "https://emitennews.com/news/susul-mtel-10-bumn-menyandang-status-hsc",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Resmi! 383 Saham HSC Didepak dari IHSG, Efektif Mulai 13 November 2026",
+      "url": "https://emitennews.com/news/resmi-383-saham-hsc-didepak-dari-ihsg-efektif-mulai-13-november-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kemenlu RI Akan Pulangkan WNI Tergabung Militer Rusia yang Ditangkap Ukraina",
+      "url": "https://internasional.kompas.com/read/2026/11/11/222429970/kemenlu-ri-akan-pulangkan-wni-tergabung-militer-rusia-yang-ditangkap",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Netanyahu Disebut Histeris Serang Partai Arab di Parlemen Israel, Penuh Kegilaan",
+      "url": "https://internasional.kompas.com/read/2026/11/11/215203070/netanyahu-disebut-histeris-serang-partai-arab-di-parlemen-israel-penuh",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "4 Zodiak yang Punya Peluang Beruntung pada November 2026, Ada Aquarius",
+      "url": "https://lifestyle.kompas.com/read/2026/11/11/223000920/4-zodiak-yang-punya-peluang-beruntung-pada-november-2026-ada-aquarius",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Synology Perkuat Posisi sebagai Penyedia Solusi Teknologi",
+      "url": "https://emitennews.com/news/synology-perkuat-posisi-sebagai-penyedia-solusi-teknologi",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Target KUR 2027 jadi Rp325 Triliun, Meningkat 10,17 Persen",
+      "url": "https://emitennews.com/news/target-kur-2027-jadi-rp325-triliun-meningkat-1017-persen",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Polisi Ungkap Peran Tersangka Ledakan Rumah Mewah Grand Polonia, Nekat Instal Gas Meski Bukan Profesinya",
+      "url": "https://medan.kompas.com/read/2026/11/11/215236578/polisi-ungkap-peran-tersangka-ledakan-rumah-mewah-grand-polonia-nekat-instal",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Kronologi Dugaan Malapraktik di RS Tangerang, Bayi Baru Lahir Meninggal Usai Dirawat di NICU",
+      "url": "https://megapolitan.kompas.com/read/2026/11/11/22330221/kronologi-dugaan-malapraktik-di-rs-tangerang-bayi-baru-lahir-meninggal",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Uji Publik: Telkom Manfaatkan AI Tingkatkan Kemudahan Akses Informasi",
+      "url": "https://emitennews.com/news/uji-publik-telkom-manfaatkan-ai-tingkatkan-kemudahan-akses-informasi",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Saat Prabowo Singgung Jalan yang Benar dan Salah...",
+      "url": "https://nasional.kompas.com/read/2026/11/11/21571301/saat-prabowo-singgung-jalan-yang-benar-dan-salah",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Prabowo Syok Saat Ada Bupati Gerindra Kena OTT: Kalau Golkar, Nah Biar Bahlil yang Pusing",
+      "url": "https://nasional.kompas.com/read/2026/11/11/22090201/prabowo-syok-saat-ada-bupati-gerindra-kena-ott-kalau-golkar-nah-biar-bahlil",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Prabowo Protes ke Pramono Banyak Iklan di Bundaran HI, Ternyata Dipasang Kader Gerindra",
+      "url": "https://nasional.kompas.com/read/2026/11/11/22032301/prabowo-protes-ke-pramono-banyak-iklan-di-bundaran-hi-ternyata-dipasang",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Gaspol Hari Ini: Kongsi Prabowo-Jokowi Selesai, Gibran Akhirnya Mundur?",
+      "url": "https://nasional.kompas.com/read/2026/11/11/22251121/gaspol-hari-ini-kongsi-prabowo-jokowi-selesai-gibran-akhirnya-mundur",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Aceh Tetapkan Status Siaga Darurat Bencana hingga Januari 2027",
+      "url": "https://regional.kompas.com/read/2026/11/11/223813078/aceh-tetapkan-status-siaga-darurat-bencana-hingga-januari-2027",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Laga Tinju Porprov Bangka Belitung Digelar di Alun-alun, Warga Antusias Menonton",
+      "url": "https://regional.kompas.com/read/2026/11/11/221114878/laga-tinju-porprov-bangka-belitung-digelar-di-alun-alun-warga-antusias",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Sewa Pikap Rp 500.000 Sehari, Enam Begal di Depok Keliling Cari Korban",
+      "url": "https://megapolitan.kompas.com/read/2026/11/11/22012661/sewa-pikap-rp-500000-sehari-enam-begal-di-depok-keliling-cari-korban",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Prabowo Sebut Rp480 T Belanja APBN Hangus: Ternyata Banyak Kebocoran",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261111222513-78-1426102/prabowo-sebut-rp480-t-belanja-apbn-hangus-ternyata-banyak-kebocoran",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Prabowo: Narasi Indonesia Gelap Dibuat oleh Orang Jahat",
+      "url": "https://www.cnnindonesia.com/nasional/20261111212441-32-1426091/prabowo-narasi-indonesia-gelap-dibuat-oleh-orang-jahat",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "8 Mahasiswa UGM Dikabarkan Ditangkap Usai Demo, Ini Penjelasan Polisi",
+      "url": "https://yogyakarta.kompas.com/read/2026/11/11/222528978/8-mahasiswa-ugm-dikabarkan-ditangkap-usai-demo-ini-penjelasan-polisi",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Prabowo Terima Kasih ke PDIP: Kita Sama-sama Bela Bangsa dan Negara",
+      "url": "https://www.cnnindonesia.com/nasional/20261111220703-32-1426101/prabowo-terima-kasih-ke-pdip-kita-sama-sama-bela-bangsa-dan-negara",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Reza Arya Kembali ke Timnas Indonesia, Comeback Setelah Era Kluivert",
+      "url": "https://www.cnnindonesia.com/olahraga/20261111210333-142-1426088/reza-arya-kembali-ke-timnas-indonesia-comeback-setelah-era-kluivert",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "CNN Indonesia Gelar Turnamen Padel ENGAGEMATCH Vol. 1, Ayo Daftar",
+      "url": "https://www.cnnindonesia.com/olahraga/20261111170107-170-1425986/cnn-indonesia-gelar-turnamen-padel-engagematch-vol-1-ayo-daftar",
+      "sektor": "Umum/Makro"
+    }
+  ]
+}
