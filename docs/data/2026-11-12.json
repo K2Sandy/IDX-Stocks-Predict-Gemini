@@ -1,0 +1,322 @@
+{
+  "tanggal": "2026-11-12",
+  "dibuat_pada": "2026-11-12 23:36 WIB",
+  "jumlah_artikel": 53,
+  "saham_disebut": {
+    "BNGA": [
+      "Keuangan (rating 3/7)"
+    ],
+    "DGIK": [
+      "Infrastruktur (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Pelemahan Rupiah ke rekor terendah Rp18.241 per dolar AS memberikan sentimen negatif, meskipun PT Bank CIMB Niaga Tbk (BNGA) mencatat penyaluran kredit baru.",
+      "alasan": "Pelemahan signifikan Rupiah hingga mencapai titik terendah sepanjang sejarah dapat memicu kekhawatiran akan inflasi, outflow modal asing, dan potensi kenaikan suku bunga acuan yang dapat menekan profitabilitas perbankan dan meningkatkan risiko kredit. Meskipun ada kabar positif penyaluran kredit oleh BNGA, dampak makro pelemahan Rupiah lebih dominan dan berpotensi menyeret sektor keuangan secara keseluruhan.",
+      "analisis_saham": "PT Bank CIMB Niaga Tbk (BNGA) mendapatkan sentimen positif karena berhasil menyalurkan fasilitas kredit sebesar Rp300 miliar kepada PT Adi Sarana Armada Tbk (ASSA), yang menunjukkan pertumbuhan bisnis pinjaman dan potensi pendapatan bunga. Namun, sentimen positif ini mungkin sedikit diredam oleh kondisi makroekonomi terkait pelemahan Rupiah yang dapat memengaruhi kinerja perbankan secara umum."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Acer Indonesia memperkenalkan rangkaian solusi komputasi cerdas berbasis Artificial Intelligence (AI) untuk mendukung kebutuhan bisnis modern.",
+      "alasan": "Berita ini positif karena menyoroti inovasi dan potensi pertumbuhan dalam sub-sektor AI, yang merupakan pendorong utama bagi industri teknologi secara global. Peningkatan penawaran produk AI untuk segmen bisnis dapat memicu peningkatan permintaan akan perangkat keras dan lunak terkait. Hal ini memberikan sentimen positif umum bagi perusahaan teknologi yang bergerak di bidang AI dan solusi komputasi.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Tidak ada berita spesifik yang secara langsung membahas sektor Energi hari ini.",
+      "alasan": "Kumpulan berita yang disediakan tidak mengandung informasi langsung mengenai harga komoditas energi, kebijakan pemerintah terkait sektor, atau kinerja operasional perusahaan energi. Oleh karena itu, sentimen pasar untuk sektor Energi berdasarkan berita-berita ini cenderung netral.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pengendali PT Nusa Konstruksi Enjiniring Tbk (DGIK) secara konsisten menambah kepemilikan sahamnya, memberikan sinyal positif bagi prospek perusahaan konstruksi.",
+      "alasan": "Meskipun hanya satu berita yang relevan dengan sektor Infrastruktur, aksi korporasi pembelian saham oleh pengendali DGIK menunjukkan keyakinan yang kuat terhadap fundamental dan valuasi perusahaan konstruksi tersebut. Sentimen positif ini berpotensi memberikan dorongan kecil pada sub-sektor konstruksi secara keseluruhan, meskipun dampaknya mungkin tidak signifikan untuk seluruh indeks.",
+      "analisis_saham": "PT Nusa Konstruksi Enjiniring Tbk (DGIK): Aksi borong saham oleh pengendali menunjukkan kepercayaan internal yang tinggi terhadap kinerja dan prospek perusahaan di masa depan. Hal ini berpotensi menjadi katalis positif, mendorong kenaikan harga saham DGIK pada perdagangan berikutnya."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Kenaikan harga pangan yang signifikan di pasar lokal menyebabkan penurunan omzet pedagang dan melemahnya daya beli masyarakat.",
+      "alasan": "Kenaikan harga pangan menunjukkan adanya tekanan inflasi yang dapat mengikis daya beli konsumen dan berpotensi menghambat pertumbuhan ekonomi. Hal ini dapat menimbulkan kekhawatiran pasar terhadap pendapatan perusahaan dan kebijakan moneter yang lebih ketat, sehingga memberikan sentimen negatif pada sektor makro secara keseluruhan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Diduga Stres, WNA di Lapas Karangasem Lukai Diri Pakai Rautan Pensil",
+      "url": "https://denpasar.kompas.com/read/2026/11/12/231612178/diduga-stres-wna-di-lapas-karangasem-lukai-diri-pakai-rautan-pensil",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Link Live Streaming Inggris Vs Kroasia, Harry Kane di Ambang Sejarah",
+      "url": "https://bola.kompas.com/read/2026/11/12/23203848/link-live-streaming-inggris-vs-kroasia-harry-kane-di-ambang-sejarah",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Voters Jatim Desak PSSI Pusat Segera Tetapkan Jadwal Kongres, Khawatir Organisasi Daerah Terhambat",
+      "url": "https://bola.kompas.com/read/2026/11/12/22392618/voters-jatim-desak-pssi-pusat-segera-tetapkan-jadwal-kongres-khawatir-organisasi",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Acer Indonesia Perkuat Ekosistem AI untuk Bisnis",
+      "url": "https://emitennews.com/news/acer-indonesia-perkuat-ekosistem-ai-untuk-bisnis",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Adi Sarana (ASSA) Raih Kredit CIMB Niaga Rp300M, Begini Peruntukannya",
+      "url": "https://emitennews.com/news/adi-sarana-assa-raih-kredit-cimb-niaga-rp300m-begini-peruntukannya",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "ASSA Raih Fasilitas Kredit CIMB Niaga Rp300 Miliar untuk Tambah Armada",
+      "url": "https://emitennews.com/news/assa-raih-fasilitas-kredit-cimb-niaga-rp300-miliar-untuk-tambah-armada",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "ATL! Rupiah Sentuh Rp18.241 di Tengah Isu HSC, MSCI hingga Gibran",
+      "url": "https://emitennews.com/news/atl-rupiah-sentuh-rp18241-di-tengah-isu-hsc-msci-hingga-gibran",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Berturut-turut, Pengendali Borong 8,16% Saham DGIK Senilai Rp61,28M",
+      "url": "https://emitennews.com/news/berturut-turut-pengendali-borong-816-saham-dgik-senilai-rp6128m",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Bidik Pendapatan USD44 Juta per Tahun, Ini Optimisme Oman GMF Technic",
+      "url": "https://emitennews.com/news/bidik-pendapatan-usd44-juta-per-tahun-ini-optimisme-oman-gmf-technic",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Cikarang Listrindo (POWR) Tebar Dividen Rp502,93 Miliar, Cek Jadwalnya",
+      "url": "https://emitennews.com/news/cikarang-listrindo-powr-tebar-dividen-rp50293-miliar-cek-jadwalnya",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Didepak BEI dari LQ45 Gegara HSC, MAPI Justru Lolos Reviu MSCI",
+      "url": "https://emitennews.com/news/didepak-bei-dari-lq45-gegara-hsc-mapi-justru-lolos-reviu-msci",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dolar AS Menguat, Rupiah Terseok di Level Rp18.221 Pagi ini",
+      "url": "https://emitennews.com/news/dolar-as-menguat-rupiah-terseok-di-level-rp18221-pagi-ini",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Dua Pemegang Saham LUCY Lepas 416,21 Juta Saham Senilai Rp127,7 Miliar",
+      "url": "https://emitennews.com/news/dua-pemegang-saham-lucy-lepas-41621-juta-saham-senilai-rp1277-miliar",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Emiten Kabel Laut (KETR) Resmi Jadi Bagian dari Grup Sinar Mas!",
+      "url": "https://emitennews.com/news/emiten-kabel-laut-ketr-resmi-jadi-bagian-dari-grup-sinar-mas",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Emiten Nagita Slavina VISI Sah Kuasai 72,9% Saham Hasna Medika Cirebon",
+      "url": "https://emitennews.com/news/emiten-nagita-slavina-visi-sah-kuasai-729-saham-hasna-medika-cirebon",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Gibran Resmi Mundur, 14 Hari Waktu Presiden Ajukan 2 Calon Wapres",
+      "url": "https://emitennews.com/news/gibran-resmi-mundur-14-hari-waktu-presiden-ajukan-2-calon-wapres",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Melesat ke 5.250 Usai Rebalancing MSCI, All Big Banks Kinclong!",
+      "url": "https://emitennews.com/news/ihsg-melesat-ke-5250-usai-rebalancing-msci-all-big-banks-kinclong",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IHSG Siang (12/11) Terbang 2,2% di Tengah Isu HSC, MSCI, hingga Gibran",
+      "url": "https://emitennews.com/news/ihsg-siang-1211-terbang-22-di-tengah-isu-hsc-msci-hingga-gibran",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kawal Keandalan Bisnis, Asuransi Jasindo Perkuat Pengendalian Internal",
+      "url": "https://emitennews.com/news/kawal-keandalan-bisnis-asuransi-jasindo-perkuat-pengendalian-internal",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Kejar Sisa Target Rp500 Triliun Pajak 2026, DJP Siapkan Kebijakan Ini",
+      "url": "https://emitennews.com/news/kejar-sisa-target-rp500-triliun-pajak-2026-djp-siapkan-kebijakan-ini",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "MAPI Masuk Geng HSC, Anak Usahanya (MAPA) Justru Lolos Reviu MSCI",
+      "url": "https://emitennews.com/news/mapi-masuk-geng-hsc-anak-usahanya-mapa-justru-lolos-reviu-msci",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "MSCI Masih Lockdown Bursa RI, Tapi IHSG dan BEI Tunjukkan Optimisme",
+      "url": "https://emitennews.com/news/msci-masih-lockdown-bursa-ri-tapi-ihsg-dan-bei-tunjukkan-optimisme",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Pegadaian Bayar Kupon Obligasi, dan Sukuk Mudharabah, Cek Rinciannya",
+      "url": "https://emitennews.com/news/pegadaian-bayar-kupon-obligasi-dan-sukuk-mudharabah-cek-rinciannya",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "POWR Bagi Dividen Rp502 Miliar, Cair Pertengahan Desember 2026",
+      "url": "https://emitennews.com/news/powr-bagi-dividen-rp502-miliar-cair-pertengahan-desember-2026",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Proyeksi Timah (TINS) 2027, Permintaan Naik Bisnis Timah Tetap Menguat",
+      "url": "https://emitennews.com/news/proyeksi-timah-tins-2027-permintaan-naik-bisnis-timah-tetap-menguat",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Saratoga (SRTG) Divonis Jadi Saham HSC, Sandiaga Uno Tanggapi Begini",
+      "url": "https://emitennews.com/news/saratoga-srtg-divonis-jadi-saham-hsc-sandiaga-uno-tanggapi-begini",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Irak Buka Lagi Perbatasan dengan Iran, Sempat Ditutup karena Tekanan AS",
+      "url": "https://internasional.kompas.com/read/2026/11/12/233327170/irak-buka-lagi-perbatasan-dengan-iran-sempat-ditutup-karena-tekanan-as",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Sentimen Positif HAIS, Raih Gold Star Award ESG dengan Standar Ketat",
+      "url": "https://emitennews.com/news/sentimen-positif-hais-raih-gold-star-award-esg-dengan-standar-ketat",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Kucing di Taman Spathodea Jaksel Diserang Puluhan Anjing Setiap Malam, Warga Resah",
+      "url": "https://megapolitan.kompas.com/read/2026/11/12/22520681/kucing-di-taman-spathodea-jaksel-diserang-puluhan-anjing-setiap-malam",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "DPRD Soroti Dugaan Monopoli Air Bersih di Serpong Lagoon Tangsel, Warga Dilarang Gali Sumur Mandiri",
+      "url": "https://megapolitan.kompas.com/read/2026/11/12/22544101/dprd-soroti-dugaan-monopoli-air-bersih-di-serpong-lagoon-tangsel-warga",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Diduga Rusak Pagar Aset Pemerintah di Jakbar, Seorang Wanita Dilaporkan ke Polisi",
+      "url": "https://megapolitan.kompas.com/read/2026/11/12/22352761/diduga-rusak-pagar-aset-pemerintah-di-jakbar-seorang-wanita-dilaporkan-ke",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Aiman Bersaksi di Sidang Dokter Tifa, Ungkap Asal Scan Ijazah Jokowi yang Tayang di Programnya",
+      "url": "https://megapolitan.kompas.com/read/2026/11/12/23050371/aiman-bersaksi-di-sidang-dokter-tifa-ungkap-asal-scan-ijazah-jokowi-yang",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Tambah Porsi, Sang Dirut Kini Kuasai 37,56% Saham Hatten Bali (WINE)",
+      "url": "https://emitennews.com/news/tambah-porsi-sang-dirut-kini-kuasai-3756-saham-hatten-bali-wine",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "VIVA Mau Konversi Utang PKPU Rp1,72 Triliun Jadi Saham Lewat PMTHMETD",
+      "url": "https://emitennews.com/news/viva-mau-konversi-utang-pkpu-rp172-triliun-jadi-saham-lewat-pmthmetd",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Totalnya jadi 383 Saham, Ini Dua Hal Baru di Metodologi HSC",
+      "url": "https://emitennews.com/news/totalnya-jadi-383-saham-ini-dua-hal-baru-di-metodologi-hsc",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Eks Kasi Intelijen Bea Cukai Orlando Hamonangan Divonis 6 Tahun Penjara",
+      "url": "https://nasional.kompas.com/read/2026/11/12/23003821/eks-kasi-intelijen-bea-cukai-orlando-hamonangan-divonis-6-tahun-penjara",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Modus Penyelewengan BBM dan LPG Subsidi di Sultra, 18 Orang Jadi Tersangka",
+      "url": "https://regional.kompas.com/read/2026/11/12/224739178/modus-penyelewengan-bbm-dan-lpg-subsidi-di-sultra-18-orang-jadi-tersangka",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Angin 25 Knot Ancam Perairan Labuan Bajo, KSOP Petakan 7 Titik Rawan",
+      "url": "https://regional.kompas.com/read/2026/11/12/232053978/angin-25-knot-ancam-perairan-labuan-bajo-ksop-petakan-7-titik-rawan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Pria di Palembang Cabuli Anak Pacarnya yang Masih Berusia 11 Tahun, Dipergoki Ibu Korban",
+      "url": "https://regional.kompas.com/read/2026/11/12/225425378/pria-di-palembang-cabuli-anak-pacarnya-yang-masih-berusia-11-tahun",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Penutupan TMMD di Pamekasan Dimeriahkan Aksi Terjun Payung Tiga Matra",
+      "url": "https://surabaya.kompas.com/read/2026/11/12/230644878/penutupan-tmmd-di-pamekasan-dimeriahkan-aksi-terjun-payung-tiga-matra",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Harga Pangan Naik, Pedagang Pasar Klojen Malang Keluhkan Omzet Turun",
+      "url": "https://surabaya.kompas.com/read/2026/11/12/233347578/harga-pangan-naik-pedagang-pasar-klojen-malang-keluhkan-omzet-turun",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Bocah 10 Tahun di Malang Tewas dengan Tangan Terikat, Sejumlah Barang Hilang",
+      "url": "https://surabaya.kompas.com/read/2026/11/12/230119878/bocah-10-tahun-di-malang-tewas-dengan-tangan-terikat-sejumlah-barang-hilang",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Aksi 12 Penerjun Payung di Pamekasan, Sempat Kesulitan Mendarat karena Angin Kencang",
+      "url": "https://surabaya.kompas.com/read/2026/11/12/225430778/aksi-12-penerjun-payung-di-pamekasan-sempat-kesulitan-mendarat-karena-angin",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "DPRD Surabaya Minta PAUD Inklusif Pemkot Diprioritaskan untuk Anak dari Keluarga Miskin",
+      "url": "https://surabaya.kompas.com/read/2026/11/12/232932278/dprd-surabaya-minta-paud-inklusif-pemkot-diprioritaskan-untuk-anak-dari",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Prabowo Sebut Pendidikan Jadi Alasan Gibran Mundur dari Wapres",
+      "url": "https://www.cnnindonesia.com/nasional/20261112215530-32-1426604/prabowo-sebut-pendidikan-jadi-alasan-gibran-mundur-dari-wapres",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Harapan Gibran untuk Indonesia: Demokrasi Perlu Ditata Lebih Baik",
+      "url": "https://www.cnnindonesia.com/nasional/20261112193911-32-1426567/harapan-gibran-untuk-indonesia-demokrasi-perlu-ditata-lebih-baik",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kuasa Hukum Gibran: Hakim PTUN Tak Objektif Gugurkan Gugatan Suket",
+      "url": "https://www.cnnindonesia.com/nasional/20261112175416-12-1426530/kuasa-hukum-gibran-hakim-ptun-tak-objektif-gugurkan-gugatan-suket",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Timnas Padel Indonesia Gelar Latihan di Luar Negeri demi Piala Dunia",
+      "url": "https://www.cnnindonesia.com/olahraga/20261112202114-170-1426589/timnas-padel-indonesia-gelar-latihan-di-luar-negeri-demi-piala-dunia",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Jadwal 4 Wakil Indonesia di Perempat Final Kumamoto Masters 2026",
+      "url": "https://www.cnnindonesia.com/olahraga/20261112174308-142-1426511/jadwal-4-wakil-indonesia-di-perempat-final-kumamoto-masters-2026",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Alwi Farhan Resmi Lolos ke BWF Tour Finals 2026",
+      "url": "https://www.cnnindonesia.com/olahraga/20261112205214-170-1426599/alwi-farhan-resmi-lolos-ke-bwf-tour-finals-2026",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Aksi Demo Ricuh di Yogyakarta, Dugaan Aparat Masuk Kampus, dan Penggunaan Gas Air Mata",
+      "url": "https://yogyakarta.kompas.com/read/2026/11/12/231416378/aksi-demo-ricuh-di-yogyakarta-dugaan-aparat-masuk-kampus-dan-penggunaan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Michael Sianipar Dimakzulkan, PSSI Tunjuk Vivin Jadi Plt AFI",
+      "url": "https://www.cnnindonesia.com/olahraga/20261112224235-142-1426608/michael-sianipar-dimakzulkan-pssi-tunjuk-vivin-jadi-plt-afi",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Klinik Olahraga Spanyol Perlihatkan Kaki Marselino Makin Kuat",
+      "url": "https://www.cnnindonesia.com/olahraga/20261112214448-142-1426602/klinik-olahraga-spanyol-perlihatkan-kaki-marselino-makin-kuat",
+      "sektor": "Umum/Makro"
+    }
+  ]
+}
