@@ -1,0 +1,338 @@
+{
+  "tanggal": "2026-11-13",
+  "dibuat_pada": "2026-11-13 22:54 WIB",
+  "jumlah_artikel": 55,
+  "saham_disebut": {
+    "BMRI": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BMAS": [
+      "Keuangan (rating 6/7)"
+    ],
+    "MEDC": [
+      "Energi (rating 6/7)"
+    ],
+    "ADMR": [
+      "Energi (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Bank Mandiri (BMRI) mengoptimalkan aset melalui lelang, sementara Bank Kasikorn (BMAS) berhasil menarik pinjaman bilateral besar, keduanya menunjukkan sentimen positif bagi stabilitas dan likuiditas sektor keuangan.",
+      "alasan": "Berita positif dari dua bank, termasuk bank besar seperti Bank Mandiri (BMRI) dengan inisiatif pengelolaan aset yang proaktif, serta Bank Kasikorn (BMAS) yang berhasil menarik pinjaman signifikan, menunjukkan kesehatan dan kepercayaan terhadap institusi keuangan. Hal ini berpotensi mengangkat sentimen investor terhadap sektor keuangan secara keseluruhan, mengindikasikan prospek yang cenderung positif.",
+      "analisis_saham": "BMRI (Bank Mandiri):** Inisiatif \"Mandiri Lelang 2026\" untuk menawarkan properti dan kendaraan merupakan upaya positif dalam mengoptimalkan pengelolaan aset agunan dan berpotensi meningkatkan pendapatan non-bunga serta mempercepat penyelesaian kredit bermasalah. Sentimen ini bersifat positif bagi BMRI."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Berita tentang perusahaan AI global yang berpeluang masuk indeks utama MSCI setelah IPO menciptakan sentimen positif yang kuat terhadap sektor teknologi, khususnya kecerdasan buatan.",
+      "alasan": "Meskipun perusahaan AI yang disebutkan bukan emiten BEI, potensi masuknya ke indeks global bergengsi seperti MSCI mengindikasikan pengakuan pasar terhadap pertumbuhan sektor teknologi. Hal ini dapat memicu peningkatan minat investor dan optimisme terhadap saham-saham teknologi domestik yang memiliki eksposur terhadap inovasi digital dan kecerdasan buatan, mendorong potensi kenaikan di sektor tersebut.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Kebijakan pemerintah mendorong transaksi impor energi menggunakan Yuan China untuk mengurangi risiko nilai tukar, didukung oleh pengumuman dividen Medco Energi (MEDC) dan laba signifikan dari ADMR, menciptakan sentimen positif di sektor energi.",
+      "alasan": "Dorongan pemerintah untuk menggunakan Yuan dalam impor migas diharapkan menstabilkan biaya operasional perusahaan energi dengan mengurangi volatilitas nilai tukar USD. Sentimen positif ini diperkuat oleh pengumuman dividen Medco Energi (MEDC) yang menunjukkan kinerja keuangan yang solid, serta keuntungan besar dari ADMR yang menunjukkan pemulihan dan pertumbuhan di segmen aluminiumnya.",
+      "analisis_saham": "MEDC (Medco Energi Internasional Tbk)**: Pengumuman dividen interim sebesar Rp22,02 per saham adalah sinyal positif yang kuat bagi investor. Ini mencerminkan kinerja keuangan perusahaan yang sehat dan komitmen untuk mengembalikan nilai kepada pemegang saham, yang kemungkinan besar akan mendorong minat beli dan kenaikan harga saham."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pemerintah mendorong PT Pertamina dan PT PLN untuk menggunakan mata uang Yuan China dalam transaksi impor energi guna mengurangi risiko fluktuasi nilai tukar dolar AS.",
+      "alasan": "Kebijakan ini bertujuan untuk menstabilkan biaya operasional bagi penyedia infrastruktur kunci seperti PLN dengan mitigasi risiko mata uang. Lingkungan biaya yang lebih stabil untuk BUMN utama menciptakan iklim investasi yang lebih prediktif dan menguntungkan bagi sektor infrastruktur secara keseluruhan.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Dinamika politik terkait pemilihan calon wakil presiden yang masih berproses menjadi perhatian utama, tanpa diikuti oleh sentimen ekonomi atau kebijakan signifikan.",
+      "alasan": "Berita politik mengenai keleluasaan calon presiden dalam memilih cawapres menciptakan sedikit ketidakpastian jangka pendek namun diimbangi dengan narasi kebutuhan stabilitas. Tidak ada data ekonomi penting atau kebijakan makro baru yang diumumkan hari ini. Peristiwa erupsi gunung bersifat lokal dan tidak berdampak signifikan pada perekonomian makro secara keseluruhan, sehingga sentimen pasar cenderung netral.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Hasil Singapura Vs Paraguay 1-4: Eks Persebaya Jebol Gawang Rekan Setim Verdonk",
+      "url": "https://bola.kompas.com/read/2026/11/13/22050288/hasil-singapura-vs-paraguay-1-4-eks-persebaya-jebol-gawang-rekan-setim-verdonk",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Mauricio Pochettino Gabung Man United, Timnas AS Bidik Guardiola Sebagai Pengganti",
+      "url": "https://bola.kompas.com/read/2026/11/13/22360158/mauricio-pochettino-gabung-man-united-timnas-as-bidik-guardiola-sebagai",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Atasi USD Mahal, Menko Airlangga Dorong Impor Migas Pakai Yuan China",
+      "url": "https://emitennews.com/news/atasi-usd-mahal-menko-airlangga-dorong-impor-migas-pakai-yuan-china",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEEF, Berdikari, & Seara Teken Kemitraan, Incar Pasar Protein Nasional",
+      "url": "https://emitennews.com/news/beef-berdikari-seara-teken-kemitraan-incar-pasar-protein-nasional",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Belum Genap Setahun, Aluminium ADMR Sudah Untung Rp1,7 Triliun",
+      "url": "https://emitennews.com/news/belum-genap-setahun-aluminium-admr-sudah-untung-rp17-triliun",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bank Mandiri Tawarkan Properti Hingga Kendaraan di Mandiri Lelang 2026",
+      "url": "https://emitennews.com/news/bank-mandiri-tawarkan-properti-hingga-kendaraan-di-mandiri-lelang-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bukan Berkurang, Ini Alasan Hanya 296 Saham HSC yang Didepak BEI",
+      "url": "https://emitennews.com/news/bukan-berkurang-ini-alasan-hanya-296-saham-hsc-yang-didepak-bei",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Dividen Medco Energi (MEDC) Rp22,02 per Saham, Distribusi 2 Desember",
+      "url": "https://emitennews.com/news/dividen-medco-energi-medc-rp2202-per-saham-distribusi-2-desember",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Emiten HSC Bank Kasikorn (BMAS) Tarik Pinjaman USD338 Juta dari KBank",
+      "url": "https://emitennews.com/news/emiten-hsc-bank-kasikorn-bmas-tarik-pinjaman-usd338-juta-dari-kbank",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Melesat 1,78% ke 5.344, BRMS dan BRPT Melonjak Usai Didepak MSCI",
+      "url": "https://emitennews.com/news/ihsg-melesat-178-ke-5344-brms-dan-brpt-melonjak-usai-didepak-msci",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "IHSG Sukses Rebound di Sesi I (13/11) Melenting 1% Lebih ke Atas 5.300",
+      "url": "https://emitennews.com/news/ihsg-sukses-rebound-di-sesi-i-1311-melenting-1-lebih-ke-atas-5300",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Jenderal Polisi Bintang Satu Diduga Terlibat Kasus Penyadapan Ilegal",
+      "url": "https://emitennews.com/news/jenderal-polisi-bintang-satu-diduga-terlibat-kasus-penyadapan-ilegal",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "KMDS Sebar Dividen Interim Rp16/Saham, Cair 11 Desember 2026",
+      "url": "https://emitennews.com/news/kmds-sebar-dividen-interim-rp16saham-cair-11-desember-2026",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Komisaris Borong 15 Ribu Saham MDLA, Intip Rinciannya!",
+      "url": "https://emitennews.com/news/komisaris-borong-15-ribu-saham-mdla-intip-rinciannya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Mau Gelar IPO, Perusahaan AI Ini Berpeluang Masuk Indeks Utama MSCI",
+      "url": "https://emitennews.com/news/mau-gelar-ipo-perusahaan-ai-ini-berpeluang-masuk-indeks-utama-msci",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Mentok ARA! Pengendali Emiten Hapsoro (SINI) Cicil Saham di November",
+      "url": "https://emitennews.com/news/mentok-ara-pengendali-emiten-hapsoro-sini-cicil-saham-di-november",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Meski 383 Saham HSC Didepak dari IHSG, Penyakit Intinya Belum Diobati",
+      "url": "https://emitennews.com/news/meski-383-saham-hsc-didepak-dari-ihsg-penyakit-intinya-belum-diobati",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "MSCI Rombak Indeks Brasil hingga Swedia, Efektif 1 Desember 2026!",
+      "url": "https://emitennews.com/news/msci-rombak-indeks-brasil-hingga-swedia-efektif-1-desember-2026",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Pengendali Rampung MTO, Saham NAYZ Melenting ARA 9,43%",
+      "url": "https://emitennews.com/news/pengendali-rampung-mto-saham-nayz-melenting-ara-943",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Perbaiki Posisi Keuangan, VIVA akan Konversi Utang PKPU jadi Saham",
+      "url": "https://emitennews.com/news/perbaiki-posisi-keuangan-viva-akan-konversi-utang-pkpu-jadi-saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "PR Besar Aparat DJP Kemenkeu, Penerimaan Pajak Masih Kurang Rp514T",
+      "url": "https://emitennews.com/news/pr-besar-aparat-djp-kemenkeu-penerimaan-pajak-masih-kurang-rp514t",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Saham HSC Naik! BEI: Tidak Serta Merta Ada Pelanggaran Pasar Modal",
+      "url": "https://emitennews.com/news/saham-hsc-naik-bei-tidak-serta-merta-ada-pelanggaran-pasar-modal",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tagih Janji BYD, Menperin Sarmuji akan Terbang Langsung ke China",
+      "url": "https://emitennews.com/news/tagih-janji-byd-menperin-sarmuji-akan-terbang-langsung-ke-china",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Tambah Porsi, Komut Ini Berinvestasi Langsung Saham Medela Potentia",
+      "url": "https://emitennews.com/news/tambah-porsi-komut-ini-berinvestasi-langsung-saham-medela-potentia",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tambah Porsi, Sang Dirut Kini Kuasai 42,42% Saham Raja Roti (BRRC)",
+      "url": "https://emitennews.com/news/tambah-porsi-sang-dirut-kini-kuasai-4242-saham-raja-roti-brrc",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Usia 35 Tahun Bisa Terkena Stroke, Dokter Ungkap 5 Faktor Risikonya",
+      "url": "https://health.kompas.com/read/26K13220500168/usia-35-tahun-bisa-terkena-stroke-dokter-ungkap-5-faktor-risikonya",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Tangguh Badai MSCI & Dilirik Investor Institusi Kredibel Asal Swedia",
+      "url": "https://emitennews.com/news/tangguh-badai-msci-dilirik-investor-institusi-kredibel-asal-swedia",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Menang Streamer of The Year di Amerika, IShowSpeed Justru Pidato dengan Bahasa Indonesia",
+      "url": "https://entertainment.kompas.com/read/2026/11/13/215752166/menang-streamer-of-the-year-di-amerika-ishowspeed-justru-pidato-dengan",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Tersangka Kasus Ijazah Jokowi Rizal Fadhillah Meninggal akibat Sakit Jantung",
+      "url": "https://megapolitan.kompas.com/read/2026/11/13/21552271/tersangka-kasus-ijazah-jokowi-rizal-fadhillah-meninggal-akibat-sakit",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Terapi Batin di Ruang Pemandian Jenazah, Ketika Merawat \"Tamu Terakhir\" Jadi Obat Hati Bagi Tina",
+      "url": "https://megapolitan.kompas.com/read/2026/11/13/21591031/terapi-batin-di-ruang-pemandian-jenazah-ketika-merawat-tamu-terakhir-jadi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Belanja di Alfamart, Uang Kembaliannya Kini Bisa Jadi Saldo GoPay",
+      "url": "https://money.kompas.com/read/2026/11/13/215451326/belanja-di-alfamart-uang-kembaliannya-kini-bisa-jadi-saldo-gopay",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Verifikasi Cawapres Pengganti Gibran Harus Transparan dan Akuntabel",
+      "url": "https://nasional.kompas.com/read/2026/11/13/21583111/verifikasi-cawapres-pengganti-gibran-harus-transparan-dan-akuntabel",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pengamat Tekankan Pentingnya Verifikasi Ijazah SMA Cawapres Pengganti Gibran",
+      "url": "https://nasional.kompas.com/read/2026/11/13/22102121/pengamat-tekankan-pentingnya-verifikasi-ijazah-sma-cawapres-pengganti-gibran",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tanpa HSC, Inilah 10 Saham dengan Bobot Terbesar Terbaru di IHSG!",
+      "url": "https://emitennews.com/news/tanpa-hsc-inilah-10-saham-dengan-bobot-terbesar-terbaru-di-ihsg",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Terbang ke Manila, Airlangga Siap Tandatangani ASEAN DEFA",
+      "url": "https://emitennews.com/news/terbang-ke-manila-airlangga-siap-tandatangani-asean-defa",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Golkar Berikan Prabowo Keleluasan Pilih Cawapres",
+      "url": "https://nasional.kompas.com/read/2026/11/13/22324481/golkar-berikan-prabowo-keleluasan-pilih-cawapres",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Ubah Aturan Hapus Sanksi Pajak Prioritas DJP Pembayaran ke Pokok Utang",
+      "url": "https://emitennews.com/news/ubah-aturan-hapus-sanksi-pajak-prioritas-djp-pembayaran-ke-pokok-utang",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Terjang Perbukitan demi Layani Pengungsi Banjir Aceh Tamiang, Situah Kami Terima Penghargaan Presiden",
+      "url": "https://nasional.kompas.com/read/2026/11/13/22344491/terjang-perbukitan-demi-layani-pengungsi-banjir-aceh-tamiang-situah-kami",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "15 Petugas Karhutla Gugur Dapat Bintang Jasa, Negara Ambil Alih Masa Depan Keluarga",
+      "url": "https://nasional.kompas.com/read/2026/11/13/22451991/15-petugas-karhutla-gugur-dapat-bintang-jasa-negara-ambil-alih-masa-depan",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Haru Istri Relawan Karhutla Terima Bintang Jasa untuk Mendiang Suami",
+      "url": "https://nasional.kompas.com/read/2026/11/13/22365611/haru-istri-relawan-karhutla-terima-bintang-jasa-untuk-mendiang-suami",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Keluarga Kenang Sukaris, Petugas Kehutanan yang Gugur Saat Padamkan Kebakaran di Semeru",
+      "url": "https://nasional.kompas.com/read/2026/11/13/22441981/keluarga-kenang-sukaris-petugas-kehutanan-yang-gugur-saat-padamkan-kebakaran",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Prabowo Anugerahkan Bintang Jasa kepada 23 Relawan dan Petugas, Jamin Pendidikan Anak Korban",
+      "url": "https://nasional.kompas.com/read/2026/11/13/22194551/prabowo-anugerahkan-bintang-jasa-kepada-23-relawan-dan-petugas-jamin",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Polda Babel Bantah Anggota TNI Dipukul di Polsek, Jelaskan Alasan Beri Label Hoaks ke Media",
+      "url": "https://regional.kompas.com/read/2026/11/13/222920278/polda-babel-bantah-anggota-tni-dipukul-di-polsek-jelaskan-alasan-beri-label",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Kasus Dugaan Pemerkosaan Bupati Kupang, UPTD PPA NTT Beri Pendampingan Psikologis bagi Korban",
+      "url": "https://regional.kompas.com/read/2026/11/13/224712678/kasus-dugaan-pemerkosaan-bupati-kupang-uptd-ppa-ntt-beri-pendampingan",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "15 Siswa di Blitar Diduga Keracunan Usai Santap Menu MBG, Sampel Makanan Diuji",
+      "url": "https://surabaya.kompas.com/read/2026/11/13/221439178/15-siswa-di-blitar-diduga-keracunan-usai-santap-menu-mbg-sampel-makanan",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Bocah 10 Tahun Korban Perampokan di Malang Tewas akibat Kehabisan Oksigen",
+      "url": "https://surabaya.kompas.com/read/2026/11/13/220547478/bocah-10-tahun-korban-perampokan-di-malang-tewas-akibat-kehabisan-oksigen",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "AS Copot Komandan USS Michael Murphy yang Bertugas Perangi Iran",
+      "url": "https://www.cnnindonesia.com/internasional/20261113202056-120-1427040/as-copot-komandan-uss-michael-murphy-yang-bertugas-perangi-iran",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Israel Serang Area Gedung Pernikahan Gaza, Sopir Calon Pengantin Tewas",
+      "url": "https://www.cnnindonesia.com/internasional/20261113204114-120-1427052/israel-serang-area-gedung-pernikahan-gaza-sopir-calon-pengantin-tewas",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Komnas HAM Minta Rekaman CCTV UGM Terkait Demo 10 November",
+      "url": "https://www.cnnindonesia.com/nasional/20261113090506-12-1426680/komnas-ham-minta-rekaman-cctv-ugm-terkait-demo-10-november",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Gunung Karangetang Kembali Erupsi, Lontarkan Material Pijar",
+      "url": "https://www.cnnindonesia.com/nasional/20261113210628-20-1427057/gunung-karangetang-kembali-erupsi-lontarkan-material-pijar",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Paspampres Jelaskan Pengamanan Gibran Usai Tak Lagi Jabat Wapres",
+      "url": "https://www.cnnindonesia.com/nasional/20261113211613-20-1427058/paspampres-jelaskan-pengamanan-gibran-usai-tak-lagi-jabat-wapres",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "bank bjb Gandeng HKTI Kembangkan Ekosistem Rantai Pasok Pangan",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261113210103-625-1427056/bank-bjb-gandeng-hkti-kembangkan-ekosistem-rantai-pasok-pangan",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Profil Chico Jericho, Talenta Papua Sang Mesin Serangan Timnas U-17",
+      "url": "https://www.cnnindonesia.com/olahraga/20261113183336-142-1427003/profil-chico-jericho-talenta-papua-sang-mesin-serangan-timnas-u-17",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Atlet CNN Indonesia Taekwondo Championship 3 Jadi 'Intel' sebelum Duel",
+      "url": "https://www.cnnindonesia.com/olahraga/20261113203142-178-1427044/atlet-cnn-indonesia-taekwondo-championship-3-jadi-intel-sebelum-duel",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Tamsil Linrung di COP31: Komitmen Iklim Harus Sampai ke Daerah",
+      "url": "https://www.cnnindonesia.com/teknologi/20261113220149-199-1427060/tamsil-linrung-di-cop31-komitmen-iklim-harus-sampai-ke-daerah",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    }
+  ]
+}
