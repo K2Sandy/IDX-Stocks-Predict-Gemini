@@ -1,0 +1,320 @@
+{
+  "tanggal": "2026-11-14",
+  "dibuat_pada": "2026-11-14 21:45 WIB",
+  "jumlah_artikel": 52,
+  "saham_disebut": {
+    "BRIS": [
+      "Keuangan (rating 3/7)"
+    ],
+    "RAJA": [
+      "Energi (rating 5/7)"
+    ],
+    "ANTM": [
+      "Energi (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Sektor keuangan menghadapi sentimen campuran dengan saham BRIS dan beberapa lainnya akan dikeluarkan dari indeks global FTSE Russell, diimbangi oleh afirmasi peringkat stabil dari Fitch untuk Credit Guarantee and Investment Facility (CGIF) dan upaya peningkatan literasi keuangan.",
+      "alasan": "Penghapusan saham BRIS, emiten keuangan berkapitalisasi besar, dari indeks global FTSE Russell kemungkinan akan memicu tekanan jual dari dana pasif dan menciptakan sentimen negatif di sebagian pasar. Meskipun demikian, afirmasi peringkat AAA dengan outlook stabil untuk CGIF menunjukkan kesehatan fundamental dan stabilitas di bagian lain ekosistem keuangan, serta inisiatif literasi keuangan LPS dan Manulife memberikan dukungan jangka panjang, namun dampak langsungnya cenderung lebih kecil dibandingkan berita delisting.",
+      "analisis_saham": "BRIS (Bank Syariah Indonesia): Berita mengenai penghapusan BRIS dari indeks global FTSE Russell kemungkinan akan memberikan tekanan jual pada saham ini, karena dana-dana pasif yang melacak indeks tersebut akan melakukan divestasi. Ini bisa menyebabkan pergerakan harga saham cenderung turun dalam jangka pendek akibat rebalancing portofolio."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Artikel menyoroti potensi investasi jangka panjang pada perusahaan teknologi global melalui Indeks Nasdaq dan ETF QQQ, serta adanya dorongan untuk transfer pengetahuan dan teknologi di industri kendaraan listrik nasional.",
+      "alasan": "Berita yang membahas secara positif investasi pada perusahaan teknologi global dapat menciptakan sentimen optimis yang meluas ke sektor teknologi di BEI. Selain itu, upaya pemerintah mendorong transfer teknologi dan penyerapan tenaga kerja di industri teknologi tinggi seperti kendaraan listrik juga memberikan sinyal positif bagi perkembangan teknologi di Indonesia.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Saham emiten sektor energi seperti RAJA menunjukkan kinerja positif sebagai top gainer pekan ini, didukung oleh peningkatan produksi bijih nikel oleh ANTM yang relevan bagi transisi energi.",
+      "alasan": "Kinerja kuat emiten yang terkait dengan sektor energi seperti RAJA yang menjadi top gainer menunjukkan adanya minat investor dan sentimen positif. Meskipun ANTM secara teknis di sektor Material Dasar, peningkatan produksinya mendukung rantai pasok energi baru (seperti baterai EV) yang dapat memberikan dorongan sentimen tidak langsung ke sektor Energi secara luas.",
+      "analisis_saham": "PT Rukun Raharja Tbk (RAJA) mencatatkan diri sebagai salah satu top gainers pekan ini, mengindikasikan kuatnya minat beli dan sentimen positif yang dapat mendukung kelanjutan kenaikan harganya. PT Aneka Tambang Tbk (ANTM) mengoptimalkan produksi bijih nikel, yang merupakan kabar positif bagi fundamental perusahaan dan relevan untuk industri energi terbarukan (baterai EV), berpotensi menarik perhatian investor yang berfokus pada transisi energi."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Pertumbuhan ekonomi Indonesia yang didukung oleh investasi dan peran strategis BUMN dalam pengelolaan aset memberikan sentimen positif tidak langsung.",
+      "alasan": "Laporan pertumbuhan ekonomi yang solid didorong oleh investasi mengindikasikan prospek yang baik bagi sektor infrastruktur. Selain itu, penguatan ekosistem dan aset BUMN oleh PPA dapat berdampak positif pada perusahaan infrastruktur milik negara.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "KTT ASEAN membahas isu Karhutla yang menjadi perhatian regional, sementara di dalam negeri terdapat masalah layanan publik lokal.",
+      "alasan": "Pembahasan isu Karhutla di tingkat KTT ASEAN menyoroti tantangan lingkungan dan ekonomi yang berkelanjutan, yang dapat memberikan sentimen negatif atau setidaknya netral terhadap pasar. Berita mengenai kegagalan layanan publik daerah menambah persepsi tantangan dalam pengelolaan infrastruktur. Tanpa katalis positif kuat, sentimen secara keseluruhan cenderung sedikit menekan indeks makro.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Gary Neville Minta Pochettino Ambil Alih Kendali Transfer di MU",
+      "url": "https://bola.kompas.com/read/2026/11/14/21235508/gary-neville-minta-pochettino-ambil-alih-kendali-transfer-di-mu",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Baru Dicap HSC oleh BEI, Tujuh Saham Ini Akan Didepak FTSE Russell",
+      "url": "https://emitennews.com/news/baru-dicap-hsc-oleh-bei-tujuh-saham-ini-akan-didepak-ftse-russell",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ajak Kaum Muda Tingkatkan Literasi Keuangan Lewat Video Kreatif",
+      "url": "https://emitennews.com/news/ajak-kaum-muda-tingkatkan-literasi-keuangan-lewat-video-kreatif",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Daftar Top Gainers Sepekan, WMUU, HRME hingga RAJA",
+      "url": "https://emitennews.com/news/daftar-top-gainers-sepekan-wmuu-hrme-hingga-raja",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Daftar Top Losers Sepekan, Ada Lima Saham HSC!",
+      "url": "https://emitennews.com/news/daftar-top-losers-sepekan-ada-lima-saham-hsc",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Pemkot Depok Hadirkan Beasiswa Maung, Sediakan 199 Kuota untuk Mahasiswa Kurang Mampu",
+      "url": "https://biz.kompas.com/read/2026/11/14/212132428/pemkot-depok-hadirkan-beasiswa-maung-sediakan-199-kuota-untuk-mahasiswa-kurang",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Dukung Industri Nasional, Antam Optimalkan Produksi Bijih Nikel",
+      "url": "https://emitennews.com/news/dukung-industri-nasional-antam-optimalkan-produksi-bijih-nikel",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Didukung AsDB, Fitch Tahan Outlook Stabil untuk CGIF",
+      "url": "https://emitennews.com/news/didukung-asdb-fitch-tahan-outlook-stabil-untuk-cgif",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dorong Kesiapan ini, Manulife Indonesia Pension Expo 2026",
+      "url": "https://emitennews.com/news/dorong-kesiapan-ini-manulife-indonesia-pension-expo-2026",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Eksportir Karet Sambut Aturan Baru TPP SIR dan LoC RRT",
+      "url": "https://emitennews.com/news/eksportir-karet-sambut-aturan-baru-tpp-sir-dan-loc-rrt",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "2 Bulan Air PDAM Mati, Warga Kiaracondong Terpaksa Antre, tapi Tagihan Jalan Terus",
+      "url": "https://bandung.kompas.com/read/2026/11/14/213739878/2-bulan-air-pdam-mati-warga-kiaracondong-terpaksa-antre-tapi-tagihan-jalan",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Emiten Farmasi Minta Insentif Fiskal dan Kepastian Serapan",
+      "url": "https://emitennews.com/news/emiten-farmasi-minta-insentif-fiskal-dan-kepastian-serapan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "FTSE Russell Tendang 14 Saham HSC, Berlaku 21 Desember 2026",
+      "url": "https://emitennews.com/news/ftse-russell-tendang-14-saham-hsc-berlaku-21-desember-2026",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Emiten Pakan Waspada, DPR Dorong Bentuk BUMN Khusus Serupa",
+      "url": "https://emitennews.com/news/emiten-pakan-waspada-dpr-dorong-bentuk-bumn-khusus-serupa",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "FTSE Akan Hapus Saham HSC, Efektif Desember 2026",
+      "url": "https://emitennews.com/news/ftse-akan-hapus-saham-hsc-efektif-desember-2026",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Investor Lari ke Obligasi, Patokan Ekspor Emas RI Terkoreksi",
+      "url": "https://emitennews.com/news/investor-lari-ke-obligasi-patokan-ekspor-emas-ri-terkoreksi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Fundamental Solid, PGEO Kebut Free Float 12,5 Persen Maret 2027",
+      "url": "https://emitennews.com/news/fundamental-solid-pgeo-kebut-free-float-125-persen-maret-2027",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "HSC dan MSCI, Ujian Berat Bursa Indonesia",
+      "url": "https://emitennews.com/news/hsc-dan-msci-ujian-berat-bursa-indonesia",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Jika Rupiah Tembus Rp22.000/USD",
+      "url": "https://emitennews.com/news/jika-rupiah-tembus-rp22000usd",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ketika Negara Menjadi Mesin Utama Pertumbuhan Ekonomi",
+      "url": "https://emitennews.com/news/ketika-negara-menjadi-mesin-utama-pertumbuhan-ekonomi",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Konsumsi Rumah Tangga Sumbang 52% PDB di Triwulan III 2026",
+      "url": "https://emitennews.com/news/konsumsi-rumah-tangga-sumbang-52-pdb-di-triwulan-iii-2026",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Menperin Tagih Janji 20.000 Pekerja Lokal ke BYD",
+      "url": "https://emitennews.com/news/menperin-tagih-janji-20000-pekerja-lokal-ke-byd",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Peran Strategis PPA dalam Penguatan Ekosistem dan Aset BUMN",
+      "url": "https://emitennews.com/news/peran-strategis-ppa-dalam-penguatan-ekosistem-dan-aset-bumn",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Perdagangan Bursa Cerah! IHSG Melesat 5,82 Persen Sepekan",
+      "url": "https://emitennews.com/news/perdagangan-bursa-cerah-ihsg-melesat-582-persen-sepekan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Produksi Migas MedcoEnergi Naik 19%, 3 Proyek Utama Sesuai Rencana",
+      "url": "https://emitennews.com/news/produksi-migas-medcoenergi-naik-19-3-proyek-utama-sesuai-rencana",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Rekor! RMKE Catat Volume Loading Barge 1 Juta Ton Oktober 2026",
+      "url": "https://emitennews.com/news/rekor-rmke-catat-volume-loading-barge-1-juta-ton-oktober-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Simak, ini Perbedaan Trading Indeks Nasdaq vs ETF QQQ",
+      "url": "https://emitennews.com/news/simak-ini-perbedaan-trading-indeks-nasdaq-vs-etf-qqq",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Tak Semua Introvert Pemalu, Kenali 4 Jenis Introvert Menurut Penelitian",
+      "url": "https://lifestyle.kompas.com/read/2026/11/14/213000020/tak-semua-introvert-pemalu-kenali-4-jenis-introvert-menurut-penelitian",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Ketika Angklung Tak Lagi Terdengar Kuno di Telinga Anak Muda",
+      "url": "https://megapolitan.kompas.com/read/2026/11/14/21290041/ketika-angklung-tak-lagi-terdengar-kuno-di-telinga-anak-muda",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Tinggalkan MSCI, Putra Hermanto Tanoko Serok Jutaan Saham AVIA",
+      "url": "https://emitennews.com/news/tinggalkan-msci-putra-hermanto-tanoko-serok-jutaan-saham-avia",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Status Emerging Market Indonesia Aman, Tapi Belum Ada Saham Baru Masuk",
+      "url": "https://emitennews.com/news/status-emerging-market-indonesia-aman-tapi-belum-ada-saham-baru-masuk",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Tak Hanya Indonesia, 2 Saham HSC Hong Kong juga Didepak FTSE Russell",
+      "url": "https://emitennews.com/news/tak-hanya-indonesia-2-saham-hsc-hong-kong-juga-didepak-ftse-russell",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "158 Ton Sampah Organik Diolah, Program AMMAN Hasilkan 50 Ton Kompos",
+      "url": "https://money.kompas.com/read/2026/11/14/211100426/158-ton-sampah-organik-diolah-program-amman-hasilkan-50-ton-kompos",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Lahir dari Perjuangan Seorang Ibu, Bluebird Terus Melangkah Menembus Zaman",
+      "url": "https://money.kompas.com/read/2026/11/14/211351826/lahir-dari-perjuangan-seorang-ibu-bluebird-terus-melangkah-menembus-zaman",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Ekspor Sawit Indonesia Diprediksi Turun 12,27 Persen pada 2027",
+      "url": "https://money.kompas.com/read/2026/11/14/212100326/ekspor-sawit-indonesia-diprediksi-turun-12-27-persen-pada-2027",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Golkar soal Cawapres Pengganti Gibran: Kami Belum Selesai Merenung",
+      "url": "https://nasional.kompas.com/read/2026/11/14/21333771/golkar-soal-cawapres-pengganti-gibran-kami-belum-selesai-merenung",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Standar Global Makin Ketat, Bagaimana Nasib Petani Sawit Indonesia?",
+      "url": "https://money.kompas.com/read/2026/11/14/213400726/standar-global-makin-ketat-bagaimana-nasib-petani-sawit-indonesia-",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Gelar Turnamen E-Sport, Golkar: Politisi Jangan Cuma Tahu Cara Cari Suara",
+      "url": "https://nasional.kompas.com/read/2026/11/14/21421381/gelar-turnamen-e-sport-golkar-politisi-jangan-cuma-tahu-cara-cari-suara",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Prabowo Tiba di Filipina, Bakal Ikuti KTT ASEAN yang Turut Persoalkan Karhutla",
+      "url": "https://nasional.kompas.com/read/2026/11/14/21104601/prabowo-tiba-di-filipina-bakal-ikuti-ktt-asean-yang-turut-persoalkan",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "BMKG Keluarkan Peringatan Dini Hujan Lebat di Banten hingga 16 November, Ini Daftar Wilayahnya",
+      "url": "https://regional.kompas.com/read/2026/11/14/214138978/bmkg-keluarkan-peringatan-dini-hujan-lebat-di-banten-hingga-16-november-ini",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "10 Destinasi Liburan Natal Terbaik di Dunia 2026, Ada Desa Sinterklas",
+      "url": "https://travel.kompas.com/read/2026/11/14/211100827/10-destinasi-liburan-natal-terbaik-di-dunia-2026-ada-desa-sinterklas",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Bermain Shagai hingga Teatrikal, Cerita Seniman Mongolia Blusukan ke Desa di Palangka Raya",
+      "url": "https://regional.kompas.com/read/2026/11/14/211858678/bermain-shagai-hingga-teatrikal-cerita-seniman-mongolia-blusukan-ke-desa-di",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Hujan Angin Terjang Pasirjambu Bandung, 81 Rumah Warga Rusak dan Seorang Warga Terluka",
+      "url": "https://regional.kompas.com/read/2026/11/14/212711878/hujan-angin-terjang-pasirjambu-bandung-81-rumah-warga-rusak-dan-seorang",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "PNM Libatkan Keluarga Karyawan untuk Perkuat Kebersamaan Kerja",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261114202317-625-1427248/pnm-libatkan-keluarga-karyawan-untuk-perkuat-kebersamaan-kerja",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Taspen Siapkan Layanan Customer Service Berbasis AI pada 2027",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261114202712-537-1427249/taspen-siapkan-layanan-customer-service-berbasis-ai-pada-2027",
+      "sektor": "Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Mendagri Hadiri Pembukaan Tanwir dan Milad ke-114 Muhammadiyah di Palu",
+      "url": "https://www.cnnindonesia.com/nasional/20261114200740-25-1427247/mendagri-hadiri-pembukaan-tanwir-dan-milad-ke-114-muhammadiyah-di-palu",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Jelang KTT ASEAN ke-49, Prabowo Tiba di Filipina",
+      "url": "https://www.cnnindonesia.com/internasional/20261114205149-106-1427254/jelang-ktt-asean-ke-49-prabowo-tiba-di-filipina",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "DPR Minta Kapolda NTT Tegas Usut Dugaan Perkosaan oleh Bupati Kupang",
+      "url": "https://www.cnnindonesia.com/nasional/20261114203838-12-1427253/dpr-minta-kapolda-ntt-tegas-usut-dugaan-perkosaan-oleh-bupati-kupang",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Jepang Gilas Brasil 3-2, Ancelotti dan Raphinha Dikartu Merah",
+      "url": "https://www.cnnindonesia.com/olahraga/20261114202942-142-1427251/jepang-gilas-brasil-3-2-ancelotti-dan-raphinha-dikartu-merah",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Serang Mehrab, Usman Nurmagomedov Dihukum Penjara 6 Bulan di UEA",
+      "url": "https://www.cnnindonesia.com/olahraga/20261114211107-178-1427258/serang-mehrab-usman-nurmagomedov-dihukum-penjara-6-bulan-di-uea",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "Italia Denda Meta Rp14,6 T Gegara Akses Galeri Foto Pengguna Android",
+      "url": "https://www.cnnindonesia.com/teknologi/20261114202815-185-1427250/italia-denda-meta-rp146-t-gegara-akses-galeri-foto-pengguna-android",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Gerindra Bakal Pecat Bupati Kupang Yosef Lede Jika Terbukti Memperkosa",
+      "url": "https://www.cnnindonesia.com/nasional/20261114205617-20-1427255/gerindra-bakal-pecat-bupati-kupang-yosef-lede-jika-terbukti-memperkosa",
+      "sektor": "Energi, Infrastruktur"
+    }
+  ]
+}
