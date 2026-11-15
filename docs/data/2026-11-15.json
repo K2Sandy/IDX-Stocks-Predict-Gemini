@@ -1,0 +1,290 @@
+{
+  "tanggal": "2026-11-15",
+  "dibuat_pada": "2026-11-15 22:13 WIB",
+  "jumlah_artikel": 46,
+  "saham_disebut": {
+    "BELI": [
+      "Teknologi (rating 5/7)"
+    ],
+    "GOTO": [
+      "Teknologi (rating 5/7)"
+    ],
+    "MGLV": [
+      "Teknologi (rating 5/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "IHSG menguat signifikan pasca meredanya ketidakpastian pasar, termasuk reformasi pasar dan tensi politik, meskipun sejumlah besar saham, termasuk bank asing dan BUMN, masuk daftar konsentrasi kepemilikan saham tinggi (HSC) dan tidak lagi dihitung dalam IHSG.",
+      "alasan": "Meskipun daftar HSC dapat memberikan tekanan pada likuiditas sebagian saham sektor keuangan seperti bank asing dan BUMN tertentu, penguatan IHSG yang kuat menunjukkan sentimen pasar yang optimis secara keseluruhan. Sektor keuangan cenderung bergerak sejalan dengan arah pasar yang lebih luas, sehingga kondisi fundamental yang membaik dan reformasi pasar dapat mendorong kinerja sektor ini.",
+      "analisis_saham": "Tidak ada kode saham spesifik dari sektor keuangan yang disebutkan. Namun, berita menyebutkan \"Bank Asing\" dan \"Saham BUMN\" yang terjaring dalam daftar High Shareholding Concentration (HSC). Emiten-emiten dalam kategori tersebut, jika termasuk dalam sektor keuangan, kemungkinan akan menghadapi penurunan likuiditas dan potensi tekanan jual karena tidak lagi diperhitungkan dalam Indeks Harga Saham Gabungan (IHSG)."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Sektor teknologi menunjukkan sentimen beragam, didorong oleh capaian profitabilitas salah satu pemain besar (GOTO) dan indikasi ekspansi (MGLV), namun diiringi tantangan profitabilitas emiten lain (BELI) serta penataan regulasi dan pajak ekonomi digital.",
+      "alasan": "Sentimen positif dari GOTO yang berhasil membukukan laba dan MGLV yang merencanakan ekspansi memberikan dorongan optimistis bagi sektor. Meskipun BELI masih berjuang mengejar laba dan adanya kebijakan pungutan PPh di marketplace, kejelasan regulasi ekonomi digital dan upaya pemerintah dalam menghadapi disrupsi AI dapat memberikan stabilitas jangka panjang.",
+      "analisis_saham": "BELI: Sentimen negatif. Emiten ini masih berjuang mencetak laba empat tahun setelah IPO dan masuk daftar HSC, mengindikasikan tantangan operasional dan keuangan yang berkelanjutan yang dapat menekan harga sahamnya."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "BPH Migas menguji coba skema distribusi BBM untuk mengantisipasi lonjakan konsumsi saat Natal 2026 dan Tahun Baru 2027.",
+      "alasan": "Berita ini mengindikasikan adanya antisipasi lonjakan permintaan BBM yang bersifat musiman selama periode Nataru. Peningkatan permintaan ini berpotensi meningkatkan volume penjualan bagi perusahaan di sektor distribusi dan ritel energi. Langkah mitigasi BPH Migas juga memastikan kelancaran pasokan, mendukung stabilitas operasional sektor.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Proaktifnya BPH Migas dalam memastikan kelancaran distribusi BBM Nataru mendukung stabilitas operasional infrastruktur.",
+      "alasan": "Inisiatif BPH Migas untuk menguji coba skema RAE guna mengantisipasi lonjakan BBM Nataru adalah langkah positif yang menjamin kelancaran distribusi energi dan mobilitas masyarakat, fundamental bagi sektor infrastruktur. Meskipun ada sentimen negatif terkait saham BUMN yang terjaring HSC, dampak ini lebih spesifik pada beberapa emiten dan tidak merata, sehingga tertutupi oleh dorongan operasional positif dan perbaikan sentimen pasar secara umum.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Serangkaian insiden lokal, termasuk tawuran yang mengakibatkan kerusakan properti dan kerugian ekonomi individu, serta kerugian pedagang akibat perubahan politik, menciptakan sentimen minor negatif di tingkat sosial dan ekonomi mikro.",
+      "alasan": "Meskipun peristiwa-peristiwa tersebut bersifat lokal dan berskala kecil, insiden sosial seperti tawuran yang merusak properti dan menimbulkan kerugian bagi individu (seperti pengemudi ojol) dapat sedikit mengikis sentimen publik dan kepercayaan terhadap stabilitas sosial. Hal ini, ditambah dengan kerugian ekonomi mikro yang timbul dari perubahan politik, secara kolektif tidak memberikan katalis positif untuk sektor umum/makro.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Perancis Vs Turkiye: Menanti Kebangkitan Pasukan Zidane bersama Mbappe",
+      "url": "https://bola.kompas.com/read/2026/11/15/21391158/perancis-vs-turkiye-menanti-kebangkitan-pasukan-zidane-bersama-mbappe",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Hasil Timnas Indonesia Vs Bali United 1-1, Laga Penutup TC di Bali",
+      "url": "https://bola.kompas.com/read/2026/11/15/22091718/hasil-timnas-indonesia-vs-bali-united-1-1-laga-penutup-tc-di-bali",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "10 Saham Bersiap Cum Dividen Pekan Depan",
+      "url": "https://emitennews.com/news/10-saham-bersiap-cum-dividen-pekan-depan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Antisipasi Lonjakan BBM Nataru, BPH Migas Uji Coba RAE",
+      "url": "https://emitennews.com/news/antisipasi-lonjakan-bbm-nataru-bph-migas-uji-coba-rae",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bank Asing & Saham BUMN Terjaring HSC, Bagaimana Jalan Keluarnya?",
+      "url": "https://emitennews.com/news/bank-asing-saham-bumn-terjaring-hsc-bagaimana-jalan-keluarnya",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEI & OJK Setujui Listing, Mengapa Investor Ditinggal Saat Delisting?",
+      "url": "https://emitennews.com/news/bei-ojk-setujui-listing-mengapa-investor-ditinggal-saat-delisting",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Dirut Wir Asia (WIRG) Stephen Budiman Mundur karena Alasan Kesehatan",
+      "url": "https://emitennews.com/news/dirut-wir-asia-wirg-stephen-budiman-mundur-karena-alasan-kesehatan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Midea Gelar Grand Final MCFIT 2026, Apresiasi Keahlian Teknisi AC ASEAN",
+      "url": "https://biz.kompas.com/read/2026/11/15/220104528/midea-gelar-grand-final-mcfit-2026-apresiasi-keahlian-teknisi-ac-asean",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Drama Reformasi Pasar, MSCI, & Politik Usai, IHSG Balik Fundamental?",
+      "url": "https://emitennews.com/news/drama-reformasi-pasar-msci-politik-usai-ihsg-balik-fundamental",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Empat Tahun IPO, BELI Masih Berjuang Kejar Laba",
+      "url": "https://emitennews.com/news/empat-tahun-ipo-beli-masih-berjuang-kejar-laba",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Ekonomi Digital RI Perlu Aturan Sesuai Karakter Pasar",
+      "url": "https://emitennews.com/news/ekonomi-digital-ri-perlu-aturan-sesuai-karakter-pasar",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Force Majeure Hantam Kuartal III 2026 Buma (DOID), Tapi Rugi Susut 47%",
+      "url": "https://emitennews.com/news/force-majeure-hantam-kuartal-iii-2026-buma-doid-tapi-rugi-susut-47",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Gibran Mundur dari Wapres: Kepastian Politik IHSG atau Gejolak Baru?",
+      "url": "https://emitennews.com/news/gibran-mundur-dari-wapres-kepastian-politik-ihsg-atau-gejolak-baru",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Hadapi Disrupsi AI, Kemnaker Rilis 3 Prioritas Tenaga Kerja",
+      "url": "https://emitennews.com/news/hadapi-disrupsi-ai-kemnaker-rilis-3-prioritas-tenaga-kerja",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "INPP Lepas Seluruh Saham IGM Rp185,7 Miliar dalam Transaksi Afiliasi",
+      "url": "https://emitennews.com/news/inpp-lepas-seluruh-saham-igm-rp1857-miliar-dalam-transaksi-afiliasi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Investasi RI Melejit, Serap Tenaga Kerja Sulit",
+      "url": "https://emitennews.com/news/investasi-ri-melejit-serap-tenaga-kerja-sulit",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Marketplace Pungut PPh 0,5 Persen, Omzet di Bawah Rp500 Juta Bebas",
+      "url": "https://emitennews.com/news/marketplace-pungut-pph-05-persen-omzet-di-bawah-rp500-juta-bebas",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "MGLV Setujui Penjaminan Aset di Atas 50%, Lanjut Ekspansi Kredit?",
+      "url": "https://emitennews.com/news/mglv-setujui-penjaminan-aset-di-atas-50-lanjut-ekspansi-kredit",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pasok AI Terancam, Investor Minta Huang Balik Pimpin Nvidia",
+      "url": "https://emitennews.com/news/pasok-ai-terancam-investor-minta-huang-balik-pimpin-nvidia",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Pertamina Geothermal (PGEO) Jajaki Peluang Pasok Energi Data Center",
+      "url": "https://emitennews.com/news/pertamina-geothermal-pgeo-jajaki-peluang-pasok-energi-data-center",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Proyek Properti Repower Asia (REAL) Raih Predikat Highly Commended",
+      "url": "https://emitennews.com/news/proyek-properti-repower-asia-real-raih-predikat-highly-commended",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Punya Banyak Produk Investasi Belum Tentu Aman, Kenali 5 Risiko Ini",
+      "url": "https://emitennews.com/news/punya-banyak-produk-investasi-belum-tentu-aman-kenali-5-risiko-ini",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "RI Jadi Tandon Darurat Migas Filipina, Peluang Baru Emiten Energi",
+      "url": "https://emitennews.com/news/ri-jadi-tandon-darurat-migas-filipina-peluang-baru-emiten-energi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pepeng Eks Naif Gelar Pameran Si Pemikir, Retrospektif Karya Seni dari Masa Kecil hingga Usia 50 Tahun",
+      "url": "https://entertainment.kompas.com/read/2026/11/15/215134566/pepeng-eks-naif-gelar-pameran-si-pemikir-retrospektif-karya-seni-dari",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Sambut Investor Jepang, Pengendali Borong 14,02% Saham DGIK Rp107,8M",
+      "url": "https://emitennews.com/news/sambut-investor-jepang-pengendali-borong-1402-saham-dgik-rp1078m",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Sanksi Pajak Dihapus 100%, Tenggat Hingga Akhir Desember 2026",
+      "url": "https://emitennews.com/news/sanksi-pajak-dihapus-100-tenggat-hingga-akhir-desember-2026",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kronologi Tawuran di Petamburan Jakpus, Warga Diserang Petasan, Motor-Gerobak Dibakar",
+      "url": "https://megapolitan.kompas.com/read/2026/11/15/21580651/kronologi-tawuran-di-petamburan-jakpus-warga-diserang-petasan-motor",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Tumbuh 4,36%, Ekspor Alas Kaki Triwulan III Cetak USD7,22 Miliar",
+      "url": "https://emitennews.com/news/tumbuh-436-ekspor-alas-kaki-triwulan-iii-cetak-usd722-miliar",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Gandeng BYD, Pertamina Jajaki Teknologi Flash Charging di SPBU",
+      "url": "https://money.kompas.com/read/2026/11/15/211000826/gandeng-byd-pertamina-jajaki-teknologi-flash-charging-di-spbu",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Larangan AMDK di Bawah 1 Liter, Pemulung dan Industri Soroti Dampak Ekonominya",
+      "url": "https://money.kompas.com/read/2026/11/15/212112326/larangan-amdk-di-bawah-1-liter-pemulung-dan-industri-soroti-dampak-ekonominya",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Kemenkeu Kejar Target Pajak 2026, Pengamat Ingatkan Jangan Tekan Wajib Pajak",
+      "url": "https://money.kompas.com/read/2026/11/15/214000226/kemenkeu-kejar-target-pajak-2026-pengamat-ingatkan-jangan-tekan-wajib-pajak",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ray Dalio Peringatkan Utang AS Bisa Picu Krisis Ekonomi Besar",
+      "url": "https://money.kompas.com/read/2026/11/15/213847226/ray-dalio-peringatkan-utang-as-bisa-picu-krisis-ekonomi-besar",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Motor Ojol Wanita Dibakar Saat Tawuran di Petamburan Jakpus: Masih Nyicil, Besok Kerja Pakai Apa?",
+      "url": "https://megapolitan.kompas.com/read/2026/11/15/21102871/motor-ojol-wanita-dibakar-saat-tawuran-di-petamburan-jakpus-masih-nyicil",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Di KTT ASEAN, Prabowo Minta Maaf Karhutla RI Ganggu Singapura hingga Malaysia",
+      "url": "https://nasional.kompas.com/read/2026/11/15/21162581/di-ktt-asean-prabowo-minta-maaf-karhutla-ri-ganggu-singapura-hingga-malaysia",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Aturan Investasi 90/10 Warren Buffett untuk Pensiun, Masih Relevan?",
+      "url": "https://money.kompas.com/read/2026/11/15/213030226/aturan-investasi-90-10-warren-buffett-untuk-pensiun-masih-relevan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Prabowo di KTT ASEAN: 104 Perusahaan Diselidiki soal Karhutla, 11 Sudah Didakwa",
+      "url": "https://nasional.kompas.com/read/2026/11/15/21261311/prabowo-di-ktt-asean-104-perusahaan-diselidiki-soal-karhutla-11-sudah",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Jalan Nasional Bireuen-Takengon Kembali Tertimbun Longsor, Kendaraan Melintas Bergantian",
+      "url": "https://regional.kompas.com/read/2026/11/15/213239978/jalan-nasional-bireuen-takengon-kembali-tertimbun-longsor-kendaraan",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Telanjur Cetak Ratusan Foto Gibran, Pedagang Rugi Rp 15 Juta: Enggak Nyangka Mundur",
+      "url": "https://megapolitan.kompas.com/read/2026/11/15/21271281/telanjur-cetak-ratusan-foto-gibran-pedagang-rugi-rp-15-juta-enggak",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Anak Sering Bersin di Rumah? Bisa Jadi 5 Hal Ini Pemicunya",
+      "url": "https://www.cnnindonesia.com/gaya-hidup/20261115193213-284-1427435/anak-sering-bersin-di-rumah-bisa-jadi-5-hal-ini-pemicunya",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Cerita BRILink Agen di Medan yang Jadi Sumber Penghidupan Warga",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261115203403-625-1427442/cerita-brilink-agen-di-medan-yang-jadi-sumber-penghidupan-warga",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Antam Raup Laba Bersih Rp9,7 T hingga September 2026",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261115205703-85-1427452/antam-raup-laba-bersih-rp97-t-hingga-september-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "BPBD Kaltim Ingatkan Warga Waspada Banjir Tiga Hari ke Depan",
+      "url": "https://www.cnnindonesia.com/nasional/20261115135040-20-1427356/bpbd-kaltim-ingatkan-warga-waspada-banjir-tiga-hari-ke-depan",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Laporan Intel AS: Iran Masih Punya 2.500 Rudal, Beda dari Klaim Trump",
+      "url": "https://www.cnnindonesia.com/internasional/20261115153146-120-1427387/laporan-intel-as-iran-masih-punya-2500-rudal-beda-dari-klaim-trump",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Balita Tewas Tertimbun Longsor di Aceh Tengah",
+      "url": "https://www.cnnindonesia.com/nasional/20261115174057-20-1427415/balita-tewas-tertimbun-longsor-di-aceh-tengah",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kejuaraan CNN Indonesia Taekwondo Championship 3 Rampung Digelar",
+      "url": "https://www.cnnindonesia.com/olahraga/20261115202031-178-1427440/kejuaraan-cnn-indonesia-taekwondo-championship-3-rampung-digelar",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Meta Kena Sanksi Rp16 T, Denda Terbesar dari Regulator Italia",
+      "url": "https://www.cnnindonesia.com/teknologi/20261115083745-185-1427289/meta-kena-sanksi-rp16-t-denda-terbesar-dari-regulator-italia",
+      "sektor": "Teknologi"
+    }
+  ]
+}
