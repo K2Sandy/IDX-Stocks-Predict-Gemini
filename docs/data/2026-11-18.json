@@ -1,0 +1,334 @@
+{
+  "tanggal": "2026-11-18",
+  "dibuat_pada": "2026-11-18 23:55 WIB",
+  "jumlah_artikel": 55,
+  "saham_disebut": {
+    "OKAS": [
+      "Keuangan (rating 2/7)",
+      "Energi (rating 2/7)"
+    ],
+    "MGLV": [
+      "Teknologi (rating 3/7)",
+      "Infrastruktur (rating 7/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Bank Indonesia secara tak terduga menaikkan suku bunga acuan BI-Rate menjadi 6,00% untuk menstabilkan Rupiah, sementara sektor keuangan juga menunjukkan inovasi produk digital dan dorongan kolaborasi dari OJK.",
+      "alasan": "Kenaikan suku bunga acuan BI-Rate di luar ekspektasi pasar umumnya akan meningkatkan biaya dana bagi bank dan berpotensi mengerem pertumbuhan kredit serta aktivitas ekonomi. Meskipun terdapat sentimen positif dari inovasi digital dan dorongan kolaborasi di sub-sektor tertentu, dampak dari kebijakan moneter yang lebih ketat cenderung memberikan tekanan jual pada saham-saham di sektor keuangan secara keseluruhan.",
+      "analisis_saham": "PT Ancora Indonesia Resources Tbk (OKAS) mengalihkan 60% saham anak usahanya, PT Bormindo Nusantara, untuk melunasi seluruh kewajiban utangnya. Meskipun berita ini dapat dipersepsikan positif untuk kesehatan neraca OKAS secara individual, perusahaan ini bergerak di sektor sumber daya dan bukan sektor keuangan, sehingga dampaknya terhadap sentimen sektor keuangan secara keseluruhan tidak signifikan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Kenaikan suku bunga BI-Rate dan rumor negatif terkait MGLV memberikan sentimen negatif, meskipun ada inovasi teknologi seperti AI dan tokenized stock.",
+      "alasan": "Kenaikan BI-Rate menjadi 6,00% umumnya berdampak negatif pada sektor pertumbuhan seperti teknologi karena meningkatkan biaya modal dan dapat mengerem investasi atau konsumsi. Selain itu, rumor tentang kegiatan reekspor ilegal GPU oleh MGLV menciptakan ketidakpastian bagi salah satu pemain di sektor ini, meskipun telah dibantah. Berita inovasi teknologi oleh Ajaib Kripto dan Indo Premier Sekuritas belum cukup kuat untuk mengimbangi tekanan makro dan sentimen negatif spesifik.",
+      "analisis_saham": "PT NexAI Digital Infrastruktur Tbk (MGLV) membantah rumor reekspor ilegal GPU berteknologi tinggi. Meskipun merupakan bantahan, munculnya rumor semacam ini dapat menimbulkan kekhawatiran dan ketidakpastian di kalangan investor, berpotensi menekan harga saham MGLV atau membatasi kenaikannya karena sentimen negatif yang melekat."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 2,
+      "key_sentiment": "Kenaikan BI-Rate menjadi 6,00% berpotensi meningkatkan biaya modal dan menekan sektor Energi, diiringi oleh kabar divestasi aset di sektor jasa pengeboran migas untuk pelunasan utang.",
+      "alasan": "Sektor Energi merupakan sektor yang padat modal, sehingga kenaikan suku bunga acuan BI-Rate akan secara langsung meningkatkan biaya pinjaman untuk investasi, ekspansi, dan operasional. Hal ini dapat menekan profitabilitas dan pertumbuhan perusahaan di sektor ini. Selain itu, adanya berita divestasi aset anak usaha di jasa pengeboran migas untuk pembayaran utang mengindikasikan tekanan finansial pada beberapa emiten.",
+      "analisis_saham": "PT Ancora Indonesia Resources Tbk (OKAS): Pengalihan 60% saham di PT Bormindo Nusantara sebagai pelunasan utang menunjukkan adanya tekanan finansial yang signifikan pada perseroan. Sentimen ini cenderung negatif bagi OKAS karena divestasi aset inti untuk membayar kewajiban dapat diinterpretasikan sebagai upaya mitigasi masalah keuangan yang berpotensi membebani harga saham."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 7,
+      "key_sentiment": "Indonesia dan China menyepakati kemitraan strategis senilai US$50 miliar untuk pengembangan 10 kota cerdas, memberikan dorongan signifikan bagi sektor infrastruktur.",
+      "alasan": "Kesepakatan investasi US$50 miliar untuk pengembangan smart cities merupakan katalis sangat positif yang akan mendorong proyek-proyek infrastruktur berskala besar, termasuk konstruksi, digital, dan teknologi pendukung. Meskipun kenaikan BI Rate meningkatkan biaya pinjaman, dampak dari investasi langsung sebesar ini diperkirakan akan jauh lebih dominan dalam menggerakkan sentimen positif dan potensi kinerja sektor.",
+      "analisis_saham": "PT NexAI Digital Infrastruktur Tbk (MGLV) menghadapi rumor terkait reekspor ilegal GPU berteknologi tinggi. Meskipun perusahaan telah memberikan klarifikasi, rumor negatif semacam itu dapat menciptakan ketidakpastian dan menekan harga sahamnya dalam jangka pendek, meskipun perannya dalam infrastruktur komputasi tetap relevan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Perencanaan keuangan pemerintah daerah yang bijak, potensi pengembangan infrastruktur digital, dan aktivitas konsumsi di sektor hiburan memberikan sinyal positif yang ringan.",
+      "alasan": "Berita mengenai persiapan dana cadangan Pilkada menunjukkan pengelolaan fiskal daerah yang terencana. Sementara itu, rencana pembangunan pusat data di BSD dan aktivitas fan meeting Jisoo BLACKPINK mengindikasikan adanya investasi di sektor infrastruktur dan berlanjutnya aktivitas konsumsi domestik, yang secara agregat berkontribusi pada sentimen positif.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Kata Fabio Capello Usai AC Milan Jadikan Tresoldi Target Utama",
+      "url": "https://bola.kompas.com/read/2026/11/18/23415148/kata-fabio-capello-usai-ac-milan-jadikan-tresoldi-target-utama",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Diganjar Denda Akumulatif Rp870 Juta, Persebaya Ambil Langkah Penutupan Tribun Utara",
+      "url": "https://bola.kompas.com/read/2026/11/18/23335678/diganjar-denda-akumulatif-rp870-juta-persebaya-ambil-langkah-penutupan-tribun",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Ajaib Kripto Luncurkan Tokenized Stock Perpetual, SpaceX hingga NVIDIA",
+      "url": "https://emitennews.com/news/ajaib-kripto-luncurkan-tokenized-stock-perpetual-spacex-hingga-nvidia",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "ASEAN dapat Bangun Industri Asuransi Kuat, OJK Sarankan Kolaborasi",
+      "url": "https://emitennews.com/news/asean-dapat-bangun-industri-asuransi-kuat-ojk-sarankan-kolaborasi",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bawa Investor Indonesia Naik Kelas, INAI Hadir di IPOT X Mobile",
+      "url": "https://emitennews.com/news/bawa-investor-indonesia-naik-kelas-inai-hadir-di-ipot-x-mobile",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bayar Utang, Emiten Gita Wirjawan OKAS Alihkan 60% Saham Bormindo",
+      "url": "https://emitennews.com/news/bayar-utang-emiten-gita-wirjawan-okas-alihkan-60-saham-bormindo",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Cerita Miswan, Nelayan Pangandaran yang Berhenti Melaut karena Sungai Citanduy Makin Dangkal",
+      "url": "https://bandung.kompas.com/read/2026/11/18/230359278/cerita-miswan-nelayan-pangandaran-yang-berhenti-melaut-karena-sungai",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dana Transfer Turun Hampir Rp 1 Triliun, Pemkab Karawang Efisiensi",
+      "url": "https://bandung.kompas.com/read/2026/11/18/222835678/dana-transfer-turun-hampir-rp-1-triliun-pemkab-karawang-efisiensi",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Warga Desil 5 dan 6 Rentan Jatuh Miskin, Farhan Harap Koperasi Jadi Penyangga Ekonomi",
+      "url": "https://bandung.kompas.com/read/2026/11/18/223500878/warga-desil-5-dan-6-rentan-jatuh-miskin-farhan-harap-koperasi-jadi-penyangga",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Bupati Bogor Siapkan Dana Cadangan Pilkada 2029 Sebesar Rp 150 Miliar",
+      "url": "https://bandung.kompas.com/read/2026/11/18/222404878/bupati-bogor-siapkan-dana-cadangan-pilkada-2029-sebesar-rp-150-miliar",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "BI Naikkan BI-Rate ke 6,00% Demi Bela Rupiah",
+      "url": "https://emitennews.com/news/bi-naikkan-bi-rate-ke-600-demi-bela-rupiah",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BI Rate Naik Jadi 6%, BBCA Melejit Saat Bank Himbara Kompak Merah",
+      "url": "https://emitennews.com/news/bi-rate-naik-jadi-6-bbca-melejit-saat-bank-himbara-kompak-merah",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BI Rate Naik jadi 6,00%, Ekonom Indef Nilai Perkuat Nilai Tukar Rupiah",
+      "url": "https://emitennews.com/news/bi-rate-naik-jadi-600-ekonom-indef-nilai-perkuat-nilai-tukar-rupiah",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BI Rate Tembus 6%, Saham BSDE dan SMRA Pimpin Koreksi Sektor Properti",
+      "url": "https://emitennews.com/news/bi-rate-tembus-6-saham-bsde-dan-smra-pimpin-koreksi-sektor-properti",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "BRIDS Kantongi Pipeline Lebih dari 5 Calon Emiten IPO, Melantai 2027?",
+      "url": "https://emitennews.com/news/brids-kantongi-pipeline-lebih-dari-5-calon-emiten-ipo-melantai-2027",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Demutualisasi Berproses, BEI: Broker Dicabut Izin Tetap Dapat Dividen",
+      "url": "https://emitennews.com/news/demutualisasi-berproses-bei-broker-dicabut-izin-tetap-dapat-dividen",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Destry Sebut BI-Rate Naik Langkah Pre-emptive Hadapi ini",
+      "url": "https://emitennews.com/news/destry-sebut-bi-rate-naik-langkah-pre-emptive-hadapi-ini",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dirumorkan Reekspor Ilegal GPU Berteknologi Tinggi, Ini Kata MGLV",
+      "url": "https://emitennews.com/news/dirumorkan-reekspor-ilegal-gpu-berteknologi-tinggi-ini-kata-mglv",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Eksklusif! Modus Rekening Pinjam Nama: OJK Tahan Tiga Tersangka",
+      "url": "https://emitennews.com/news/eksklusif-modus-rekening-pinjam-nama-ojk-tahan-tiga-tersangka",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Emiten HSC, RDTX Stock Split 1:20, Ini Dampaknya ke Pemegang Saham",
+      "url": "https://emitennews.com/news/emiten-hsc-rdtx-stock-split-120-ini-dampaknya-ke-pemegang-saham",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Formosa Ingredient Factory (BOBA) Siap Bagikan Dividen, Cek Jadwalnya",
+      "url": "https://emitennews.com/news/formosa-ingredient-factory-boba-siap-bagikan-dividen-cek-jadwalnya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Franky Widjaja Tinggalkan Posisi Komut SMART (SMAR), Ini Penggantinya",
+      "url": "https://emitennews.com/news/franky-widjaja-tinggalkan-posisi-komut-smart-smra-ini-penggantinya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Gagal Bayar Utang, Aset RUNS di Sleman Dilelang BCA Rp17,7 Miliar",
+      "url": "https://emitennews.com/news/gagal-bayar-utang-aset-runs-di-sleman-dilelang-bca-rp177-miliar",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Anjlok Tinggalkan Level 5.300, Tiga Saham Tambang Ini Top Losers!",
+      "url": "https://emitennews.com/news/ihsg-anjlok-tinggalkan-level-5300-tiga-saham-tambang-ini-top-losers",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Incar Cuan Batu Bara, Saham NTBK Meroket Signifikan",
+      "url": "https://emitennews.com/news/incar-cuan-batu-bara-saham-ntbk-meroket-signifikan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "INCO Ubah Pengurus, Basrie Kamba Masuk Jajaran Direksi Vale Indonesia",
+      "url": "https://emitennews.com/news/inco-ubah-pengurus-basrie-kamba-masuk-jajaran-direksi-vale-indonesia",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IPCC akan Bagikan Dividen 18 Desember, Mari Cek Nilainya",
+      "url": "https://emitennews.com/news/ipcc-akan-bagikan-dividen-18-desember-mari-cek-nilainya",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kepemilikan Individu BBCA Melonjak 992 Juta Saham pada Oktober 2026",
+      "url": "https://emitennews.com/news/kepemilikan-individu-bbca-melonjak-992-juta-saham-pada-oktober-2026",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "KLM BI Pacu Kredit Pertanian dan Industri Tembus Rp232 Triliun",
+      "url": "https://emitennews.com/news/klm-bi-pacu-kredit-pertanian-dan-industri-tembus-rp232-triliun",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Lenny Marlina Resmi Gantikan Burhanuddin Abdullah Sebagai Dirut SMMA",
+      "url": "https://emitennews.com/news/lenny-marlina-resmi-gantikan-burhanuddin-abdullah-sebagai-dirut-smma",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Dedi Mulyadi Ingin Tata Kalimalang Bekasi dengan PJU Bernuansa Pajajaran-Tarumanagara",
+      "url": "https://megapolitan.kompas.com/read/2026/11/18/22354421/dedi-mulyadi-ingin-tata-kalimalang-bekasi-dengan-pju-bernuansa-pajajaran",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "RI-China Sepakati Empat Kemitraan Strategis Rp1.300 T, Ini Rinciannya",
+      "url": "https://emitennews.com/news/ri-china-sepakati-empat-kemitraan-strategis-rp1300-t-ini-rinciannya",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pemkot Tangsel Sebut Data Center di BSD Sesuai Tata Ruang, tapi Amdal Belum Diajukan",
+      "url": "https://megapolitan.kompas.com/read/2026/11/18/23181411/pemkot-tangsel-sebut-data-center-di-bsd-sesuai-tata-ruang-tapi-amdal",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "BMKG: Cuaca Jakarta Besok 19 November, Waspada Hujan Petir di Jaksel dan Jaktim",
+      "url": "https://megapolitan.kompas.com/read/2026/11/18/23342211/bmkg-cuaca-jakarta-besok-19-november-waspada-hujan-petir-di-jaksel-dan",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Tambah Saham Dyandra (DYAN) Investasi Jangka Panjang Mondial Investama",
+      "url": "https://emitennews.com/news/tambah-saham-dyandra-dyan-investasi-jangka-panjang-mondial-investama",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Tok! BI Rate Naik Menjadi 6,00 Persen",
+      "url": "https://emitennews.com/news/tok-bi-rate-naik-menjadi-600-persen",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Usai Merger, Belanja Iklan EXCL Melonjak 153% Jadi Rp834 Miliar",
+      "url": "https://emitennews.com/news/usai-merger-belanja-iklan-excl-melonjak-153-jadi-rp834-miliar",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Densus 88 Tangkap 15 Teroris dari Jaringan NII, JAD, dan AD",
+      "url": "https://nasional.kompas.com/read/2026/11/18/22292231/densus-88-tangkap-15-teroris-dari-jaringan-nii-jad-dan-ad",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Kronologi Pengamen Ondel-Ondel di Tangerang Dibunuh Rekan, Berawal dari Uang yang Hilang",
+      "url": "https://megapolitan.kompas.com/read/2026/11/18/23174191/kronologi-pengamen-ondel-ondel-di-tangerang-dibunuh-rekan-berawal-dari",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Gus Alex Akui Terima 466.000 Dolar AS Terkait Kasus Kuota Haji Tambahan",
+      "url": "https://nasional.kompas.com/read/2026/11/18/22471281/gus-alex-akui-terima-466000-dolar-as-terkait-kasus-kuota-haji-tambahan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Febrie Adriansyah Klaim Jadi Korban Kriminalisasi",
+      "url": "https://nasional.kompas.com/read/2026/11/18/23310371/febrie-adriansyah-klaim-jadi-korban-kriminalisasi",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Gus Alex Ungkap Rangkaian Permintaan Uang dari Anggota DPR Saat Pembahasan Haji 2024",
+      "url": "https://nasional.kompas.com/read/2026/11/18/23472811/gus-alex-ungkap-rangkaian-permintaan-uang-dari-anggota-dpr-saat-pembahasan",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "KPK Duga Ada Aliran Uang ke BPK RI Terkait Kasus Bupati Pemalang",
+      "url": "https://nasional.kompas.com/read/2026/11/18/23083251/kpk-duga-ada-aliran-uang-ke-bpk-ri-terkait-kasus-bupati-pemalang",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Prabowo Hadiri Gala Dinner KTT APEC, Disambut Xi Jinping, Duduk Sebelah Putin",
+      "url": "https://nasional.kompas.com/read/2026/11/18/23190241/prabowo-hadiri-gala-dinner-ktt-apec-disambut-xi-jinping-duduk-sebelah-putin",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Banjir Rendam 272 Rumah di Dharmasraya, Bupati Tetapkan Tanggap Darurat, Usulkan Proyek Rp 50 Miliar ke Pusat",
+      "url": "https://regional.kompas.com/read/2026/11/18/223604378/banjir-rendam-272-rumah-di-dharmasraya-bupati-tetapkan-tanggap-darurat",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kronologi Penangkapan Pria Terduga Teroris di Pekalongan, Dikepung dari Dua Arah",
+      "url": "https://regional.kompas.com/read/2026/11/18/223329378/kronologi-penangkapan-pria-terduga-teroris-di-pekalongan-dikepung-dari-dua",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Museum Masjid Agung Demak Direvitalisasi hingga Akhir Tahun, Koleksi Dipindah Sementara",
+      "url": "https://regional.kompas.com/read/2026/11/18/224337478/museum-masjid-agung-demak-direvitalisasi-hingga-akhir-tahun-koleksi",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Bandar Narkoba yang Ditangkap Mabes Polri Menjabat Kades di Bangkalan",
+      "url": "https://surabaya.kompas.com/read/2026/11/18/223831778/bandar-narkoba-yang-ditangkap-mabes-polri-menjabat-kades-di-bangkalan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bikin Gurule Babak Belur, Bilal Hasan Terima Kekalahan di UFC 334",
+      "url": "https://www.cnnindonesia.com/olahraga/20261118192131-178-1428699/bikin-gurule-babak-belur-bilal-hasan-terima-kekalahan-di-ufc-334",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Jisoo BLACKPINK Bersiap Ketemu Fan di Jakarta 28 November",
+      "url": "https://www.cnnindonesia.com/hiburan/20261118155247-234-1428601/jisoo-blackpink-bersiap-ketemu-fan-di-jakarta-28-november",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Polisi Sita Aset Rp150 M Milik Bandar Narkoba Jaringan Malaysia",
+      "url": "https://www.cnnindonesia.com/nasional/20261118214335-12-1428748/polisi-sita-aset-rp150-m-milik-bandar-narkoba-jaringan-malaysia",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Sindikat Curanmor Jadikan Parkiran Mal di Jakbar Penampungan Sementara",
+      "url": "https://www.cnnindonesia.com/nasional/20261118180430-12-1428673/sindikat-curanmor-jadikan-parkiran-mal-di-jakbar-penampungan-sementara",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pesan Menyentuh Mees Hilgers usai Comeback Bela Timnas Indonesia",
+      "url": "https://www.cnnindonesia.com/olahraga/20261118180804-142-1428674/pesan-menyentuh-mees-hilgers-usai-comeback-bela-timnas-indonesia",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Hong Kong Open: Ubed Puas Tuntaskan Balas Dendam ke Chou Tien Chen",
+      "url": "https://www.cnnindonesia.com/olahraga/20261118215348-170-1428750/hong-kong-open-ubed-puas-tuntaskan-balas-dendam-ke-chou-tien-chen",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Kata-kata Pertama Pochettino setelah Tiba di Tempat Latihan MU",
+      "url": "https://www.cnnindonesia.com/olahraga/20261118223610-142-1428752/kata-kata-pertama-pochettino-setelah-tiba-di-tempat-latihan-mu",
+      "sektor": "Umum/Makro"
+    }
+  ]
+}
