@@ -1,0 +1,232 @@
+{
+  "tanggal": "2026-11-20",
+  "dibuat_pada": "2026-11-20 23:41 WIB",
+  "jumlah_artikel": 35,
+  "saham_disebut": {
+    "AMAR": [
+      "Keuangan (rating 6/7)"
+    ],
+    "TLKM": [
+      "Teknologi (rating 3/7)"
+    ],
+    "FOLK": [
+      "Teknologi (rating 3/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Bursa Efek Indonesia (BEI) memperkuat transparansi pasar modal melalui kebijakan saham HSC dan menyatakan tidak ada indikasi keterlibatan emiten pada kasus manipulasi waran, yang meningkatkan kepercayaan pasar.",
+      "alasan": "Kebijakan BEI yang mendukung transparansi dan penegasan tidak adanya keterlibatan emiten dalam manipulasi waran memberikan sentimen positif yang kuat terhadap integritas dan stabilitas pasar modal. Hal ini secara langsung meningkatkan kepercayaan investor pada sektor keuangan secara keseluruhan, berpotensi mendorong aktivitas investasi dan trading.",
+      "analisis_saham": "Amar Bank (AMAR) disebut mengungkapkan tantangan pembiayaan di industri film. Meskipun menunjukkan inisiatif bank untuk memahami potensi dan risiko sektor, sorotan terhadap \"tantangan\" dapat diinterpretasikan sebagai risiko operasional atau hambatan dalam pertumbuhan kredit di segmen tersebut bagi AMAR."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Telkomsel Enterprise melakukan kolaborasi strategis untuk memperluas layanan digital, sementara terjadi penjualan saham pada emiten digital lain di tengah pelemahan IHSG secara keseluruhan.",
+      "alasan": "Meskipun ada berita positif dari Telkomsel yang merupakan pemain besar di sektor ini, pelemahan IHSG yang signifikan dan divestasi saham pada emiten digital lainnya dapat memicu sentimen negatif. Tekanan jual pasar secara umum kemungkinan akan menekan pergerakan sektor teknologi, meskipun ada potensi dukungan dari berita positif pada saham tertentu.",
+      "analisis_saham": "Telkomsel Enterprise, anak usaha TLKM, berkolaborasi dengan Transjakarta untuk bundling paket digital, yang merupakan berita positif dan dapat meningkatkan potensi pendapatan serta adopsi layanan enterprise TLKM. Sebaliknya, berita pengurangan porsi kepemilikan saham oleh Sumber Garam Pratama di FOLK cenderung negatif, menandakan potensi tekanan jual dan kurangnya kepercayaan dari pemegang saham besar."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Tidak ada berita spesifik yang relevan dengan sektor Energi dalam kumpulan berita hari ini.",
+      "alasan": "Karena tidak ada katalis positif maupun negatif yang disebutkan secara langsung maupun tidak langsung terkait dengan perusahaan atau tren di sektor Energi, pergerakan indeks sektor diperkirakan akan netral. Investor tidak memiliki informasi baru untuk mempengaruhi keputusan di sektor ini.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "error",
+      "prediksi": null
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Berita hari ini didominasi oleh laporan olahraga dan perkembangan politik terkait pembentukan kabinet, tanpa adanya indikator ekonomi atau kebijakan makro yang signifikan.",
+      "alasan": "Kumpulan berita yang disajikan sebagian besar berfokus pada informasi olahraga dan proses politik yang bersifat rutin mengenai pertemuan cawapres. Tidak ada berita yang mengandung data ekonomi, kebijakan pemerintah baru, atau sentimen pasar yang dapat secara langsung memicu pergerakan indeks sektor Umum/Makro, baik positif maupun negatif.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Amar Bank (AMAR) Ungkap Tantangan Pembiayaan Industri Film",
+      "url": "https://emitennews.com/news/amar-bank-amar-ungkap-tantangan-pembiayaan-industri-film",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Babak Baru IHSG Tanpa Saham HSC",
+      "url": "https://emitennews.com/news/babak-baru-ihsg-tanpa-saham-hsc",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BEI: Tidak Ada Indikasi Keterlibatan Emiten pada Manipulasi Waran",
+      "url": "https://emitennews.com/news/bei-tidak-ada-indikasi-keterlibatan-emiten-pada-manipulasi-waran",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Bundling Paket TJ GO, Telkomsel Enterprise Gandeng Transjakarta",
+      "url": "https://emitennews.com/news/bundling-paket-tj-go-telkomsel-enterprise-gandeng-transjakarta",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Anak Usaha Japfa (JPFA) Akusisi Bisnis Cold Chain Tigaraksa Satria",
+      "url": "https://emitennews.com/news/anak-usaha-japfa-jpfa-akusisi-bisnis-cold-chain-tigaraksa-satria",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Baru IPO, MSCI Akan Tambah Anthropic ke Indeks Utama",
+      "url": "https://emitennews.com/news/baru-ipo-msci-akan-tambah-anthropic-ke-indeks-utama",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Buyback, EXCL Siapkan Anggaran Jumbo",
+      "url": "https://emitennews.com/news/buyback-excl-siapkan-anggaran-jumbo",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Demi Dividen, 24,28% Saham Milik Grafiti Pers di TMPO Susut Jadi 1,95%",
+      "url": "https://emitennews.com/news/demi-dividen-2428-saham-milik-grafiti-pers-di-tmpo-susut-jadi-195",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dividen Interim BFI Finance (BFIN) Rp35 per Saham, Total Rp516 Miliar",
+      "url": "https://emitennews.com/news/dividen-interim-bfi-finance-bfin-rp35-per-saham-total-rp516-miliar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Ekspansi 2027, Target JBL 100 Truk Listrik Distribusi Hingga Luar Jawa",
+      "url": "https://emitennews.com/news/ekspansi-2027-target-jbl-100-truk-listrik-distribusi-hingga-luar-jawa",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Gudang Logistik Terisi 96,4% Saat Kantor Sepi, Saham Ini Diincar",
+      "url": "https://emitennews.com/news/gudang-logistik-terisi-964-saat-kantor-sepi-saham-ini-diincar",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Emiten Sawit TP Rachmat (TAPG) Raih Dividen Interim Rp599,9M dari USTP",
+      "url": "https://emitennews.com/news/emiten-sawit-tp-rachmat-tapg-raih-dividen-interim-rp5999m-dari-ustp",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Diam-diam RI Pulihkan Pasokan Gas ke Singapura Sejak 12 November",
+      "url": "https://emitennews.com/news/hanya-gertak-sambal-ri-pulihkan-sepenuhnya-pasokan-gas-ke-singapura",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Jumat Anjlok Lagi Sentuh Level 5.146, Sepekan Penuh di Zona Merah",
+      "url": "https://emitennews.com/news/ihsg-jumat-anjlok-lagi-sentuh-level-5146-sepekan-penuh-di-zona-merah",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "IHSG Siang (20/11) Lanjut Melemah 1,5%, Dekati Dasar 5.100",
+      "url": "https://emitennews.com/news/ihsg-siang-2011-lanjut-melemah-15-dekati-dasar-5100",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Izin Dicabut, OJK Tutup Seluruh Kantor BPR LPN Labuh Gunung Sumbar",
+      "url": "https://emitennews.com/news/izin-dicabut-ojk-tutup-seluruh-kantor-bpr-lpn-labuh-gunung-sumbar",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kantongi Restu, NINE Siap Right Issue 2,44 Miliar Lembar",
+      "url": "https://emitennews.com/news/kantongi-restu-nine-siap-right-issue-244-miliar-lembar",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "INDY Targetkan Proyek Awak Mas Produksi Komersial di 1H27",
+      "url": "https://emitennews.com/news/indy-targetkan-proyek-awak-mas-produksi-komersial-di-1h27",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kian Santang (RGAS) Beri Pinjaman ke PT KIS, Modal Kerja Anak Usaha",
+      "url": "https://emitennews.com/news/kian-santang-rgas-beri-pinjaman-ke-pt-kis-modal-kerja-anak-usaha",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Kuartal III 2026, PGN (PGAS) Akui Hadapi Tekanan Pasokan Gas Bumi",
+      "url": "https://emitennews.com/news/kuartal-iii-2026-pgn-pgas-akui-hadapi-tekanan-pasokan-gas-bumi",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kurangi Porsi, Sumber Garam Kini Kuasai 13,25 Persen Saham Multi Garam",
+      "url": "https://emitennews.com/news/kurangi-porsi-sumber-garam-kini-kuasai-1325-persen-saham-multi-garam",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Melejit 22,6 Persen, Laba Bersih BTN Sentuh Rp2,82 Triliun",
+      "url": "https://emitennews.com/news/melejit-226-persen-laba-bersih-btn-sentuh-rp282-triliun",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Membaca Tiga Sinyal Ekonomi dari Laporan Keuangan APLN",
+      "url": "https://emitennews.com/news/membaca-tiga-sinyal-ekonomi-dari-laporan-keuangan-apln",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pelaku Pasar Ramai-Ramai Angkat Bicara Soal MSCI Minta Tindak Pidana",
+      "url": "https://emitennews.com/news/pelaku-pasar-ramai-ramai-angkat-bicara-soal-msci-minta-tindak-pidana",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Antisipasi Banjir, Katon Bagaskara Patungan Bareng Tetangga Beli Pompa",
+      "url": "https://www.cnnindonesia.com/hiburan/20261120152051-234-1429539/antisipasi-banjir-katon-bagaskara-patungan-bareng-tetangga-beli-pompa",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Daftar Lengkap Pemenang Piala Citra FFI 2026",
+      "url": "https://www.cnnindonesia.com/hiburan/20261120215955-220-1429709/daftar-lengkap-pemenang-piala-citra-ffi-2026",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "TNI Ubah Penyebutan OPM Jadi KEB, Kelompok Ekstremis Bersenjata",
+      "url": "https://www.cnnindonesia.com/nasional/20261120203605-20-1429693/tni-ubah-penyebutan-opm-jadi-keb-kelompok-ekstremis-bersenjata",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Sjafrie Undang Yusril ke Kemenhan Bahas RUU Pertahanan Negara",
+      "url": "https://www.cnnindonesia.com/nasional/20261120220420-20-1429713/sjafrie-undang-yusril-ke-kemenhan-bahas-ruu-pertahanan-negara",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Golkar-PKS Sebut Prabowo Akan Kumpulkan Ketum Parpol soal Cawapres",
+      "url": "https://www.cnnindonesia.com/nasional/20261120222219-32-1429712/golkar-pks-sebut-prabowo-akan-kumpulkan-ketum-parpol-soal-cawapres",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Ibu Messi Emosional dan Menangis ke Nico: Kamu Penerus Putraku",
+      "url": "https://www.cnnindonesia.com/olahraga/20261120145529-142-1429523/ibu-messi-emosional-dan-menangis-ke-nico-kamu-penerus-putraku",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Hasil Practice MotoGP Portugal: Alex Nomor Satu, Marc Marquez Keenam",
+      "url": "https://www.cnnindonesia.com/olahraga/20261120193521-156-1429665/hasil-practice-motogp-portugal-alex-nomor-satu-marc-marquez-keenam",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Hasil Kualifikasi Piala Asia U-17 2027: Malaysia Gagal Lolos",
+      "url": "https://www.cnnindonesia.com/olahraga/20261120220425-142-1429711/hasil-kualifikasi-piala-asia-u-17-2027-malaysia-gagal-lolos",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Saham Bisa Keluar MSCI Meskipun Bisnisnya Baik-baik Saja",
+      "url": "https://emitennews.com/news/saham-bisa-keluar-msci-meskipun-bisnisnya-baik-baik-saja",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "SMBC (BTPN) Gandeng Batavia, Perluas Pilihan Investasi Reksa Dana",
+      "url": "https://emitennews.com/news/smbc-btpn-gandeng-batavia-perluas-pilihan-investasi-reksa-dana",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tingkatkan Keunggulan Layanan, Bundamedik (BMHS) Gandeng Mayo Clinic",
+      "url": "https://emitennews.com/news/tingkatkan-keunggulan-layanan-bundamedik-bmhs-gandeng-mayo-clinic",
+      "sektor": "Keuangan, Teknologi, Energi"
+    }
+  ]
+}
