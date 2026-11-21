@@ -1,0 +1,292 @@
+{
+  "tanggal": "2026-11-21",
+  "dibuat_pada": "2026-11-21 22:53 WIB",
+  "jumlah_artikel": 43,
+  "saham_disebut": {
+    "WIFI": [
+      "Teknologi (rating 6/7)"
+    ],
+    "VKTR": [
+      "Teknologi (rating 6/7)",
+      "Energi (rating 3/7)"
+    ],
+    "TLKM": [
+      "Teknologi (rating 6/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "ISAT": [
+      "Teknologi (rating 6/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "EXCL": [
+      "Teknologi (rating 6/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "TOWR": [
+      "Teknologi (rating 6/7)",
+      "Infrastruktur (rating 6/7)"
+    ],
+    "SMGR": [
+      "Infrastruktur (rating 6/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 1,
+      "key_sentiment": "Rupiah mencapai level terlemah sepanjang masa (ATL) di Rp18.278, diikuti anjloknya IHSG sebesar 3,71% sepekan dengan arus modal asing keluar Rp2,68 triliun.",
+      "alasan": "Pelemahan Rupiah yang signifikan dan mencapai rekor terendah akan memberikan tekanan pada sektor keuangan, terutama perbankan, melalui potensi peningkatan risiko kredit dan biaya pendanaan. Anjloknya IHSG dan aksi jual asing yang masif secara langsung menekan harga saham-saham berkapitalisasi besar di sektor keuangan, yang merupakan pilar utama indeks.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Sentimen positif dari IPO Anthropic di Nasdaq diperkirakan akan mendorong saham telekomunikasi dan infrastruktur di Indonesia, didukung aksi akumulasi besar saham WIFI.",
+      "alasan": "Analis memprediksi saham-saham telekomunikasi dan infrastruktur akan mendapat sentimen positif dari IPO Anthropic yang memicu kebutuhan konektivitas tinggi dan pengembangan ekosistem digital. Akumulasi saham WIFI oleh investor besar juga menambah optimisme terhadap sub-sektor digital.",
+      "analisis_saham": "WIFI:** Aksi borong saham WIFI oleh Investasi Sukses Bersama (ISB) pada harga premium yang signifikan menunjukkan kepercayaan investor besar yang sangat kuat, berpotensi mendorong kenaikan harga saham yang substansial."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Pelemahan rupiah dan kenaikan suku bunga BI menciptakan sentimen negatif pasar secara umum, sementara tidak ada katalis positif spesifik bagi sektor Energi, bahkan dengan bantahan VKTR terhadap potensi akuisisi Weda Bay.",
+      "alasan": "Tekanan makroekonomi dari pelemahan rupiah yang mencapai level terendah sepanjang masa dan kenaikan BI Rate akan meningkatkan biaya modal serta beban utang bagi perusahaan di sektor ini. Tidak adanya berita positif atau potensi konsolidasi yang kuat, seperti bantahan VKTR, semakin menekan sentimen terhadap sektor Energi.",
+      "analisis_saham": "Saham VKTR Teknologi Mobilitas (VKTR) berpotensi mengalami sentimen netral cenderung negatif. Pembantahan VKTR terkait rumor akuisisi saham Weda Bay Nickel menghilangkan potensi katalis positif dari strategi ekspansi atau diversifikasi yang dapat menopang pergerakan saham."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Analis memprediksi sentimen positif untuk saham telekomunikasi dan infrastruktur, didorong oleh IPO Anthropic dan peningkatan kebutuhan konektivitas serta ekosistem digital.",
+      "alasan": "Sektor infrastruktur, khususnya yang terkait telekomunikasi dan digital, diperkirakan akan mengalami kenaikan sentimen positif berdasarkan pandangan analis. Peningkatan trafik data dan kebutuhan konektivitas tinggi menjadi pendorong utama. Selain itu, rencana buyback saham oleh SMGR, yang merupakan produsen material esensial untuk infrastruktur, menunjukkan keyakinan manajemen pada fundamental perusahaan dan dapat mendukung harga sahamnya.",
+      "analisis_saham": "Saham TLKM, ISAT, EXCL, dan TOWR diperkirakan akan mendapatkan sentimen positif karena potensi peningkatan trafik data, kebutuhan konektivitas berkapasitas tinggi, serta pengembangan ekosistem digital pasca IPO Anthropic. SMGR berencana melakukan buyback saham senilai hingga Rp250 miliar, menandakan keyakinan manajemen terhadap fundamental perusahaan yang kuat dan berpotensi memberikan dukungan pada harga sahamnya."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini tidak mengandung informasi relevan yang dapat memengaruhi pergerakan indeks sektor umum/makro.",
+      "alasan": "Berita yang tersedia sepenuhnya berfokus pada topik non-finansial seperti gaya hidup selebriti dan hasil pertandingan olahraga. Oleh karena itu, tidak ada sentimen positif maupun negatif yang dapat diestimasikan untuk menggerakkan sektor umum/makro.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "PSSI dan I.League: Jika Rusuh Lagi, Sanksi FIFA Menanti",
+      "url": "https://bola.kompas.com/read/2026/11/21/22290328/pssi-dan-ileague-jika-rusuh-lagi-sanksi-fifa-menanti",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Hashim Is Back! Borong Saham WIFI Triliunan Rupiah",
+      "url": "https://emitennews.com/news/hashim-is-back-borong-saham-wifi-triliunan-rupiah",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Calon Wakil Presiden yang Akan Peduli Investasi",
+      "url": "https://emitennews.com/news/calon-wakil-presiden-yang-akan-peduli-investasi-2",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "ATL Baru! Rupiah Sentuh Rp18.278, Pekan Depan Cenderung Melemah",
+      "url": "https://emitennews.com/news/atl-baru-rupiah-sentuh-rp18278-pekan-depan-cenderung-melemah",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "IHSG Anjlok 3,71 Persen, Asing Kabur Rp2,68 Triliun Sepekan",
+      "url": "https://emitennews.com/news/ihsg-anjlok-371-persen-asing-kabur-rp268-triliun-sepekan",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Harga Emas Anjlok, Rp2,08 Juta Per Gram, Terendah Sejak September 2025",
+      "url": "https://emitennews.com/news/harga-emas-anjlok-rp208-juta-per-gram-terendah-sejak-september-2025",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "IHSG Pekan Depan Tembus 6.000? Intip Proyeksinya Sekarang",
+      "url": "https://emitennews.com/news/ihsg-pekan-depan-tembus-6000-intip-proyeksinya-sekarang",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Ikuti Jejak PACK, Grup Bakrie Bantah Incar Saham Weda Bay",
+      "url": "https://emitennews.com/news/ikuti-jejak-pack-grup-bakrie-bantah-incar-saham-weda-bay",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Menguji “Kesaktian” Suku Bunga BI Menyelamatkan Rupiah",
+      "url": "https://emitennews.com/news/menguji-kesaktian-suku-bunga-bi-menyelamatkan-rupiah",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Kapan Persib Bandung Gelar IPO di BEI? Ini Kata Manajemen",
+      "url": "https://emitennews.com/news/kapan-persib-bandung-gelar-ipo-di-bei-ini-kata-manajemen",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Menyempit dan Tertinggal, Makna Tujuh Saham Tersisa bagi Kinerja MSCI",
+      "url": "https://emitennews.com/news/menyempit-dan-tertinggal-makna-tujuh-saham-tersisa-bagi-kinerja-msci",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "MSCI Longgarkan Aturan Indeks Ini, Berlaku 1 Desember 2026",
+      "url": "https://emitennews.com/news/msci-longgarkan-aturan-indeks-ini-berlaku-1-desember-2026",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "OJK Kenakan Denda kepada Indosterling (TECH) dan Sean William Henley",
+      "url": "https://emitennews.com/news/ojk-kenakan-denda-kepada-indosterling-tech-dan-sean-william-henley",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Petik Hasil Integrasi Nikel, Laba MBMA Melonjak 372 Persen",
+      "url": "https://emitennews.com/news/petik-hasil-integrasi-nikel-laba-mbma-melonjak-372-persen",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Saham Indonesia Terdampak IPO Anthropic? Ini Kata Analis",
+      "url": "https://emitennews.com/news/saham-indonesia-terdampak-ipo-anthropic-ini-kata-analis",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Selain TECH, OJK Kenakan Denda 6 Emiten Lagi Rp75 Juta - Rp800 Juta",
+      "url": "https://emitennews.com/news/selain-tech-ojk-kenakan-denda-6-emiten-lagi-rp75-juta-rp800-juta",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Seluruh Lini Komoditas Solid, Laba MDKA Tembus USD157 Juta",
+      "url": "https://emitennews.com/news/seluruh-lini-komoditas-solid-laba-mdka-tembus-usd157-juta",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Nasib Badak Jawa di Tengah Perdebatan Relokasi",
+      "url": "https://katanetizen.kompas.com/read/2026/11/21/220113085/nasib-badak-jawa-di-tengah-perdebatan-relokasi",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Semen Indonesia (SMGR) Siapkan Dana hingga Rp250M untuk Buyback Saham",
+      "url": "https://emitennews.com/news/semen-indonesia-smgr-siapkan-dana-hingga-rp250m-untuk-buyback-saham",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Sinyal Window Dressing 2026, Saham-Saham Ini Layak Dicermati",
+      "url": "https://emitennews.com/news/sinyal-window-dressing-2026-saham-saham-ini-layak-dicermati",
+      "sektor": "Keuangan, Teknologi"
+    },
+    {
+      "judul": "Ramalan 12 Zodiak 23-29 November 2026, Ada Peluang Baru",
+      "url": "https://lifestyle.kompas.com/read/2026/11/21/220700920/ramalan-12-zodiak-23-29-november-2026-ada-peluang-baru-",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Eksplorasi Aroma Timur Tengah lewat Ruby Rose dan Lazuli Frost di 9 Tahun Perjalanan Scarlett",
+      "url": "https://lifestyle.kompas.com/read/2026/11/21/223000620/eksplorasi-aroma-timur-tengah-lewat-ruby-rose-dan-lazuli-frost-di-9-tahun",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Anak Belum Lancar Bicara? Kenali Tanda Speech Delay dan Penyebabnya Menurut Dokter",
+      "url": "https://lifestyle.kompas.com/read/2026/11/21/224500720/anak-belum-lancar-bicara-kenali-tanda-speech-delay-dan-penyebabnya-menurut",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Wisata Air Kalimalang Bekasi Diserbu Pengunjung, Antre 2 Jam demi Naik Perahu",
+      "url": "https://megapolitan.kompas.com/read/2026/11/21/22390311/wisata-air-kalimalang-bekasi-diserbu-pengunjung-antre-2-jam-demi-naik",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Usai Negosiasi 10 Tahun, RI dan Uni Eropa Akhirnya Tandatangani IEU-CEPA",
+      "url": "https://money.kompas.com/read/2026/11/21/220000426/usai-negosiasi-10-tahun-ri-dan-uni-eropa-akhirnya-tandatangani-ieu-cepa",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Tambang Pani Berjalan Mulus, Penjualan EMAS Kuartal IV Siap Meledak",
+      "url": "https://emitennews.com/news/tambang-pani-berjalan-mulus-penjualan-emas-kuartal-iv-siap-meledak",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Indonesia dan Uni Eropa Tandatangani IEU-CEPA dan IPA, Perkuat Kerja Sama Perdagangan dan Investasi Berkelanjutan",
+      "url": "https://nasional.kompas.com/read/2026/11/21/22012941/indonesia-dan-uni-eropa-tandatangani-ieu-cepa-dan-ipa-perkuat-kerja-sama",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "Pameran Lukisan Art for Future Jadi Ruang Ekspresi Inklusif Para Seniman Neurodivergent",
+      "url": "https://lifestyle.kompas.com/read/2026/11/21/222000720/pameran-lukisan-art-for-future-jadi-ruang-ekspresi-inklusif-para-seniman",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "JK Nilai Kemajuan Negara Tak Tergantung Kekayaan Sumber Daya Alam",
+      "url": "https://nasional.kompas.com/read/2026/11/21/22433101/jk-nilai-kemajuan-negara-tak-tergantung-kekayaan-sumber-daya-alam",
+      "sektor": "Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Kata Fadli Zon yang Dikritik Sutradara Para Perasuk soal Pemerkosaan Massal",
+      "url": "https://nasional.kompas.com/read/2026/11/21/22205781/kata-fadli-zon-yang-dikritik-sutradara-para-perasuk-soal-pemerkosaan-massal",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Hujan Saat Konser Guns N' Roses di GBK, Pedagang Musiman Ketiban Rezeki",
+      "url": "https://megapolitan.kompas.com/read/2026/11/21/22150711/hujan-saat-konser-guns-n-roses-di-gbk-pedagang-musiman-ketiban-rezeki",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Gaya Rihanna dan Putrinya Pakai Jaket Couple Saat Pemotretan Dior",
+      "url": "https://lifestyle.kompas.com/read/2026/11/21/220959720/gaya-rihanna-dan-putrinya-pakai-jaket-couple-saat-pemotretan-dior",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "42 Karyawan Dilaporkan Hilang Kontak dalam Kebakaran Pabrik Permen di Cikande",
+      "url": "https://regional.kompas.com/read/2026/11/21/223824478/42-karyawan-dilaporkan-hilang-kontak-dalam-kebakaran-pabrik-permen-di",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Ponsel dan Celana Korban Dugaan Kekerasan Seksual Bupati Kupang Diuji di Labfor",
+      "url": "https://regional.kompas.com/read/2026/11/21/222932678/ponsel-dan-celana-korban-dugaan-kekerasan-seksual-bupati-kupang-diuji-di",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Ibu dan Anak Balita di Pasuruan Terseret Arus Sungai Saat Cuci Baju",
+      "url": "https://surabaya.kompas.com/read/2026/11/21/224222078/ibu-dan-anak-balita-di-pasuruan-terseret-arus-sungai-saat-cuci-baju",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "RI-Uni Eropa Teken IEU-CEPA dan IPA, Perkuat Perdagangan dan Investasi",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261121214520-537-1429938/ri-uni-eropa-teken-ieu-cepa-dan-ipa-perkuat-perdagangan-dan-investasi",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Erin Eks Istri Andre Taulany Jadi Tersangka Penganiayaan ART",
+      "url": "https://www.cnnindonesia.com/nasional/20261121221241-12-1429941/erin-eks-istri-andre-taulany-jadi-tersangka-penganiayaan-art",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Hasil Liga Inggris: Gol Haaland Dianulir, Man City Ditahan Fulham",
+      "url": "https://www.cnnindonesia.com/olahraga/20261121212519-142-1429936/hasil-liga-inggris-gol-haaland-dianulir-man-city-ditahan-fulham",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Hasil Sprint Race MotoGP Portugal: Marquez Crash, Titel Juara Tertunda",
+      "url": "https://www.cnnindonesia.com/olahraga/20261121214156-156-1429939/hasil-sprint-race-motogp-portugal-marquez-crash-titel-juara-tertunda",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "IEU-CEPA Diteken, 90,4 Persen Produk RI Bebas Tarif ke Eropa",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261121215401-92-1429940/ieu-cepa-diteken-904-persen-produk-ri-bebas-tarif-ke-eropa",
+      "sektor": "Teknologi, Energi"
+    },
+    {
+      "judul": "Klasemen MotoGP 2026 usai Marquez Terjatuh di Sprint Race GP Portugal",
+      "url": "https://www.cnnindonesia.com/olahraga/20261121223014-156-1429943/klasemen-motogp-2026-usai-marquez-terjatuh-di-sprint-race-gp-portugal",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "Kebakaran Pabrik Permen di Cikande Serang, 42 Karyawan Hilang Kontak",
+      "url": "https://www.cnnindonesia.com/nasional/20261121222202-20-1429942/kebakaran-pabrik-permen-di-cikande-serang-42-karyawan-hilang-kontak",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Hasil Super League: Sempat Memimpin, Persija Ditahan PSM Makassar",
+      "url": "https://www.cnnindonesia.com/olahraga/20261121205412-142-1429935/hasil-super-league-sempat-memimpin-persija-ditahan-psm-makassar",
+      "sektor": "Umum/Makro"
+    }
+  ]
+}
