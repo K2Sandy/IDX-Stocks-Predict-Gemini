@@ -1,0 +1,270 @@
+{
+  "tanggal": "2026-11-22",
+  "dibuat_pada": "2026-11-22 22:52 WIB",
+  "jumlah_artikel": 42,
+  "saham_disebut": {
+    "BTPN": [
+      "Keuangan (rating 3/7)"
+    ],
+    "ANDA": [
+      "Keuangan (rating 3/7)"
+    ],
+    "BBCA": [
+      "Teknologi (rating 4/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "OJK mengungkap sejumlah kasus pelanggaran pasar modal dan menjatuhkan sanksi kepada pelaku goreng saham, sementara Bank SMBC Indonesia (BTPN) berencana go private dan delisting dari bursa.",
+      "alasan": "Pengungkapan pelanggaran pasar modal oleh OJK dan blacklist pelaku goreng saham dapat menciptakan sentimen kehati-hatian di kalangan investor. Lebih lanjut, rencana delisting BTPN, sebuah bank yang tercatat di bursa, mengurangi opsi investasi di sektor ini dan bisa memicu kekhawatiran terhadap likuiditas pasar.",
+      "analisis_saham": "Bank SMBC Indonesia Tbk (BTPN) akan mengalami delisting dan go private. Ini umumnya berdampak negatif bagi pemegang saham publik karena menghilangkan kesempatan untuk bertransaksi saham di pasar reguler, meskipun mungkin akan ada penawaran tender. PT Andalan Artha Primanusa Tbk (ANDA) yang akan IPO pada 1 Desember merupakan emiten di sektor keuangan, namun sebagai pendatang baru, dampaknya terhadap indeks sektor secara keseluruhan diperkirakan terbatas."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Kumpulan berita hari ini tidak menyajikan informasi atau sentimen spesifik yang secara langsung berkaitan dengan sektor Teknologi, melainkan lebih fokus pada aktivitas pasar modal umum dan kegiatan korporasi non-teknologi.",
+      "alasan": "Tidak ada berita yang secara eksplisit menyebutkan perkembangan, regulasi, atau kinerja perusahaan di sektor Teknologi. Meskipun pertumbuhan jumlah investor pasar modal secara keseluruhan positif, hal tersebut bukan katalisator spesifik untuk menggerakkan indeks sektor Teknologi secara jelas.",
+      "analisis_saham": "PT Bank Central Asia Tbk (BBCA) disebutkan dalam konteks program Corporate Social Responsibility (CSR) \"BCA Berbagi Ilmu\". Berita ini bersifat positif untuk citra merek dan reputasi perusahaan, namun kecil kemungkinan akan memberikan dampak langsung dan signifikan terhadap pergerakan harga saham BBCA dalam jangka pendek."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Tidak ada berita spesifik yang secara langsung mempengaruhi sektor Energi hari ini dalam kumpulan berita yang disediakan.",
+      "alasan": "Kumpulan berita yang diberikan tidak memuat informasi terkait harga komoditas energi, kebijakan pemerintah yang relevan, atau kinerja spesifik perusahaan di sektor energi. Oleh karena itu, tidak ada sentimen yang cukup kuat untuk memprediksi pergerakan sektor ini secara keseluruhan.",
+      "analisis_saham": "Tidak ada saham spesifik terkait sektor energi yang disebutkan dalam kumpulan berita yang ada. Berita yang disebut lebih bersifat umum pasar modal, seperti daftar pelanggar OJK, jadwal dividen, atau IPO, serta kabar mengenai perusahaan di sektor lain seperti perbankan (BTPN) dan perusahaan pialang (ANDA)."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "PAM JAYA menjalin kerja sama dengan perusahaan asal China untuk memperkuat upaya menekan kebocoran air dan memperbaiki jaringan pipa tua di Jakarta, menandakan investasi pada infrastruktur air.",
+      "alasan": "Kemitraan PAM JAYA dengan Shenzhen Water and Environment Group untuk perbaikan jaringan pipa air di Jakarta menunjukkan komitmen terhadap modernisasi dan peningkatan infrastruktur vital. Hal ini berpotensi membuka peluang proyek bagi perusahaan kontraktor, penyedia material, dan jasa terkait di sektor infrastruktur air, memberikan sentimen positif bagi sub-sektor tersebut.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Rangkaian bencana alam lokal dan insiden kebakaran pabrik mendominasi sentimen negatif, menciptakan kewaspadaan terhadap potensi gangguan aktivitas ekonomi di beberapa daerah.",
+      "alasan": "Berita-berita hari ini didominasi oleh kejadian-kejadian negatif seperti ancaman banjir rob, angin kencang, erupsi gunung berapi, dan kebakaran pabrik. Meskipun bersifat lokal dan tidak berdampak masif secara nasional, akumulasi peristiwa ini dapat menimbulkan kekhawatiran akan gangguan pada aktivitas ekonomi regional dan kerugian material, yang secara agregat memberikan sentimen sedikit negatif terhadap prospek makro.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Hasil Barcelona Vs Villarreal 3-2: Mentalitas Blaugrana Berujung Remontada",
+      "url": "https://bola.kompas.com/read/2026/11/22/22132108/hasil-barcelona-vs-villarreal-3-2-mentalitas-blaugrana-berujung-remontada",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "ABK KM Jembar Jaya 01 Hilang di Laut Indramayu, Diduga Terjauh Saat Tertidur di Freezer Box",
+      "url": "https://bandung.kompas.com/read/2026/11/22/222913778/abk-km-jembar-jaya-01-hilang-di-laut-indramayu-diduga-terjauh-saat-tertidur",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Kisah Suhadi Hidupkan Pencak Silat Tapak Putih di Indramayu Sejak 1991",
+      "url": "https://bandung.kompas.com/read/2026/11/22/222327978/kisah-suhadi-hidupkan-pencak-silat-tapak-putih-di-indramayu-sejak-1991",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "10 Emiten Ini Tercatut Kasus Terbaru Pelanggaran Pasar Modal oleh OJK",
+      "url": "https://emitennews.com/news/10-emiten-ini-tercatut-kasus-terbaru-pelanggaran-pasar-modal-oleh-ojk",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "17 Pelaku Goreng Saham Masuk Blacklist Bursa, Tandai Nama-Namanya!",
+      "url": "https://emitennews.com/news/17-pelaku-goreng-saham-masuk-blacklist-bursa-tandai-nama-namanya",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "11 Saham Ini Masuk Radar Pengin Bagi Dividen, Cum Date Pekan Depan!",
+      "url": "https://emitennews.com/news/11-saham-ini-masuk-radar-pengin-bagi-dividen-cum-date-pekan-depan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Akhiri 10 Tahun Proses Perundingan, Manfaat IEU-CEPA Segera Menjelang",
+      "url": "https://emitennews.com/news/akhiri-10-tahun-proses-perundingan-manfaat-ieu-cepa-segera-menjelang",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Antrean IPO Sisakan 6 Calon, 1 Perusahaan Siap Melantai 1 Desember!",
+      "url": "https://emitennews.com/news/antrean-ipo-sisakan-6-calon-1-perusahaan-siap-melantai-1-desember",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Bank SMBC Indonesia (BTPN) Siapkan Aksi Go Private dan Delisting",
+      "url": "https://emitennews.com/news/bank-smbc-indonesia-btpn-siapkan-aksi-go-private-dan-delisting",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BEI Mulai Masuki Masa Audit Emiten Soal Free Float & Afiliasi",
+      "url": "https://emitennews.com/news/bei-mulai-masuki-masa-audit-emiten-soal-free-float-afiliasi",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "BCA Ajak Mahasiswa UNS Jadi Pemimpin dalam Perubahan",
+      "url": "https://emitennews.com/news/bca-ajak-mahasiswa-uns-jadi-pemimpin-dalam-perubahan",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Bisnis Nikel Meningkat, Merdeka Copper (MDKA) Raih Laba USD157 Juta",
+      "url": "https://emitennews.com/news/bisnis-nikel-meningkat-merdeka-copper-mdka-raih-laba-usd157-juta",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Dua Emiten Didenda OJK Setengah Miliar Lebih & Sanksi Wajib Alih Saham",
+      "url": "https://emitennews.com/news/dua-emiten-didenda-ojk-setengah-miliar-lebih-sanksi-wajib-alih-saham",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Enam Perusahaan Masih Antre IPO, BEI Ungkap Dua Tergolong Besar",
+      "url": "https://emitennews.com/news/enam-perusahaan-masih-antre-ipo-bei-ungkap-dua-tergolong-besar",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Investigasi Manipulasi Saham, BEI Gaet Nasdaq ke Jakarta per Desember",
+      "url": "https://emitennews.com/news/investigasi-manipulasi-saham-bei-gaet-nasdaq-ke-jakarta-per-desember",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Mayat Pria Ditemukan di Menara ATC Eks Bandara Kemayoran Jakpus, Kondisinya Sudah Mengering",
+      "url": "https://megapolitan.kompas.com/read/2026/11/22/21432421/mayat-pria-ditemukan-di-menara-atc-eks-bandara-kemayoran-jakpus",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Polisi Telusuri Keterlibatan Pelaku Lain yang Keroyok Anggota Polres Jakbar di PIK",
+      "url": "https://megapolitan.kompas.com/read/2026/11/22/21581741/polisi-telusuri-keterlibatan-pelaku-lain-yang-keroyok-anggota-polres",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Warga di Tangerang Diduga Tertipu PO Sembako Murah, Satu Korban Rugi Rp 1,4 Miliar",
+      "url": "https://megapolitan.kompas.com/read/2026/11/22/22182071/warga-di-tangerang-diduga-tertipu-po-sembako-murah-satu-korban-rugi-rp-14",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Curi Sepasang Spion Fortuner di Grogol Jakbar, 4 Pria Diringkus Polisi",
+      "url": "https://megapolitan.kompas.com/read/2026/11/22/22330421/curi-sepasang-spion-fortuner-di-grogol-jakbar-4-pria-diringkus-polisi",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Jaringan Pipa Jakarta Banyak yang Tua, PAM JAYA Perkuat Upaya Tekan Kebocoran Air",
+      "url": "https://megapolitan.kompas.com/read/2026/11/22/22442361/jaringan-pipa-jakarta-banyak-yang-tua-pam-jaya-perkuat-upaya-tekan",
+      "sektor": "Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Ketika Kekayaan Tambang Belum Menyejahterakan Rakyat",
+      "url": "https://emitennews.com/news/ketika-kekayaan-tambang-belum-menyejahterakan-rakyat",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Outflow Asing Tembus Rp100T YtD, Market Cap BEI Lenyap 47,4% dari ATH",
+      "url": "https://emitennews.com/news/outflow-asing-tembus-rp100t-ytd-market-cap-bei-lenyap-474-dari-ath",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Wapres Berhenti, Bagaimana Mitigasi Risiko Bisnis?",
+      "url": "https://emitennews.com/news/wapres-berhenti-bagaimana-mitigasi-risiko-bisnis",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Tumbuh Lebih dari 60% YtD, Investor Pasar Modal Hampir Sentuh 35 Juta",
+      "url": "https://emitennews.com/news/tumbuh-lebih-dari-60-ytd-investor-pasar-modal-hampir-sentuh-35-juta",
+      "sektor": "Keuangan, Teknologi, Energi"
+    },
+    {
+      "judul": "Manipulasi Pasar Modal, OJK Sentuh Dalang atau Baru Pelaku Lapangan?",
+      "url": "https://emitennews.com/news/manipulasi-pasar-modal-ojk-sentuh-dalang-atau-baru-pelaku-lapangan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Terjebak Kebakaran Pabrik Permen di Cikande, Pekerja Nekat Lompat dari Lantai Atas Hindari Kobaran Api",
+      "url": "https://regional.kompas.com/read/2026/11/22/213000378/terjebak-kebakaran-pabrik-permen-di-cikande-pekerja-nekat-lompat-dari",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Mutasi Polri, Empat Kapolres di Lampung Berganti",
+      "url": "https://regional.kompas.com/read/2026/11/22/213116478/mutasi-polri-empat-kapolres-di-lampung-berganti",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "RS Bhayangkara Terima 24 Kantong Jenazah Korban Kebakaran Pabrik Permen, 3 Perempuan dan 3 Laki-laki",
+      "url": "https://regional.kompas.com/read/2026/11/22/213820578/rs-bhayangkara-terima-24-kantong-jenazah-korban-kebakaran-pabrik-permen-3",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Baru 2 Bulan Kerja, Lulusan SMK di Serang Hilang dalam Kebakaran Pabrik Permen Cikande",
+      "url": "https://regional.kompas.com/read/2026/11/22/220000878/baru-2-bulan-kerja-lulusan-smk-di-serang-hilang-dalam-kebakaran-pabrik",
+      "sektor": "Energi, Infrastruktur"
+    },
+    {
+      "judul": "Menyambung Benang Merah Minang–Yogyakarta: Ikhtiar Menjemput Gelar Pahlawan bagi Mr Assaat",
+      "url": "https://regional.kompas.com/read/2026/11/22/220203478/menyambung-benang-merah-minangyogyakarta-ikhtiar-menjemput-gelar-pahlawan",
+      "sektor": "Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Supermoon Picu Banjir Rob di Lampung, BMKG Ingatkan 7 Kabupaten dan Kota Waspada",
+      "url": "https://regional.kompas.com/read/2026/11/22/221552678/supermoon-picu-banjir-rob-di-lampung-bmkg-ingatkan-7-kabupaten-dan-kota",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Angin Kencang Landa Sidrap: 76 Rumah Rusak, Satu Balita Tertimpa Plafon Rumah",
+      "url": "https://regional.kompas.com/read/2026/11/22/223525778/angin-kencang-landa-sidrap-76-rumah-rusak-satu-balita-tertimpa-plafon-rumah",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Mutasi Polri: Kapolda, Wakapolda, dan 3 Kapolres di Sultra Berganti",
+      "url": "https://regional.kompas.com/read/2026/11/22/214745578/mutasi-polri-kapolda-wakapolda-dan-3-kapolres-di-sultra-berganti",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Jangan Keliru! Bukti Bayar PBB Tiap Tahun Bukan Bukti Kepemilikan Tanah",
+      "url": "https://properti.kompas.com/read/2026/11/22/221338521/jangan-keliru-bukti-bayar-pbb-tiap-tahun-bukan-bukti-kepemilikan-tanah",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Gunung Karangetang Erupsi 2 Kali Disertai Guguran Lava Pijar",
+      "url": "https://www.cnnindonesia.com/nasional/20261122214058-20-1430181/gunung-karangetang-erupsi-2-kali-disertai-guguran-lava-pijar",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "2 Jasad Korban Kebakaran Pabrik Permen di Serang Ditemukan Berpelukan",
+      "url": "https://www.cnnindonesia.com/nasional/20261122212754-20-1430178/2-jasad-korban-kebakaran-pabrik-permen-di-serang-ditemukan-berpelukan",
+      "sektor": "Keuangan, Energi"
+    },
+    {
+      "judul": "Pertamina Eco RunFest, 14 Ribu Pelari Siap Berlari Tanpa Jejak Sampah",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261122211714-625-1430177/pertamina-eco-runfest-14-ribu-pelari-siap-berlari-tanpa-jejak-sampah",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Klasemen MotoGP 2026 usai Marquez Juara Dunia di GP Portugal",
+      "url": "https://www.cnnindonesia.com/olahraga/20261122210240-156-1430174/klasemen-motogp-2026-usai-marquez-juara-dunia-di-gp-portugal",
+      "sektor": "Teknologi"
+    },
+    {
+      "judul": "Marc Marquez Resmi Lewati Valentino Rossi, Samai Agostini",
+      "url": "https://www.cnnindonesia.com/olahraga/20261122122457-156-1430015/marc-marquez-resmi-lewati-valentino-rossi-samai-agostini",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Klasemen Super League usai Persib Tumpas Bali United: Persija Terjepit",
+      "url": "https://www.cnnindonesia.com/olahraga/20261122213525-142-1430179/klasemen-super-league-usai-persib-tumpas-bali-united-persija-terjepit",
+      "sektor": "Infrastruktur"
+    },
+    {
+      "judul": "Kata-kata Pertama Marc Marquez usai Juara MotoGP 2026",
+      "url": "https://www.cnnindonesia.com/olahraga/20261122220955-156-1430182/kata-kata-pertama-marc-marquez-usai-juara-motogp-2026",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Mantan PM Theresa May Minta Inggris 'Move On' dari Brexit",
+      "url": "https://www.cnnindonesia.com/internasional/20261122205525-134-1430172/mantan-pm-theresa-may-minta-inggris-move-on-dari-brexit",
+      "sektor": "Keuangan, Energi"
+    }
+  ]
+}
