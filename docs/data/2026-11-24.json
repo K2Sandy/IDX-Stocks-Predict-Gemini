@@ -1,0 +1,55 @@
+{
+  "tanggal": "2026-11-24",
+  "dibuat_pada": "2026-11-24 02:46 WIB",
+  "jumlah_artikel": 1,
+  "saham_disebut": {
+    "VTNY": [
+      "Keuangan (rating 4/7)",
+      "Teknologi (rating 4/7)",
+      "Energi (rating 4/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "PT Venteny Fortuna International Tbk (VTNY) telah menetapkan perubahan susunan anggota Dewan Komisaris dan Direksi melalui Rapat Umum Pemegang Saham Luar Biasa.",
+      "alasan": "Berita ini berfokus pada perubahan manajemen satu emiten teknologi finansial (fintech), VTNY. Peristiwa korporasi semacam ini umumnya tidak memiliki dampak yang luas atau signifikan terhadap pergerakan indeks sektor Keuangan secara keseluruhan, yang terdiri dari banyak sub-sektor dan perusahaan besar. Sentimen dari pergantian pengurus di satu perusahaan tidak akan menggeser arah sentimen seluruh sektor.",
+      "analisis_saham": "Perubahan susunan Dewan Komisaris dan Direksi VTNY merupakan aksi korporasi rutin yang bisa memberikan sedikit sentimen positif jika dianggap memperkuat tata kelola atau membawa strategi baru. Namun, dampaknya terhadap harga saham VTNY akan sangat tergantung pada ekspektasi pasar terhadap kinerja dan arah perusahaan di bawah kepemimpinan baru ini, yang rinciannya belum disebutkan dalam berita."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "PT Venteny Fortuna International Tbk (VTNY) telah merombak susunan Dewan Komisaris dan Direksinya melalui Rapat Umum Pemegang Saham Luar Biasa (RUPSLB).",
+      "alasan": "Berita ini sangat spesifik mengenai perubahan manajemen di satu emiten teknologi, VTNY. Tidak ada informasi yang mengindikasikan dampak luas terhadap sentimen pasar atau fundamental emiten teknologi lainnya. Oleh karena itu, dampaknya terhadap pergerakan indeks sektor teknologi secara keseluruhan cenderung netral.",
+      "analisis_saham": "Perubahan pengurus baru di VTNY dapat diartikan sebagai upaya perusahaan untuk memperkuat tata kelola atau membawa visi strategis yang segar. Namun, karena berita tidak merinci target spesifik atau kualifikasi strategis dari pengurus baru, sentimen terhadap saham VTNY cenderung netral hingga sedikit positif, menunggu arah kebijakan dan kinerja mereka ke depan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "PT Venteny Fortuna International Tbk (VTNY) mengumumkan perubahan susunan anggota Dewan Komisaris dan Direksi melalui RUPSLB.",
+      "alasan": "Berita mengenai perubahan manajemen di PT Venteny Fortuna International Tbk (VTNY) tidak memiliki relevansi dengan sektor Energi. VTNY merupakan perusahaan yang bergerak di bidang teknologi finansial, bukan energi, sehingga tidak ada dampak yang signifikan terhadap pergerakan indeks sektor Energi secara keseluruhan.",
+      "analisis_saham": "Berita ini secara spesifik menyebutkan VTNY. Perubahan susunan Dewan Komisaris dan Direksi di PT Venteny Fortuna International Tbk (VTNY) merupakan fakta korporasi yang dapat memberikan sentimen netral hingga sedikit positif bagi saham VTNY, karena investor mungkin mengantisipasi adanya strategi atau arah baru yang lebih baik dari manajemen baru. Namun, tanpa detail lebih lanjut mengenai target dan strategi yang akan dijalankan, dampak signifikan terhadap pergerakan harga saham VTNY cenderung terbatas pada sentimen awal."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "tidak_ada_data",
+      "prediksi": null
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Venteny Fortuna (VTNY) Punya Pengurus Baru, Ini Targetnya Kedepan",
+      "url": "https://emitennews.com/news/venteny-fortuna-vtny-punya-pengurus-baru-ini-targetnya-kedepan",
+      "sektor": "Keuangan, Teknologi, Energi"
+    }
+  ]
+}
