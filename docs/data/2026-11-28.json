@@ -1,0 +1,216 @@
+{
+  "tanggal": "2026-11-28",
+  "dibuat_pada": "2026-11-28 23:37 WIB",
+  "jumlah_artikel": 30,
+  "saham_disebut": {
+    "BRIS": [
+      "Keuangan (rating 6/7)"
+    ],
+    "TFCO": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BFIN": [
+      "Keuangan (rating 6/7)"
+    ],
+    "BYAN": [
+      "Energi (rating 4/7)"
+    ],
+    "MORA": [
+      "Infrastruktur (rating 3/7)"
+    ]
+  },
+  "sektor": [
+    {
+      "nama": "Keuangan",
+      "status": "ok",
+      "prediksi": 6,
+      "key_sentiment": "Bank Indonesia memproyeksikan pertumbuhan kredit yang kuat sebesar 13% dan pertumbuhan ekonomi nasional hingga 6% pada tahun 2027.",
+      "alasan": "Proyeksi pertumbuhan kredit yang tinggi dari Bank Indonesia akan secara langsung mendukung peningkatan pendapatan bunga dan profitabilitas bagi perbankan dan lembaga keuangan lainnya. Pertumbuhan ekonomi yang stabil dan kuat juga menciptakan lingkungan yang kondusif bagi ekspansi bisnis sektor keuangan secara keseluruhan.",
+      "analisis_saham": "BRIS**: Dikeluarkannya saham PT Bank Syariah Indonesia Tbk (BRIS) dari lima indeks saham syariah oleh BEI kemungkinan akan menyebabkan tekanan jual dari reksa dana pasif yang mengikuti indeks tersebut, sehingga berpotensi menekan harga sahamnya."
+    },
+    {
+      "nama": "Teknologi",
+      "status": "ok",
+      "prediksi": 5,
+      "key_sentiment": "Ekonomi digital dan e-commerce Indonesia diproyeksikan tumbuh pesat hingga mencapai GMV US$119 miliar pada 2026, memicu pemerintah untuk mengejar potensi pajak dari sektor ini.",
+      "alasan": "Pertumbuhan pesat ekonomi digital dan e-commerce mengindikasikan peluang pasar yang besar dan peningkatan adopsi teknologi, yang secara langsung menguntungkan perusahaan-perusahaan di sektor teknologi. Meskipun ada potensi penarikan pajak, sentimen pertumbuhan yang kuat diperkirakan akan lebih mendominasi pergerakan sektor.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    },
+    {
+      "nama": "Energi",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Pembatalan penunjukan anggota komite audit di PT Bayan Resources Tbk (BYAN) merupakan sentimen utama terkait sektor Energi hari ini.",
+      "alasan": "Satu-satunya berita yang secara spesifik menyebutkan perusahaan di sektor Energi (BYAN) bersifat administratif terkait tata kelola dan telah dibatalkan, sehingga tidak ada sentimen fundamental kuat yang mempengaruhi pergerakan indeks sektor secara keseluruhan. Berita ini tidak memberikan indikasi arah pergerakan harga komoditas atau kebijakan energi yang lebih luas.",
+      "analisis_saham": "PT Bayan Resources Tbk (BYAN) melaporkan pembatalan penunjukan anggota komite audit kurang dari sehari setelah pengumuman awal. Informasi ini lebih bersifat koreksi administratif dan tata kelola perusahaan, sehingga dampaknya terhadap fundamental bisnis atau harga saham BYAN diperkirakan netral atau minimal."
+    },
+    {
+      "nama": "Infrastruktur",
+      "status": "ok",
+      "prediksi": 3,
+      "key_sentiment": "Kinerja negatif saham infrastruktur spesifik pekan lalu dan adanya BUMN yang masih memerlukan dukungan finansial menimbulkan sentimen hati-hati bagi sektor ini, meskipun proyeksi ekonomi makro jangka panjang positif.",
+      "alasan": "Meskipun Bank Indonesia memproyeksikan pertumbuhan ekonomi dan kredit yang optimis untuk tahun 2026-2027, sentimen jangka pendek sektor infrastruktur terbebani oleh berita bahwa saham MORA, salah satu emiten infrastruktur, menjadi top loser pekan lalu. Selain itu, informasi mengenai beberapa BUMN yang masih memerlukan \"tambalan\" dari BUMN sehat mengindikasikan adanya tantangan operasional dan finansial pada entitas-entitas yang banyak bergerak di sektor ini, menciptakan kehati-hatian.",
+      "analisis_saham": "Saham PT Mora Telematika Indonesia Tbk (MORA) tercatat sebagai salah satu top losers pekan lalu dengan pelemahan 17,43% pada periode perdagangan 23-27 November 2026. Sentimen ini sangat negatif bagi MORA, menunjukkan tekanan jual yang kuat dan berpotensi melanjutkan tren penurunan pada perdagangan berikutnya."
+    },
+    {
+      "nama": "Umum/Makro",
+      "status": "ok",
+      "prediksi": 4,
+      "key_sentiment": "Industri film Indonesia dinilai perlu membangun fondasi yang lebih kokoh, termasuk kejujuran data box office, untuk menarik investor jangka panjang daripada sekadar mengejar angka penonton sesaat.",
+      "alasan": "Berita ini sangat spesifik membahas industri film dan strategi jangka panjangnya, yang merupakan sub-sektor dalam kategori hiburan. Informasi yang disajikan tidak mencakup indikator ekonomi makro yang lebih luas seperti inflasi, suku bunga, kebijakan fiskal, atau data PDB yang dapat memengaruhi pergerakan indeks sektor Umum/Makro secara keseluruhan. Oleh karena itu, sentimen berita ini bersifat netral bagi sektor makro.",
+      "analisis_saham": "Tidak ada saham spesifik yang disebutkan."
+    }
+  ],
+  "artikel": [
+    {
+      "judul": "Arah IHSG Ke Depan di Tengah Efek MSCI hingga Fenomena Window Dressing",
+      "url": "https://emitennews.com/news/arah-ihsg-ke-depan-di-tengah-efek-msci-hingga-fenomena-window-dressing",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Aset Danantara Rp11.607 T, Dividen Sehat Masih Tambal BUMN Sakit",
+      "url": "https://emitennews.com/news/aset-danantara-rp11607-t-dividen-sehat-masih-tambal-bumn-sakit",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "BEI Keluarkan BRIS dari Lima Indeks Saham Syariah",
+      "url": "https://emitennews.com/news/bei-keluarkan-bris-dari-lima-indeks-saham-syariah",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "BEI Rombak Konstituen Indeks Syariah, ISSI, JII, hingga IDXMESBUMN",
+      "url": "https://emitennews.com/news/bei-rombak-konstituen-indeks-syariah-issi-jii-hingga-idxmesbumn",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Empat Saham HSC jadi Top Losers Sepekan, TFCO hingga MASB",
+      "url": "https://emitennews.com/news/4-saham-hsc-jadi-top-losers-sepekan-tfco-hingga-masb",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Banjir Cum Date Pekan Depan, Waspada Dividend Trap!",
+      "url": "https://emitennews.com/news/banjir-cum-date-pekan-depan-waspada-dividend-trap",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "BI Proyeksikan Kredit Tumbuh 13% dan Ekonomi 6% pada 2027",
+      "url": "https://emitennews.com/news/bi-proyeksikan-kredit-tumbuh-13-dan-ekonomi-6-pada-2027",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Dapat Restu, Emiten Boy Thohir Private Placement 1,47 Miliar Lembar",
+      "url": "https://emitennews.com/news/dapat-restu-emiten-boy-thohir-private-placement-147-miliar-lembar",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "IHSG Menguat 3,73% Sepekan, Pasar Mulai Membaik?",
+      "url": "https://emitennews.com/news/ihsg-menguat-373-sepekan-pasar-mulai-membaik",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Dorong Sertifikasi Ahli, SIG Bangun Ekosistem Semen Kujang di Jabar",
+      "url": "https://emitennews.com/news/dorong-sertifikasi-ahli-sig-bangun-ekosistem-semen-kujang-di-jabar",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Ketika BI-Rate Naik: Kiat-Kiat Apa yang Perlu Disiapkan Debitur KPR?",
+      "url": "https://emitennews.com/news/ketika-bi-rate-naik-kiat-kiat-apa-yang-perlu-disiapkan-debitur-kpr",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Likuiditas Terjaga, Bank Sulteng Kantongi Peringkat idA Stabil",
+      "url": "https://emitennews.com/news/likuiditas-terjaga-bank-sulteng-kantongi-peringkat-ida-stabil",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Masih Terpusat di 3 Negara, RI Bidik 24 Pasar Baru Eropa",
+      "url": "https://emitennews.com/news/masih-terpusat-di-3-negara-ri-bidik-24-pasar-baru-eropa",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Mencabut Izin Tanpa Mencabut Kepercayaan",
+      "url": "https://emitennews.com/news/mencabut-izin-tanpa-mencabut-kepercayaan",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Mengejar Pajak di Tengah Ledakan Ekonomi Digital Indonesia",
+      "url": "https://emitennews.com/news/mengejar-pajak-di-tengah-ledakan-ekonomi-digital-indonesia",
+      "sektor": "Keuangan, Teknologi, Infrastruktur"
+    },
+    {
+      "judul": "Mobil Listrik Sudah 18%, Motor Jauh Tertinggal, Mau Dipacu",
+      "url": "https://emitennews.com/news/mobil-listrik-sudah-18-motor-jauh-tertinggal-mau-dipacu",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Mertua Kapolri Batal Jadi Anggota Komite Audit BYAN, Ini Faktanya",
+      "url": "https://emitennews.com/news/nurfaizi-batal-jadi-anggota-komite-audit-byan-ini-faktanya",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Pengusaha Tiongkok Desak AS Batalkan Tarif 14 Negara",
+      "url": "https://emitennews.com/news/pengusaha-tiongkok-desak-as-batalkan-tarif-14-negara",
+      "sektor": "Keuangan, Teknologi, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Prabowo Peringatkan Pelaku Goreng Saham dan Korporasi Nakal",
+      "url": "https://emitennews.com/news/prabowo-peringatkan-pelaku-goreng-saham-dan-korporasi-nakal",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Presiden: BI Independensi, Tapi Harus Jaga Kepentingan Bangsa",
+      "url": "https://emitennews.com/news/presiden-bi-independensi-tapi-harus-jaga-kepentingan-bangsa",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "PT SMF Tuntas Lunasi Obligasi Seri B Senilai Rp153 Miliar",
+      "url": "https://emitennews.com/news/pt-smf-tuntas-lunasi-obligasi-seri-b-senilai-rp153-miliar",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "RISE Perluas Ekspansi Properti, Sulap VASA Malang Ikon Baru Pariwisata",
+      "url": "https://emitennews.com/news/rise-perluas-ekspansi-properti-sulap-vasa-malang-ikon-baru-pariwisata",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Saham Prajogo Masuk Top Gainers Pekan Ini, Intip Daftar Lengkapnya!",
+      "url": "https://emitennews.com/news/saham-prajogo-masuk-top-gainers-pekan-ini-intip-daftar-lengkapnya",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Tiga Kali Beruntun, Laba Emiten Baja BUMN ini Melejit 246 Persen",
+      "url": "https://emitennews.com/news/tiga-kali-beruntun-laba-emiten-baja-bumn-ini-melejit-246-persen",
+      "sektor": "Keuangan, Energi, Infrastruktur"
+    },
+    {
+      "judul": "Total 38 Saham Indonesia Didepak MSCI Per 1 Desember",
+      "url": "https://emitennews.com/news/total-38-saham-indonesia-didepak-msci-per-1-desember",
+      "sektor": "Keuangan, Infrastruktur"
+    },
+    {
+      "judul": "Layanan Transum Gratis Bagi Pendonor Darah Rutin di DKI Lagi Digodok",
+      "url": "https://www.cnnindonesia.com/ekonomi/20261128194149-92-1432766/layanan-transum-gratis-bagi-pendonor-darah-rutin-di-dki-lagi-digodok",
+      "sektor": "Keuangan"
+    },
+    {
+      "judul": "Film Indonesia Dinilai Bukan Cuma Butuh Kejar-kejaran Angka Penonton",
+      "url": "https://www.cnnindonesia.com/hiburan/20261128125247-220-1432653/film-indonesia-dinilai-bukan-cuma-butuh-kejar-kejaran-angka-penonton",
+      "sektor": "Umum/Makro"
+    },
+    {
+      "judul": "Wagub Jatim: 4 Tersangka Pengeroyokan Siswi Malang Dikeluarkan Sekolah",
+      "url": "https://www.cnnindonesia.com/nasional/20261128223510-20-1432788/wagub-jatim-4-tersangka-pengeroyokan-siswi-malang-dikeluarkan-sekolah",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "STY Ungkap Perkembangan Marselino, Tak Jamin Bisa Lekas Main",
+      "url": "https://www.cnnindonesia.com/olahraga/20261128230106-142-1432789/sty-ungkap-perkembangan-marselino-tak-jamin-bisa-lekas-main",
+      "sektor": "Energi"
+    },
+    {
+      "judul": "Demi Timnas Indonesia, PSSI Percepat KLB untuk Pilih Ketua Baru",
+      "url": "https://www.cnnindonesia.com/olahraga/20261128222426-142-1432786/demi-timnas-indonesia-pssi-percepat-klb-untuk-pilih-ketua-baru",
+      "sektor": "Keuangan, Energi"
+    }
+  ]
+}
